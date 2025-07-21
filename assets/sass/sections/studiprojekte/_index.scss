@@ -7,25 +7,36 @@
 }
 
 
+
+
+
+
+
 .grid-studiprojekte {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 50px;
     max-width: 1200px; 
     margin: 0 auto;
 
     & .grid-item {
-        display: none;
+        // display: none;
         display: flex; 
-        transition: all 0.3s ease;
         text-align: left;
+        color: var(--black);
+        transition: all var(--transition-speed) ease;
+        border-radius: 15px;
+        overflow: hidden;
+        text-decoration: none;
+        border: dashed 2px var(--black);
+        padding: 20px;
         
         flex-direction: row;
         justify-content: flex-start;
-        border: 1px;
+        
 
         & h3 {
-            font-size: 1em;
+            font-size: 2em;
             // min-height: 3em;
         }
 

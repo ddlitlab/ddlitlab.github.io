@@ -32,11 +32,14 @@
 
     <div class="grid-studiprojekte" id="grid-studiprojekte">
     {{ range .Pages }}
-        <a href="{{ .Permalink }}" class="grid-item navigation-card filter-studiprojekte-{{ .Params.round }}">
+        <a href="{{ .Permalink }}" class="grid-item filter-studiprojekte-{{ .Params.round }}">
             <div>
-                <h3>{{ .Params.title }}</h3>
-                <p>{{ .Params.title_short }}</p>
-                <p>{{ .Params.students }}</p>
+                <h3>{{ .Params.title_short }}</h3>
+                <p>{{ .Params.title }}</p>
+                    <div class="publication-authors-section">
+                        <i class="codicon medium codicon-person" style="font-size: 1.5em;"></i>
+                        <span class="publication-authors">{{ .Params.students }}</span>
+                    </div>
             </div>
         </a>
     {{ end }}
