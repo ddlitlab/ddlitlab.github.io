@@ -32,14 +32,17 @@
 
     <div class="grid-studiprojekte" id="grid-studiprojekte">
     {{ range .Pages }}
-        <a href="{{ .Permalink }}" class="grid-item filter-studiprojekte-{{ .Params.round }}">
+        <a href="{{ .Permalink }}" class="grid-item filter-studiprojekte-{{ .Params.round }}"
+        style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
+        >
             <div>
                 <h3>{{ .Params.title_short }}</h3>
+                {{/*  <p>{{ .File.BaseFileName }}</p>  */}}
                 <p>{{ .Params.title }}</p>
-                    <div class="publication-authors-section">
-                        <i class="codicon medium codicon-person" style="font-size: 1.5em;"></i>
-                        <span class="publication-authors">{{ .Params.students }}</span>
-                    </div>
+                {{/*  <div class="publication-authors-section">
+                    <i class="codicon medium codicon-person" style="font-size: 1.5em;"></i>
+                    <span class="publication-authors">{{ .Params.students }}</span>
+                </div>  */}}
             </div>
         </a>
     {{ end }}
