@@ -5,7 +5,7 @@
     <section>
     <div class="section-title">
         <h2>Lehrlabore</h2>
-        <p>Die Projekte im Überblick</p>
+        <p>Innovative Lehre fördern</p>
     </div>
     
     <input type="checkbox" id="toggle-lehrlabore-1" checked>
@@ -28,11 +28,13 @@
 
     <div class="grid-lehrlabore" id="grid-lehrlabore">
     {{ range .Pages }}
-        <a href="{{ .Permalink }}" class="grid-item navigation-card filter-lehrlabore-{{ .Params.round }}">
+        <a href="{{ .Permalink }}" class="grid-item filter-lehrlabore-{{ .Params.round }}"
+        style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
+        >
             <div>
-                <h3>{{ .Params.title }}</h3>
-                <p>{{ .Params.title_short }}</p>
-                <p>{{ .Params.lecturer }}</p>
+                <h3>{{ .Params.title_short }}</h3>
+                <p>{{ .Params.title }}</p>
+                
             </div>
         </a>
     {{ end }}
