@@ -141,18 +141,18 @@ input[type="checkbox"] {
     }
 }
 
+.checkbox-wrapper label {
+    cursor: pointer;
+    font-weight: 500;
+    user-select: none;
+}
+
 /* Style when checkbox is checked */
 #toggle-studiprojekte-1:checked ~ .controls .checkbox-wrapper:nth-child(1),
 #toggle-studiprojekte-2:checked ~ .controls .checkbox-wrapper:nth-child(2),
 #toggle-studiprojekte-3:checked ~ .controls .checkbox-wrapper:nth-child(3),
 #toggle-studiprojekte-4:checked ~ .controls .checkbox-wrapper:nth-child(4) {
     background: var(--primary-light);
-}
-
-.checkbox-wrapper label {
-    cursor: pointer;
-    font-weight: 500;
-    user-select: none;
 }
 
 #toggle-studiprojekte-1:not(:checked) ~ .grid-studiprojekte .filter-studiprojekte-1,
@@ -162,3 +162,14 @@ input[type="checkbox"] {
     display: none;
 }
 
+#toggle-lehrlabore-1:checked ~ .controls .checkbox-wrapper:nth-child(1),
+#toggle-lehrlabore-2:checked ~ .controls .checkbox-wrapper:nth-child(2),
+#toggle-lehrlabore-3:checked ~ .controls .checkbox-wrapper:nth-child(3) {
+    background: var(--primary-light);
+}
+
+#toggle-lehrlabore-1:not(:checked) ~ .grid-lehrlabore .filter-lehrlabore-1,
+#toggle-lehrlabore-2:not(:checked) ~ .grid-lehrlabore .filter-lehrlabore-2,
+#toggle-lehrlabore-3:not(:checked) ~ .grid-lehrlabore .filter-lehrlabore-3 {
+    display: none;
+}
