@@ -42,11 +42,17 @@
 
 
 
-.info-box {
+.article-info {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    // grid-template-columns: minmax(1.2rem, 1fr) minmax(auto, var(--max-width)) minmax(1.2rem, 1fr);
+    gap: 0 1em;
     border-radius: 12px;
-    padding: 20px;
-    border: solid 1px var(--black);
-    margin-bottom: 20px;
+    padding: 1em;
+    font-size: 1.2em;
+    background-color: var(--primary-lighter);
+    border: dashed 0.2em var(--black);
+    // margin-bottom: 20px;
 }
 
 

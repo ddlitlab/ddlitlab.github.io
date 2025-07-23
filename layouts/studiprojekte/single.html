@@ -3,34 +3,33 @@
 <main>
   {{ .Content }}
 
-  <section>
+  <article>
     <div class="section-title">
         <h2>{{ .Params.title }}</h2>
         <p>Project: {{ .Params.title_short }}</p>
     </div>
 
-    <div class="info-box">
-      <p>Students: {{ .Params.students }}</p>
-      <p>Round: {{ .Params.round }}</p>
-      <p>Period: {{ .Params.period }}</p>
-      <p>Mentors: {{ .Params.mentor }}</p>
+    <div class="wide-image">
+        <iframe src='https://lecture2go.uni-hamburg.de/o/iframe/?obj={{ .Params.lecture2go }}'  title='{{ .Params.title }}' frameborder='0' allowfullscreen></iframe>
     </div>
+
+    <div class="article-info">
+      <div>Students: {{ .Params.students }}</div>
+      <div>Round: {{ .Params.round }}</div>
+      <div>Mentors: {{ .Params.mentor }}</div>
+      <div>Period: {{ .Params.period }}</div>
+    </div>    
     
-    <div class="wide-image datenwelten-movie-container">
-        <iframe class="datenwelten-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj={{ .Params.lecture2go }}'  title='{{ .Params.title }}' frameborder='0' allowfullscreen></iframe>
-    </div>
-
-    <h3>{{ .Params.title_project }}</h3>
-
-    <div class="wide-text">
+    <div class="article-text">
       {{ .Params.text | markdownify }}
     </div>
 
     <div class="nav-links">
-      <a href="/studiprojekte/">Zurück zur Übersicht</a>
+      
+      <a href="/studiprojekte/"><i class="codicon codicon-arrow-left" style="font-size: 1rem; display: inline-block; font-weight: 1000"></i> Zurück zur Übersicht</a>
     </div>
 
-    </section>
+  </article>
 </main>
    
 {{ end }}
