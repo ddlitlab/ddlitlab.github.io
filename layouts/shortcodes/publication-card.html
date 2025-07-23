@@ -1,39 +1,24 @@
 {{ $publicationIndex := .Get "publication" | int }}
 {{ $publication := index site.Data.publications $publicationIndex }}
 <div class="publication-card">
-        <div class="publication-card-header">
-            <div class="publication-title-section">
-                <h1 class="publication-title">{{ $publication.title }}</h1>
-                <p class="publication-subtitle">{{ $publication.subtitle }}</p>
-            </div>
-            <div class="publication-date-section">
-                <i class="codicon codicon-calendar"></i>
-                <span>{{ $publication.date }}</span>
-            </div>
-        </div>
-        
-        <div class="publication-authors-section">
-            <i class="codicon codicon-person" style="font-size: 1.5rem;"></i>
-            <span class="publication-authors">{{ $publication.authors }}</span>
-        </div>
+  <h3>{{ $publication.title }}</h3>
+  <p>{{ $publication.subtitle }}</p>
 
-        <div class="nav-links">      
-          <a class="hover-fx publications-more" href='{{ $publication.link }}' target="_blank">
-            Zur Publikation
-          <i class='codicon codicon-arrow-right' style='font-size: 1.5rem; transform: rotate(-45deg) translateY(0.1rem) translateX(-0.2rem); display: inline-block; font-weight: 1000'></i>    
-          </a>
-        </div>
-        
-        {{/*  <div class="publication-card-footer">
-          <div class="publication-button small">
-            
-              <button class="learn-more small">
-                <span class="circle" aria-hidden="true">
-                  <span class="icon arrow"></span>
-                </span>
-                <span class="button-text">Go to publication</span>
-              </button>
-              </a>
-          </div>
-        </div>  */}}
-    </div>
+  <p>
+    <i class="codicon codicon-calendar" style="display: inline-block; color: var(--primary-darker);"></i>
+    {{ $publication.date }}
+  </p>
+
+  <p>
+    <i class="codicon codicon-person" style="display: inline-block; color: var(--primary-darker);"></i>
+    {{ $publication.authors }}
+  </p>
+
+  <div class="nav-links">      
+    <a class="hover-fx publications-link" href='{{ $publication.link }}' target="_blank">
+      Zur Publikation
+    <i class='codicon codicon-arrow-right' style='font-size: 1.5rem; transform: rotate(-45deg) translateY(0.1rem) translateX(-0.2rem); display: inline-block; font-weight: 1000'></i>    
+    </a>
+  </div>
+
+</div>
