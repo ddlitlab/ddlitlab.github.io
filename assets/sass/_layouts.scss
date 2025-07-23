@@ -24,8 +24,8 @@ $o: .5*$l;
 
 article {
   display: grid;
-  grid-template-columns: minmax(1.2rem, 1fr) minmax(auto, var(--max-width)) minmax(1.2rem, 1fr);
-  gap: 2em;
+  grid-template-columns: minmax(1em, 1fr) minmax(auto, var(--max-width)) minmax(1em, 1fr);
+  gap: 2em 1em;
 
   & > div {
     grid-column: 2;

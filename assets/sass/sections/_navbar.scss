@@ -99,7 +99,7 @@
   font-size: 1.3rem;
 }
 
-a:after {    
+a.hover-fx:after {    
   background: none repeat scroll 0 0 transparent;
   bottom: 0;
   content: "";
@@ -107,11 +107,11 @@ a:after {
   height: 4px;
   left: 50%;
   position: absolute;
-  background: #ffe100;
+  background: var(--primary);
   transition: width 0.3s ease 0s, left 0.3s ease 0s;
   width: 0;
 }
-a:hover:after { 
+a.hover-fx:hover:after { 
   width: 100%; 
   left: 0; 
 }

@@ -13,11 +13,18 @@
         </div>
         
         <div class="publication-authors-section">
-            <i class="codicon medium codicon-person" style="font-size: 1.5em;"></i>
+            <i class="codicon codicon-person" style="font-size: 1.5rem;"></i>
             <span class="publication-authors">{{ $publication.authors }}</span>
         </div>
+
+        <div class="nav-links">      
+          <a class="hover-fx publications-more" href='{{ $publication.link }}' target="_blank">
+            Zur Publikation
+          <i class='codicon codicon-arrow-right' style='font-size: 1.5rem; transform: rotate(-45deg) translateY(0.1rem) translateX(-0.2rem); display: inline-block; font-weight: 1000'></i>    
+          </a>
+        </div>
         
-        <div class="publication-card-footer">
+        {{/*  <div class="publication-card-footer">
           <div class="publication-button small">
             
               <button class="learn-more small">
@@ -28,5 +35,5 @@
               </button>
               </a>
           </div>
-        </div>
+        </div>  */}}
     </div>

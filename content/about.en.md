@@ -165,7 +165,7 @@ draft: false
     <h2>Publications</h2>
     <p>Our work in the field.</p>
 
-  <div class="publication-column">
+  <div class="publication-grid">
       {{< publication-card publication="0">}}
       {{< publication-card publication="1">}}
       {{< publication-card publication="2">}}
@@ -174,7 +174,14 @@ draft: false
       {{< publication-card publication="5">}}
     </div>
 
-  <div class="publication-button">
+  <div class="nav-links publications-more">      
+      <a class="hover-fx publications-more" href="https://www.fis.uni-hamburg.de/publikationen.html?q=DDLitLab&order=publicationYear&orderBy=descending&treffer=10&publishedAfterDate=&publishedBeforeDate=" target="_blank">
+        Weitere Publikationen
+      <i class='codicon codicon-arrow-right' style='font-size: 1.6rem; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>    
+      </a>
+  </div>
+
+  <!-- <div class="publication-button">
     <a href="https://www.fis.uni-hamburg.de/publikationen.html?q=DDLitLab&order=publicationYear&orderBy=descending&treffer=10&publishedAfterDate=&publishedBeforeDate=">
       <button class="learn-more">
         <span class="circle" aria-hidden="true">
@@ -183,7 +190,7 @@ draft: false
         <span class="button-text">Weitere Publikationen</span>
       </button>
       </a>
-  </div>
+  </div> -->
 
 
   </div>

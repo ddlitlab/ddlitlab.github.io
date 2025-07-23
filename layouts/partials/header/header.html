@@ -7,7 +7,7 @@
   <nav class="navbar">
         <div class="nav-container">
             
-            <a class="logo" href="{{ .Site.Home.RelPermalink }}">
+            <a class="logo hover-fx" href="{{ .Site.Home.RelPermalink }}">
               <img src="{{ .Site.Params.mainMenuLogo | relURL }}" alt="logo">
               {{ .Site.Title }}
             </a>
@@ -29,7 +29,7 @@
                 {{/*  {{- $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog" "contributors")) -}}  */}}
                 
                 <li>
-                  <a href="{{ .URL | relLangURL }}" 
+                  <a class="hover-fx" href="{{ .URL | relLangURL }}" 
                     {{- if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end -}}
                     {{ with .Title }} title='{{ . }}'{{ end }}>
                     {{ .Name }} {{ .Pre }}
@@ -38,7 +38,6 @@
                 
                 {{ end -}}
 
-                {{/*   Gemini Attempt at Language Switcher */}}
                 {{ if hugo.IsMultilingual -}}
                 <li>
                   {{ $currentLang := .Site.Language.Lang }}
@@ -66,7 +65,7 @@
 
                   {{/* Render the button if a translation was found */}}
                   {{ if $translation }}
-                    <a href="{{ $translation.RelPermalink }}" rel="alternate" hreflang="{{ $translation.Lang }}" lang="{{ $translation.Lang }}"{{ with $translation.Title }} title='{{ . }}' aria-label='{{ . }}'{{ end }}>
+                    <a class="hover-fx" href="{{ $translation.RelPermalink }}" rel="alternate" hreflang="{{ $translation.Lang }}" lang="{{ $translation.Lang }}"{{ with $translation.Title }} title='{{ . }}' aria-label='{{ . }}'{{ end }}>
                       {{ upper $translation.Lang }}
                     </a>
                   {{ end }}
