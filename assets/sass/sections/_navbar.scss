@@ -1,24 +1,8 @@
-/* Navigation container */
 .navbar {
     background-color: var(--white-dark);
     background-color: #fff;
     color: var(--black);
     position: relative;
-
-    // REMOVE or COMMENT OUT everything below:
-    // &::after {
-    //     content: "";
-    //     display: block;
-    //     position: absolute;
-    //     left: 50%; transform: translateX(-50%);
-    //     right: 0;
-    //     bottom: -10px;
-    //     height: 10px;
-    //     width: 100vw;
-    //     background-color: var(--primary-light);
-    //     background: linear-gradient(to top, var(--primary-lighter), var(--primary));
-    //     z-index: 10;
-    // }
 }
 
 .nav-container {
@@ -44,11 +28,6 @@
 
     padding: 0rem 0.5rem;
 
-    // &:hover {
-    //     background-color: var(--secondary);
-    //     border-radius: 0.3rem;
-    // }
-
     & > img {
         height: 50px;
         border-radius: 0;
@@ -56,7 +35,7 @@
     
 }
 
-
+// schicker Hamburger Button
 // https://codepen.io/singhimalaya/pen/mNOJPM
 /* Hamburger icon using CSS */
 .hamburger {
@@ -78,25 +57,24 @@
 
 .nav-links {
     display: table-cell; 
-  position: relative; 
-  padding: 15px 0;
+    position: relative; 
+    padding: 15px 0;
     
 }
 
 .nav-links li {
     display: inline-block;
     padding: 1rem 0.2rem;
-    // padding:  0.5rem;
 }
 
 .nav-links a {
     color: #000;
-  text-decoration: none;
-  font-weight:600;
-  display: inline-block;
-  padding: 10px 14px;
-  position: relative;
-  font-size: 1.3rem;
+    text-decoration: none;
+    font-weight:600;
+    display: inline-block;
+    padding: 10px 14px;
+    position: relative;
+    font-size: 1.3rem;
 }
 
 a.hover-fx:after {    
@@ -111,10 +89,12 @@ a.hover-fx:after {
   transition: width 0.3s ease 0s, left 0.3s ease 0s;
   width: 0;
 }
+
 a.hover-fx:hover:after { 
   width: 100%; 
   left: 0; 
 }
+
 @media screen and (max-height: 300px) {
 	ul {
 		margin-top: 40px;
@@ -146,17 +126,20 @@ a.hover-fx:hover:after {
     .nav-links {
         position: fixed;
         top: 0;
-        right: -50%;
-        width: 50%;
+        right: -70%;
+        width: 70%;
         height: 100vh;
-        flex-direction: column;
-        // background-color: var(--background-white);
+        display: grid;
+        grid-template-rows: auto;
+        gap: 0.5rem;
+        background-color: var(--background-white);
         padding-top: 60px;
         transition: right 0.3s ease;
         z-index: 1;
+        align-content: start;
     }
     
     .nav-links li {
-        padding: 0.5rem 1rem;
+        padding: 0 1rem;
     }
 }

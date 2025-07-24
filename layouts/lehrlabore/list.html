@@ -13,16 +13,14 @@
     <input type="checkbox" id="toggle-lehrlabore-3" checked>
     
     <div class="controls">
-        <div class="checkbox-group">
-            <div class="checkbox-wrapper">
-                <label for="toggle-lehrlabore-1">Runde 1</label>
-            </div>
-            <div class="checkbox-wrapper">
-                <label for="toggle-lehrlabore-2">Runde 2</label>
-            </div>
-            <div class="checkbox-wrapper">
-                <label for="toggle-lehrlabore-3">Runde 3</label>
-            </div>
+        <div class="checkbox-wrapper">
+            <label for="toggle-lehrlabore-1">Runde 1</label>
+        </div>
+        <div class="checkbox-wrapper">
+            <label for="toggle-lehrlabore-2">Runde 2</label>
+        </div>
+        <div class="checkbox-wrapper">
+            <label for="toggle-lehrlabore-3">Runde 3</label>
         </div>
     </div>
 
@@ -34,7 +32,6 @@
             <div>
                 <h3>{{ .Params.title_short }}</h3>
                 <p>{{ .Params.title }}</p>
-                
             </div>
         </a>
     {{ end }}
