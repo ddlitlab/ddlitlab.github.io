@@ -1,6 +1,6 @@
 ---
 id: "dcl" # nochmal überlegen
-type: "Vorlesung und Übung"
+method: "Vorlesung und Übung"
 institution: "Fakultät für Betriebswirtschaft"
 title: "Digital Causality Lab - Dem „Warum“ in den Daten auf der Spur"
 title_project: "Digital Causality Lab - Dem „Warum“ in den Daten auf der Spur"
@@ -17,10 +17,6 @@ text: |
     ### Ausrichtung des Digital Causality Labs
 
     Kausale Inferenz kann sehr viel Spaß machen, und den Studierenden sollte dies vermittelt werden. Darüber hinaus sind die Methoden zur Analyse kausaler Zusammenhänge viel besser zu verstehen, wenn sie eigenständig angewendet werden. Die theoretischen Ansätze dienen immer auch der praktischen Anwendung. So wurde die Idee geboren, ein kausales Lab zu schaffen, in dem Studierende die Möglichkeit haben, Dinge auszuprobieren, Ideen zu sammeln und gegebenenfalls wieder zu verwerfen und am Ende zu eigenständigen Lösungen zu kommen. 
-
-    ### Lehrperspektiven
-    
-    Wie ist die Veranstaltung gelaufen? Wie war sie didaktisch aufgebaut, welches Feedback gab es seitens der Studierenden? Und welchen Tipp möchten Sie anderen Lehrenden auf den Weg geben, wenn diese ein ähnliches Lehrprojekt planen? Diese und weitere Fragen beantworten Philipp Bach und Gangli Tan im Interview:
 
     ### Rückblick und Ergebnisse
 

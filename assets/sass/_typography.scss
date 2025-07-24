@@ -3,7 +3,6 @@
   --size-h1: 3rem;
   --size-h1-p: 1.5rem;
 
-
   --size-h2: 2.5rem;
   --size-h3: 2rem;
   --size-h4: 1.5rem;
@@ -13,33 +12,23 @@
 }
 
 
-
-// Kommentare
-
-
-
 html {
-  font-size: 16px; // Set the root font size (example)
+  font-size: 16px;
+  hyphens: auto;
+  font-family: BlinkMacSystemFont,-apple-system,segoe ui,roboto,oxygen,ubuntu,cantarell,fira sans,droid sans,helvetica neue,helvetica,arial,sans-serif;
+  line-height: 1.5;
+  color: var(--black);
 }
 
 body {
-  font-family: BlinkMacSystemFont,-apple-system,segoe ui,roboto,oxygen,ubuntu,cantarell,fira sans,droid sans,helvetica neue,helvetica,arial,sans-serif;
-  line-height: 1.5;
-  // text-align: center;
+  
 }
 
 p {
   font-size: 1.3em;
-  color: var(--black);
-  line-height: 1.5;
   margin-bottom: 20pt;
-
 }
 
-
-// <h> Typographies
-
-// page title h1
 h1 {
   color: var(--black);  
   font-size: var(--size-h1);
@@ -48,7 +37,6 @@ h1 {
   position: relative;
   display: inline-block;
   line-height: 1.1em;
-  
 }
 
 h1 + p {
@@ -58,26 +46,11 @@ h1 + p {
   
 }
 
-// section title h2
-
-
-/* Title container */
-// .page-title-container {
-//   display: flex;
-//   flex-direction: column;
-//   justify-content: center;
-//   align-items: center;
-//   // min-height: 30vh;
-//   padding: 2rem 1rem;
-//   text-align: center;
-// }
-
 div.section-title > a {
   text-decoration: none;
-  color: inherit; // inherit color from parent
-  display: block; // make the link a block element
+  color: inherit; 
+  display: block; 
 }
-
 
 div.section-title > h2, div.section-title > a > h2 {
   color: var(--black);
@@ -111,12 +84,6 @@ div.section-title > h2, div.section-title > a > h2 {
     }
 }
 
-// div.section-title > a {
-//   &:hover::after {
-//     background-color: var(--primary);
-//   }
-// }
-
 .section-title {
   display: flex;
   flex-direction: column;
@@ -126,10 +93,9 @@ div.section-title > h2, div.section-title > a > h2 {
   padding: 2rem 1rem;
   margin-top: 2rem;
   width: 100%;
-  max-width: var(--breakpoint-mobile);;
+  max-width: var(--breakpoint-mobile);
 }
 
-// speaking title h3
 h3 {
   color: var(--black);  
   font-size: var(--size-h3);
@@ -140,18 +106,12 @@ h3 {
   display: inline-block;
 }
 
-h3 + p {
-  font-size: 1.2em;
-  color: var(--black-light);
-}
-
 h3 + ul li {
   font-size: 1.2em;
   color: var(--black-light);
   margin-bottom: var(--spacing-mobile);
 }
 
-// detail title h4
 h4 {
   color: var(--black);  
   font-size: var(--size-h4);
@@ -167,7 +127,6 @@ h4 + p {
   color: var(--black-light);
 }
 
-// optional title h5
 h5 {
   color: var(--black-light);  
   font-size: var(--size-h5);
@@ -175,54 +134,6 @@ h5 {
   position: relative;
   display: inline-block;
 }
-
-// h5 + p {
-//   font-size: 1em;
-//   color: var(--black-light);
-// }
-
-@media (max-width: var(--breakpoint-mobile)) {
-  h1 {
-    font-size: 2.5em;
-  }
-  h1 + p {
-    font-size: 1em;
-  }
-
-  h2 {
-      font-size: 2em;
-  }
-  h2 + p {
-      font-size: 1em;
-  }
-
-  h3 {
-      font-size: 1.5em;
-      margin-bottom: var(--spacing-mobile);
-      text-align: center;
-      display: block;
-  }
-  h3 + p, h3 + ul li {
-      font-size: 1em;
-  }
-}
-
-
-// add for animations
-// .content-area h2::after {
-//     content: '';
-//     position: absolute;
-//     bottom: -5px;
-//     left: 0;
-//     width: 0;
-//     height: 3px;
-//     background-color: var(--black);
-//     transition: width var(--transition-speed);
-// }
-
-// .row:hover .content-area h2::after {
-//     width: 100%;
-// }
 
 
 .uppercase {

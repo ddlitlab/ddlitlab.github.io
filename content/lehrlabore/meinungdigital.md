@@ -1,0 +1,37 @@
+---
+id: "meinungdigital" # nochmal überlegen
+method: "Seminare"
+institution: "eLearning-Büro Erziehungswissenschaft"
+title: "Fake News, Informationsflut, Bots und Algorithmen – Meinungsbildung in einer digitalen Gesellschaft als Thema der Unterrichtsentwicklung"
+title_project:
+title_short: "MeinungDigital"
+period: "Apr 22 ­­- Mar 23 (12 months)"
+foerderlinie: "Transferorientierte Data Literacy"
+round: "1"
+lecture2go: "68927"
+uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/12-meinungdigital.html"
+contributors: "Franziska Gerwers"
+mentors: "Christina Schwalbe"
+quote: "Unsere Meinungsbildung ist beeinusst durch die komplexen Strukturen und Kommunikationsformen der digitalen Gesellschaft. Die digitale Datenverarbeitung hat Auswirkungen auf die öentliche Kommunikation als Basis der Demokratie. Zur Entwicklung von Mündigkeit in einer digitalen Gesellschaft gehört die Förderung von Data Literacy als Schlüsselkompetenz. Diese sollte bereits in der Schule gefördert werden – im gleichen Maße wie die Förderung von Lese- und Schreibkompetenzen, also Literacy im ursprünglichen Sinn."
+text: |
+    ### Das Projekt MeinungDigital
+
+    Die Förderung von Grundelementen einer rezeptiven Data Literacy bei (angehenden) Lehrer:innen als Multiplikator:innen im Bereich schulischer Bildung ist dabei eine notwendige, aber nicht hinreichende Bedingung, um langfristig Data Literacy Education als Kernelement schulischer Bildung verankern zu können. Allerdings sind Lehrangebote zu Data Literacy bisher nicht systematisch im Lehramtscurriculum verankert. Und auch Lehrkräfte, die bereits im Schuldienst sind, verfügen häug nicht über das notwendige Wissen und die notwendigen Kompetenzen – zugleich fehlt ihnen im Schulalltag die Zeit, sich praktisch und reektierend mit den aktuellen Veränderungen in einer immer stärker digitalisierten und von datengetriebenen Prozessen geprägten Welt auseinanderzusetzen.
+
+    ### Rückblick und Ergebnisse
+
+    Übergeordnetes Ziel der Forschungswerkstatt war es, (angehende) Lehrer:innen dazu zu befähigen, Konzepte und Ideen zu entwickeln, wie grundlegende Data Literacy Kompetenzen bereits in der Schule gefördert werden können. Durch eine Kooperation mit dem Landesinstitut für Lehrerbildung und Schulentwicklung und die Beteiligung von Lehrkräften aus der Praxis konnte die Bearbeitung des Themas aus theoretischer Perspektive mit einer lösungsorientierten Sicht auf die Integration von Data Literacy in schulische Lehr-Lernprozesse kombiniert werden. Dafür wurde zunächst das Thema im Rahmen von Input- sowie Diskussions- und Reexionsphasen gemeinsam mit Studierenden und Lehrer:innen erarbeitet und im Anschluss daran in konkreten Forschungsprojekten der Schulbezug noch einmal vertieft.
+
+    Insbesondere während der ersten Phase (Input & Reexion) hat sich die Kooperation zwischen Universität und Landesinstitut für Lehrerbildung und Schulentwicklung als sehr gewinnbringend erwiesen, so dass die Verstetigung von Projektseminaren zum Thema Data Literacy Education, die an der Fakultät EW in Kooperation mit dem Landesinstitut für Lehrerbildung und Schulentwicklung angeboten werden, bereits in Planung ist. So hat sich gezeigt, dass beide Seiten (Studierende und Lehrer:innen) sehr von dem Austausch protieren konnten. Sowohl die Studierenden als auch die teilnehmenden Lehrkräfte aus der Praxis konnten im Rahmen der Forschungswerkstatt ein Verständnis für die Relevanz und die Breite des Konzepts von Data Literacy Education in der Schule entwickeln und, ausgehend von den fachlichen Fragestellungen und theoretischen Betrachtungen konkrete Handlungsansätze identizieren und eine Brücke von der Theorie zur Praxis schlagen.
+
+    Ein weiterer Aspekt des Lehrprojekts war die Entwicklung eines Blogs, der Lehr- und Lernmaterialien zum Thema Data Literacy Education für die Schule gebündelt zur Verfügung stellt. Dieser Blog wird für zukünftige Lehrveranstaltungen zu Data Literacy Education an der Fakultät für Erziehungswissenschaft genutzt und in diesem Rahmen weiter gepegt werden. Aktuell ist er noch in Überarbeitung, um das Komplexitätsniveau der Materialien im Blog den Anforderungen an schulische Data Literacy Education anzupassen und die seminarspezischen Inhalte nach Beendigung des Projekts wieder zu entfernen.
+
+    ### Tipps von Lehrenden für Lehrende
+
+    Im Rahmen des Projekts hat sich deutlich gezeigt, dass die Organisation von hybriden Veranstaltungen sehr gut funktionieren kann, wenn es eine (studentische) Person gibt, die als Schnittstelle zwischen Teilnehmenden in Präsenz und digital teilnehmende Studierende fungiert. So können Meldungen aus dem Digitalen besser in den Präsenzraum getragen werden und auch umgekehrt Ergebnisse aus der Präsenzarbeit für die digital Teilnehmden dokumentiert werden. Die Nutzung eines gemeinsamen digitalen Whiteboards war eine gute Unterstützung, aber auch hier war es gut, dass eine studentische Hilfskraft zur Verfügung stand, die die Nutzung strukturierend begleitet hat und auch Präsenzergebnisse direkt übertragen konnte. So war auch Arbeit mit Karten vor Ort möglich, was eine andere Interaktion und Aktivierung der Teilnehmenden ermöglichte.
+
+image:
+image_credit:
+link_external: "https://dataliteracyeducation.blogs.uni-hamburg.de, https://li.hamburg.de/"
+stine: "SoSe 2022 & WiSe 2022/23: Seminare https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000605,-N0,-N383145730902068,-N383145730904069,-N0,-N0,-N3,-AvBld4Q5jcIUtRBHQCuRgVumLfgLj7ZWvYqAWxfKWHSKsOuoCYYKS7NwPcBLLHQBwxqwsxf6mPNZYmY6mcDobRWD6HYntRQHJfYfZHfGfQSPZfDZZ7DAJPWRCcZLwVBF-eNZfYoUkvMpUcgnFYQDtvzwwe-mgcgWFWWHUxdPeVMAsxfRu7WW9vjWUeWeAcZ5z4gUfWzWdVjmxrMWNRZUUHuLycQ5MvuoF4WmN4UPARZHgWfFZ7YZLHopJeWKNrUpCm-UJvfwkOIpCYS7jcDRJOzHu7gBNQgPSWjfwYzA5eU7tfQRV4uPzHM5qOYALPWUCHYGNfkZxWD68QdytPB6DRqLXQBwT4qRmHzPZfdKHmZP5PvNdWzZtCfZ9RkZ97up5YUPoPIovRqWTxfP0HBmvHD5W3YPWvUpIPWPocBWVHW7NQDPkcQU-4uVdmqoxRMoExNGAe-5BxWULQ-PpHfPH3zZH3fGSWqwYrqAK3IeZPNAPffmvVYosRW5bcqoSQBLfm-pgvSF6WZVdWqB6Qu53xfKCOg5EcNKavtNNWzZLRZ5PHSlAffWlOILWWzNAmWmHmBwjWfwPQqe-xNFdWdLpfNPsmjc64BPx4UUqrgPemUPhHQHyPdHyWoPTm-Pv4MAMWMACcoR8OWWYQIR-VYwkOBGIVNo5xNUAmop8YSRsWSPpPdAXYD6QvQLDYgpIYD9jHSDwQoRWOz50xSL6HD6V4ImAmdNtQNUhxuntPjUSYqWKVf6LWU5qCf6BeMi9mz2N, https://stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000605,-N0,-N381943583714998,-N381943583701999,-N0,-N0,-N3,-A4Wn-vBKyOoWNmgoAPqm6RDWYQUcAvuHpHNGTmqUTfDHNfjP6xUP7VzPZWqRT7dfwvd2F7UoWxBWsVWUIeQpA7dGJYM5KfZoYYqeZmIWJxW5S4YNFRgR6V-mavocZv-p8vfGNHWWARBZq4Io7mYoTRNWHPMAAvUUuQMnjcBNNrUKHfByjfYRDRqnt3YZ-vUp3fYwT7gPmPdKuvSRPeMRPHd5mcSH3eNUuxUHHYvZacdUtYfGaPzmZVBNjPjWSxYR8xtZVvzZWRS5JvYWTV-eFQjKKCYH7xD5uczNFODZDffwemqwXfSUUOSRa7fWhmDoI4uKKRDWePZK7OZpPvjLePqUpvqRpeNf6mY9Z7gfAPjoyWNZFvf6uxDmsxjVw7doVrbZLeWeFQoWvrgow7q9dxflFVfLN7UmvfY5ImBZg4UplPQV6Ojp6mWDdRMPgHdozxB5MeY2wVMLEVDHZ7f6Ff-mWVdPaOzwFcUPzPf5yRYKWQfKhcNnj7-LqHzGCYfASPWVjxUD6PSUz3ffjVzPKeZpYffA6xdRUOBKx4IRC4gLKmMUUfqHxPfGEPdLJmMLhPYeAVNLH4YVtQUPqQdP9QD6McQokWqRImuoyQgUP3YoHYfPHVopD4qHzRfZUYgHDWUpMcNwsVBG6QgntWjid7YRDRZoXefPYWzLKfQiwHZK5mdGF4QH6Rf6PmuWVxMPE3YUocjUvVNNwRMnNPfwUfIoW4gV6YQmlVZplxN6XRUpkPQpgmgPzmS58WtZ7VWWe"
+---

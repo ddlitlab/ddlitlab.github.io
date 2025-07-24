@@ -41,7 +41,7 @@ article {
   
   & > div.article-text {
     text-align: justify;
-    hyphens: auto;
+    
   }
 
 
@@ -255,32 +255,3 @@ section {
 }
 
 
-/* Show hover text on image hover */
-// Hover Effect for Images with Text Overlay (Lehre-Navi)
-// kann raus, falls nicht benutzt beim Lehre-Navi
-// .hover-image-link {
-//   position: relative;
-//   display: block; // changed from inline-block
-//   width: 100%;    // ensures it fills the container
-// }
-
-// .hover-image-link .hover-text {
-//   display: none;
-//   position: absolute;
-//   left: 50%;
-//   top: 20%;
-//   transform: translateX(-50%);
-//   background: rgba(0,0,0,0.8);
-//   color: #fff;
-//   padding: 6px 12px;
-//   border-radius: 4px;
-//   white-space: nowrap;
-//   margin-top: 8px;
-//   z-index: 10;
-//   font-size: 0.95em;
-// }
-
-// .hover-image-link:hover .hover-text,
-// .hover-image-link:focus .hover-text {
-//   display: block;
-// }

@@ -3,40 +3,35 @@
 <main>
   {{ .Content }}
 
-  <section>
+  <article>
     <div class="section-title">
         <h2>{{ .Params.title }}</h2>
         <p>Project: {{ .Params.title_short }}</p>
     </div>
 
-    <div class="info-box">
-      <p>Students: {{ .Params.students }}</p>
-      <p>Round: {{ .Params.round }}</p>
-      <p>Period: {{ .Params.period }}</p>
-      <p>Mentors: {{ .Params.mentor }}</p>
+    {{ with .Params.lecture2go }}
+    <div class="wide-image">
+        <iframe src='https://lecture2go.uni-hamburg.de/o/iframe/?obj={{ . }}'  title='{{ $.Params.title }}' frameborder='0' allowfullscreen></iframe>
     </div>
+    {{ end }}
+
+    <div class="article-info">
+      <div>Contributors: {{ .Params.contributors }}</div>
+      <div>Round: {{ .Params.round }}</div>
+      <div>Mentors: {{ .Params.mentors }}</div>
+      <div>Period: {{ .Params.period }}</div>
+    </div>    
     
-    <div class="wide-image datenwelten-movie-container">
-        <iframe class="datenwelten-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj={{ .Params.lecture2go }}'  title='{{ .Params.title }}' frameborder='0' allowfullscreen></iframe>
-    </div>
-
-    <h3>{{ .Params.title_project }}</h3>
-
-    <div class="wide-text">
+    <div class="article-text">
       {{ .Params.text | markdownify }}
     </div>
 
-    <blockquote class="blockquote">
-      <p>
-        Morales ha convertido la ya dúctil democracia boliviana en una plastilina con la que sus manos juegan a su antojo.
-      </p>
-    </blockquote>
-
-    <div class="nav-links hover-fx">
-      <a href="/lehrlabore/">Zurück zur Übersicht</a>
+    <div class="nav-links">
+      
+      <a class="hover-fx" href="/lehrlabore/"><i class="codicon codicon-arrow-left" style="font-size: 1rem; display: inline-block; font-weight: 1000"></i> Zurück zur Übersicht</a>
     </div>
 
-    </section>
+  </article>
 </main>
    
 {{ end }}
