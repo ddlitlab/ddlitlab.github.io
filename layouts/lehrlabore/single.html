@@ -20,7 +20,19 @@
       <div>Round: {{ .Params.round }}</div>
       <div>Mentors: {{ .Params.mentors }}</div>
       <div>Period: {{ .Params.period }}</div>
+      <div>Förderlinie: {{ .Params.foerderlinie }}</div>
+      <div>Veranstaltungstyp: {{ .Params.method }}</div>
+      <div>Stine-Link: {{ .Params.stine | safeHTML }}</div>
+      {{ with .Params.link_external }}
+      <div>Externer Link: <a href="{{ . }}" target="_blank">{{ . }}</a></div>
+      {{ end }}
     </div>    
+
+    {{ with .Params.quote }}
+    <div class="blockquote">
+      <p>"{{ . }}"</p>
+    </div>
+    {{ end }}
     
     <div class="article-text">
       {{ .Params.text | markdownify }}

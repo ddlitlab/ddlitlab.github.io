@@ -3,41 +3,29 @@
     position: relative;
 }
 .blockquote p {
-    font-family: "Utopia-italic";
-    font-size: 35px;
     font-weight: 700px;
     text-align: center;
+    font-style: italic;
 }
 
-/*blockquote p::before {
-    content: "\f095"; 
-    font-family: FontAwesome;
-   display: inline-block;
-   padding-right: 6px;
-   vertical-align: middle;
-  font-size: 180px;
- }*/
-
 .blockquote:before {
-  position: absolute;
-  font-family: 'FontAwesome';
-  top: 0;
-  
-  content:"\f10d";
-  font-size: 200px;
-  color: rgba(0,0,0,0.1);
-   
+    position: absolute;
+    font-family: 'codicon';
+    top: 0;
+    content:"\eb33";
+    font-size: 200px;
+    color: rgba(0,0,0,0.1);  
 }
 
 .blockquote::after {
     content: "";
     top: 20px;
     left: 50%;
-    margin-left: -100px;
+    margin-left: -300px;
     position: absolute;
-    border-bottom: 3px solid #bf0024;
-    height: 3px;
-    width: 200px;
+    border-bottom: 6px solid var(--primary-lighter);
+    height: 10px;
+    width: 600px;
 }
 
 
@@ -53,6 +41,10 @@
     background-color: var(--primary-lighter);
     border: dashed 0.2em var(--black);
     // margin-bottom: 20px;
+    
+    & > div > a {
+        text-decoration: none;
+    }
 }
 
 
