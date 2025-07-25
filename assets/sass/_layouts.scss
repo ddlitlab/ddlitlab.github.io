@@ -31,22 +31,24 @@ article {
     grid-column: 2;
     justify-self: center;
 
-    & > iframe {
-        width: 100%;
-        aspect-ratio: 16/9;
-        // border-radius: 12px;  
-        box-shadow: -100px -100px 0 -90px var(--primary), 100px 100px 0 -90px var(--primary);
-    }
+    // & > iframe {
+    //     width: 100%;
+    //     aspect-ratio: 16/9;
+    //     // border-radius: 12px;  
+    //     box-shadow: -100px -100px 0 -90px var(--primary), 100px 100px 0 -90px var(--primary);
+    // }
   }
   
   & > div.article-text {
     text-align: justify;
     
   }
+}
 
-
-  
-
+.wide-movie {
+    width: 100%;
+    aspect-ratio: 16/9;
+    box-shadow: -100px -100px 0 -90px var(--primary), 100px 100px 0 -90px var(--primary);
 }
 
 
@@ -71,6 +73,47 @@ section {
     flex-direction: column;
 
 }
+
+// Zahlen Infografik
+.info-numbers {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 80vw;
+    color: var(--black);
+    font-weight: 1000;
+    gap: 0px;
+    & p {
+        text-transform: uppercase;
+        font-size: clamp(1rem, 3.5vw, 4rem);
+        margin: 0;
+        letter-spacing: 0.1vw;
+    }
+    & span {
+        font-size: clamp(2rem, 7vw, 8rem);
+    }
+    & p:nth-child(1) {
+        justify-self: start;
+    }
+    & p:nth-child(2) {
+        justify-self: end;
+    }
+    & p:nth-child(3) {
+        justify-self: center; 
+    }
+
+}
+
+.info-numbers i {
+    font-size: 2em !important;
+    transform: translateX(0.2em) translateY(0.25em);
+    display: inline-block !important; /* Important for transform to work correctly on inline elements */
+}
+
+
+
+
+
+
 
 // .container-base {
 //     // max-width: var(--max-width);

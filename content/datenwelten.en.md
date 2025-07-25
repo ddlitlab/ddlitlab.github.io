@@ -9,37 +9,18 @@ draft: false
         <h2>Ringvorlesung Datenwelten</h2>
         <p>Daten verstehen, Zukunft gestalten</p>
     </div>
-    <div class="wide-image datenwelten-movie-container">
-        <iframe class="datenwelten-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
+    <div class="wide-image">
+        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
     </div>
-    <div class="row">
-        <div class="starter-content-area">
-            <h3>Data Literacy für alle.</h3>
-            <p>Neugierig auf Daten und ihre Bedeutung für unsere Gesellschaft? Mehr über datengetriebene Systeme erfahren? Wolltest du schon immer mal... Dir brummt der Kopf? Dann komm in die Ringvorlesung Datenwelten!</p>
-        </div>
-        <div class="starter-image-area">
-            <img src="/images/datenwelten/lehre_david_01.png" alt="datenwelten-01">
-        </div>
+    <p class="wide-text">
+    Neugierig auf Daten und ihre Bedeutung für unsere Gesellschaft? Möchtest du mehr über datengetriebene Systeme erfahren? Dir brummt der Kopf? Dann komm in die Ringvorlesung Datenwelten! Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus verschiedenen Perspektiven beleuchtet.
+    </p>
+    <div class="info-numbers">
+        <p>Over <span>2400</span> students<i class="codicon codicon-mortar-board" style="font-size: 2em; transform: translateX(0.2em) translateY(0.2em);"></i></p>  
+        <p>From <span>210</span> subjects<i class="codicon codicon-rocket"></i></p>
+        <p>By <span>27</span> lecturers<i class="codicon codicon-coffee"></i></p>
     </div>
-    <div class="row reverse">
-        <div class="starter-content-area">
-            <h3>Zwischen Code und Kontext.</h3>
-            <p>Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus verschiedenen Perspektiven beleuchtet.</p>
-        </div>
-        <div class="starter-image-area">
-            <img src="/images/datenwelten/lehre_david_01.png" alt="datenwelten-02">
-        </div>
-    </div>
-    <div class="row">
-        <div class="starter-content-area">
-            <h3>Interdisziplinäre Perspektiven.</h3>
-            <p>Film Thumbnail. Dieser Text hat nur etwa 300 Zeichen. Nutzt ihn, um das Statement aus der Überschrift zu unterlegen und auf das WIE, das WAS und das WARUM genauer einzugehen. Das ist viel leichter gesagt, als getan. Darum heißt dieser Bereich ja auch Impact-Story-Schlaglichter. Ausführungen kommen später (weiter unten auf der Seite)</p>
-        </div>
-        <div class="starter-image-area">
-            <img src="/images/datenwelten/zahlen.svg" alt="datenwelten-zahlen">
-        </div>
-    </div>
-    </section>
+</section>
 
 
 
@@ -49,7 +30,7 @@ draft: false
     <div class="section-content">
     <div class="section-title">
         <h2>Inhalte der Datenwelten</h2>
-        <p>Winter / Sommer Zyklus.</p>
+        <p>Interdisziplinäre Perspektiven.</p>
     </div>
     <div class="dw-content">
         <div class="dw-content-card dw-glass">
@@ -102,8 +83,11 @@ draft: false
 <section>
     <div class="section-title">
         <h2>Begleitende Übungen</h2>
-        <p>Literate Programming Hands-On.</p>
+        <p>Zwischen Code und Kontext.</p>
     </div>
+    <div class="starter-image-area">
+            <img src="/images/datenwelten/lehre_david_01.png" alt="datenwelten-01">
+        </div>
     <div class="wide-text">
     <p>
       Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Inhalte. Sie sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnisse im Programmieren zugänglich sind. Die Übungen fördern das Verständnis von Datenanalyse und Machine Learning durch interaktive Aufgaben und Projekte, die in Jupyter Notebooks durchgeführt werden. 
@@ -218,46 +202,44 @@ draft: false
     <div class="section-title">
         <h2>Vergangene Veranstaltungen</h2>
     </div>
-    <div class="dw-events">
-        <div class="grid grid-dw-events">
-            <div>
-                <h4 class="dw-pretitle">Im Wintersemester</p>
+    <div class="grid grid-dw-events dw-events">
+        <div>
+            <h4 class="dw-pretitle">Im Wintersemester</p>
+        </div>
+        <div>
+            <h4 class="dw-pretitle">Im Sommersemester</h4>
+        </div>
+        <div>
+            <h5>WiSe 24/25</h5>
+            {{< dw_events dw_event="10">}}
+            {{< dw_events dw_event="9">}}
+            {{< dw_events dw_event="8">}}
+        </div>
+        <div>
+            <h5>SoSe 24</h5>
+            {{< dw_events dw_event="7">}}
+            {{< dw_events dw_event="6">}}
+        </div>        
+        <div>
+            <h5>WiSe 23/24</h5>
+            {{< dw_events dw_event="5">}}
+            {{< dw_events dw_event="4">}}
+        </div>
+        <div>
+            <h5>SoSe 23</h5>
+            {{< dw_events dw_event="3">}}
             </div>
-            <div>
-                <h4 class="dw-pretitle">Im Sommersemester</h4>
-            </div>
-            <div>
-                <h5>WiSe 24/25</h5>
-                {{< dw_events dw_event="10">}}
-                {{< dw_events dw_event="9">}}
-                {{< dw_events dw_event="8">}}
-            </div>
-            <div>
-                <h5>SoSe 24</h5>
-                {{< dw_events dw_event="7">}}
-                {{< dw_events dw_event="6">}}
-            </div>        
-            <div>
-                <h5>WiSe 23/24</h5>
-                {{< dw_events dw_event="5">}}
-                {{< dw_events dw_event="4">}}
-            </div>
-            <div>
-                <h5>SoSe 23</h5>
-                {{< dw_events dw_event="3">}}
-                </div>
-            <div>
-                <h5>WiSe 22/23</h5>
-                {{< dw_events dw_event="2">}}
-            </div>
-            <div>
-                <h5>SoSe 22</h5>
-                {{< dw_events dw_event="1">}}
-            </div>
-            <div>
-                <h5>WiSe 21/22</h5>
-                {{< dw_events dw_event="0">}}
-            </div>
+        <div>
+            <h5>WiSe 22/23</h5>
+            {{< dw_events dw_event="2">}}
+        </div>
+        <div>
+            <h5>SoSe 22</h5>
+            {{< dw_events dw_event="1">}}
+        </div>
+        <div>
+            <h5>WiSe 21/22</h5>
+            {{< dw_events dw_event="0">}}
         </div>
     </div>
 </section>
