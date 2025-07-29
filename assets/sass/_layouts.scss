@@ -1,3 +1,26 @@
+body {
+  display: flex;
+  flex-direction: column;
+  // justify-content: center;
+  // align-items: center;
+}
+
+main {
+  flex-grow: 1; 
+  padding: var(--spacing-desktop);
+}
+
+@media (max-width: $breakpoint-mobile) {
+    main {
+        padding: var(--spacing-mobile);
+    }
+}
+
+
+
+
+
+
 // you can change these three
 $c: gainsboro; // grid lines
 $d: 1em; // grid cell size
@@ -52,27 +75,12 @@ article {
 }
 
 
-.section-content {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
 
 
-section {
-    max-width: var(--max-width);
-    margin: 0 auto;
-}
 
-.body {
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
 
-}
+
+
 
 // Zahlen Infografik
 .info-numbers {
@@ -172,19 +180,7 @@ img {
   border-radius: 12px;
 }
 
-section {
-    padding: var(--spacing-desktop);
-    display: flex;
-    // flex-wrap: wrap;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-@media (max-width: var(--breakpoint-mobile)) {
-    section {
-        padding: var(--spacing-mobile);
-    }
-}
+
 
 .row {
     display: flex;

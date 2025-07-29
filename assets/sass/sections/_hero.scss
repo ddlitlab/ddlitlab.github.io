@@ -12,6 +12,23 @@
     grid-area: content;
 }
 
+.hero-content h1 {
+    color: var(--black);  
+    font-size: var(--size-h1);
+    font-weight: 750;
+    margin-bottom: var(--spacing-tablet);
+    position: relative;
+    display: inline-block;
+    line-height: 1.1em;
+}
+
+.hero-content p {
+  font-size: var(--size-h1-p);
+  color: var(--black-light);
+  font-weight: 400;
+  
+}
+
 .hero-image {
     grid-area: image;
 }

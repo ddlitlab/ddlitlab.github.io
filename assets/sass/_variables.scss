@@ -1,5 +1,8 @@
-// Global CSS Variables
+// scss variables
 
+$breakpoint-mobile: 768px;
+
+// Global CSS Variables
 :root {
   // Colors
   // --title-black: #333;
@@ -58,11 +61,12 @@
   
 
 
+  
 
 
 
   // Spacing
-  --spacing-mobile: 0.5rem;
+  --spacing-mobile: 1.5rem;
   --spacing-tablet: 2rem;
   --spacing-desktop: 2.5rem;
   --border-radius-desktop: 15px;
@@ -72,5 +76,5 @@
   --transition-speed: 0.5s;
 
   // Breakpoints
-  --breakpoint-mobile: 768px;
+  --breakpoint-mobile: $breakpoint-mobile;
 }

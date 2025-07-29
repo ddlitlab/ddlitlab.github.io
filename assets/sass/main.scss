@@ -15,6 +15,10 @@
 // SORTIEREN;
 // @import "icon_block";
 
+// Modules
+@import "sections/section-components";
+
+
 // Sections scss
 @import "sections/_team";
 @import "sections/_navigation-cards";
@@ -29,7 +33,7 @@
 
 
 // index sections
-@import "sections/index/_hero";
+@import "sections/_hero";
 @import "sections/index/_content";
 
 @import "sections/studiprojekte/index";
