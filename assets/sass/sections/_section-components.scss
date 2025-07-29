@@ -67,7 +67,9 @@ section {
 
   h2 {
     // color: var(--black);
+
     font-size: 1em;
+    font-size: clamp(--size-h2-mobile, calc(5vw + 1rem), var(--size-h2));
     font-weight: bold;
     position: relative;
     margin-bottom: 1.2em;
@@ -107,7 +109,7 @@ padding: 2rem 1rem;
 
 h2 {
     // font-size: var(--size-h2-mobile);
-    font-size: 1em;
+    // font-size: 1em;
     margin-bottom: 0.7rem; // modulize
     // padding-top: 1rem; // modulize
 

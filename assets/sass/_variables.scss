@@ -1,6 +1,7 @@
 // scss variables
 
 $breakpoint-mobile: 768px;
+$spacing-desktop: 2.5rem;
 
 // Global CSS Variables
 :root {
@@ -68,7 +69,7 @@ $breakpoint-mobile: 768px;
   // Spacing
   --spacing-mobile: 1.5rem;
   --spacing-tablet: 2rem;
-  --spacing-desktop: 2.5rem;
+  --spacing-desktop: $spacing-desktop;
   --border-radius-desktop: 15px;
   --max-width: 1200px;
 

@@ -7,16 +7,9 @@ body {
 
 main {
   flex-grow: 1; 
-  padding: var(--spacing-desktop);
+  padding: clamp(1rem, calc(5vw + 1rem), 3rem);
+  padding: Min(3rem, 8%);
 }
-
-@media (max-width: $breakpoint-mobile) {
-    main {
-        padding: var(--spacing-mobile);
-    }
-}
-
-
 
 
 
