@@ -92,6 +92,8 @@ draft: false
     <p>
       Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Inhalte. Sie sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnisse im Programmieren zugänglich sind. Die Übungen fördern das Verständnis von Datenanalyse und Machine Learning durch interaktive Aufgaben und Projekte, die in Jupyter Notebooks durchgeführt werden. 
       </p>
+    <div>
+    </div>
     <div class="wide-image">
         <img src="/images/datenwelten/uebung.png" alt="inhalte uebung">
     </div>
@@ -100,9 +102,76 @@ draft: false
     <p>https://www.hcl.uni-hamburg.de/ddlitlab/datenwelten.html</p>
     </div>
     <div class="dw-uebung-grid">
-        <div class="dw-uebung-card">
-            Test
+        <div class="uppercase dw-uebung-subheader">Focus: Winter</div>
+        <div class="uppercase dw-uebung-subheader">Basics</div>
+        <div class="uppercase dw-uebung-subheader">Focus: Summer</div>
+        <div></div>
+        <div class="dw-uebung-content">
+            <ul>
+            <li>Classification</li>
+            <li>Regression</li>
+            <li>Clustering</li>
+            <li>Neural Networks</li>
+            </ul>
+            <p class="uppercase dw-uebung-subheader">Model</p>
         </div>
+        <div class="dw-uebung-content">
+            <ul>
+            <li>Import</li>
+            <li>Tidy</li>
+            <li>Visualize</li>
+            <li>Transform</li>
+            <li>Communicate</li>
+            </ul>
+            <p class="uppercase dw-uebung-subheader">Analyze</p>
+        </div>
+        <div class="dw-uebung-content">
+            <ul>
+            <li>APIs</li>
+            <li>Web Scraping</li>
+            <li>Open Repositories</li>
+            </ul>
+            <p class="uppercase dw-uebung-subheader">Collect</p>
+        </div>
+        <div class="uppercase dw-uebung-content dw-uebung-header">
+            <i class='codicon codicon-code'></i>
+            <p>Coding</p>
+        </div>
+        <div>
+            <ul>
+            <li>Google Colab</li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+            <li>Jupyter</li>
+            <li>Git</li>
+            <li>LLM Chatbots</li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+            <li>RStudio</li>
+            <li>Quarto</li>
+            </ul>
+        </div>
+        <div class="uppercase dw-uebung-content dw-uebung-header">
+            <i class='codicon codicon-tools'></i>
+            <p>Tools</p>
+        </div>
+        <div></div>
+        <div>
+            <ul>
+            <li>AI Images</li>
+            <li>Ethics & Bias</li>
+            <li>Datafiction</li>
+            </ul>
+        </div>
+        <div></div>
+        <div class="uppercase dw-uebung-content dw-uebung-header">
+            <i class='codicon codicon-combine'></i>
+            <p>Reflection</p>
+            </div>
     </div>
     <div class="row">
         <a href="https://jupyter.org/">
@@ -121,79 +190,6 @@ draft: false
     <div>
         Hier geht es zum Github-Repository der Übungen: <a href="https://github.com/uhh-hcds/Datenwelten-entdecken-mit-R">Datenwelten entdecken mit R</a>
     </div>
-    <!-- <div class="grid-uebung">
-        <div class="grid-uebung-card">
-            <p class="grid-uebung-label">Focus: Winter</p>
-            <ul>
-            <li>Classification</li>
-            <li>Regression</li>
-            <li>Clustering</li>
-            <li>Neural Networks</li>
-            </ul>
-            <p class="grid-uebung-label">Model</p>
-        </div>
-        <div class="grid-uebung-card">
-            <p class="grid-uebung-label">Grundlagen</p>
-            <ul>
-            <li>Import</li>
-            <li>Tidy</li>
-            <li>Visualize</li>
-            <li>Transform</li>
-            <li>Communicate</li>
-            </ul>
-            <p class="grid-uebung-label">Model</p>
-            <div>
-                <h2>BASICS</h2>
-                <h3>Import</h3>
-                <h3>Tidy</h3>
-                <h3>Visualize</h3>
-                <h3>Transform</h3>
-                <h3>Communicate</h3>
-            </div>
-            <div class="section-label">ANALYZE</div>
-        </div>
-        <div class="grid-item focus-summer">
-            <div>
-                <h2>FOCUS: SUMMER</h2>
-                <h3>APIs</h3>
-                <h3>Web Scraping</h3>
-                <h3>Open Repositories</h3>
-            </div>
-            <div class="section-label">COLLECT</div>
-        </div>
-        <div class="grid-item coding">
-            <div class="icon">&lt;/&gt;</div>
-            <div class="main-label">CODING</div>
-        </div>
-        <div class="grid-item google-colab">
-            <h2>Google Colab</h2>
-        </div>
-        <div class="grid-item jupyter">
-            <h3>Jupyter Notebooks</h3>
-            <h3>JupyterHub</h3>
-            <h3>Git</h3>
-            <h3>UHHGPT</h3>
-        </div>
-        <div class="grid-item rstudio">
-            <h3>RStudio</h3>
-            <h3>Quarto</h3>
-        </div>
-        <div class="grid-item tools">
-            <div class="icon">🔧</div>
-            <div class="main-label">TOOLS</div>
-        </div>
-        <div class="grid-item empty">
-        </div>
-        <div class="grid-item ai-ethics">
-            <h3>AI Images</h3>
-            <h3>Ethics & Bias</h3>
-            <h3>Datafication</h3>
-        </div>
-        <div class="grid-item reflection">
-            <div class="icon">📊</div>
-            <div class="main-label">REFLECTION</div>
-        </div>
-    </div> -->
 </section>
 
 
