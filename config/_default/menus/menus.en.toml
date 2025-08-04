@@ -1,38 +1,30 @@
 [[main]]
-name = "Datenwelten"
+name = "Data Worlds"
 url = "datenwelten"
 weight = 20
 
 [[main]]
-name = "Lehrlabore"
+name = "Teaching Labs"
 url = "lehrlabore"
 weight = 30
 
 [[main]]
-name = "Studi-Projekte"
+name = "Student Projects"
 url = "studiprojekte"
 weight = 40
 
 [[main]]
-name = "GKI Community"
-url = "gki-community"
+name = "GAI Community"
+url = "gkicommunity"
 weight = 50
 
 [[main]]
-name = "Lehre-Navi"
+name = "Teaching Navi"
 url = "https://www.uni-hamburg.de/lehre-navi/lehrende.html"
 weight = 60
-# pre = "<i class='codicon codicon-triangle-right'></i>"
 pre = "<i class='codicon codicon-arrow-right' style='font-size: 1rem; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>"
 
 [[main]]
 name = "About"
 url = "about"
 weight = 70
-
-[[social]]
-  name = "GitHub"
-  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather'><use href='/icons/codicons/github.svg'/></svg>"
-  url = "https://github.com/softiceee/softiceee.github.io"
-  weight = 90
-  title = "Visit the GitHub project"

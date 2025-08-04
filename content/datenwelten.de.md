@@ -9,9 +9,6 @@ draft: false
         <h2>Ringvorlesung Datenwelten</h2>
         <p>Daten verstehen, Zukunft gestalten</p>
     </div>
-    <div class="wide-image">
-        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
-    </div>
     <p class="wide-text">
     Neugierig auf Daten und ihre Bedeutung für unsere Gesellschaft? Möchtest du mehr über datengetriebene Systeme erfahren? Dir brummt der Kopf? Dann komm in die Ringvorlesung Datenwelten! Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus verschiedenen Perspektiven beleuchtet.
     </p>
@@ -19,6 +16,9 @@ draft: false
         <p>Over <span>2400</span> students<i class="codicon codicon-mortar-board" style="font-size: 2em; transform: translateX(0.2em) translateY(0.2em);"></i></p>  
         <p>From <span>210</span> subjects<i class="codicon codicon-rocket"></i></p>
         <p>By <span>27</span> lecturers<i class="codicon codicon-coffee"></i></p>
+    </div>
+    <div class="wide-image">
+        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
     </div>
 </section>
 

@@ -1,7 +1,7 @@
 timeZone = 'Europe/London'
 
 # Multilingual
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 
 disableHugoGeneratorInject = true
