@@ -89,14 +89,16 @@ article {
 }
 
 .wide-movie-container::before {
-    background: no-repeat 0vw 0vh url("/images/Video-Hintergund_SVGs_Gesamt.svg");
+    background: no-repeat url("/images/Video-Hintergund_SVGs_Gesamt.svg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain; 
     position: absolute;
     content: '';
-    width: 90vw;
+    width: 100vw;
     height: 100%;
+    // top: 6vw;
+    // right: 5vw;
     z-index: -1;
 }
 
