@@ -9,15 +9,15 @@
         <p>Project: {{ .Params.title_short }}</p>
     </div>
 
-    <div class="wide-image">
+    <div class="wide-movie-container">
         <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj={{ .Params.lecture2go }}'  title='{{ .Params.title }}' frameborder='0' allowfullscreen></iframe>
     </div>
 
     <div class="article-info">
-      <div>Students: {{ .Params.students }}</div>
-      <div>Round: {{ .Params.round }}</div>
-      <div>Mentors: {{ .Params.mentor }}</div>
-      <div>Period: {{ .Params.period }}</div>
+      <div class="bold">Students: {{ .Params.students }}</div>
+      <div class="text-secondary">Round: {{ .Params.round }}</div>
+      <div class="bold">Mentors: {{ .Params.mentor }}</div>
+      <div class="text-secondary">Period: {{ .Params.period }}</div>
     </div>    
     
     <div class="article-text">

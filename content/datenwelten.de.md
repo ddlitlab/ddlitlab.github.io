@@ -17,9 +17,9 @@ draft: false
         <p>From <span>210</span> subjects<i class="codicon codicon-rocket"></i></p>
         <p>By <span>27</span> lecturers<i class="codicon codicon-coffee"></i></p>
     </div>
-    <div class="wide-image">
-        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
-    </div>
+    <div class="wide-movie-container">
+    <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
+</div>
 </section>
 
 

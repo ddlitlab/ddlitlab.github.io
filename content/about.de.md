@@ -3,6 +3,12 @@ title: "Über uns"
 draft: false
 ---
 
+<figure>
+  <audio controls src="https://www.pod.uni-hamburg.de/1/files/16__--file--25--s--webplayer--c--episode--Podcast_Linguistik-Duo_final.mp3"></audio>
+  <a href="https://www.pod.uni-hamburg.de/1/files/16__--file--25--s--webplayer--c--episode--Podcast_Linguistik-Duo_final.mp3"> Download audio </a>
+</figure>
+
+
 <section>
   <div class="section-title">
       <h2>Über uns</h2>
@@ -50,7 +56,7 @@ draft: false
             <div class="timeline-content">
                 <h5 class="timeline-title">Kick-Off DDLitLab</h5>
                 <p class="timeline-text">
-                  Das DDLitLab startet offiziell mit einem Kick-Off-Event, bei dem die Ziele und Visionen des Projekts vorgestellt werden. Das Team trifft sich, um die nächsten Schritte zu planen und die Zusammenarbeit zu koordinieren.
+                  Das DDLitLab startet offiziell mit einem Kick-Off-Event, bei dem die Ziele und Visionen des Projekts vorgestellt werden. Das Team trifft sich, um die nächsten Schritte zu planen und die Zusammenarbeit zu koordinieren. 
                 </p>
             </div>
         </li>
@@ -62,7 +68,7 @@ draft: false
             <div class="timeline-content">
                 <h5 class="timeline-title">Start Datenwelten I</h5>
                 <p class="timeline-text">
-                  Das erste Modul des DDLitLab, "Datenwelten I", beginnt. In diesem Modul werden die Grundlagen der Datenkompetenz vermittelt, einschließlich der Bedeutung von Daten in der heutigen Gesellschaft und der grundlegenden Fähigkeiten im Umgang mit Daten.
+                  Die Vorlesung findet im Wintersemester statt und vermittelt Grundkenntnisse im Bereich Data Science. Ein besonderer Fokus liegt hierbei auf den informationstechnischen Systemen, die in weiten Teilen unseren Alltag (mit)gestalten. 
                 </p>
             </div>
         </li>
@@ -80,7 +86,7 @@ draft: false
             <div class="timeline-content">
                 <h5 class="timeline-title">Start Datenwelten II + Erste Runde Lehrlabore</h5>
                 <p class="timeline-text">
-                  Das zweite Modul "Datenwelten II" startet, in dem die Studierenden ihre Kenntnisse in der Datenanalyse vertiefen. Gleichzeitig beginnt die erste Runde der Lehrlabore, in denen innovative Lehrmethoden und digitale Tools erprobt werden.
+                      Die Datenwelten II finden im Sommersemester statt. Ziel ist es, einen Überblick über den aktuellen Stand der Datennutzung in unterschiedlichen gesellschaftlichen Teilbereichen zu erhalten und sich mit verknüpften ethischen Problemen auseinanderzusetzen. Zusätzlich unterstützt das DDLitLab seit April 2022 mit dem Data Literacy Lehrlabor innovative Lehrprojekte für maximal 12 Monate. Der Fokus liegt auf digitalen und hybriden Lehrinnovationen, die sich im Rahmen fachübergreifender sowie fachspezifischer Lehrangebote oder transferorientierter Lehraktivitäten bewegen. 
                 </p>
             </div>
         </li>
@@ -92,7 +98,7 @@ draft: false
             <div class="timeline-content">
                 <h5 class="timeline-title">Start DDLitLab Lecture Series</h5>
                 <p class="timeline-text">
-                  Die DDLitLab Lecture Series beginnt, in der Expert:innen aus verschiedenen Bereichen Vorträge zu Themen rund um digitale und datenbezogene Kompetenzen halten. Diese Vortragsreihe bietet eine Plattform für den Austausch von Ideen und Best Practices.
+                  Um in einen lebhaften Austausch mit Interessierten zu treten und die Diskussion rund um das Thema Daten- und Digitalkompetenzen an der Universität Hamburg anzuregen, haben wir die DDLitLab Lecture Series im Mai 2022 ins Leben gerufen. 
                 </p>
             </div>
         </li>
@@ -102,9 +108,9 @@ draft: false
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
-                <h5 class="timeline-title">Erste Runde Studi-Projekte</h5>
+                <h5 class="timeline-title">Erste Runde der Studentischen Forschungsprojekte mit Schwerpunkt Data Literacy</h5>
                 <p class="timeline-text">
-                  Die erste Runde der Studierendenprojekte startet. In diesen Projekten arbeiten die Studierenden an realen Herausforderungen und entwickeln innovative Lösungen, die ihre Datenkompetenz und digitalen Fähigkeiten weiter stärken.
+                  Vor dem Hintergrund der Digitalisierung unterstützen wir Studierende aller Fächer, ihre Digital- und Datenkompetenzen im Rahmen eigenständiger Projekte aufzubauen und sich zusätzliche Fertigkeiten im wissenschaftlichen Arbeiten und forschenden Lernen anzueignen. In der 1. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2022/23 wurden 8 Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert. 
                 </p>
             </div>
         </li>
@@ -116,7 +122,7 @@ draft: false
             <div class="timeline-content">
                 <h5 class="timeline-title">Launch Lehre-Navi</h5>
                 <p class="timeline-text">
-                  Das Lehre-Navi wird eingeführt, eine Plattform, die Studierenden hilft, geeignete Lehrveranstaltungen und Ressourcen zu finden, die ihre digitalen und datenbezogenen Kompetenzen fördern. Diese Plattform ist ein wichtiger Schritt zur Verbesserung der Lehr- und Lernumgebung an der Universität Hamburg.
+                  Das Lehre-Navi enthält Selbstlernmaterial, Veranstaltungen und andere Angebote für (digitale) Lehre. Zielgruppe sind Lehrende an der Universität Hamburg. 
                 </p>
             </div>
         </li>
@@ -132,9 +138,69 @@ draft: false
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
-                <h5 class="timeline-title">Zweite Runde Lehrlabore + Zweite Runde Studi-Projekte</h5>
+                <h5 class="timeline-title">Zweite Runde Lehrlabore + Zweite Runde der Studentischen Forschungsprojekte</h5>
                 <p class="timeline-text">
-                  Die zweite Runde der Lehrlabore beginnt, in der neue digitale Lehrmethoden und -technologien erprobt werden. Gleichzeitig startet die zweite Runde der Studierendenprojekte, in denen die Studierenden ihre Fähigkeiten weiter vertiefen und anwenden können.
+                      Vom Sommersemester 2023 bis einschließlich Wintersemester 2023/24 wurden 21 Lehrprojekte im Data Literacy Lehrlabor gefördert. In der 2. Ausschreibungsrunde der Studierendenprojekte werden 6 Projekte im Rahmen der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2023/24 gefördert, die sich aus unterschiedlichen Perspektiven praktisch und reflektiv mit Daten auseinandersetzen. 
+                </p>
+            </div>
+        </li>
+        <li class="timeline-item">
+            <div class="timeline-info">
+                <span>Juli 2023</span>
+            </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+                <h5 class="timeline-title">Auftakt KI Hands-On</h5>
+                <p class="timeline-text">
+                      Generative KI-Tools wie ChatGPT und Co. werfen nicht nur an der Universität Hamburg viele Fragen auf – von grundlegenden Zielen der Hochschulbildung über neue praktische Gestaltungsmöglichkeiten der eigenen Lehre bis hin zu konkreten prüfungsrechtlichen Aspekten. Unsere Veranstaltungsreihe und Community of Practice „KI Hands-On“ nimmt genau solchen Aspekte in den Blick. 
+                </p>
+            </div>
+        </li>
+        <li class="timeline-item">
+            <div class="timeline-info">
+                <span>September 2023</span>
+            </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+                <h5 class="timeline-title">Publikation "ChatGPT and Me"</h5>
+                <p class="timeline-text">
+                      Im Kontext des Digital and Data Literacy in Teaching Projektes (DDLitLab) wurde im Juli eine Online-Umfrage zum Einsatz generativer KI an der Universität Hamburg durchgeführt. Über 1.500 Mitglieder der Universität Hamburg haben sich beteiligt und dadurch erste Einblicke in die neue Lebensrealität mit generativer KI an der Hochschule ermöglicht. 
+                </p>
+            </div>
+        </li>
+        <li class="timeline-item">
+            <div class="timeline-info">
+                <span>Oktober 2023</span>
+            </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+                <h5 class="timeline-title">Dritte Runde der Studentischen Forschungsgruppen mit Schwerpunkt Data Literacy + Start „Datenwelten Übung“</h5>
+                <p class="timeline-text">
+                          In der 3. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2023/24 werden 10 Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert. In der vorlesungsbegleiteten Übung der „Datenwelten“ lernen Studierende die Grundlagen der Statistiksoftware R für die Datenanalyse kennen. Dabei arbeiten sie mit öffentlichen oder persönlichen Daten und führen ein eigenes kritisches Datenprojekt durch. 
+                </p>
+            </div>
+        </li>
+        <li class="timeline-item">
+            <div class="timeline-info">
+                <span>August 2024</span>
+            </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+                <h5 class="timeline-title">Fortführung des Lehrlabors als „CDTLs“</h5>
+                <p class="timeline-text">
+                          Mit der dritten Förderrunde des Data Literacy Lehrlabors 2024/25 wird die Zusammenführung und Verstetigung eines der Kernvorhaben des DDLitLab mit dem Hub of Computing and Data Science (HCDS) in den Blick genommen. 
+                </p>
+            </div>
+        </li>
+        <li class="timeline-item">
+            <div class="timeline-info">
+                <span>Oktober 2024</span>
+            </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+                <h5 class="timeline-title">Vierte Runde der Studentischen Forschungsgruppen mit Schwerpunkt Data Literacy + Publikation „ChatGPT and me 2.0“</h5>
+                <p class="timeline-text">
+                              In der 4. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2024/25 werden sieben Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert. Im Juli 2024 haben wir die Erhebung zu „ChatGPT & me 2.0“ über die Lebensrealität mit generativer KI an der Uni Hamburg durchgeführt. Diese wurde dann im Oktober als Forschungsbericht veröffentlicht. 
                 </p>
             </div>
         </li>

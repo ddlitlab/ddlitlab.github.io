@@ -15,11 +15,12 @@ $spacing-desktop: 2.5rem;
   --black-light: #666;
   --black-lighter: #999;
 
-  --white: #fdfdfd;
+  --white: #ffffff;
   --white-dark: #fafafa;
 
 
   --background-white: var(--primary-lighter);
+
 
 
   //Colors David
@@ -40,6 +41,7 @@ $spacing-desktop: 2.5rem;
 
   --primary-light: rgb(255,242,113);
   --primary-lighter: rgb(255,255,194);
+  --primary-lightest: rgb(255, 255, 222);
 
   --primary-dark: rgb(255,205,0);
   --primary-darker: rgb(255,175, 0);

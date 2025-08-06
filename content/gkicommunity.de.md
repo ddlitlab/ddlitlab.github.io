@@ -110,3 +110,37 @@ Von Tool-Übersichten bis Reflexionsfragen: Die KI-Website bietet Studierenden O
 
     ChatGPT & me 3.0 (2025) 
     [folgt] 
+
+
+
+Weitere wichtige Veranstaltungen (vllt. Als separater Zeitstrahl?) 
+
+ 
+
+Fellow-Workshops 
+
+Fellow-Workshop: Auftakt des Lehrlabors – Mai 2022 
+
+Fellow-Workshop: Verstetigung des Lehrlabors – November 2022 
+
+Fellow-Workshop: Auftakt der zweiten Förderrunde – Mai 2023 
+
+Fellow-Workshop: Vernetzung und Nachhaltigkeit des Lehrlabors – November 2023 
+
+ 
+
+KI Hands-On 
+
+KI Hands-On: Lehrbeispiele zu generativer KI an der Universität Hamburg – Juli 2023 
+
+KI Hands-On #2: Diskussion von Rahmenempfehlungen zum Umgang mit gKI-Systemen an der UHH – November 2023 
+
+KI Hands-on #3: Workshop Use Cases – Februar 2024 
+
+KI Hands-On #4: Barcamp-Edition – Mai 2024 
+
+KI Hands-On #5: Custom GPTs und Prompting – Oktober 2024 
+
+KI Hands-On #6: Was müssen Studierende in Zeiten von gKI Neues fürs Studium lernen? – Januar 2025 
+
+KI Hands-On #7: KI-Handreichung für Studierende – Mai 2025 
