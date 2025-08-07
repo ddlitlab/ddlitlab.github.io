@@ -92,18 +92,103 @@
     // display: grid;
     grid-template-columns: 0.1fr 1fr;
     align-items: center;
-    row-gap: 0.2em;
+    column-gap: 0.5em;
+    row-gap: 0.5em;
     text-align: left;
     // gap: 20px;
     // width: 500px;
 }
 
-
-.grid-dw-events {
-    grid-template-columns: 1fr 1fr;
-    row-gap: 0.5em;
-    // align-items: center;
+.icon-starter {
+    float: left;
+    font-size: 3em !important;
+    line-height: 1;
+    // @include highlight-icon;
 }
+
+.datenwelten-inhalte-text {
+    position: relative;
+    // padding-left: 0.5em;
+
+    &::before {
+        content: "\eb70";
+        font-family: "codicon";
+        position: absolute;
+        left: -1em;
+        font-size: 3em;
+        // float: left;
+        line-height: 1;
+        @include highlight-icon;
+    }
+}
+
+.datenwelten-inhalte {
+    display: grid;
+    grid-template-columns: 3fr 0.5fr 3fr;
+    grid-template-areas: 
+        "winter-meta winter winter"
+        "sommer sommer sommer-meta";
+    place-items: center;
+    gap: 2em 4em;
+    text-align: left;
+    hyphens: none;
+}
+
+.grid-datenwelten-inhalte .highlight {
+    font-weight: 550;
+    text-decoration-thickness: 0.1em;
+    text-underline-offset: 0.3em;
+}
+
+.datenwelten-inhalte-winter-meta {
+    grid-area: winter-meta;
+}
+
+.datenwelten-inhalte-winter-content {
+    grid-area: winter;
+}
+
+.datenwelten-inhalte-sommer-content {
+    grid-area: sommer;
+}
+
+.datenwelten-inhalte-sommer-meta {
+    grid-area: sommer-meta;
+}
+
+i.icon-bullet {
+    font-size: 2em !important;
+    // @include highlight-icon;
+}
+
+@media (max-width: $breakpoint-mobile) {
+    .datenwelten-inhalte {
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+            "winter-meta"
+            "winter"
+            "sommer-meta"
+            "sommer";
+        gap: 2em;
+    }
+
+    .datenwelten-inhalte-text::before {
+        position: relative;
+        float: left;
+        left: 0;
+    }
+
+    .datenwelten-inhalte-winter-meta,
+    .datenwelten-inhalte-winter-content,
+    .datenwelten-inhalte-sommer-content,
+    .datenwelten-inhalte-sommer-meta {
+        width: 100%;
+    }
+}
+
+
+
+
 
 
 .dw-content {
@@ -120,17 +205,95 @@
     border-radius: 12px;
     background-color: var(--accent-lighter);
 
+    & i {
+          font-size: 2em !important;
+          @include highlight-icon;
+    }
+
+    & p {
+        padding: 0 1em 1em 1em;
+    }
+
     
+}
+
+.datenwelten-hero {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 4em;
+    text-align: left;
+    hyphens: none;
+}
+
+.datenwelten-hero-left {
+    font-size: 1.5em;
+    grid-column: 1 / 3;
+    position: relative;
+    color: var(--black-light);
+    width: 70%;
+}
+
+.datenwelten-hero-right {
+    font-size: 1.2em;
+    grid-column: 2 / 4;
+    position: relative;
+    // line-height: 2.5em;
+}
+
+.datenwelten-hero-left p {
+    font-weight: 500;
+    border-top: var(--primary-light) 0.4em solid;
+    // width: 50%
+    padding-top: 0.5em;
+}
+
+.datenwelten-hero-answer {
+    font-size: 1.5em;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+}
+
+.datenwelten-hero-right::after{
+    content: "\eaf3";
+    font-family: "codicon";
+    position: absolute;
+    position: center;
+    left: 60%;
+    font-size: 5em;
+    font-weight: 1000;
+    line-height: 1;
+    color: var(--black-lighter);
+}
+
+@media (max-width: $breakpoint-mobile) {
+    .datenwelten-hero {
+        grid-template-columns: 1fr;
+    }
 }
 
 // https://css.glass/
 .dw-glass {
     background: rgba(255, 255, 255, 0.1);
-    border-radius: 16px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    // border-radius: 16px;
+    margin: 1em;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
+    padding: 2em 4em;
     // border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.dw-background::before {
+    background: url("/images/datenwelten/datenwelten-background.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    position: absolute;
+    content: '';
+    width: 100vw;
+    height: 100%;
+    z-index: -1;
+    left: -5vw;
 }
 
 
@@ -140,44 +303,68 @@
     text-transform: uppercase;
     letter-spacing: 0.08em;
     font-weight: 600;
-    text-align: right;
+    text-align: left;
+
+    // text-decoration: overline;
+    // text-decoration-color: var(--black-lighter);
+    // text-decoration-thickness: 0.5em;
+    // text-underline-offset: 1em;
+    border-top: var(--primary-light) 0.4em solid;
+    width: 50%;
+    padding-top: 0.5em;
 }
 
-.dw-content-card h3 {
+.datenwelten-inhalte h3 {
     color: var(--black);
     font-size: var(--size-h3);
     text-transform: uppercase;
     letter-spacing: 0.05em;
+    text-align: left;
+    display: block;
+    
 }
 
-.dw-events {
+// Datenwelten Vergangene Veranstaltungen
+details.datenwelten-events {
+  width: 80vw;
+}
+
+.grid-datenwelten-events {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+    padding: 1em 1em;
     font-size: 1em;
     color: var(--black-light);
-
-    & p {
-        font-size: 1em;
-        color: var(--black-light);
-        // margin-bottom: var(--spacing-tablet);
-    }
-
-    & h5 {
-        font-size: var(--size-h5);
-        color: var(--blacklight);
-        text-transform: uppercase;
-        text-align: center;
-    }
-
-    & a {
-        text-decoration: none;
-        color: var(--black-light);
-    }
-
-    & ul {
-        list-style-type: disc;
-        margin-left: 1.5em;
-        padding-left: 0;
-    }
+    text-align: left;
 
 }
 
+.grid-datenwelten-events h4 {
+    width: 80%;
+    font-size: 1.2em
+}
 
+
+
+.grid-datenwelten-events p, h5 {
+    font-size: 0.8em;
+    color: var(--black-light);
+    margin-bottom: 0.3em;
+}
+
+.grid-datenwelten-events h5 {
+    text-transform: uppercase;
+    margin-bottom: 0.5em;
+}
+
+.grid-datenwelten-events a {
+    text-decoration: none;
+    color: var(--black-light);
+}
+
+.grid-datenwelten-events ul {
+    list-style-type: disc;
+    margin-left: 1.5em;
+    padding-left: 0;
+}

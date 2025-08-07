@@ -1,7 +1,7 @@
 {{ $dw_eventIndex := .Get "dw_event" | int }}
 {{ $dw_event := index site.Data.dw_events $dw_eventIndex }}
-<p>
+<p class="hover-fx">
     <a href="{{ $dw_event.link }}" target="_blank">
-        <i class="codicon {{ $dw_event.icon }}"></i> {{ $dw_event.title }}
+        <i class="codicon {{ $dw_event.icon }}"></i> {{ $dw_event.title }}<i class='codicon codicon-arrow-right' style='transform: rotate(-45deg); font-size: 1em; font-weight: 1000;'></i>
     </a>
 </p>

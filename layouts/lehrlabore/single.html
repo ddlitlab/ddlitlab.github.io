@@ -10,10 +10,20 @@
     </div>
 
     {{ with .Params.lecture2go }}
-    <div class="wide-image">
+    <div class="wide-movie-container">
         <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj={{ . }}'  title='{{ $.Params.title }}' frameborder='0' allowfullscreen></iframe>
     </div>
     {{ end }}
+
+    <div>
+      <details class="details-spotlight">
+          <summary>Informationen zur Interview-Reihe</summary>
+          <h3>Spotlight: Data Literacy Lehrlabor</h3>
+          <p>In unsere Reihe „Spotlight: Data Literacy Lehrlabor” sprechen wir mit Lehrpersonen, die mit ihren Lehrprojekten vom Digital and Data Literacy in Teaching Lab (kurz: DDLitLab) der Universität Hamburg gefördert wurden. Was waren die innovativen Ideen der Projekte? Was die besonderen didaktischen und inhaltliche Herausforderungen, aber auch Highlights? Und gibt es vielleicht konkrete Tipps für andere Lehrpersonen, die auch ein neues Lehr- projekt ins Leben rufen möchten und auf der Suche nach Erfahrungsberichten sind? Das und mehr klären wir bei unserem Blick auf und hinter die Kulissen. Spotlight an!</p>
+          <p><span class="highlight">Konzept & Produktion</span>: Julia Pawlowski, Sven Rehder, Simon Steinhauser, unterstützt von Laura Aguilera</p>
+          {{/*  Digital and Data Literacy in Teaching Lab, Februar 2024/25  */}}
+      </details>
+    </div>
 
     <div class="article-info">
       <div>Contributors: {{ .Params.contributors }}</div>
