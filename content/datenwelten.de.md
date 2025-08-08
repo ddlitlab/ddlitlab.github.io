@@ -13,15 +13,17 @@ draft: false
         <div class="datenwelten-hero-left">
             <p>Du bist neugierig, wie Daten unsere Gesellschaft formen? Dir brummt der Kopf bei der Geschwindigkeit der aktuellen Entwicklungen?</p>
         </div>
+        <!-- <div class="datenwelten-hero-icons">
+            <i class="codicon codicon-preview"></i>
+            <i class="codicon codicon-project"></i>
+            <i class="codicon codicon-pulse"></i>
+            <i class="codicon codicon-question"></i>
+            <i class="codicon codicon-radio-tower"></i>
+        </div> -->
         <div class="datenwelten-hero-right">
             <p class="datenwelten-hero-answer">Dann komm in die Ringvorlesung Datenwelten!</p>
             <p>Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus interdisziplinären Perspektiven beleuchtet.</p>
         </div>
-    </div>
-    <div class="info-numbers">
-        <p>Über <span>2400</span> Studierende<i class="codicon codicon-mortar-board" style="font-size: 2em; transform: translateX(0.2em) translateY(0.2em);"></i></p>  
-        <p>Aus <span>210</span> Fächern<i class="codicon codicon-rocket"></i></p>
-        <p>Von <span>27</span> Dozierenden<i class="codicon codicon-coffee"></i></p>
     </div>
     <div class="wide-movie-container">
         <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
@@ -42,7 +44,7 @@ draft: false
             <p class="dw-pretitle">Wintersemester</p>
             <h3>Datenwelten 1</h3>
             <p class="datenwelten-inhalte-text">Im Wintersemester legt die Vorlesungsreihe den Fokus auf <span class="highlight">Grundlagen von Statistik, Datenanalyse und Machine Learning</span> aus einer technischen Perspektive. Das <span class="highlight">interdisziplinäre Team</span> setzt sich aus Dozierenden der Informatik und den Sozialwissenschaften zusammen.</p>
-            <div class="nav-links">
+            <div>
                 <a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank">
                     Zur Vorlesungsreihe auf Lecture2Go
                     <i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
@@ -65,7 +67,7 @@ draft: false
             <p class="dw-pretitle">Sommersemester</p>
             <h3>Datenwelten 2</h3>
             <p class="datenwelten-inhalte-text">Im Sommersemester beleuchtet die Vorlesungsreihe gesellschaftliche, politische und wirtschaftliche Zusammenhänge der zunehmenden <span class="highlight">Datafizierung und Digitalisierung</span> aus unterschiedlichen Perspektiven durch Dozierende <span class="highlight">aller Fakultäten</span>.</p>
-            <div class="nav-links">
+            <div>
                 <a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank">
                     Zur Vorlesungsreihe auf Lecture2Go
                     <i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
@@ -85,6 +87,11 @@ draft: false
                 <div>Möglichkeiten und Grenzen der rechtlichen (Datenschutz) und technischen (IT-Sicherheit) <span class="highlight">Regulierung</span> von Datennutzung und deren Konsequenzen</div>
             </div>
     </div>
+    </div>
+    <div class="info-numbers">
+        <p>Über <span>2400</span> Studierende<i class="codicon codicon-mortar-board" style="font-size: 2em; transform: translateX(0.2em) translateY(0.2em);"></i></p>  
+        <p>Aus <span>210</span> Fächern<i class="codicon codicon-rocket"></i></p>
+        <p>Von <span>27</span> Dozierenden<i class="codicon codicon-coffee"></i></p>
     </div>
     <details class="datenwelten-events">
         <summary>Vergangene Veranstaltungen</summary>

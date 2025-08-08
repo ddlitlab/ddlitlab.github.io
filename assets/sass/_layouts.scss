@@ -86,6 +86,7 @@ article {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 5vw 0;
 }
 
 .wide-movie-container::before {
@@ -122,7 +123,7 @@ article {
     display: grid;
     grid-template-columns: 1fr;
     width: 60vw;
-    margin: 10% 20vw;
+    margin: 0 20vw;
     color: var(--black);
     font-weight: 1000;
     gap: 0px;

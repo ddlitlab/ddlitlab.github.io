@@ -245,6 +245,8 @@ i.icon-bullet {
     border-top: var(--primary-light) 0.4em solid;
     // width: 50%
     padding-top: 0.5em;
+    padding-left: 1.7em;
+    margin-left: 1em;
 }
 
 .datenwelten-hero-answer {
@@ -253,17 +255,84 @@ i.icon-bullet {
     margin-bottom: 0.5em;
 }
 
-.datenwelten-hero-right::after{
-    content: "\eaf3";
+// .datenwelten-hero-icons {
+//     color: var(--black-lighter);
+//     position: relative;
+// }
+
+// .datenwelten-hero-icons i {
+//     position: absolute;
+//     top: 50%;
+//     left: 50%;
+//     font-weight: 1000 !important;
+//     font-size: 3em !important;
+//     // transform: translate(-50%, -50%);
+// }
+
+// .datenwelten-hero-icons i:nth-child(1) {
+//     transform: translate(80%, 80%);
+// }
+
+// .datenwelten-hero-icons i:nth-child(2) {
+//     transform: translate(-80%, 80%);
+// }
+
+.datenwelten-hero-left::before{
+    content: "\eb33";
     font-family: "codicon";
     position: absolute;
     position: center;
-    left: 60%;
+    left: -3%;
+    top: 17%;
+    font-size: 3.5em;
+    font-weight: 1000;
+    line-height: 1;
+    color: var(--black-lighter);
+}
+
+.datenwelten-hero-left::after{
+    background: no-repeat url("/images/adobe/datenwelten.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    position: absolute;
+    content: '';
+    width: 200%;
+    height: 200%;
+    left: 20vw;
+    top: -10vw;
+    // width: 100vw;
+    // height: 100%;
+    // top: 6vw;
+    // right: 5vw;
+    z-index: -1;
+}
+
+.datenwelten-hero-right::after{
+    content: "\ebe2";
+    font-family: "codicon";
+    position: absolute;
+    position: center;
+    left: -12%;
+    top: 30%;
     font-size: 5em;
     font-weight: 1000;
     line-height: 1;
     color: var(--black-lighter);
 }
+
+// .datenwelten-hero-right::before{
+//     content: "\eab1";
+//     font-family: "codicon";
+//     position: absolute;
+//     position: center;
+//     left: -12%;
+//     top: 30%;
+//     font-size: 5em;
+//     font-weight: 1000;
+//     line-height: 1;
+//     color: var(--black-lighter);
+// }
 
 @media (max-width: $breakpoint-mobile) {
     .datenwelten-hero {
