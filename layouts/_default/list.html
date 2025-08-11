@@ -1,9 +1,9 @@
 {{ define "main" }}
-
-<div class="container py-3">
+{{/*  
+<div>
 
     {{ if or .Site.Params.options.listCategoryFilter .Site.Params.options.listTagFilter }}
-        <div class="row mb-3">
+        <div>
 
             {{ if .Site.Params.options.listCategoryFilter }}
                 <div class="col-auto">
@@ -30,9 +30,9 @@
 
         {{ range .Pages }}
         <div class="card border-light-subtle mb-3">
-            <div class="row g-0">
+            <div>
 
-                <div class="col-md-4 d-flex align-items-center">
+                <div>
                     {{ if isset .Params "images" }}
                         {{ with .Resources.GetMatch (index .Params.Images 0) }}
                             {{ $image := .Fill "600x300 Center webp" }}
@@ -41,7 +41,7 @@
                     {{ end }}
                 </div>
 
-                <div class="col-md-8">
+                <div>
                     <div class="card-body">
                         <h2 class="card-title text-primary">{{ .Title }}</h2>
 
@@ -82,5 +82,5 @@
 
     {{ end }}
 
-</div>
+</div>  */}}
 {{ end }}

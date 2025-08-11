@@ -33,7 +33,6 @@ draft: false
 
 
 <section>
-    <div class="section-content">
     <header class="section-header">
         <h1 class="section-title">Inhalte der Datenwelten</h1>
         <p class="section-subtitle">Interdisziplinäre Perspektiven</p>
@@ -92,7 +91,6 @@ draft: false
         <p>Über <span>3100</span> Studierende<i class="codicon codicon-mortar-board" style="font-size: 2em; transform: translateX(0.2em) translateY(0.2em);"></i></p>  
         <p>Aus <span>213</span> Fächern<i class="codicon codicon-rocket"></i></p>
         <p>Von <span>34</span> Dozierenden<i class="codicon codicon-coffee"></i></p>
-    </div>
     </div>
 </section>
 

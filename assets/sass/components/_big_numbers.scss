@@ -1,0 +1,35 @@
+// bisher nur bei Datenwelten verwendet
+.info-numbers {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 60vw;
+    margin: 0 20vw;
+    color: var(--black);
+    font-weight: 1000;
+    gap: 0px;
+    & p {
+        text-transform: uppercase;
+        font-size: clamp(1rem, 2.5vw, 3rem);
+        margin: 0;
+        letter-spacing: 0.1vw;
+    }
+    & span {
+        font-size: clamp(1.5rem, 5vw, 6rem);
+    }
+    & p:nth-child(1) {
+        justify-self: start;
+    }
+    & p:nth-child(2) {
+        justify-self: end;
+    }
+    & p:nth-child(3) {
+        justify-self: center; 
+    }
+
+}
+
+.info-numbers i {
+    font-size: 2em !important;
+    transform: translateX(0.2em) translateY(0.25em);
+    display: inline-block !important; /* Important for transform to work correctly on inline elements */
+}

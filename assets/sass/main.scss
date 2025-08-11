@@ -20,7 +20,11 @@
 @import "components/_timeline"; // todos: css streamlining, general design (font-sizes etc.), inhalte anpassen
 
 @import "components/_navigation"; // todos: css streamlining, general design, header.html streamlinen?
-@import "components/_section-components"; // todos: css streamlining, responsive 
+@import "components/_section"; // todos: css streamlining, responsive 
+@import "components/_article"; // todos: css streamlining, responsive
+
+@import "components/_background";
+@import "components/_big_numbers";
 
 @import "pages/_home";
 @import "pages/_home_hero";

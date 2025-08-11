@@ -3,7 +3,7 @@
 <main>
   {{ .Content }}
 
-  <article>
+  <article class="article-project">
     <header class="section-header">
         <h1 class="section-title">{{ .Params.title }}</h1>
         <p class="section-subtitle">Project: {{ .Params.title_short }}</p>
@@ -24,7 +24,7 @@
       {{ .Params.text | markdownify }}
     </div>
 
-    <div>
+    <div class="article-backref">
       <a class="hover-fx" href="/studiprojekte/"><i class="codicon codicon-arrow-left" style="font-size: 1rem; display: inline-block; font-weight: 1000"></i> Zurück zur Übersicht</a>
     </div>
 

@@ -1,0 +1,27 @@
+.article-project {
+    gap: 2em;
+}
+
+.article-text {
+    text-align: justify;
+    hyphens: auto;
+}
+
+.article-text p {
+    margin-bottom: 1em;
+}
+
+.article-text em {
+    font-style: normal;
+    @include highlight;    
+}
+
+.article-backref {
+    text-align: center;
+}
+
+@media (max-width: $breakpoint-mobile) {
+    .article-text {
+        text-align: left;
+    }
+}
