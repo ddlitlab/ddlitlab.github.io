@@ -11,34 +11,6 @@ draft: false
 </section>
 
 
-<div class="row">
-        <div class="starter-content-area">
-            <h3>Data Literacy für alle.</h3>
-            <p>Neugierig auf Daten und ihre Bedeutung für unsere Gesellschaft? Mehr über datengetriebene Systeme erfahren? Wolltest du schon immer mal... Dir brummt der Kopf? Dann komm in die Ringvorlesung Datenwelten!</p>
-        </div>
-        <div class="starter-image-area">
-            <img src="/images/datenwelten/lehre_david_01.png" alt="datenwelten-01">
-        </div>
-    </div>
-    <div class="row reverse">
-        <div class="starter-content-area">
-            <h3>Zwischen Code und Kontext.</h3>
-            <p>Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus verschiedenen Perspektiven beleuchtet.</p>
-        </div>
-        <div class="starter-image-area">
-            <img src="/images/datenwelten/lehre_david_01.png" alt="datenwelten-02">
-        </div>
-    </div>
-    <div class="row">
-        <div class="starter-content-area">
-            <h3>Interdisziplinäre Perspektiven.</h3>
-            <p>Film Thumbnail. Dieser Text hat nur etwa 300 Zeichen. Nutzt ihn, um das Statement aus der Überschrift zu unterlegen und auf das WIE, das WAS und das WARUM genauer einzugehen. Das ist viel leichter gesagt, als getan. Darum heißt dieser Bereich ja auch Impact-Story-Schlaglichter. Ausführungen kommen später (weiter unten auf der Seite)</p>
-        </div>
-        <div class="starter-image-area">
-            <img src="/images/datenwelten/zahlen.svg" alt="datenwelten-zahlen">
-        </div>
-    </div>
-
 KI verstehen, nutzen, reflektieren – Studierende im Umgang mit KI stärken 
 
 Wie kann man KI sinnvoll im Studium nutzen? Eine interaktive Website, eine praxisnahe Handreichung und ein vielseitiges Workshopkonzept unterstützen Studierende dabei, KI-Technologien reflektiert zu nutzen. 

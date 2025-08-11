@@ -17,20 +17,15 @@ draft: false
   <div class="wide-image">
       <img src="/images/team/_gruppenbild.jpg" alt="team picture">
     </div>
-    <div class="wide-text">
-  <!-- <div class="grid-about-text">
-  <div class="grid-item"> -->
+    <article class="about-text-wide">
     <p>Das Projekt „Digital and Data Literacy in Teaching Lab“ (DDLitLab) ist ein fachübergreifendes und hochschulweites Vorhaben der Universität Hamburg, das von August 2021 bis Dezember 2025 von der Stiftung Innovation in der Hochschullehre mit einem Fördervolumen von knapp 5 Mio. Euro gefördert wird. Ziel ist es, die Vermittlung digitaler und datenbezogener Kompetenzen sowohl bei Studierenden aller Fachrichtungen als auch bei Lehrenden systematisch zu stärken und neue Impulse für innovative Lehre an der Universität Hamburg zu setzen.</p>
     <p>Im Mittelpunkt steht dabei die Überzeugung, dass die Fähigkeit, digitale Technologien reflektiert zu nutzen und datenbasierte Prozesse kritisch zu bewerten, zu den zentralen Zukunftskompetenzen gehört. Studierende werden in die Lage versetzt, Daten nicht nur technisch zu verarbeiten, sondern ihre gesellschaftlichen und ethischen Implikationen zu verstehen und kritisch zu hinterfragen. Gleichzeitig werden Lehrende unterstützt, digitale und hybride Formate didaktisch sinnvoll in ihre Curricula zu integrieren und die Potenziale neuer Technologien für gute Lehre einzusetzen.</p>
-    <!-- </div>
-    <div class="grid-item"> -->
     <p>Ein zentrales Angebot bildet das interdisziplinäre Grundlagenprogramm „Datenwelten“, bestehend aus einer Ringvorlesung und begleitenden Übungen. Hier werden technische Grundlagen, Methoden und gesellschaftliche Fragestellungen rund um Digitalisierung, Datenanalyse und Datafizierung praxisnah vermittelt. Praktische Übungen mit Werkzeugen wie Jupyter Notebooks fördern den eigenständigen Kompetenzerwerb.</p>
     <p>Mit dem Data Literacy Lehrlabor und den daraus resultierenden fakultätsübergreifenden Cross-Disciplinary Teaching Labs (CDTLs) bietet das DDLitLab in Kooperation mit dem Hamburger Zentrum für universitäres Lehren und Lernen (HUL) und dem Hub of Computing and Data Science (HCDS) gezielte Förderung und Unterstützung für innovative Lehrprojekte. Lehrende können hier neue digitale oder hybride Lehrkonzepte entwickeln, sich vernetzen und voneinander lernen. Ergänzt wird das Angebot um studentische Forschungsgruppen, in denen Studierende eigeninitiativ datenbasierte Fragestellungen bearbeiten und so zusätzliche Kompetenzen im wissenschaftlichen und selbstorganisierten Arbeiten aufbauen.</p>
     <p>Ein weiterer Schwerpunkt liegt auf der Qualifizierung Lehrender und Tutor:innen für die digitale und hybride Hochschullehre. Unter dem Dach des Teilprojektes DUTy (Digital University Teaching Literacy) werden Workshops, Beratungen und Fortbildungsformate unter anderem zu Digitalisierung, KI und Didaktik angeboten. Darüber hinaus fördert das Projekt Transferaktivitäten und Praxisbezüge, beispielsweise durch die Durchführung von Data Challenges und die Zusammenarbeit mit außeruniversitären Partnern.</p>
     <p>Das DDLitLab hat über den Ringvorlesungszyklus „Datenwelten“ mehr als 2.400 Studierende aus über 210 Fächern erreicht; in 31 studentischen Forschungsgruppen haben 77 Studierende an eigenen datenbasierten Projekten gearbeitet. Zahlreiche Lehrprojekte in unterschiedlichsten Disziplinen werden angestoßen, begleitet und ausgewertet.</p>
     <p>Mit dem Abschluss des Projekts Ende 2025 stehen die hier entwickelten Materialien und Konzepte als Ressource für die Weiterentwicklung der digitalen und datenbezogenen Hochschullehre an der Universität Hamburg und darüber hinaus zur Verfügung. Die Erfahrungen des DDLitLab sollen langfristig zur Verankerung und Förderung von Data Literacy als Schlüsselkompetenz an der Universität beitragen.</p>
-    <!-- </div> -->
-    </div>
+    </article>
     <div class="row hero-partners">
         <a href="https://www.uni-hamburg.de/">
           <img src="/svg/uhh.svg" alt="UHH Logo" class="logo-bigger">

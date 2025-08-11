@@ -1,3 +1,25 @@
+
+
+.about-text-wide {
+    padding: 20px;
+    text-align: justify;
+}
+
+.about-text-wide p {
+    margin-bottom: 1.5rem;
+}
+
+
+
+// Team
+.team {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    max-width: 1200px;
+    // margin: 0 auto;
+}
+
 // filepath: [_team.scss](http://_vscodecontentref_/1)
 .team-card {
   display: flex;
