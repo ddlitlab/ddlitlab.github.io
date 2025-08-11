@@ -4,11 +4,11 @@ draft: false
 ---
 
 <section>
-    <div class="section-title">
-        <h2>GKI-Community</h2>
-        <p>Gemeinsam gestalten</p>
-    </div>
-    </section>
+    <header class="section-header">
+        <h1 class="section-title">GKI-Community</h1>
+        <p class="section-subtitle">Gemeinsam gestalten</p>
+    </header>
+</section>
 
 
 <div class="row">

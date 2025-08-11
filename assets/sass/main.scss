@@ -2,9 +2,10 @@
 @import "base/_reset";
 @import "abstract/_variables";
 @import "abstract/_mixins";
-@import "layout/_layouts";
+
 @import "base/_typography";
 
+@import "layout/_layout";
 @import "layout/_footer";
 
 
@@ -19,7 +20,7 @@
 @import "components/_timeline"; // todos: css streamlining, general design (font-sizes etc.), inhalte anpassen
 
 @import "components/_navigation"; // todos: css streamlining, general design, header.html streamlinen?
-@import "components/_section-components";
+@import "components/_section-components"; // todos: css streamlining, responsive 
 
 @import "pages/_home";
 @import "pages/_home_hero";

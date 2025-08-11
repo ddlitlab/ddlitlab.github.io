@@ -5,10 +5,10 @@ draft: false
 <!-- <div class="background-pattern"> -->
 
 <section>
-    <div class="section-title">
-        <h2>Ringvorlesung Datenwelten</h2>
-        <p>Daten verstehen, Zukunft gestalten</p>
-    </div>
+    <header class="section-header">
+        <h1 class="section-title">Ringvorlesung Datenwelten</h1>
+        <p class="section-subtitle">Daten verstehen, Zukunft gestalten</p>
+    </header>
     <div class="datenwelten-hero">
         <div class="datenwelten-hero-left">
             <p>Du bist neugierig, wie Daten unsere Gesellschaft formen? Dir brummt der Kopf bei der Geschwindigkeit der aktuellen Entwicklungen?</p>
@@ -34,10 +34,10 @@ draft: false
 
 <section>
     <div class="section-content">
-    <div class="section-title">
-        <h2>Inhalte der Datenwelten</h2>
-        <p>Interdisziplinäre Perspektiven.</p>
-    </div>
+    <header class="section-header">
+        <h1 class="section-title">Inhalte der Datenwelten</h1>
+        <p class="section-subtitle">Interdisziplinäre Perspektiven</p>
+    </header>
     <div class="dw-background">
     <div class="dw-glass datenwelten-inhalte">
         <div class="datenwelten-inhalte-winter-meta">
@@ -106,10 +106,10 @@ draft: false
 
 
 <section>
-    <div class="section-title">
-        <h2>Begleitende Übungen</h2>
-        <p>Zwischen Code und Kontext.</p>
-    </div>
+    <header class="section-header">
+        <h1 class="section-title">Begleitende Übungen</h1>
+        <p class="section-subtitle">Zwischen Code und Kontext</p>
+    </header>
     <!-- <div class="starter-image-area">
             <img src="/images/datenwelten/lehre_david_01.png" alt="datenwelten-01">
         </div> -->

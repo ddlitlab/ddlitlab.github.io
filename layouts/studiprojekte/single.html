@@ -4,10 +4,10 @@
   {{ .Content }}
 
   <article>
-    <div class="section-title">
-        <h2>{{ .Params.title }}</h2>
-        <p>Project: {{ .Params.title_short }}</p>
-    </div>
+    <header class="section-header">
+        <h1 class="section-title">{{ .Params.title }}</h1>
+        <p class="section-subtitle">Project: {{ .Params.title_short }}</p>
+    </header>
 
     <div class="wide-movie-container">
         <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj={{ .Params.lecture2go }}'  title='{{ .Params.title }}' frameborder='0' allowfullscreen></iframe>

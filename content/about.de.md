@@ -10,10 +10,10 @@ draft: false
 
 
 <section>
-  <div class="section-title">
-      <h2>Über uns</h2>
-      <p>Digital denken von Anfang an</p>
-  </div>
+  <header class="section-header">
+    <h1 class="section-title">Über uns</h1>
+    <p class="section-subtitle">Digital denken von Anfang an</p>
+  </header>
   <div class="wide-image">
       <img src="/images/team/_gruppenbild.jpg" alt="team picture">
     </div>
@@ -42,18 +42,18 @@ draft: false
   </section>
 
 <section>
-    <div class="section-title">
-        <h2>Timeline</h2>
-        <p>A journey through time.</p>
-    </div>
+    <header class="section-header">
+      <h1 class="section-title">Zeitstrahl</h1>
+      <p class="section-subtitle">Unsere Geschichte</p>
+    </header>
     {{< timeline >}}
 </section>
 
 <section>
-  <div class="section-title">
-      <h2>Unser Team</h2>
-      <p>Alles ist gut, solange du wild bist.</p>
-  </div>
+  <header class="section-header">
+    <h1 class="section-title">Unser Team</h1>
+    <p class="section-subtitle">Alles ist gut, solange du wild bist</p>
+  </header>
   <div class="grid team">
       {{< team-card member="0" >}}
       {{< team-card member="1" >}}
@@ -64,10 +64,10 @@ draft: false
 
 
 <section class="section-publications" id="publications">
-  <div class="section-title">
-    <h2>Publications</h2>
-    <p>Our work in the field.</p>
-
+  <header class="section-header">
+    <h1 class="section-title">Publikationen</h1>
+    <p class="section-subtitle">Unsere Veröffentlichungen</p>
+  </header>
   <div class="publication-grid">
       {{< publication-card publication="0">}}
       {{< publication-card publication="1">}}

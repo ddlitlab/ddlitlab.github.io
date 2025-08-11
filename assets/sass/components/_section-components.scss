@@ -1,79 +1,22 @@
-/*
-Todos:
-- change to grid layout?
-- paddings/margins: the section-title should have a top margin, bottom margin and the 
-h2 should have a bottom margin
-- it should not actually be h2 and p, but two classes .header and .subheader
-
-
---padding-top
-<section class="section-general">
-    <h1 class="section-title">Title</h1>
-    -- gap
-    <div class="balken"></div>
-    -- gap
-    <p class="section-subtitle">Subtitle</p>
-    -- gap
-
-    --margin-top
-    <div class="section-content">
-
-    </div>
-</section>
-
-
-*/
-
-section {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    display: flex;
-    // flex-wrap: wrap;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.section-content {
-    max-width: var(--max-width);
-    margin: 0 auto;
+.section-header {
     display: flex;
     flex-direction: column;
+    padding: 3rem 3rem;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    width: 100%;
+    max-width: $breakpoint-mobile;
+    font-size: var(--size-h2);
+    color: var(--black);
 }
-
-
-
 
 .section-title {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 3rem 3rem;
-  // margin-top: 2rem;
-  width: 100%;
-  max-width: var(--breakpoint-mobile);
-  font-size: var(--size-h2);
-  color: var(--black);
-
-  a {
-    text-decoration: none;
-    color: inherit;
-    display: block;
-  }
-
-  h2 {
-    // color: var(--black);
-
     font-size: 1em;
     font-size: clamp(--size-h2-mobile, calc(5vw + 1rem), var(--size-h2));
     font-weight: bold;
     position: relative;
     margin-bottom: 1.2em;
-    // padding-top: 2rem;
     text-decoration: none;
 
     &::after {
@@ -88,41 +31,42 @@ section {
       background-color: var(--black);
       border-radius: 2px;
     }
-  }
+}
 
-  p {
+.section-subtitle {
     font-size: 0.7em;
     color: var(--black-light);
     font-weight: 600;
     line-height: 140%;
-    // padding-top: 2rem;
-  }
+}
 
+.section-header a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.section-header a .section-title:hover::after {
+  background-color: var(--primary);
 }
 
 @media (max-width: $breakpoint-mobile) { 
+  .section-header {
+    font-size: var(--size-h2-mobile);
+    margin-top: 0;
+    padding: 2rem 1rem;
 
-.section-title {
-font-size: var(--size-h2-mobile);
-margin-top: 0;
-padding: 2rem 1rem;
+  .section-title {
+      margin-bottom: 0.7rem; // modulize
+  }
 
-h2 {
-    // font-size: var(--size-h2-mobile);
-    // font-size: 1em;
-    margin-bottom: 0.7rem; // modulize
-    // padding-top: 1rem; // modulize
-
-    &::after {
+  .section-title::after {
     bottom: -0.25em;
-    // width: 80px;
-    }
-}
+  }
 
-p {
-    font-size: var(--size-h2-p-mobile);
-    font-size: 0.7em;
-    // padding-top: 0.5rem;
-}
-}
+  .section-subtitle {
+      font-size: var(--size-h2-p-mobile);
+      font-size: 0.7em;
+    } 
+  }
 }
