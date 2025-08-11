@@ -6,11 +6,13 @@ body {
 main {
   display: grid;
   grid-template-columns: minmax(2rem, 1fr) minmax(auto, var(--max-width)) minmax(2rem, 1fr);
+  row-gap: 4em;
 }
 
 main section {
   grid-column: 2;
   place-items: center;
+  position: relative;
 }
 
 main article {
