@@ -1,39 +1,32 @@
-// Exernal scss
-@import "_reset";
-// @import "hover/hover.scss";
+// base
+@import "base/_reset";
+@import "abstract/_variables";
+@import "abstract/_mixins";
+@import "layout/_layouts";
+@import "base/_typography";
 
-// Bootstrap scss
-// @import "_bootstrap.scss";
+@import "layout/_footer";
 
-// Base scss
-@import "_variables";
-@import "_typography";
-@import "_layouts";
-@import "_codicon";
+
+
+// vendors
+@import "vendors/_codicon";
+
+
+// components
+@import "components/_accordion"; // done
+@import "components/_cards"; // done
+@import "components/_timeline"; // todos: css streamlining, general design (font-sizes etc.), inhalte anpassen
+
+@import "components/_navigation"; // todos: css streamlining, general design, header.html streamlinen?
+@import "components/_section-components";
+
+@import "pages/_home";
+@import "pages/_home_hero";
+@import "pages/_datenwelten";
+@import "pages/_projekte";
+@import "pages/_about_publications";
+@import "pages/_about_team";
+
+// animations
 // @import "_animations";
-
-// SORTIEREN;
-// @import "icon_block";
-
-// Modules
-@import "sections/section-components";
-
-
-// Sections scss
-@import "sections/_team";
-@import "sections/_navigation-cards";
-@import "sections/_navbar";
-@import "sections/_footer";
-@import "sections/_accordion";
-// @import "sections/_timeline_datenwelten";
-// @import "sections/_timeline";
-@import "sections/_timeline_only";
-@import "sections/_publications";
-@import "sections/_datenwelten";
-
-
-// index sections
-@import "sections/_hero";
-@import "sections/index/_content";
-
-@import "sections/studiprojekte/index";

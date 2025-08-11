@@ -1,13 +1,17 @@
-Todos:
-- Akkordeon Text Element auf 2/3 Breite, weniger Padding
-- Vertikale Timeline (ausgegraute Enden): https://codepen.io/brady_wright/pen/NNOvrW
-- Timeline: Icons pro Kategorie (Inhalte an Zeitstrahl von Felix orientieren)
-- Bild and UHH-Format anpassen
-- Kacheln kleiner machen, damit die Bilder nicht verpixelt sind -> Kacheln auf Querformat ändern
-- alle Mitarbeiter:innen mit aufnehmen
+# scss folder structure
+- `abstract`:
+- `base`:
+- `components`: 
+- `layout`:
+- `pages`: 
+- `vendors`: 
+
+
+
+
+
+
 - auf FIS verlinken (https://www.fis.uni-hamburg.de/publikationen.html?q=DDLitLab&order=publicationYear&orderBy=descending&treffer=10&publishedAfterDate=&publishedBeforeDate=)
-- Bei Publikationen: ausgewählte Publikationen; als kleine zwarte Boxen (zB dünner Rand, mit Titel, Autor:innen und Link zur Publikation -> Button mit Hover Effekt)
-- Link zum FIS: Button "Weitere Publikationen"
 
 
 # DDLitab Webseite
@@ -16,21 +20,11 @@ Link: https://softiceee.github.io/ddlit-prototype/
 
 ## Notes
 
-Team member photos webp (or jpg as fallback) with 600x600 resolution
-
 - icons: https://microsoft.github.io/vscode-codicons/dist/codicon.html
 - simple.css: https://github.com/kevquirk/simple.css/blob/main/simple.css
 - modern-normalize.css: https://github.com/sindresorhus/modern-normalize/blob/main/modern-normalize.css
 
 ## Colors
-
-- c2c747
-- e68935
-- 74c5c9
-- 355e9c
-- 22366f
-
-![Colors](static/meta/colors.png)
 
 ## Getting Started
 
@@ -90,26 +84,9 @@ You can run the site locally:
 
 This starts a local webserver which you can access in your browser at `http://localhost:1313`.
 
-### Branches
-
-There are two branches in this repository:
-- `main`: This is the main branch. This is the "production" branch. It is automatically deployed to the live website. We try to keep this branch stable and only merge changes that are ready for publication.
-- `dev`: This is the development branch. This is where we do our development work. We can merge changes from this branch into the main branch when they are ready for publication. You will always work in this branch.
-
-To checkout the develop branch, run:
-
-```git checkout dev```
-
-Now, your changes are tracked in the develop branch.
 
 ### Making changes
 
 You can make changes to the website in the `content` directory. This is where all the content of the website is stored. You can try to change something in the file `content/about.md`. This is the "About" page of the website. You add some text in this file and save it. The local webserver will automatically reload the page in your browser.
 
 > Edit the file in VS Code. You can open the file by clicking on it in the Explorer view (left sidebar). After editing, save the file by pressing `cmd + s` (macOS) or `ctrl + s` (Windows/Linux). The local webserver will automatically reload the page in your browser.
-
-# Nochmal anschauen
-- CODE_OF_CONDUCT.md
-- LICENSE
-- themes/ddlitlab/theme.toml
-- Compare themes/ddlitlab/.github/workflows/gh-pages.yml with .github/workflows/hugo.yaml

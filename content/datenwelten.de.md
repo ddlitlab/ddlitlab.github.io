@@ -215,47 +215,49 @@ draft: false
     <div>
         Hier geht es zum Github-Repository der Übungen: <a href="https://github.com/uhh-hcds/Datenwelten-entdecken-mit-R">Datenwelten entdecken mit R</a>
     </div>
-    <details class="datenwelten-events">
-        <summary>Vergangene Veranstaltungen</summary>
-        <div class="grid-datenwelten-events">
-            <div>
-                <h4 class="dw-pretitle">Im Wintersemester</p>
-            </div>
-            <div>
-                <h4 class="dw-pretitle">Im Sommersemester</h4>
-            </div>
-            <div>
-                <h5>WiSe 24/25</h5>
-                {{< dw_events dw_event="10">}}
-                {{< dw_events dw_event="9">}}
-                {{< dw_events dw_event="8">}}
-            </div>
-            <div>
-                <h5>SoSe 24</h5>
-                {{< dw_events dw_event="7">}}
-                {{< dw_events dw_event="6">}}
-            </div>        
-            <div>
-                <h5>WiSe 23/24</h5>
-                {{< dw_events dw_event="5">}}
-                {{< dw_events dw_event="4">}}
-            </div>
-            <div>
-                <h5>SoSe 23</h5>
-                {{< dw_events dw_event="3">}}
+    <div class="accordion-wrapper">
+        <details class="accordion-simple">
+            <summary>Vergangene Veranstaltungen</summary>
+            <div class="grid-datenwelten-events">
+                <div>
+                    <h4 class="dw-pretitle">Im Wintersemester</p>
                 </div>
-            <div>
-                <h5>WiSe 22/23</h5>
-                {{< dw_events dw_event="2">}}
+                <div>
+                    <h4 class="dw-pretitle">Im Sommersemester</h4>
+                </div>
+                <div>
+                    <h5>WiSe 24/25</h5>
+                    {{< dw_events dw_event="10">}}
+                    {{< dw_events dw_event="9">}}
+                    {{< dw_events dw_event="8">}}
+                </div>
+                <div>
+                    <h5>SoSe 24</h5>
+                    {{< dw_events dw_event="7">}}
+                    {{< dw_events dw_event="6">}}
+                </div>        
+                <div>
+                    <h5>WiSe 23/24</h5>
+                    {{< dw_events dw_event="5">}}
+                    {{< dw_events dw_event="4">}}
+                </div>
+                <div>
+                    <h5>SoSe 23</h5>
+                    {{< dw_events dw_event="3">}}
+                    </div>
+                <div>
+                    <h5>WiSe 22/23</h5>
+                    {{< dw_events dw_event="2">}}
+                </div>
+                <div>
+                    <h5>SoSe 22</h5>
+                    {{< dw_events dw_event="1">}}
+                </div>
+                <div>
+                    <h5>WiSe 21/22</h5>
+                    {{< dw_events dw_event="0">}}
+                </div>
             </div>
-            <div>
-                <h5>SoSe 22</h5>
-                {{< dw_events dw_event="1">}}
-            </div>
-            <div>
-                <h5>WiSe 21/22</h5>
-                {{< dw_events dw_event="0">}}
-            </div>
-        </div>
-    </details>
+        </details>
+    </div>
 </section>

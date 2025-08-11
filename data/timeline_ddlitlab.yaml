@@ -1,59 +1,76 @@
-- date: August 2021
-  title: Kick-Off DDLitLab
-  text: 
-  icon: 
+timeline:
+  - date: 'August 2021'
+    title: 'Kick-Off DDLitLab'
+    content: 'Das DDLitLab startet offiziell mit einem Kick-Off-Event, bei dem die Ziele und Visionen des Projekts vorgestellt werden. Das Team trifft sich, um die nächsten Schritte zu planen und die Zusammenarbeit zu koordinieren.'
+    type: 'event'
+    
+  - date: 'Oktober 2021'
+    title: 'Start Datenwelten I'
+    content: 'Die Vorlesung findet im Wintersemester statt und vermittelt Grundkenntnisse im Bereich Data Science. Ein besonderer Fokus liegt hierbei auf den informationstechnischen Systemen, die in weiten Teilen unseren Alltag (mit)gestalten.'
+    type: 'event'
+    
+  - date: '2022'
+    title: '2022'
+    type: 'period'
+    
+  - date: 'April 2022'
+    title: 'Start Datenwelten II + Erste Runde Lehrlabore'
+    content: 'Die Datenwelten II finden im Sommersemester statt. Ziel ist es, einen Überblick über den aktuellen Stand der Datennutzung in unterschiedlichen gesellschaftlichen Teilbereichen zu erhalten und sich mit verknüpften ethischen Problemen auseinanderzusetzen. Zusätzlich unterstützt das DDLitLab seit April 2022 mit dem Data Literacy Lehrlabor innovative Lehrprojekte für maximal 12 Monate. Der Fokus liegt auf digitalen und hybriden Lehrinnovationen, die sich im Rahmen fachübergreifender sowie fachspezifischer Lehrangebote oder transferorientierter Lehraktivitäten bewegen.'
+    type: 'event'
+    
+  - date: 'Mai 2022'
+    title: 'Start DDLitLab Lecture Series'
+    content: 'Um in einen lebhaften Austausch mit Interessierten zu treten und die Diskussion rund um das Thema Daten- und Digitalkompetenzen an der Universität Hamburg anzuregen, haben wir die *DDLitLab Lecture Series* im Mai 2022 ins Leben gerufen.'
+    type: 'event'
+    
+  - date: 'Oktober 2022'
+    title: 'Erste Runde der Studentischen Forschungsprojekte mit Schwerpunkt Data Literacy'
+    content: 'Vor dem Hintergrund der Digitalisierung unterstützen wir Studierende aller Fächer, ihre Digital- und Datenkompetenzen im Rahmen eigenständiger Projekte aufzubauen und sich zusätzliche Fertigkeiten im wissenschaftlichen Arbeiten und forschenden Lernen anzueignen. In der 1. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2022/23 wurden 8 Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert.'
+    type: 'event'
+    
+  - date: 'Dezember 2022'
+    title: 'Launch Lehre-Navi'
+    content: 'Das Lehre-Navi enthält Selbstlernmaterial, Veranstaltungen und andere Angebote für (digitale) Lehre. Zielgruppe sind Lehrende an der Universität Hamburg.'
+    type: 'event'
+    
+  - date: '2023'
+    title: '2023'
+    type: 'period'
+    
+  - date: 'April 2023'
+    title: 'Zweite Runde Lehrlabore + Zweite Runde der Studentischen Forschungsprojekte'
+    content: 'Vom Sommersemester 2023 bis einschließlich Wintersemester 2023/24 wurden 21 Lehrprojekte im Data Literacy Lehrlabor gefördert. In der 2. Ausschreibungsrunde der Studierendenprojekte werden 6 Projekte im Rahmen der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2023/24 gefördert, die sich aus unterschiedlichen Perspektiven praktisch und reflektiv mit Daten auseinandersetzen.'
+    type: 'event'
+    
+  - date: 'Juli 2023'
+    title: 'Auftakt KI Hands-On'
+    content: 'Generative KI-Tools wie ChatGPT und Co. werfen nicht nur an der Universität Hamburg viele Fragen auf – von grundlegenden Zielen der Hochschulbildung über neue praktische Gestaltungsmöglichkeiten der eigenen Lehre bis hin zu konkreten prüfungsrechtlichen Aspekten. Unsere Veranstaltungsreihe und Community of Practice „KI Hands-On" nimmt genau solchen Aspekte in den Blick.'
+    type: 'event'
+    
+  - date: 'September 2023'
+    title: 'Publikation ChatGPT and Me'
+    content: 'Im Kontext des Digital and Data Literacy in Teaching Projektes (DDLitLab) wurde im Juli eine Online-Umfrage zum Einsatz generativer KI an der Universität Hamburg durchgeführt. Über 1.500 Mitglieder der Universität Hamburg haben sich beteiligt und dadurch erste Einblicke in die neue Lebensrealität mit generativer KI an der Hochschule ermöglicht.'
+    type: 'event'
+    
+  - date: 'Oktober 2023'
+    title: 'Dritte Runde der Studentischen Forschungsgruppen mit Schwerpunkt Data Literacy + Start Datenwelten Übung'
+    content: 'In der 3. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2023/24 werden 10 Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert. In der vorlesungsbegleiteten Übung der „Datenwelten" lernen Studierende die Grundlagen der Statistiksoftware R für die Datenanalyse kennen. Dabei arbeiten sie mit öffentlichen oder persönlichen Daten und führen ein eigenes kritisches Datenprojekt durch.'
+    type: 'event'
 
-- date: Oktober 2021
-  title: Start Datenwelten I
-  text: 
-  icon: 
+  - date: '2024'
+    title: '2024'
+    type: 'period'
+    
+  - date: 'August 2024'
+    title: 'Fortführung des Lehrlabors als CDTLs'
+    content: 'Mit der dritten Förderrunde des Data Literacy Lehrlabors 2024/25 wird die Zusammenführung und Verstetigung eines der Kernvorhaben des DDLitLab mit dem Hub of Computing and Data Science (HCDS) in den Blick genommen.'
+    type: 'event'
+    
+  - date: 'Oktober 2024'
+    title: 'Vierte Runde der Studentischen Forschungsgruppen mit Schwerpunkt Data Literacy + Publikation ChatGPT and me 2.0'
+    content: 'Im Juli 2024 haben wir die Erhebung zu „ChatGPT & me 2.0" über die Lebensrealität mit generativer KI an der Uni Hamburg durchgeführt. Diese wurde dann im Oktober als Forschungsbericht veröffentlicht. In der 4. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2024/25 werden sieben Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert.'
+    type: 'event'
 
-- date: April 2022
-  title: Start Datenwelten II + Erste Runde Lehrlabore
-  text: 
-  icon: 
-
-- date: Mai 2022
-  title: Start DDLitLab Lecture Series
-  text: 
-  icon: 
-
-- date: Oktober 2022
-  title: Erste Runde Studi-Projekte
-  text: 
-  icon: 
-
-- date: Dezember 2022
-  title: Launch Lehre-Navi
-  text: 
-  icon: 
-
-- date: April 2023
-  title: Zweite Runde Lehrlabore + Zweite Runde Studi-Projekte
-  text: 
-  icon: 
-
-- date: Juli 2023
-  title: Auftakt KI-Hands On
-  text: 
-  icon: 
-
-- date: September 2023
-  title: 'Publikation: "ChatGPT and me"'
-  text: 
-  icon: 
-
-- date: Oktober 2023
-  title: Dritte Runde Studi-Projekte + Start Datenwelten-Übung
-  text: 
-  icon: 
-
-- date: August 2024
-  title: Verlängerung DDLitLab und Entwicklung "CDTLs"
-  text: 
-  icon: 
-
-- date: Oktober 2024
-  title: 'Vierte Runde Studi-Projekte & "ChatGPT and me 2.0"'
-  text: 
-  icon:
+  - date: '2025'
+    title: '2025'
+    type: 'period'

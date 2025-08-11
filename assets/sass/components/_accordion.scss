@@ -1,0 +1,45 @@
+// every accordion needs a div class="accordion-wrapper" around it
+
+.accordion-wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+// accordion-simple (simple style by Julia)
+
+details.accordion-simple {
+  border: 1px solid var(--black-lighter);
+  padding: 0.5em;
+  color: var(--black-light);
+}
+
+details.accordion-simple:first-of-type summary::marker,
+details.accordion-simple ::-webkit-details-marker {
+  content: "+ ";
+  font-weight: 200;
+  font-size: 1.2em;
+  line-height: 1em;
+}
+
+details.accordion-simple[open]:first-of-type summary::marker {
+  content: "– ";
+}
+
+// accordion-spotlight (Lehrlabore / Studiprojekte Unterseiten)
+
+details.accordion-spotlight {
+  font-size: 1rem;
+  margin-top: 1em;
+}
+
+details.accordion-spotlight h3 {
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 0.08em;
+  padding: 1em 1em;
+}
+
+details.accordion-spotlight p {
+  font-size: 0.8rem;
+  padding: 0 1em 1.5em 1em;
+}

@@ -3,80 +3,72 @@
 {{ end -}}
 
 <header class="main-header">
-
   <nav class="navbar">
-        <div class="nav-container">
-            
-            <a class="logo hover-fx" href="{{ .Site.Home.RelPermalink }}">
-              <img src="{{ .Site.Params.mainMenuLogo | relURL }}" alt="logo">
-              {{ .Site.Title }}
+    <div class="nav-container">
+
+      <a class="logo hover-fx" href="{{ .Site.Home.RelPermalink }}">
+        <img src="{{ .Site.Params.mainMenuLogo | relURL }}" alt="logo">
+        {{ .Site.Title }}
+      </a>
+      
+      <input type="checkbox" id="nav-toggle">
+      
+      <label for="nav-toggle" class="hamburger">
+        <div></div>
+        <div></div>
+        <div></div>
+      </label>
+      
+      <ul class="nav-links">
+        {{- $current := . -}}
+        {{- $section := $current.Section -}}
+        {{ range .Site.Menus.main -}}
+        {{- $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) -}}
+        {{- $active = or $active (eq .Name $current.LinkTitle) -}}
+        {{- $active = or $active (and (eq .Name ($section | humanize)) (eq $current.Section $section)) -}}
+        {{/*  {{- $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog" "contributors")) -}}  */}}
+        
+        <li>
+          <a class="hover-fx" href="{{ .URL | relLangURL }}" 
+            {{- if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end -}}
+            {{ with .Title }} title='{{ . }}'{{ end }}>
+            {{ .Name }} {{ .Pre }}
+          </a>
+        </li>
+        
+        {{ end -}}
+
+        {{ if hugo.IsMultilingual -}}
+        <li>
+          {{ $currentLang := .Site.Language.Lang }}
+          {{ $translation := false }}
+
+          {{ if .IsTranslated }}
+            {{ range .Translations }}
+              {{ if ne .Lang $currentLang }}
+                {{ $translation = . }}
+              {{ break }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+
+          {{ if not $translation }}
+            {{ range .Site.Home.AllTranslations }}
+              {{ if ne .Lang $currentLang }}
+                {{ $translation = . }}
+              {{ break }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+
+          {{ if $translation }}
+            <a class="hover-fx" href="{{ $translation.RelPermalink }}" rel="alternate" hreflang="{{ $translation.Lang }}" lang="{{ $translation.Lang }}"{{ with $translation.Title }} title='{{ . }}' aria-label='{{ . }}'{{ end }}>
+              {{ upper $translation.Lang }}
             </a>
-            
-            <!-- Hidden checkbox for toggle -->
-            <input type="checkbox" id="nav-toggle">
-            
-            <!-- Hamburger menu icon (label for checkbox) -->
-            <label for="nav-toggle" class="hamburger">
-              <div></div>
-              <div></div>
-              <div></div>
-            </label>
-            
-            <!-- Main Menu -->
-            <ul class="nav-links">
-                {{- $current := . -}}
-                {{- $section := $current.Section -}}
-                {{ range .Site.Menus.main -}}
-                {{- $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) -}}
-                {{- $active = or $active (eq .Name $current.LinkTitle) -}}
-                {{- $active = or $active (and (eq .Name ($section | humanize)) (eq $current.Section $section)) -}}
-                {{/*  {{- $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog" "contributors")) -}}  */}}
-                
-                <li>
-                  <a class="hover-fx" href="{{ .URL | relLangURL }}" 
-                    {{- if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end -}}
-                    {{ with .Title }} title='{{ . }}'{{ end }}>
-                    {{ .Name }} {{ .Pre }}
-                  </a>
-                </li>
-                
-                {{ end -}}
-
-                {{ if hugo.IsMultilingual -}}
-                <li>
-                  {{ $currentLang := .Site.Language.Lang }}
-                  {{ $translation := false }}
-
-                  {{/* Find the translation for the current page if it exists */}}
-                  {{ if .IsTranslated }}
-                    {{ range .Translations }}
-                      {{ if ne .Lang $currentLang }}
-                        {{ $translation = . }}
-                      {{ break }}
-                      {{ end }}
-                    {{ end }}
-                  {{ end }}
-
-                  {{/* If no translation for the current page, try the home page translation */}}
-                  {{ if not $translation }}
-                    {{ range .Site.Home.AllTranslations }}
-                      {{ if ne .Lang $currentLang }}
-                        {{ $translation = . }}
-                      {{ break }}
-                      {{ end }}
-                    {{ end }}
-                  {{ end }}
-
-                  {{/* Render the button if a translation was found */}}
-                  {{ if $translation }}
-                    <a class="hover-fx" href="{{ $translation.RelPermalink }}" rel="alternate" hreflang="{{ $translation.Lang }}" lang="{{ $translation.Lang }}"{{ with $translation.Title }} title='{{ . }}' aria-label='{{ . }}'{{ end }}>
-                      {{ upper $translation.Lang }}
-                    </a>
-                  {{ end }}
-                  {{ end -}}
-
-            </ul>
-        </div>
-    </nav>
-
+          {{ end }}
+          {{ end -}}
+          </li>
+        </ul>
+    </div>
+  </nav>
 </header>
