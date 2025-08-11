@@ -1,7 +1,7 @@
 .navigation-cards-grid {
-    width: 100%;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    // grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: 2.5em;
 }
 
@@ -32,4 +32,17 @@
 
 .navigation-cards-grid-item:hover {
     box-shadow: 0 4px 18px 0 rgba(255, 175, 0, 0.50); 
+}
+
+@media (max-width: $breakpoint-tablet) {
+    .navigation-cards-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: $breakpoint-mobile) {
+    .navigation-cards-grid {
+        grid-template-columns: 1fr;
+        gap: 1em;
+    }
 }
