@@ -14,7 +14,7 @@ contributors:
 mentor: "Anton Sefkow, Lukas Musumeci, Marten Borchers"
 quote:
 text: |
-    ### Ausrichtung des Projekts
+    ## Ausrichtung des Projekts
 
     Im Projekt wird das bestehende didaktische Szenario der letzten Runden kontinuierlich weiterentwickelt und durchgeführt. Zusätzlich wird eine Ausgründung des Projekts sowohl vorbereitet als auch durchgeführt. Hierfür werden unterschiedliche Finanzierungs- und Fördermöglichkeiten geprüft. Ein wesentlicher davon ist das Aufstellen einer tragfähigen und langfristigen Finanzplanung.
 

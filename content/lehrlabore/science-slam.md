@@ -14,7 +14,7 @@ contributors:
 mentor: "Larissa Gebken"
 quote:
 text: |
-    ### Ausrichtung des Projekts
+    ## Ausrichtung des Projekts
 
     Das Projekt bietet ein niederschwelliges Angebot für Schüler:innen zu den Themen Nachhaltigkeit, Daten und Digitalisierung. Ein zentrales Ziel des Projekts ist es, insbesondere FLINTA-Teilnehmer:innen für Data Literacy-Themen zu begeistern, indem der Fokus auf Nachhaltigkeit gelegt wird. Durch diese Verbindung sollen das Interesse und die Beteiligung dieser Gruppe an den relevanten Themen der digitalen Welt geweckt und gleichzeitig ein tieferes Verständnis für nachhaltige Ansätze entwickelt werden.
 

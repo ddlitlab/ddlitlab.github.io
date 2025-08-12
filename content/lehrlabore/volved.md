@@ -20,7 +20,7 @@ text: |
 
     Sie haben festgestellt, dass es feste Strukturen gibt, die jeden Unterricht auszeichnen und dass Lehrer:innen sowie Schüler:innen sich innerhalb dieser Strukturen verhalten. Wenn das so ist, kann man natürlich auch Vorhersagen darüber treffen, wie zukünftiges Verhalten von Lehrer:innen als Reaktion auf Verhalten von Schüler:innen aussehen könnte und wie erfolgversprechend bestimmte Verhaltensweisen sind. Die Werkzeuge dafür sind Beobachtungssoftware, Datenbanken und Statistik. Den Umgang damit erlernen die Studierenden im Laufe der Veranstaltung an praktischen Beispielen.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Zu Beginn der Veranstaltung waren viele Studierende unsicher, ob ein technisch und quantitativ-methodisch geprägter Zugang zur Erziehungswissenschaft für sie geeignet ist. Es gab Zweifel, ob die vorhandenen Computerkenntnisse ausreichen würden, um die anspruchsvollen Ziele der Lehrveranstaltung zu erreichen. Im Laufe des Seminars wurde ihnen schrittweise das notwendige Handwerkszeug beigebracht, von der Verwendung einer Literaturverwaltung über Beobachtungssoftware bis hin zu relationalen Datenbanken, um schließlich Wahrscheinlichkeiten für das Verhalten von Lehrkräften vorherzusagen.
 
@@ -28,7 +28,7 @@ text: |
 
     Bei der Reflexion der Veranstaltung erkannten die Studierenden, wie Verhaltensvorhersagen von Lehrkräften auf Basis statistischer Analysen möglich sind. Dies ermöglichte eine Diskussion darüber, wie diese Methoden auf andere Anwendungen im beruflichen und privaten Leben übertragen werden können. Somit wurde auch das Ziel erreicht, den kritischen Umgang mit dem eigenen digitalen Verhalten zu reflektieren und eigene digitale Handlungsmöglichkeiten abzuleiten.  Am Beispiel von Datenpraktiken der Unterrichtsforschung haben Studierende alle Prozesse zeitgenössischer Datenpraktiken durchlaufen und durch eine begleitende Reflextion und Diskussion ein grundlegendes und kritisches Verständnis aufgebaut.des Projektes beruht auf Open Source Software Entwicklung, wodurch der Quellcode für zahlreiche Lernmaterialien (z.B. die Lern-Apps) frei verfügbar sind.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Es hat sich gezeigt, dass die sehr detaillierte Planung jeder einzelnen Lehrveranstaltung eine gute Grundlage war, um vorhandene Unsicherheiten von vornherein zu vermeiden. Auch die technischen Herausforderungen des anspruchsvollen Projekts mussten jeweils in der Vorbereitung der Veranstaltungen vollständig simuliert und auf eventuell auftretende Schwierigkeiten hin geprüft werden. Dies hat sich insgesamt als gute, wenn auch aufwändige Vorbereitung herausgestellt.
 

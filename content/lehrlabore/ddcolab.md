@@ -22,7 +22,7 @@ text: |
 
     Datenkompetenz als interdisziplinäre Fähigkeit war ein weiterer Kernaspekt des DDCo-Lab, unterstützt durch ein multidisziplinäres Lehrteam, das interdisziplinäre Studierendengruppen begleitet.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Das DDCo-Lab hat eine Vielzahl von zentralen Ergebnissen erzielt, die das Lehrprojekt zu einem Erfolg gemacht haben. Hier sind einige davon:
 
@@ -38,7 +38,7 @@ text: |
 
     Insgesamt hat das DDCo-Lab dazu beigetragen, das Verständnis für Datenkompetenz zu vertiefen, praktische Fähigkeiten zu entwickeln und die Zusammenarbeit zwischen Studierenden, Lehrkräften und externen Partnern zu stärken. Es hat einen wertvollen Beitrag zur Ausbildung zukünftiger Fachkräfte geleistet und gleichzeitig innovative Lösungen für reale Herausforderungen entwickelt.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Die Partnerschaften mit externen Unternehmen könnten als Modell für andere Lehrprojekte dienen, die eine enge Zusammenarbeit zwischen Universität und Industrie fördern möchten. Dies könnte dazu beitragen, den Studierenden praxisnahe Erfahrungen zu vermitteln und ihre Berufsaussichten zu verbessern. Die im Rahmen des Projekts entwickelten digitalen Lehrmaterialien und -tools könnten auch in anderen Lehrveranstaltungen oder Bildungsinstitutionen genutzt werden, um den Zugang zu hochwertigen Bildungsinhalten zu verbessern und innovative Lehrmethoden zu fördern.
 

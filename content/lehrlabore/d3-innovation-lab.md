@@ -14,7 +14,7 @@ contributors: "Stephan Leible"
 mentor: "Dr. Maren Gierlich-Joas, Prof. Dr. Tilo Böhmann"
 quote: "Im D³ Innovation Lab werden Studierende in datengetriebenen Innovationsprojekten durch alle Phasen des Datenlebenszyklus geführt. Dabei lernen sie neben der Planung von Projekten auch Datenpraktiken anzuwenden und erhobene Daten zu managen. Um sicherzustellen, dass dieses Wissen auch über das Lehrlaborprojekt hinaus langfristig genutzt werden kann, wird ein physischer und virtueller Explorationsraum geschaffen, der von den Studierenden mitgestaltet wird. Lehrende können diesen Raum nutzen, um eigene Lehrveranstaltungen mit den geschaffenen Räumlichkeiten zu gestalten."
 text: |
-    ### Ausrichtung des D³ Innovation Labs
+    ## Ausrichtung des D³ Innovation Labs
 
     In einer zunehmend digitalisierten Welt wird der Umgang mit Daten zu einer Schlüsselkompetenz in nahezu allen Berufsfeldern. Angesichts dieser Entwicklung ist es unerlässlich, dass Studierende aller Fachrichtungen die Fähigkeit entwickeln, Daten zu verstehen, zu analysieren und zu interpretieren. Aus diesem Grund wurde das Lehrprojekt entwickelt, das Studierende, angeleitet durch ausgewählte beziehungsweise selbstbestimmte Datenprojekte, entlang des Datenlebenszyklus führt. Aus aktuellen Entwicklungen wurde der thematische Schwerpunkt darüber hinaus auf generative künstliche Intelligenz sowohl als Werkzeug für datengetriebene Projekte erweitert als auch als Untersuchungsgegenstand für explorative Fragen. Im Folgenden werden einige Gründe für die Entwicklung des Lehrprojekts näher erläutert:
 
@@ -26,7 +26,7 @@ text: |
 
     4. Förderung von Problemlösungskompetenzen: Die Arbeit an eigenen Datenprojekten erfordert von den Studierenden die Fähigkeit, komplexe Probleme zu identifizieren, zu analysieren und Lösungen zu entwickeln. Durch das Durchlaufen des Datenlebenszyklus - von der Datenerfassung über die Datenanalyse bis hin zur Interpretation und Präsentation der Ergebnisse - müssen sie sich in jeder Phase mit spezifischen Fragen auseinandersetzen, und ihre Fähigkeiten werden auf eine praktische Weise geschärft.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Die zentralen Ergebnisse des Lehrprojekts orientieren sich an den ursprünglichen Zielen und umfassen die Stärkung der datenbezogenen Fähigkeiten sowie die Förderung kreativer und innovativer Denkweisen. Nachfolgend einige Ergebnisse:
 
@@ -38,7 +38,7 @@ text: |
 
     4. Förderung von Kreativität und Innovation: Die Freiheit, eigene Fragestellungen zu wählen und Analysemethoden anzuwenden, ermutigte die Studierenden, über traditionelle Denkmuster hinauszugehen und innovative Lösungen zu entwickeln. Die nötige kreative Denkweise ist entscheidend in einer dynamischen Welt.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Im Austausch mit den Studierenden, die in ihren Ergebnissen wiederum neue Entdeckungen gemacht haben, können Lehrkompetenzen auf vielfältige Ebene erweitert werden. Auch die Entwicklung eines Wikis hat viele Erkenntnisse mit sich gebracht, was dessen strukturellen Aufbau umfasst und die Inhalte nach dem Motto "weniger ist mehr" darzubieten. Auf didaktischer Ebene ist es essenziell, wie man komplexe Konzepte und Techniken rund um Datenkompetenzen und generativer künstlicher Intelligenz möglichst verständlich vermittelt und die Lernenden dabei unterstützt, ihr Wissen praktisch anzuwenden. Gerade zum letztgenannten Thema gibt es derzeit wenige Skripte und Ansätze für die Lehrvermittlung. Diese Erkenntnisse helfen dabei in Zukunft neue innovative Lehrkonzepte insbesondere mit Einbezug neuer Technologien zu konzipieren.
 

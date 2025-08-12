@@ -18,7 +18,7 @@ text: |
 
     Die Zivilgesellschaft steht vor deutlichen Umbrüchen. Sowohl gesellschaftlich als auch digitale Transformationen gilt es in den nächsten Jahren zu bewältigen. Diese sollten jedoch nicht getrennt, sondern verzahnt zueinander betrachtet werden. Beide Entwicklungen stellt das Seminar in den Vordergrund. In diesem Spannungsfeld gibt es eine Vielzahl an Herausforderungen, die es zu bewältigen gilt. Um diesem gerecht zu werden, braucht es Menschen, die sich ihrer gesellschaftlichen Verantwortung bewusstwerden. Damit aus dem Bewusstsein kritische Reflektion und Handlungsfähigkeit resultiert, bedarf es entsprechendem Basiswissen zur Digitalen Transformation. Innerhalb des Seminars Mikropolis wurde dieses den Studierenden aus verschiedenen Fachdisziplinen mit einem innovativen didaktischen Konzept vermittelt und angewendet. Zentraler Anknüpfungspunkt ist hierfür die Plattform Mikropolis.org, die Essays von Lehrenden sowie von Studierenden erstellte Videos und Storyboards bereitstellt. Um den Studierenden die Beschäftigung mit den Dynamiken der digitalen Transformation zu erleichtern, wurde mit dem Digitalisierungspfad gearbeitet. Dieser zeigt den Verlauf der Digitalisierung, schafft plausible Erzählungen der digitalen Transformation und dokumentiert die Auseinandersetzungen, die im Rahmen der Digitalisierung stattgefunden haben.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Im Zuge der Lehrveranstaltung wurde umfassendes Handlungswissen zur digitalen Transformation an die Studierenden vermittelt. Ausgehend von diesem Wissen war das Ziel, dass Studierende sich selbstständig in Kleingruppen mit einer Fragestellung zu Nachhaltigkeit und digitaler Transformation vertieft auseinandersetzen. Sie wurden dabei von den Lehrenden engmaschig betreut. Als Resultat dieser kritischen Reflektion und Anwendung des gelernten wurden in drei heterogen zusammengesetzte Teams spannende Kurzfilme produziert. Diese wurden im Sinne der Third Mission der UHH im Zuge eines Kurzfilmslams der Öffentlichkeit vorgeführt und diskutiert.
     
@@ -38,7 +38,7 @@ text: |
 
     Die Begeisterung der Studierenden für die Themen ist auch noch nach der Veranstaltung vorhanden und einige forschen weiter in diesen Themenfeldern.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Die Einbettung von Nachhaltigkeitsdiskussionen in jede Lehrveranstaltung hat das Potenzial, den Einfluss eigener Forschung auf die Gesellschaft zu verstärken. Indem Studierende dazu ermutigt werden, über die unmittelbaren Fachinhalte hinauszudenken und die Auswirkungen ihrer Arbeit auf Umwelt und Gesellschaft zu reflektieren, können innovative Lösungen für reale Probleme entwickelt werden, die einen positiven Wandel in verschiedenen Bereichen bewirken.
 

@@ -14,7 +14,7 @@ contributors:
 mentor: "Moritz Kreinsen, Christina Schwalbe, Sören-Kristian Berger, Regina Schulz"
 quote: "Zur Verankerung von Digital und Data Literacy Education (DDLE) in der Schule ist die Förderung von DDL von Lehrkräften jedoch nur notwendige, aber nicht hinreichende Bedingung. Ergänzend müssen curriculare und didaktische Fragestellungen betrachtet werden: Welche Themen sind für die Förderung von DDL in der Schule wichtig? Wie kann DDLE in den Unterrichtsfächern berücksichtigt werden? Wie und wo kann DDLE außerhalb der Fächer verortet werden? Welches Komplexitätsniveau ist für die Befassung in der Schule angemessen?"
 text: |
-    ### Ausrichtung des Lehrlabors
+    ## Ausrichtung des Lehrlabors
 
     Die fortschreitende Digitalität und Datafizierung verändern gesellschaftliche Prozesse grundlegend und erfordern ein Verständnis sowie die kritische Reflexion digitaler Daten für individuelle und gesellschaftliche Teilhabe. Da die digitale Datenverarbeitung tägliche Entscheidungsprozesse beeinflusst, müssen Digital und Data Literacy zentrale Bestandteile der schulischen Bildung werden.
 
@@ -22,7 +22,7 @@ text: |
 
     Ein reflektives Weiterbildungsformat für Lehrkräfte ist nötig, um wissenschaftlich fundierte Kompetenzen zu erwerben und Handlungsoptionen für den schulischen Alltag zu entwickeln. Lehramtsstudierende sollten sich nicht nur theoretisch, sondern auch praktisch mit den Herausforderungen des Berufsalltags auseinandersetzen und eine kritisch-reflektierte Haltung entwickeln. Das Veranstaltungskonzept stützt sich auf die Annahme, dass Einblicke in reale schulische Herausforderungen diese Haltung fördern.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Im Rahmen des Projekts wurde ein Konzept für eine Einführungsveranstaltung zur Digital und Data Literacy Education für Lehrkräfte entwickelt und erprobt. Ziel war es, dies als langfristiges Angebot in der Lehrkräftebildung zu etablieren. Eine Kooperation mit dem Landesinstitut für Lehrerbildung und Schulentwicklung (LI) ermöglichte ein Seminar, in dem Lehramtsstudierende und Lehrkräfte Konzepte zur Integration von Digital und Data Literacy in Schulen entwickelten. Diese Zusammenarbeit soll fortgesetzt werden, um das Seminar als festen Bestandteil im Lehramtscurriculum und als Fortbildungsangebot zu verankern. Die Fakultät für Erziehungswissenschaft unterstützt dies durch die Finanzierung eines Lehrauftrags, und das Konzept wird vom Büro für Digitale Lehre kontinuierlich weiterentwickelt.
 
@@ -30,7 +30,7 @@ text: |
 
     Studierende der Erziehungswissenschaft erhielten einen umfassenden Überblick über die Anforderungen an Digital und Data Literacy in der Schule. Sie entwickelten ein tiefes Verständnis für digitale Technologien, Datenverarbeitungsprozesse sowie ethische, rechtliche und soziale Implikationen der Digitalität und setzten dies in pädagogische Konzepte um. Ebenso erlernten sie grundlegende Methoden zur Datenerhebung, -analyse und -interpretation, einschließlich kritischer Reflexionen über die Auswirkungen der Datennutzung auf Individuen.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Die Erfahrungen in der kollaborativen Projektarbeit aus Sicht der Lernbegleiterin haben dazu beigetragen, die Fähigkeit der Lehrenden im Bereich der Projektdidaktitk weiterzuentwickeln. Es hat sich gezeigt, dass klare Strukturen und regelmäßige strukturierte Feedbackgespräche sowie das Festhalten von Zwischenzielen wichtig für die Studierenden sind, um gute Projektergebnisse zu erzielen.
 

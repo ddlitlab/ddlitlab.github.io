@@ -14,11 +14,11 @@ contributors:
 mentor: "Laura Laugwitz, Nadja Schaetz"
 quote: "Im Rahmen des Seminars setzen Studierende sich mit kritischen Perspektiven auseinander, die beispielsweise aus einer intersektional feministischen Haltung folgen können, um diese Datenpraktiken zu analysieren und eigene vertiefende Fragestellungen sowie Lösungsansätze zu entwickeln."
 text: |
-    ### Ausrichtung des Seminars
+    ## Ausrichtung des Seminars
 
     In diesem interdisziplinären Seminar im Studium Generale geht es um den Zusammenhang von Daten und Macht. Dazu erarbeiteten die Bachelor-Studierenden gemeinsam feministische Interventionen in algorithmische Nachrichtendistribution. Sie bekommen so Einblicke in Forschungs- und Entwicklungsprozesse und reflektieren die Datenpraktiken von Nachrichtendistributionen. Im ersten Abschnitt der Veranstaltung lernten die Teilnehmenden mit „Data Feminism“ (D'Ignazio und Klein) eine feministische Perspektive auf Datenpraktiken kennen. Darauf aufbauend konnten eigene Fragestellungen und intersektionale, feministische Lösungsansätze entwickelt werden. Die Studierenden konnten wählen, ob sie einen Interviewleitfaden erarbeiten, mit dem Wünsche von Aktivistinnen für Interventionen in Nachrichtendistributionen erhoben werden, oder ob sie einen Prototypen für Nachrichtendistribution entwerfen, der feministischen Prinzipien folgt.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Die zentralen Ergebnisse des Lehrprojekts "Feministische Interventionen in Nachrichtendistributionen" zeigen, dass die Studierenden ein tiefes Verständnis für die Verbindungen zwischen Daten und Macht sowie die Einflussnahme von Dateninterpretation auf Nachrichtenverteilung erlangten. Sie entwickelten kritische Perspektiven basierend auf demokratischen und feministischen Prinzipien und setzten diese entweder in der Gestaltung eines Interviewleitfadens oder eines Nachrichtenempfehlungssystems um.
 
@@ -26,7 +26,7 @@ text: |
 
     Die Studierenden verbesserten ihre Datenkompetenzen und erweiterten sie durch feministische Theorien. Sie lernten, Daten kritisch zu reflektieren und deren Einfluss auf Machtstrukturen und gesellschaftliche Dynamiken zu verstehen. Zudem erwarben sie technische Fähigkeiten sowie ein tieferes Verständnis für die sozialen und politischen Dimensionen von Daten. Durch interdisziplinäre Zusammenarbeit und praktische Übungen, wie empirische Forschung und Prototypenentwicklung, erlangten sie wertvolle Fähigkeiten für ihr akademisches, berufliches und persönliches Leben.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Im Rahmen der Lehrprojektes konnten die didaktischen Methoden, die in der ersten Runde des Lehrlabors getestet wurden, weiterentwickelt werden. Insbesondere konnten erfolgreich neue didaktische Übungen ausprobiert werden. So wurde beispielsweise die "brainwriting" Methode 6-3-5 eingesetzt. Im Gegensatz zum mündlichen Brainstorming verschriftlichen Studierende hier ihre Ideen mit einem kollaborativen Ansatz. Dabei wird eine bestimmte Zeit und ein fester Ablauf vorgeschrieben. Die Methode wurde besonders positiv von Studierenden bewertet und hat es ihnen ermöglicht, kreativ und strukturiert Ideen zu generieren. Durch den Einsatz solcher innovativer Methoden konnte die Interaktivität und Effektivität der Lehre gesteigert und der Lernprozess für die Studierenden noch ansprechender gestaltet werden.
 

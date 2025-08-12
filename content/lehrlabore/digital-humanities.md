@@ -18,7 +18,7 @@ text: |
 
     Die Entwicklung der Projektidee entstand aus dem Bedarf an Lehr- und Weiterbildungsangeboten im Bereich der Digital Humanities, die optional zum Studium oder zur Arbeit angeboten werden sollen. Diese Angebote sollen einen niedrigschwelligen Hands-on-Charakter in den Workshops mit einer theoretischen Einführung in den Vorträgen kombinieren. Dabei wurden Themen in Absprache mit potenziellen Stakeholdern identifiziert und zunächst ohne Einbettung in den curricularen Rahmen angeboten, um unabhängiger vom curricularen Verwaltungskontext zu sein und zunächst „freier“ DH-Veranstaltungen in Ergänzung zum UHH-Programm anbieten zu können. Die Veranstaltungsthemen wurden so gewählt, dass in der Regel der Vortrag den Workshop ergänzte oder der Workshop auf dem Vortrag aufbaute. Dabei sollten sowohl bibliotheksnahe Themen (z.B. Normdaten) als auch forschungsnahe und studienrelevante Themen eine Rolle spielen (z.B. NLP).
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Ein zentrales Ergebnis zeigt, dass im Wissenstransfer zwischen Bibliothek und Universität erheblicher Handlungsbedarf besteht. Besonders Vorträge zu Normdaten und Datenvisualisierung sowie Themen wie Mehrsprachige Digital Literacy und OCR wurden als äußerst relevant empfunden. Kritisch bewertet wurde die fehlende Kapazität und Raum für extracurriculare Bildung in Digital Literacy an Universitäten. Zudem sind Norm- und Metadaten essenziell für DL, erreichen jedoch kaum die Forschungspraxis außerhalb spezialisierter Projekte in den Digital Humanities.
 
@@ -26,7 +26,7 @@ text: |
 
     Das Ergebnis ist, dass die Veranstaltungsformate der Reihe verstetigt und besser in Studiengänge integriert werden müssen. Ein möglicher Ansatz wäre ein DH-Zertifikat in Zusammenarbeit mit relevanten Professuren, das extracurriculare Teile enthält, aber auch im Curriculum anerkannt wird. Das Themenfeld Digital Humanities bietet eine breite Basis für zukünftige Kooperationen zwischen SUB und UHH in Lehre und Weiterbildung.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Die digitale und didaktische Kompetenz der Referent:innen hat sich teilweise allein dadurch weiterentwickelt, dass die Veranstaltungen pragmatisch angelegt waren. Kurzfristige Herausforderungen wie z. B. spontane Hybrid-Lehre oder die Konfrontation mit bibliothekarischen Perspektiven auf Forschungsarbeit waren für einige der Referent:innen eine gleichermaßen herausfordernde und bereichernde Erfahrung.
 

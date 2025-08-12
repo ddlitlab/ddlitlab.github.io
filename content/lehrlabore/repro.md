@@ -14,7 +14,7 @@ contributors: "Justus Johannes Reihs"
 mentor: "Dr. Lennart Wittkuhn"
 quote:
 text: |
-    ### Ausrichtung des Projekts
+    ## Ausrichtung des Projekts
 
     Die Forschung sollte reproduzierbar sein. Die gleiche Analyse der gleichen Daten sollte das gleiche Ergebnis liefern. Das klingt zunächst selbstverständlich, aber viele Untersuchungen zeigen, dass ein großer Teil der wissenschaftlichen Literatur in verschiedenen Disziplinen nicht reproduzierbar ist. Forschungsdaten und Analysecodes werden oft nicht ohne weiteres weitergegeben, so dass es für andere Forscher praktisch keine Möglichkeit gibt, veröffentlichte wissenschaftliche Ergebnisse unabhängig zu überprüfen. In einigen Fällen sind nicht einmal die Wissenschaftler, die die Forschung durchgeführt haben, in der Lage, ihre eigenen Ergebnisse zu reproduzieren, und das nicht lange nach der Veröffentlichung der Arbeit. Die Investition der Öffentlichkeit in eine bestimmte Forschungsstudie beschränkt sich häufig auf einen - häufig kostenpflichtigen - Artikel im PDF-Format auf der Website eines gewinnorientierten Verlags.
 

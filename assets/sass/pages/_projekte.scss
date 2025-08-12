@@ -147,27 +147,35 @@ input[type="radio"][name="filter"] {
     display: none;
 }
 
-.projekte-filter input[type="radio"]:checked + label {
-    background: linear-gradient(to right, var(--primary), var(--white));
-}
-
-.projekte-filter-spotlights,
-.projekte-filter-1,
-.projekte-filter-2,
-.projekte-filter-3 {
+.projekte-filter-ll-spotlights,
+.projekte-filter-ll-1,
+.projekte-filter-ll-2,
+.projekte-filter-ll-3,
+.projekte-filter-sf-1,
+.projekte-filter-sf-2,
+.projekte-filter-sf-3,
+.projekte-filter-sf-4 {
     display: none;
 }
 
-#spotlights:checked ~ .projekte-grid .projekte-filter-spotlights,
-#runde1:checked ~ .projekte-grid .projekte-filter-1,
-#runde2:checked ~ .projekte-grid .projekte-filter-2,
-#runde3:checked ~ .projekte-grid .projekte-filter-3 {
+#ll-spotlights:checked ~ .projekte-grid .projekte-filter-ll-spotlights,
+#ll-runde1:checked ~ .projekte-grid .projekte-filter-ll-1,
+#ll-runde2:checked ~ .projekte-grid .projekte-filter-ll-2,
+#ll-runde3:checked ~ .projekte-grid .projekte-filter-ll-3,
+#sf-runde1:checked ~ .projekte-grid .projekte-filter-sf-1,
+#sf-runde2:checked ~ .projekte-grid .projekte-filter-sf-2,
+#sf-runde3:checked ~ .projekte-grid .projekte-filter-sf-3,
+#sf-runde4:checked ~ .projekte-grid .projekte-filter-sf-4 {
     display: block;
 }
 
-#spotlights:checked ~ .projekte-filter label[for="spotlights"],
-#runde1:checked ~ .projekte-filter label[for="runde1"],
-#runde2:checked ~ .projekte-filter label[for="runde2"],
-#runde3:checked ~ .projekte-filter label[for="runde3"] {
+#ll-spotlights:checked ~ .projekte-filter label[for="ll-spotlights"],
+#ll-runde1:checked ~ .projekte-filter label[for="ll-runde1"],
+#ll-runde2:checked ~ .projekte-filter label[for="ll-runde2"],
+#ll-runde3:checked ~ .projekte-filter label[for="ll-runde3"],
+#sf-runde1:checked ~ .projekte-filter label[for="sf-runde1"],
+#sf-runde2:checked ~ .projekte-filter label[for="sf-runde2"],
+#sf-runde3:checked ~ .projekte-filter label[for="sf-runde3"],
+#sf-runde4:checked ~ .projekte-filter label[for="sf-runde4"] {
     background: var(--primary);
 }

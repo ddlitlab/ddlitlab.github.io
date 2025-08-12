@@ -20,11 +20,11 @@ text: |
 
     Für die Umsetzung des Lehrprojekts fand eine Kooperation mit der Staats- und Universitätsbibliothek Hamburg statt. Anhand von handschriftlichen Briefen aus der Zeit um 1900 aus dem Dehmel Archiv und gedruckten mehrsprachigen Fremdsprachenlehrwerken aus der Frühen Neuzeit wurden unterschiedliche Anforderungen und daraus resultierende Vorgehensweisen bei der Digitalisierung besprochen. Die Studierenden arbeiteten dabei mit den analogen Artefakten im Archiv und durchliefen den kompletten Arbeitsablauf von Kulturdigitalisierung bis hin zu einer digitalen Repräsentation in einer virtuellen Umgebung.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Im Rahmen der Lehrveranstaltung haben die Studierenden unterschiedliche Methoden aus dem Großbereich der Digital Humanities kennengelernt. Neben dem praktischen Einsatz stand die Ausbildung eines kritisches Bewusstseins für die Auswirkungen der Digitalisierung auf die Gestalt, Funktion und Nutzung von Gegenständen und Verfahren, mit denen in den Geisteswissenschaften bei der Volltexterschließung von kultur- und wissenschaftshistorisch relevanten Textdokumenten umgegangen wird, im Fokus. Die Studierenden haben gelernt, digitale Methoden reflektiert mit Hinblick auf die spezifischen Anforderungen einer Bearbeitung historischer Kulturgüter einzusetzen.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Das Projekt war als Kooperationsprojekt zwischen unterschiedlichen Institutionen (UHH und SUB) und Fachrichtungen (Digitale Literaturwissenschaft, Linguistik, Informationswissenschaft) und mit mehreren Lehrpersonen angelegt. Im Rahmen der interdisziplinären Ausrichtung des Seminars hat sich Co-Teaching als gewinnbringendes Lehr-Lehrszenario erwiesen, da gerade technische Anwendungen Microteaching und eine engmaschige Betreuung der Studierenden verlangen, was durch eine einzelne Lehrperson nur schwer zu gewährleisten ist. Darüber hinaus hat sich den Studierenden zufolge der alle Sitzungen begleitende Austausch und Diskurs zwischen Fachwissenschaftler:innen, die unterschiedliche Forschungsschwerpunkte haben, als authentischer und gewinnbringender Einblick in den Wissenschaftsbetrieb erwiesen. Der interdisziplinäre Austausch wurde auch von den Lehrpersonen selbst als anregend empfunden.
 

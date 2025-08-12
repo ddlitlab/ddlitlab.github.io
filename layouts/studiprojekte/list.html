@@ -4,42 +4,35 @@
 
     <section>
     <header class="section-header">
-        <h1 class="section-title">Studi-Projekte</h1>
+        <h1 class="section-title">Studentische Forschungsgruppen</h1>
         <p class="section-subtitle">Die Projekte im Überblick</p>
     </header>
+
+    <input type="radio" id="sf-runde1" name="filter" checked>
+    <input type="radio" id="sf-runde2" name="filter">
+    <input type="radio" id="sf-runde3" name="filter">
+    <input type="radio" id="sf-runde4" name="filter">
     
-    <input type="checkbox" id="toggle-studiprojekte-1" checked>
-    <input type="checkbox" id="toggle-studiprojekte-2" checked>
-    <input type="checkbox" id="toggle-studiprojekte-3" checked>
-    <input type="checkbox" id="toggle-studiprojekte-4" checked>
-    
-    <div class="controls">
-        <div class="checkbox-wrapper">
-            <label for="toggle-studiprojekte-1">Runde 1</label>
-        </div>
-        <div class="checkbox-wrapper">
-            <label for="toggle-studiprojekte-2">Runde 2</label>
-        </div>
-        <div class="checkbox-wrapper">
-            <label for="toggle-studiprojekte-3">Runde 3</label>
-        </div>
-        <div class="checkbox-wrapper">
-            <label for="toggle-studiprojekte-4">Runde 4</label>
-        </div>
+    <div class="projekte-filter">
+        <label for="sf-runde1">Runde 1</label>
+        <label for="sf-runde2">Runde 2</label>
+        <label for="sf-runde3">Runde 3</label>
+        <label for="sf-runde4">Runde 4</label>
     </div>
 
-    <div class="grid-studiprojekte" id="grid-studiprojekte">
-    {{ range .Pages }}
-        <a href="{{ .Permalink }}" class="grid-item filter-studiprojekte-{{ .Params.round }}"
-        style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
-        >
-            <div>
-                <h3>{{ .Params.title_short }}</h3>
-                <p>{{ .Params.title }}</p>
-            </div>
-        </a>
-    {{ end }}
+    <div class="projekte-grid">
+        {{ range .Pages }}
+            <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-sf-{{ .Params.round}}"
+            style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
+            >
+                <div>
+                    <h2>{{ .Params.title_short }}</h2>
+                    <p>{{ .Params.title }}</p>
+                </div>
+            </a>
+        {{ end }}
     </div>
+
     </section>
     </main>
 {{ end }}

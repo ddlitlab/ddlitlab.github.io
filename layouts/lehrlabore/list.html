@@ -8,21 +8,21 @@
         <p class="section-subtitle">Innovative Lehre fördern</p>
     </header>
 
-    <input type="radio" id="spotlights" name="filter" checked>
-    <input type="radio" id="runde1" name="filter">
-    <input type="radio" id="runde2" name="filter">
-    <input type="radio" id="runde3" name="filter">
+    <input type="radio" id="ll-spotlights" name="filter" checked>
+    <input type="radio" id="ll-runde1" name="filter">
+    <input type="radio" id="ll-runde2" name="filter">
+    <input type="radio" id="ll-runde3" name="filter">
     
     <div class="projekte-filter">
-        <label for="spotlights">Spotlights</label>
-        <label for="runde1">Runde 1</label>
-        <label for="runde2">Runde 2</label>
-        <label for="runde3">Runde 3 (CDLTS)</label>
+        <label for="ll-spotlights">Spotlights</label>
+        <label for="ll-runde1">Runde 1</label>
+        <label for="ll-runde2">Runde 2</label>
+        <label for="ll-runde3">Runde 3 (CDLTS)</label>
     </div>
 
     <div class="projekte-grid">
         {{ range .Pages }}
-            <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-{{ .Params.round}}"
+            <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-ll-{{ .Params.round}}"
             style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
             >
                 <div>

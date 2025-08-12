@@ -23,7 +23,7 @@ text: |
     - Einbeziehung von statistischer Software in das EpiBioManual. Zu den bereits dargestellten statistischen Inhalten sollen die Studierenden eine Anleitung erhalten, wie die Methoden in Software angewandt werden. Dieses soll in der von Medizinstudierenden am häufigsten genutzten Software SPSS erfolgen
 
     - Studierende sollen die Möglichkeit erhalten Grundlagen der Programmierung in R zu erlernen. Hierzu werden Code-Snippets für grundlegende Statistikmethoden erklärt und anhand von Beispielen veranschaulicht
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Im Zuge des Projektes wurde eine moderne und innovative Lehrveranstaltung im Kontext von Kausalität geschaffen. Die Vorlesung wurde durch interaktive Lernmaterialien (Lern-Apps) ergänzt, die zum besseren Verständnis der theoretischen Inhalte beigetragen haben. Mit dem Digital Causality Lab, das die vorherige frontal-unterrichtete Übung ersetzt, wurde zudem ein innovativer Lernraum mit einem didaktischen Schwerpunkt auf forschendem Lernen etabliert. Einerseits werden im Digital Causality Lab wichtige praktische Werkzeuge und Fähigkeiten der Data Literacy vermittelt, sowie die theoretischen Konzepte aus der Vorlesung praktisch angewandt. Andererseits vertiefen die Studierende diese Kenntnisse im Zuge von kausalen Fallstudien, in denen sie eigenständig ein Data Product entwickeln.
 

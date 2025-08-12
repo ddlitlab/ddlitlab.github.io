@@ -14,7 +14,7 @@ contributors: "Bjarne Techert"
 mentor: "Christina Schwalbe, Sören-Kristian Berger, Moritz Kreinsen, Regina Schulz"
 quote:
 text: |
-    ### Ausrichtung des Projekts
+    ## Ausrichtung des Projekts
 
     Ziel des Projekts ist die Entwicklung konkreter Maßnahmen für die Umsetzung eines abgestimmten, systematisch aufgebauten DDLE-Angebots, in Übereinstimmung mit der Digitalstrategie Studium & Lehrer der EW-Fakultät und Abstimmung mit relevanten DDLE-Aktuer:innen der EW-Fakultät. Das Projekt soll wie folgt umgesetzt werden:
 

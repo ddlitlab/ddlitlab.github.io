@@ -14,7 +14,7 @@ contributors: "Kostiantyn Yanchenko, Laura Laugwitz, Nadja Schaetz"
 mentor: "Prof. Dr. Juliane Lischka"
 quote: "Das Seminar betrachtet das globale Phänomen Desinformation vor dem Hintergrund von Gegenöffentlichkeiten auf sozialen Plattformen. Dabei steht die Rolle von Telegram als Plattform für Internet-Persönlichkeiten in der Verschwörungsszene und Datenquelle für die Untersuchung extremistischer Bewegungen im Mittelpunkt."
 text: |
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Ausgehend vom Forschungsstand und einer methodischen Einführung zur investigativen digitalen Ethnographie untersuchten Studierende der Medien- und Kommunikationswissenschaft sowie der Politikwissenschaft in diesem Projekt selbstgewählte Fallbeispiele zu Desinformation und Verschwörungsnarrativen. Im ersten Abschnitt der Veranstaltung wurden die sozio-technischen Entstehungsbedingungen, die Anhänger:innen sowie argumentative Merkmale von politischen Verschwörungsnarrativen aus interdisziplinärer Perspektive in den Blick genommen.
 

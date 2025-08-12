@@ -14,13 +14,13 @@ contributors: "Laura Fichtner"
 mentor: "Larissa Gebken"
 quote: "Um jedoch bei der Entwicklung einer DSI (Digitalen Sozialen Innovation) nicht mehr Schaden zu verursachen als zu helfen, ist die Betrachtung von Werten und der ethischen Perspektive unabdingbar."
 text: |
-    ### Ausrichtung des Lehrlabors
+    ## Ausrichtung des Lehrlabors
 
     Dieses Lehrlabor richtete sich im Studium Generale an Studierende aller Fächer. Ein Hauptziel war es, gesellschaftliche Herausforderungen mit Technologien zu adressieren und diese Herausforderungen direkt aus der Zivilgesellschaft zu generieren. Weiterhin war es Ziel des Lehrprojekts, Studierende für digitale soziale Innovationen bzw. wert-sensitive Technologieentwicklung zu sensibilisieren und ihnen die Möglichkeit zu geben, praktisch mit gemeinnützigen Organisationen zusammenzuarbeiten.
 
     Bereits im Studium sollte ein Raum für Erfahrungen mit interdisziplinären Arbeiten bereitgestellt werden, was in der Praxis, gerade im digitalen Bereich, von äußerster Wichtigkeit ist, und bei den Studierenden ein Bewusstsein für die ethischen und gesellschaftlichen Dimensionen digitaler Technologien schafft. Außerdem sollte den Studierenden Projekte ermöglicht werden, die tatsächlich auch einen positiven Effekt in der Welt haben beziehungsweise möglicherweise in der Praxis weiterentwickelt werden können.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     In Kooperation mit der Hilfsorganisation Clubkinder e.V. wurde eine Anwendung entwickelt, die einen positiven Einfluss auf die Gesellschaft nehmen kann. Dazu wurden mithilfe von „Value Sensitive Design“ die Werte sowie die ethischen Dilemmata (z.B. Datenschutz vs. Individualisierung von Informationen) in den Blick genommen, die bei der Entwicklung der Anwendung berücksichtigt werden mussten. Auf dieser Basis konnten mit Design Thinking-Methoden Ideen entwickelt und reflektiert werden. Neben dem kreativen und verantwortungsvollen Umgang mit Daten wurden auch praktische Kompetenzen zum Beziehen, Verarbeiten und Visualisieren von Daten mit Jupyter Notebooks vermittelt.
 

@@ -18,7 +18,7 @@ text: |
 
     Die Förderung von Grundelementen einer rezeptiven Data Literacy bei (angehenden) Lehrer:innen als Multiplikator:innen im Bereich schulischer Bildung ist dabei eine notwendige, aber nicht hinreichende Bedingung, um langfristig Data Literacy Education als Kernelement schulischer Bildung verankern zu können. Allerdings sind Lehrangebote zu Data Literacy bisher nicht systematisch im Lehramtscurriculum verankert. Und auch Lehrkräfte, die bereits im Schuldienst sind, verfügen häug nicht über das notwendige Wissen und die notwendigen Kompetenzen – zugleich fehlt ihnen im Schulalltag die Zeit, sich praktisch und reektierend mit den aktuellen Veränderungen in einer immer stärker digitalisierten und von datengetriebenen Prozessen geprägten Welt auseinanderzusetzen.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Übergeordnetes Ziel der Forschungswerkstatt war es, (angehende) Lehrer:innen dazu zu befähigen, Konzepte und Ideen zu entwickeln, wie grundlegende Data Literacy Kompetenzen bereits in der Schule gefördert werden können. Durch eine Kooperation mit dem Landesinstitut für Lehrerbildung und Schulentwicklung und die Beteiligung von Lehrkräften aus der Praxis konnte die Bearbeitung des Themas aus theoretischer Perspektive mit einer lösungsorientierten Sicht auf die Integration von Data Literacy in schulische Lehr-Lernprozesse kombiniert werden. Dafür wurde zunächst das Thema im Rahmen von Input- sowie Diskussions- und Reexionsphasen gemeinsam mit Studierenden und Lehrer:innen erarbeitet und im Anschluss daran in konkreten Forschungsprojekten der Schulbezug noch einmal vertieft.
 
@@ -26,7 +26,7 @@ text: |
 
     Ein weiterer Aspekt des Lehrprojekts war die Entwicklung eines Blogs, der Lehr- und Lernmaterialien zum Thema Data Literacy Education für die Schule gebündelt zur Verfügung stellt. Dieser Blog wird für zukünftige Lehrveranstaltungen zu Data Literacy Education an der Fakultät für Erziehungswissenschaft genutzt und in diesem Rahmen weiter gepegt werden. Aktuell ist er noch in Überarbeitung, um das Komplexitätsniveau der Materialien im Blog den Anforderungen an schulische Data Literacy Education anzupassen und die seminarspezischen Inhalte nach Beendigung des Projekts wieder zu entfernen.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Im Rahmen des Projekts hat sich deutlich gezeigt, dass die Organisation von hybriden Veranstaltungen sehr gut funktionieren kann, wenn es eine (studentische) Person gibt, die als Schnittstelle zwischen Teilnehmenden in Präsenz und digital teilnehmende Studierende fungiert. So können Meldungen aus dem Digitalen besser in den Präsenzraum getragen werden und auch umgekehrt Ergebnisse aus der Präsenzarbeit für die digital Teilnehmden dokumentiert werden. Die Nutzung eines gemeinsamen digitalen Whiteboards war eine gute Unterstützung, aber auch hier war es gut, dass eine studentische Hilfskraft zur Verfügung stand, die die Nutzung strukturierend begleitet hat und auch Präsenzergebnisse direkt übertragen konnte. So war auch Arbeit mit Karten vor Ort möglich, was eine andere Interaktion und Aktivierung der Teilnehmenden ermöglichte.
 

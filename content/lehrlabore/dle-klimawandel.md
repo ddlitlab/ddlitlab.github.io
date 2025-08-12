@@ -20,13 +20,13 @@ text: |
 
     Ein weiteres Anliegen des Projektes ist es, einen wissenschaftlichen Beitrag zu leisten, indem die Bedeutung von Data Literacy für die spätere Tätigkeit der Lehramtsstudierenden und die erachtete Relevanz von Data Literacy für Schüler:innen empirisch untersucht werden.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Im Zentrum des Projektes stand zum einen die Konzeption einer interdisziplinären Seminarveranstaltung mit Forschungsbezug für die Lehrkräftebildung, welche erfolgreich umgesetzt, zeitgleich erprobt und anschließend summativ evaluiert, sowie wissenschaftlich begleitet wurde. Das Konzept als ein Ergebnis des Projektes, kann fortan weiterentwickelt und durch (andere) Lehrende genutzt werden. Dabei kann festgestellt werden, dass die Unterrichtsfächer Informatik und Geographie noch weitaus mehr Schnittmengen im Bereich der Data Literacy haben, als im Rahmen des Forschungsseminares thematisiert werden konnten.
 
     Zum Anderen wurden konkrete Bausteine, einerseits zum thematischen Input in der Lehrveranstaltung, wie beispielsweise dem Daten- und Informationsbegriff (auf Basis des informatischen Fachkonzeptes), Daten im Alltag, empirischen Forschungsmethoden, Forschungsdatenmanagement im Lehramt als auch zur konkreten praktischen Arbeit mit den Studierenden, entwickelt, welche in der fachdidaktischen Lehre unabhängig weitergenutzt werden können. Hierunter findet sich insbesondere auch ein Unterrichtsprojekt zur Entwicklung einer Wetterstation mit dem "Calliope Mini Microcontroller" mit ergänzender Handreichung für Lehrkräfte zu den Zielen des Unterrichtsversuchs und den angestrebten Datenkompetenzen. Hierzu wurde bereits ein Beitrag in dem unterrichtspraktischen Journal MNUjounal zum Thema "Forschendes Lernen zum Erwerb von Data Literacy über den Ansatz des Physical Computing im Kontext Wetter, Klima und Klimawandel" veröffentlicht. Weiterhin fließen Konzept und Bausteine in ein neues Transfer-Projekt mit dem Schülerforschungszentrum Hamburg ein und werden dort unterrichtspraktisch weiterentwickelt.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Da in der Forschungswerkstatt Studierende alle Fächer teilnehmen können, war es besonders interessant und herausfordernd fachfremd zu unterrichten. Lehrende sollten sich in solchen interdisziplinären Veranstaltungen deshalb besonders darauf konzentrieren, Inhalte didaktisch zu reduzieren und Studierende zu unterstützen, um diese bei ihrem Kenntnisstand abzuholen. Auch das Wecken von Interesse bei einem interdisziplinärem Thema, in dem sich Studierende gegenbenenfalls nur für Teilaspekte interessieren, ist eine Herausforderung. Diesbezüglich sollten Lehrprojekte überprüft und unter Umständen angepasst werden, um den Studierenden mehr Freiraum entsprechend ihrer Kompetenzen zu ermöglichen. Die Erhebung von Data‐Literacy‐Kompetenzen der Studierenden ist auch für andere Fächer interessant, damit die Lehrenden den Kompetenzstand ihrer Studierenden einschätzen und entsprechend dort anknüpfen können. 
 

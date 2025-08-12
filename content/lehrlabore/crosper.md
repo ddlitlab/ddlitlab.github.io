@@ -18,7 +18,7 @@ text: |
 
     Um die Fähigkeit zu entwickeln, komplexe Ökosysteme zu illustrieren, zu analysieren und folglich normativ zu bewerten, wird in diesem Projekt zunächst Architekturwissen vermittelt. Das zu vermittelnde Architekturwissen berücksichtigt dabei komplexe Akteurskonstellationen, in denen Daten ausgetauscht und algorithmische Systeme verwendet werden. Die Modellierung mithilfe von Architekturen schafft so die Grundlagen für die Illustration der Ökosysteme und damit die Transparenz von komplexen Systemen. Ergänzend wird medienrechtliches Wissen vermittelt zur Einschätzung dieser Ökosysteme sowie der dort befindlichen Problematiken und Herausforderungen. Der ursprüngliche Plan eine Lehrveranstaltung zu erproben, konnte nicht durchgeführt werden. Stattdessen wurde eine Lernumgebung aufgebaut, die in den kommenden Semestern genutzt werden kann.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Im Kern wurde eine Lernumgebung entwickelt, die in der interdisziplinären Zusammenarbeit von Wirtschaftsinformatiker:innen und Jurist:innen entstanden ist. Diese Lernumgebung führt Studierende und interdisziplinäre Forschungsteams schrittweise durch den Prozess der Erkundung von Medienökosystemen und soll dazu beitragen, dass interdisziplinäre Teams eine gemeinsame Sprache entwickeln.
 
@@ -26,7 +26,7 @@ text: |
 
     Dieses Vorgehen soll dazu anregen, verflochtene Ökosysteme näher zu analysieren und die Zusammenhänge zwischen Akteuren, Daten und Systemen im Kontext medienregulatorischer Fragestellungen zu verstehen.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Zum einen bedarf es anderer Mechanismen im Freien Wahlbereich, um Kurse für Studierende interessant zu machen. Ganztägige Veranstaltungen in den Semesterferien scheinen kein geeignetes Format zu sein. Neben Lerninhalten ist es wichtig, digitale und interaktive Lernumgebungen zu stärken. Insbesondere die Nutzenden-Führung ist wichtig, um Studierenden zu ermöglichen, dass sie sich eigenständig auf der Plattform bewegen können. Die Entwicklung eines niedrigschwelligen Ansatzes, der nicht nur für Jurist:innen und Informatiker:innen interessant ist, wird empfohlen. Dabei könnte ein Fokus darauf liegen wie Dienste wie Google News funktionieren und welche gesellschaftlichen Herausforderungen und Chancen dies hat. Ein Perspektivwechsel kann hierbei ein wichtiges Stilelement in der Lehre darstellen.
 

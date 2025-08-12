@@ -14,7 +14,7 @@ contributors:
 mentor: "Marie Flüh"
 quote: "Welche Handlungsmöglichkeiten entstehen für den Literaturunterricht durch den Einsatz digitaler Verfahren der Textanalyse und wie können Unterrichtskonzepte aussehen, in denen literarische Texte digital analysiert werden?"
 text: |
-    ### Ausrichtung des Projekts
+    ## Ausrichtung des Projekts
 
     Das Projekt beruht auf der Feststellung, dass:
 
@@ -24,7 +24,7 @@ text: |
 
     Dies führt zu der Frage, wie ein Transfer digitaler Textanalyseverfahren in den Schulunterricht gestaltet sein könnte. Die verantwortungsvolle Teilhabe zukünftiger Schüler:innen an einer digitalisierten Gesellschaft ist nur möglich, wenn Lehrer:innen die entsprechenden Kompetenzen erwerben. Das Seminar verknüpft daher zwei Bereiche: Schule (Literaturunterricht) und den literaturwissenschaftlichen Teilbereich der Digital Humanities.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Das Seminar bestand aus zwei Teilbereichen:
 
@@ -37,7 +37,7 @@ text: |
 
     Eine zentrale Frage in allen Sitzungen war, welche Handlungsmöglichkeiten der Literaturunterricht durch digitale Textanalyse bietet und wie sinnvolle Unterrichtskonzepte und Strategien aussehen können. Der kritische Blick auf computergestützt erzeugte Daten und ihr Abgleich mit dem schulischen Alltag war ebenfalls von Bedeutung. Die Diskussion und der Transfer in den schulischen Bereich werden in Blogbeiträgen und Hausarbeiten schriftlich festgehalten.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Wichtig für die Planung von Seminarsitzungen ist effektives Zeitmanagement. Gruppenarbeitsphasen dauern oft deutlich länger gedauert als erwartet. Einen weiteren Zeitfaktor stellt die Korrektur von Inhalten der Studierenden dar. Die Studierenden haben die Konzeptionierung der einzelnen Sitzungen und das zweiteilige Seminarkonzept als sehr positiv bewertet. 
 

@@ -14,13 +14,13 @@ contributors: "Julia Schilling"
 mentor: "Prof. Dr. Robert Fuchs"
 quote: "A critical evaluation of the current Teaching Lab project also indicates that, by foregrounding the focus on data literacy, mainly intrinsically motivated students with a pre-existing interest in data literacy are addressed. Many students in English linguistics are reluctant to engage with data-intensive methods. A new approach is needed to reach these students."
 text: |
-    ### Ausrichtung des Projekts
+    ## Ausrichtung des Projekts
 
     Die Entwicklung der Projektidee für das Lehrprojekt "Applying Data Science to Controversial Discourses" wurde durch mehrere Erkenntnisse und Überlegungen motiviert. Zunächst ergab sich die Notwendigkeit einer kritischen Evaluation des bestehenden Teaching Labs zur fortgeschrittenen Datenanalyse für Linguist:innen aus der ersten DDLitLab-Förderrunde. Obwohl dieses Lab erfolgreich war und eine beträchtliche Anzahl von Studierenden mit intrinsischem Interesse an Data Literacy ansprach, wurde festgestellt, dass viele Studierende in der englischen Linguistik zögerten, sich mit datenintensiven Methoden auseinanderzusetzen. Dies führte zur Erkenntnis, dass eine neue Herangehensweise erforderlich war, um auch diejenigen Studierenden zu erreichen, die bisher beim Thema Datenanalyse zurückhaltend waren. Die Idee, kontroverse Diskurse als zentrales Element einzuführen, wurde aus der Überlegung geboren, dass diese Themen eine breite Resonanz haben und somit auch Studierende ansprechen könnten, die bisher wenig Interesse an Data Literacy zeigten.
 
     Weiterhin wurden Schwachstellen in der Data Literacy-Ausbildung der Studierenden identifiziert, insbesondere in den Bereichen Datenanalyse und Datenanwendung. Diese Erkenntnis floss direkt in die Gestaltung der neuen Seminare ein, die sich auf die Interpretation von Erkenntnissen aus großen Datenkorpora, insbesondere Social Media und Zeitungskorpora, konzentrieren. Statistische, datenintensive Analysetechniken werden genutzt, um die Studierenden mit komplexen Aspekten der Data Literacy vertraut zu machen.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Eine zentrale Errungenschaft des Lehrprojekts war es, Studierende durch die Integration kontroverser Diskurse für Datenkompetenz zu motivieren - insbesondere durch die Seminare "Understanding the Dynamics of COVID-19 Discourse" und "Climate Change Discourse: Between Global Catastrophe and Business as Usual". Dieser Ansatz half, die Hemmschwelle gegenüber Datenanalysen zu senken und das Interesse zu fördern.
 
@@ -28,7 +28,7 @@ text: |
 
     Es wurden spezielle RStudio Workbooks entwickelt, die den Studierenden einen strukturierten Zugang zu Datenanalysekonzepten und -techniken bieten. Diese praxisorientierten Workbooks umfassen theoretische Erläuterungen, praktische Beispiele und Übungen, die einen effektiven Lernprozess gewährleisten und es den Studierenden ermöglichen, fortgeschrittene Datenanalysemethoden zu verstehen und anzuwenden.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Im Rahmen des Projekts konnte die digitale und didaktische Kompetenz der Lehrperson auf unterschiedliche Weise weiterentwickelt werden. Zum einen wurde durch die Nutzung digitaler Werkzeuge und Methoden die digitale Kompetenz erweitert und vertieft. Diese Erfahrungen und Kenntnisse können nun auch in anderen Lehrveranstaltungen eingesetzt und weitergegeben werden. Darüber hinaus konnten im Rahmen des Projekts auch didaktische Fähigkeiten weiterentwickelt werden, indem die Seminare gemeinsam mit den Studierenden reflektiert und auf ihre Bedürfnisse angepasst wurden. Die Erfahrung hat gezeigt, dass die Studierenden von interaktiven Lehrmethoden und praktischen Übungen besonders profitieren und das Lernen durch Anwendung in realen Forschungsprojekten gefördert wird. Durch die Eigenanalyse als Lehrperson konnten auch Lehrstrategien überdacht und optimiert werden, um eine bessere Vermittlung der Inhalte und eine höhere Motivation der Studierenden zu erreichen.
 

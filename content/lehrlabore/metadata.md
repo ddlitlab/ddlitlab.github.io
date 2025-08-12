@@ -14,13 +14,13 @@ contributors: "Nele Leiner"
 mentor: "Dr. Robert Zepf"
 quote: "Das Wissen um die vielfältigen Funktionsweisen und Anwendungsmöglichkeiten der Daten über Daten ist wesentliche Voraussetzung für das erfolgreiche Navigieren auf Datenströmen einer digitalisierten Wissenschaft. Das Metadata Literacy Lab hat es sich zur Aufgabe gemacht, Studierenden den Umgang mit Metadaten, also Daten über Daten, nahzubringen."
 text: |
-    ### Ausrichtung des Metadata Literacy Labs
+    ## Ausrichtung des Metadata Literacy Labs
 
     Da die Struktur der Metadaten sich nach ihrem Anwendungszweck richtet, wurde anhand praktischer Beispiele Basiswissen über verschiedene Ontologien, deren Einsatz und Wirkung vermittelt. Das fördert ein grundlegendes Verständnis über die Mechanismen des Sammelns, Verwaltens, Teilens und Bewertens von Daten. Ebenfalls in den Blick genommen werden die Werkzeuge und Bedingungen der Nachnutzung. Aus diesem Wissen heraus kann ein kritischer Blick auf Recherchepraktiken, insbesondere Datenauswahl, Präsentation und Hierarchisierung (durch beispielsweise Suchmaschinen) geworfen werden. Datenproduzierende entwickeln darüber hinaus Fertigkeiten, mit denen sie die Qualität der Metadaten ihrer Daten eigenverantwortlich optimieren können.
 
     Das Metadata Literacy Lab war als Veranstaltungsreihe in sieben Themenblöcke gegliedert, die mit jeweils einer Lehrveranstaltung mit Vorlesungscharakter und einer praktischen Übung eine geschlossene Lerneinheit bildeten. Die Themenblöcke wurden durch Expert:innen der Staats- und Universitätsbibliothek konzipiert. Die Übungen fokussierten sich insbesondere auf studien- und publikationsrelevanten Anwendungsszenarien von der Literaturrecherche bis hin zur Publikation in wissenschaftlichen Fachzeitschriften.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Mit dem Angebot bildet das Projekt eine Kompetenz‐Schnittstelle zwischen Bibliothek, Studium und aktiver Forschung an der Universität Hamburg. Dabei erfolgte ein Transfer von Fachkompetenzen zwischen Bibliothek und Akteur:innen der Universität zur Bedeutung und Verwendung von Metadaten im Studium und in der wissenschaftlichen Arbeit. Des Weiteren leistete das Metadata Literacy Lab damit einen direkten Beitrag zu Data Literacy Education. Ziel der Data Literacy ist die umfassende Befähigung zum kritischen Umgang mit Daten und digitalen Ressourcen. Dies bezieht sich wiederum sowohl auf das Sammeln, Managen, die Bewertung als auch auf die Nachnutzung von Daten. Und um diesen Umgang mit Daten zu ermöglichen, bedarf es Daten über Daten, also den Metadaten. Insbesondere durch die Übungen, in denen die Theorie aus der vorgelagerten Vorlesung von den Studierenden praktisch angewendet wurde, trugen hierzu bei.
 
@@ -28,7 +28,7 @@ text: |
 
     Mittelfristiges Ziel ist es, die im Form eines Pilot‐Projektes an der SUB entwickelte Reihe anschließend nachhaltig in die institutionellen Strukturen zu integrieren. Die praktischen Erfahrungen aus dem Projekt ießen in die methodische und inhaltliche Weiterentwicklung des Formats sowie die Konzeption neuer Themenblöcke ein. Neben der inhaltlichen Weiterentwicklung wird eine bedarfsmotivierte Ausweitung des Angebots intendiert. Dabei ist im Speziellen eine Ausdierenzierung der Zielgruppen geplant, so dass noch genauer auf die teilweise unterschiedlichen Bedarfe von Studienanfänger:innen im Vergleich zu Promovierenden und Postdocs eingegangen werden kann.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Wo sinnvoll möglich, können Lehrende unterstützende digitale Formate verwenden, z. B. Sandboxsysteme, Hedgedoc also kollaboratives Schreibwerkzeug oder mentis für niedrigschwellige Umfragen. Außerdem ist es wichtig, dass Lehrende Erfahrungen bezüglich der digitalen Lernplattform der Universität Erfahrungen sammeln, um Studierende bestmöglich zu betreuen. Didaktisch berücksichtigt werden musste bei dem vorliegenden Konzept mit Einbezug von verschiedenen Lehrpersonen, dass durch kurze Einführungen und Zusammenfassungen der rote Faden für die Studierenden sichtbar zu machen ist.
 

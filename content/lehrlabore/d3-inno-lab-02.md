@@ -13,7 +13,7 @@ uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte
 contributors:
 mentor:
 text: |
-    ### Ausrichtung des D3 Innovation Lab
+    ## Ausrichtung des D3 Innovation Lab
 
     Sprachmodelle in Bezug zu generativer KI sind heutzutage ein zentraler Bestandteil der digitalen Landschaft und werden in vielen Bereichen der natürlichen Sprachverarbeitung eingesetzt, wie bei der Textgenerierung, -überarbeitung oder Übersetzung. General Purpose Modelle wie GPT (Generative Pre-trained Transformer) und BERT (Bidirectional Encoder Representations from Transformers) sind besonders vielseitig und können ohne Anpassungen für eine Vielzahl von Aufgaben verwendet werden. Allerdings bieten sie nicht immer die optimale Leistung für spezifische Anwendungsfälle. Durch Anpassungsmethoden wie Fine-Tuning, Prompt Engineering oder die Anbindung von neuen Wissensquellen können diese Modelle gezielt für bestimmte Anforderungen optimiert werden, um ihre Leistungsfähigkeit für bestimmte Anwendungsfälle zu steigern.
 
