@@ -8,33 +8,30 @@
         <p class="section-subtitle">Innovative Lehre fördern</p>
     </header>
 
-    <div class="filter-wrapper">
-            <input type="radio" id="spotlights" name="filter" checked>
-            <label for="spotlights">Spotlights</label>
+    <input type="radio" id="spotlights" name="filter" checked>
+    <input type="radio" id="runde1" name="filter">
+    <input type="radio" id="runde2" name="filter">
+    <input type="radio" id="runde3" name="filter">
+    
+    <div class="projekte-filter">
+        <label for="spotlights">Spotlights</label>
+        <label for="runde1">Runde 1</label>
+        <label for="runde2">Runde 2</label>
+        <label for="runde3">Runde 3 (CDLTS)</label>
+    </div>
 
-            <input type="radio" id="runde1" name="filter">
-            <label for="runde1">Runde 1</label>
-            
-            <input type="radio" id="runde2" name="filter">
-            <label for="runde2">Runde 2</label>
-            
-            <input type="radio" id="runde3" name="filter">
-            <label for="runde3">Runde 3 (CDLTS)</label>
-
-            <div class="projekte-grid">
-                {{ range .Pages }}
-                    <a href="{{ .Permalink }}" class="projekte-grid-card projekte-filter-{{ .Params.round}}"
-                    style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
-                    >
-                        <div>
-                            <h3>{{ .Params.title_short }}</h3>
-                            <p>{{ .Params.title }}</p>
-                        </div>
-                    </a>
-                {{ end }}
-            </div>
-        </div>
-
+    <div class="projekte-grid">
+        {{ range .Pages }}
+            <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-{{ .Params.round}}"
+            style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
+            >
+                <div>
+                    <h2>{{ .Params.title_short }}</h2>
+                    <p>{{ .Params.title }}</p>
+                </div>
+            </a>
+        {{ end }}
+    </div>
 
     </section>
     </main>

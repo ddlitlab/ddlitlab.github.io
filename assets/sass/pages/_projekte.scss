@@ -68,38 +68,87 @@
     }
 }
 
-.projekte-filter {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-}
-
-.projekte-filter input[type="radio"] {
-    display: none;
-}
-
-.projekte-filter label {
-    display: block; /* Make it a block-level element for easier styling */
-    padding: 10px 20px;
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
-    cursor: pointer;
-    text-align: center;
-    border-radius: 5px;
-}
-
-.projekte-filter input[type="radio"]:checked + label {
-    background-color: #007bff;
-    color: #fff;
-    border-color: #007bff;
-}
-
-
-
 .projekte-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 3rem;
     place-content: center;
+    margin-top: 3rem;
+}
+
+@media (max-width: $breakpoint-tablet) {
+    .projekte-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: $breakpoint-mobile) {
+    .projekte-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.projekte-grid-item {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    color: var(--black);
+    transition: all var(--transition-speed) ease;
+    overflow: hidden;
+    text-decoration: none;
+    padding: 1rem;
+    // justify-content: flex-start;
+    border-radius: 0;
+    box-shadow: 0.5rem 0.5rem 0 0 var(--primary);
+}
+
+.projekte-grid-item h2 {
+    font-size: 1.2em;
+    padding: 0.5rem 1rem;
+    background: var(--primary-lightest);
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+.projekte-grid-item p {
+    font-size: 0.8em;
+    font-weight: 500;
+    color: var(--black-light);
+    padding: 0.3rem;
+    background: var(--primary-lightest);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+
+.projekte-filter {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+}
+
+.projekte-filter label {
+    cursor: pointer;
+    user-select: none;
+    padding: 0.5em;
+    font-size: 1em;
+    box-shadow: 1px 2px 2px var(--primary), 4px 5px 4px var(--primary-light);
+    background: linear-gradient(to right, var(--primary-lightest), var(--white));
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--black-light);
+    text-align: center;
+    justify-content: center;
+}
+
+input[type="radio"][name="filter"] {
+    display: none;
+}
+
+.projekte-filter input[type="radio"]:checked + label {
+    background: linear-gradient(to right, var(--primary), var(--white));
 }
 
 .projekte-filter-spotlights,
@@ -116,61 +165,9 @@
     display: block;
 }
 
-
-
-
-
-
-
-// .grid-lehrlabore, .grid-studiprojekte {
-//     display: grid;
-//     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-//     gap: 50px;
-//     place-content: center;
-//     // margin: 0 auto;
-
-//     & .grid-item {
-//         // display: none;
-//         display: flex; 
-//         text-align: left;
-//         color: var(--black);
-//         transition: all var(--transition-speed) ease;
-        
-//         overflow: hidden;
-//         text-decoration: none;
-//         // border: dashed 2px var(--black);
-//         padding: 20px;
-        
-//         flex-direction: row;
-//         justify-content: flex-start;
-
-//         // border-radius: 15px;
-//         border-radius: 0;
-//         box-shadow: -50px -50px 0 -45px var(--primary), 50px 50px 0 -45px var(--primary);
-        
-
-//         & h3 {
-//             font-size: 1.2em;
-//             background-color: #fff;
-//             border-radius: 6px;
-//             padding: 0px 10px 0px 10px;
-//             background: rgba(255, 255, 255, 0.5);
-//             box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
-//             backdrop-filter: blur(5px);
-//             -webkit-backdrop-filter: blur(5px);
-//         }
-
-//         & p {
-//             font-size: 0.8em;
-//             color: var(--black);
-//             margin-top: 0.5em;
-//             background-color: #fff;
-//             border-radius: 6px;
-//             padding: 0px 5px 0px 5px;
-//             background: rgba(255, 255, 255, 0.8);
-//             backdrop-filter: blur(5px);
-//             -webkit-backdrop-filter: blur(5px);
-//         }
-//     }
-// }
-
+#spotlights:checked ~ .projekte-filter label[for="spotlights"],
+#runde1:checked ~ .projekte-filter label[for="runde1"],
+#runde2:checked ~ .projekte-filter label[for="runde2"],
+#runde3:checked ~ .projekte-filter label[for="runde3"] {
+    background: var(--primary);
+}
