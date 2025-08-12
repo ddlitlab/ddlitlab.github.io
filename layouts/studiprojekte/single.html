@@ -9,24 +9,24 @@
         <p class="section-subtitle">Project: {{ .Params.title_short }}</p>
     </header>
 
+    {{ with .Params.lecture2go }}
     <div class="wide-movie-container">
-        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj={{ .Params.lecture2go }}'  title='{{ .Params.title }}' frameborder='0' allowfullscreen></iframe>
+        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj={{ . }}'  title='{{ $.Params.title }}' frameborder='0' allowfullscreen></iframe>
     </div>
+    {{ end }}
 
     <div class="article-info">
-      <div class="bold">Students: {{ .Params.students }}</div>
-      <div class="text-secondary">Round: {{ .Params.round }}</div>
-      <div class="bold">Mentors: {{ .Params.mentor }}</div>
-      <div class="text-secondary">Period: {{ .Params.period }}</div>
+      <p class="bold">Studierende: {{ .Params.students }}</p>
+      <p class="text-secondary">Runde: {{ .Params.round }}</p>
+      <p class="bold">Mentor:innen: {{ .Params.mentor }}</p>
+      <p class="text-secondary">Zeitraum: {{ .Params.period }}</p>
     </div>    
     
     <div class="article-text">
       {{ .Params.text | markdownify }}
     </div>
 
-    <div class="article-backref">
-      <a class="hover-fx" href="/studiprojekte/"><i class="codicon codicon-arrow-left" style="font-size: 1rem; display: inline-block; font-weight: 1000"></i> Zurück zur Übersicht</a>
-    </div>
+    <a class="hover-fx article-backref" href="/studiprojekte/">Zurück zur Übersicht</a>
 
   </article>
 </main>

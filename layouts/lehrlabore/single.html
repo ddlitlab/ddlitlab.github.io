@@ -3,7 +3,7 @@
 <main>
   {{ .Content }}
 
-  <article>
+  <article class="article-project">
     <header class="section-header">
         <h1 class="section-title">{{ .Params.title }}</h1>
         <p class="section-subtitle">Project: {{ .Params.title_short }}</p>
@@ -25,18 +25,21 @@
       </details>
     </div>
 
+    
+
     <div class="article-info">
-      <div>Contributors: {{ .Params.contributors }}</div>
-      <div>Round: {{ .Params.round }}</div>
-      <div>Mentors: {{ .Params.mentors }}</div>
-      <div>Period: {{ .Params.period }}</div>
-      <div>Förderlinie: {{ .Params.foerderlinie }}</div>
-      <div>Veranstaltungstyp: {{ .Params.method }}</div>
-      <div>Stine-Link: {{ .Params.stine | safeHTML }}</div>
+      <p class="bold">Referent:innen: {{ .Params.contributors }}</p>
+      <p>Runde: {{ .Params.round }}</p>
+      <p class="bold">Mentor:innen: {{ .Params.mentors }}</p>
+      <p>Zeitraum: {{ .Params.period }}</p>
+      <p>Förderlinie: {{ .Params.foerderlinie }}</p>
+      <p>Veranstaltungstyp: {{ .Params.method }}</p>
       {{ with .Params.link_external }}
       <div>Externer Link: <a href="{{ . }}" target="_blank">{{ . }}</a></div>
       {{ end }}
-    </div>    
+    </div>   
+    
+    <a class="hover-fx article-stine-link" href="{{ .Params.stine | safeHTML }}">Seminarbeschreibung im Vorlesungsverzeichnis der UHH</a>
 
     {{ with .Params.quote }}
     <div class="blockquote">
@@ -48,9 +51,7 @@
       {{ .Params.text | markdownify }}
     </div>
 
-    <div>      
-      <a class="hover-fx" href="/lehrlabore/"><i class="codicon codicon-arrow-left" style="font-size: 1rem; display: inline-block; font-weight: 1000"></i> Zurück zur Übersicht</a>
-    </div>
+    <a class="hover-fx article-backref" href="/lehrlabore/">Zurück zur Übersicht</a>
 
   </article>
 </main>

@@ -8,6 +8,7 @@
 }
 
 .article-text p {
+    font-size: 1.3rem;
     margin-bottom: 1em;
 }
 
@@ -18,6 +19,25 @@
 
 .article-backref {
     text-align: center;
+}
+
+.article-backref::before {
+    content: "\ea9b";
+    font-family: 'codicon';
+    margin-right: 0.3em;
+    float: left;
+}
+
+.article-stine-link {
+    text-align: center;
+}
+
+.article-stine-link::before {
+    content: "\ea9b";
+    font-family: 'codicon';
+    transform: rotate(135deg);
+    float: right;
+    margin-left: 0.3em;
 }
 
 @media (max-width: $breakpoint-mobile) {
