@@ -26,12 +26,12 @@ draft: false
     <p>Das DDLitLab hat über den Ringvorlesungszyklus „Datenwelten“ mehr als 2.400 Studierende aus über 210 Fächern erreicht; in 31 studentischen Forschungsgruppen haben 77 Studierende an eigenen datenbasierten Projekten gearbeitet. Zahlreiche Lehrprojekte in unterschiedlichsten Disziplinen werden angestoßen, begleitet und ausgewertet.</p>
     <p>Mit dem Abschluss des Projekts Ende 2025 stehen die hier entwickelten Materialien und Konzepte als Ressource für die Weiterentwicklung der digitalen und datenbezogenen Hochschullehre an der Universität Hamburg und darüber hinaus zur Verfügung. Die Erfahrungen des DDLitLab sollen langfristig zur Verankerung und Förderung von Data Literacy als Schlüsselkompetenz an der Universität beitragen.</p>
     </article>
-    <div class="row hero-partners">
+    <div class="logo-grid logo-grid-ddlitlab">
         <a href="https://www.uni-hamburg.de/">
-          <img src="/svg/uhh.svg" alt="UHH Logo" class="logo-bigger">
+          <img src="/svg/uhh.svg" alt="UHH Logo">
         </a>
         <a href="https://stiftung-hochschullehre.de/">
-          <img src="/svg/stil_2.svg" alt="Stil Logo" class="logo-bigger">
+          <img src="/svg/stil_2.svg" alt="Stil Logo">
         </a>
       </div>
   </section>

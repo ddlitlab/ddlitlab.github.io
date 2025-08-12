@@ -12,16 +12,8 @@
     {{ .Scratch.Set "class" .Type -}}
     {{ .Scratch.Add "class" " list" -}}
 {{ end -}}
-{{/*  <body class="{{ .Scratch.Get `class` }} d-flex flex-column min-vh-100">  */}}
-{{/*  <body class="{{ .Scratch.Get `class` }}">  */}}
 <body>
     {{- partial "header/header.html" . -}}
-    {{/*  <div id="content">
-        {{ if and (.Site.Params.options.breadCrumb) (ne .Kind "home") -}}
-            {{- partial "header/breadcrumb.html" . -}}
-        {{ end }}
-        {{- block "main" . }}{{- end }}
-    </div>  */}}
     {{- block "main" . }}{{- end }}
     {{ partial "footer/footer.html" . }}
     {{ partial "footer/script-footer.html" . }}

@@ -196,18 +196,18 @@ draft: false
             <p>Reflection</p>
             </div>
     </div>
-    <div class="row">
+    <div class="logo-grid logo-grid-datenwelten">
         <a href="https://jupyter.org/">
-        <img src="/svg/jupyter.svg" alt="Jupyter" class="logo-big logo-bigger">
+            <img src="/svg/jupyter.svg" alt="Jupyter">
         </a>
         <a href="https://www.r-project.org/">
-        <img src="/svg/R.svg" alt="R" class="logo-big logo-bigger">
+            <img src="/svg/R.svg" alt="R">
         </a>
         <a href="https://www.tidyverse.org/">
-        <img src="/svg/tidyverse.svg" alt="tidyverse" class="logo-big logo-bigger">
+            <img src="/svg/tidyverse.svg" alt="tidyverse">
         </a>
         <a href="https://about.gitlab.com/">
-        <img src="/svg/gitlab_only.svg" alt="gitlab" class="logo-big logo-bigger">
+            <img src="/svg/gitlab_only.svg" alt="gitlab">
         </a>
       </div>
     <div>
