@@ -25,16 +25,19 @@
 
 @import "components/_feature";
 @import "components/_background";
-@import "components/_big_numbers";
+@import "components/_big-numbers"; // done
 @import "components/_media";
-@import "components/_logo";
+@import "components/_logo"; // design überarbeiten, streamlinen, responsive
 
 @import "pages/_home";
 @import "pages/_home_hero";
 @import "pages/_datenwelten";
 @import "pages/_projekte";
-@import "pages/_about_publications";
-@import "pages/_about";
+@import "pages/about/_about";
+@import "pages/about/_team"; // for mobile view, change it to flip card
+@import "pages/about/_publications";
+
+
 
 // animations
 // @import "_animations";

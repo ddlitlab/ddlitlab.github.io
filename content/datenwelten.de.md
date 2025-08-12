@@ -87,7 +87,7 @@ draft: false
             </div>
     </div>
     </div>
-    <div class="info-numbers">
+    <div class="big-numbers">
         <p>Über <span>3100</span> Studierende<i class="codicon codicon-mortar-board" style="font-size: 2em; transform: translateX(0.2em) translateY(0.2em);"></i></p>  
         <p>Aus <span>213</span> Fächern<i class="codicon codicon-rocket"></i></p>
         <p>Von <span>34</span> Dozierenden<i class="codicon codicon-coffee"></i></p>
