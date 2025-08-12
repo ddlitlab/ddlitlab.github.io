@@ -1,0 +1,19 @@
+{{ $member_list := .Site.Data.team }}
+{{ range $member_list }}
+<div class="team-card">
+  {{ if isset . "image" }}
+  <div class="team-card-image">
+    <img src="{{ .image }}" alt="{{ .name }}">
+  </div>
+  {{ end }}
+  <div class="team-card-content">
+    <h2>{{ .name }}</h2>
+    <p>{{ .title }}</p>
+    <ul>
+      {{ range .description }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}

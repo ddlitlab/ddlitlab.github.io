@@ -50,10 +50,7 @@ draft: false
     <p class="section-subtitle">Alles ist gut, solange du wild bist</p>
   </header>
   <div class="team-grid">
-      {{< team-card member="0" >}}
-      {{< team-card member="1" >}}
-      {{< team-card member="2" >}}
-      {{< team-card member="3" >}}
+      {{< team >}}
     </div>
   </section>
 
