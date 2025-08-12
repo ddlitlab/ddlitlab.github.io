@@ -11,7 +11,7 @@ round: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/14-fem-intervention.html"
 contributors:
-mentors: "Laura Laugwitz, Nadja Schaetz"
+mentor: "Laura Laugwitz, Nadja Schaetz"
 quote: "Im Rahmen des Seminars setzen Studierende sich mit kritischen Perspektiven auseinander, die beispielsweise aus einer intersektional feministischen Haltung folgen können, um diese Datenpraktiken zu analysieren und eigene vertiefende Fragestellungen sowie Lösungsansätze zu entwickeln."
 text: |
     ### Ausrichtung des Seminars

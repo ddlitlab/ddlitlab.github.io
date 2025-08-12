@@ -11,7 +11,7 @@ round: "1"
 lecture2go: "68746"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/06-dl-medizin.html"
 contributors: "Prof. Dr. Antonia Zapf, Christian Wiessner"
-mentors:
+mentor: 
 quote: "Für viele Studierende der Medizin nimmt die Methodik der medizinischen Forschung und die Auswertung von Daten eine untergeordnete Rolle ein. Einige haben zu Beginn des Studiums gar eine abwertende Haltung gegenüber Statistik. Dem möchte das Projekt „Data Literacy in der Medizin“ entgegenwirken."
 text: |
     ### Zukunftsthema: Data Literacy in der Medizin

@@ -11,7 +11,7 @@ round: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/11-d3-innovation-lab.html"
 contributors: "Stephan Leible"
-mentors: "Dr. Maren Gierlich-Joas, Prof. Dr. Tilo Böhmann"
+mentor: "Dr. Maren Gierlich-Joas, Prof. Dr. Tilo Böhmann"
 quote: "Im D³ Innovation Lab werden Studierende in datengetriebenen Innovationsprojekten durch alle Phasen des Datenlebenszyklus geführt. Dabei lernen sie neben der Planung von Projekten auch Datenpraktiken anzuwenden und erhobene Daten zu managen. Um sicherzustellen, dass dieses Wissen auch über das Lehrlaborprojekt hinaus langfristig genutzt werden kann, wird ein physischer und virtueller Explorationsraum geschaffen, der von den Studierenden mitgestaltet wird. Lehrende können diesen Raum nutzen, um eigene Lehrveranstaltungen mit den geschaffenen Räumlichkeiten zu gestalten."
 text: |
     ### Ausrichtung des D³ Innovation Labs

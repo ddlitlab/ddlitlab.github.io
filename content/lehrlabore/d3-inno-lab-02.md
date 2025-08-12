@@ -11,7 +11,7 @@ round: "3"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/10-d3-inno-lab.html"
 contributors:
-mentors:
+mentor:
 text: |
     ### Ausrichtung des D3 Innovation Lab
 

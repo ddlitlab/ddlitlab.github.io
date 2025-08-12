@@ -11,7 +11,7 @@ round: "3"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/06-ibldt.html"
 contributors:
-mentors: "Anton Sefkow, Lukas Musumeci, Marten Borchers"
+mentor: "Anton Sefkow, Lukas Musumeci, Marten Borchers"
 quote:
 text: |
     ### Ausrichtung des Projekts

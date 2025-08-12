@@ -11,7 +11,7 @@ round: "1"
 lecture2go: "68603"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/04-dcl.html"
 contributors: "Dr. Philipp Bach, Gangli Tan"
-mentors: "Prof. Dr. Martin Spindler, Prof. Dr. Knut Haase"
+mentor: "Prof. Dr. Martin Spindler, Prof. Dr. Knut Haase"
 quote: "Die Definition von Data Literacy kann in direkten Zusammenhang mit dem Ziehen kausaler Schlüsse aus Daten gesetzt werden: Nur auf Basis einer validen, nachvollziehbaren und kritischen kausalen Analyse können zielgerichtete Handlungsempfehlungen abgeleitet werden."
 text: |
     ### Ausrichtung des Digital Causality Labs

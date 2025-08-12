@@ -11,7 +11,7 @@ round: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/21-ws-dsi.html"
 contributors: "Laura Fichtner"
-mentors: "Larissa Gebken"
+mentor: "Larissa Gebken"
 quote: "Um jedoch bei der Entwicklung einer DSI (Digitalen Sozialen Innovation) nicht mehr Schaden zu verursachen als zu helfen, ist die Betrachtung von Werten und der ethischen Perspektive unabdingbar."
 text: |
     ### Ausrichtung des Lehrlabors

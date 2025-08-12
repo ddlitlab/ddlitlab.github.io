@@ -11,7 +11,7 @@ round: "2"
 lecture2go: "71037"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/08-psychologie-trifft-informatik.html"
 contributors: "Habiba Schiller"
-mentors: "Larissa Gebken, Dr. Matthias Pillny"
+mentor: "Larissa Gebken, Dr. Matthias Pillny"
 quote: "Die Definition von Data Literacy kann in direkten Zusammenhang mit dem Ziehen kausaler Schlüsse aus Daten gesetzt werden: Nur auf Basis einer validen, nachvollziehbaren und kritischen kausalen Analyse können zielgerichtete Handlungsempfehlungen abgeleitet werden."
 text: |
     ### Ein interdisziplinäres Projektseminar zur Datenauswertung mittels Python und Machine Learning

@@ -11,7 +11,7 @@ round: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/13-e2d2-adapted.html"
 contributors: "Jana Neumann"
-mentors: "Dr. Juliane Jacob, Prof. Dr. Sandra Schulz"
+mentor: "Dr. Juliane Jacob, Prof. Dr. Sandra Schulz"
 quote: "Angebote zum Forschungsdatenmanagement werden von Studierenden als sehr hilfreich bewertet, oft gibt es jedoch nur wenige Teilnehmende. Das Projekt möchte diese Diskrepanz lösen, indem FDM-Inhalte modular in bestehende Veranstaltungen integriert werden, ohne dass Studierende sich extra anmelden müssen."
 text: |
     ### Das Projekt E2D2 Adapted

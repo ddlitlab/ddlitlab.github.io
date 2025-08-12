@@ -11,7 +11,7 @@ round: "1"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/09-kulturgutdigitalisierung.html"
 contributors: "Prof. Dr. Julia Nantke, Prof. Dr. Natalia Filatkina"
-mentors: "Sandra Bläß, Marie Flüh, Tanja Stevanović, David Maus"
+mentor: "Sandra Bläß, Marie Flüh, Tanja Stevanović, David Maus"
 quote: "Den Rahmen für das Lehrprojekt bilden die zunehmende Digitalisierung kulturhistorisch relevanter Dokumente, die veränderten Nutzungsszenarien für digitalisierte Kulturgüter und insgesamt die gestiegene Relevanz der Digitalisierung in heutigen Gesellschaften."
 text: |
     ### Das Projekt Kulturgutdigitalisierung

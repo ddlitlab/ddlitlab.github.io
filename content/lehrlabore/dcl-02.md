@@ -11,7 +11,7 @@ round: "2"
 lecture2go: "71040"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/15-kausale-inferenz-fuer-alle.html"
 contributors:
-mentors: "Dr. Philipp Bach, Prof. Dr. Martin Spindler"
+mentor: "Dr. Philipp Bach, Prof. Dr. Martin Spindler"
 quote: "Ein fundiertes Wissen über Kausalität in der Gesamtbreite der Gesellschaft dient der Stärkung und Zukunftsfähigkeit der Demokratie, da viele Entscheidungen nur so fundiert verstanden werden, kritisch geprüft und wichtige Abwägungen getroffen werden können."
 text: |
     ### Das Digital Causality Lab

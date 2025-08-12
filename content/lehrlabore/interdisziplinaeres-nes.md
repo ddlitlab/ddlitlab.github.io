@@ -11,7 +11,7 @@ round: "1"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/08-interdisz-nes.html"
 contributors: "Laura Laugwitz, Nadja Schaetz"
-mentors: 
+mentor: 
 quote: "Politische Aushandlungsprozesse finden in demokratischen Öffentlichkeiten unter anderem über journalistische Strukturen statt. Redaktionelle Normen spielen für die Distribution von Nachrichten eine wichtige Rolle, wenngleich sie durch die Digitalisierungsprozesse vermehrt automatisiert stattfindet."
 text: |
     ### Ausrichtung des Seminars

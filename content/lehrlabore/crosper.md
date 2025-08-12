@@ -11,7 +11,7 @@ round: "1"
 lecture2go: 
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/02-crosper.html"
 contributors: "Larissa Gebken"
-mentors: "Prof. Dr. Tilo Böhmann, Prof. Dr. Wolfgang Schulz"
+mentor: "Prof. Dr. Tilo Böhmann, Prof. Dr. Wolfgang Schulz"
 quote: "Im Zuge der fortschreitenden Digitalisierung hat auch die öffentliche Kommunikation tiefgreifende Veränderungen erfahren. Diese Lehrveranstaltung vermittelt, wie neuartige Akteurskonstellationen und der Einsatz von algorithmischen Systemen und Daten öffentliche Kommunikation verändern."
 text: |
     ### Das Projekt CROSPER

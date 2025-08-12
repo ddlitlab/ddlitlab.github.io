@@ -11,7 +11,7 @@ round: "2"
 lecture2go: "71157"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/10-wiso-data-science.html"
 contributors: "Victoria Hünewaldt, Lisa Wegner"
-mentors: "Prof. Dr. Ulrich Fritsche, Max Weinig"
+mentor: "Prof. Dr. Ulrich Fritsche, Max Weinig"
 quote: "Universitäre Kurse sind dringend nötig. Sie können Studierende in die Lage versetzen, in einer durch Digitalität geprägten Welt, gesellschaftliche und wirtschaftliche Veränderungen zu verstehen und aktiv zu gestalten."
 text: |
     ### Das Projekt WiSo Data Science

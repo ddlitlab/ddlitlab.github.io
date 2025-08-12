@@ -11,7 +11,7 @@ round: "3"
 lecture2go: "68603"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/04-dcl.html"
 contributors: "Victoria Hünewaldt"
-mentors: "Prof. Dr. Ulrich Fritsche, Lisa Wegner, Junbo Huang"
+mentor: "Prof. Dr. Ulrich Fritsche, Lisa Wegner, Junbo Huang"
 quote:
 text: |
     ### Ausrichtung des Projekts

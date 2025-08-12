@@ -11,7 +11,7 @@ round: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/02-computer-based-assessment.html"
 contributors: "Dr. Güler Yavuz Temel, Dr. Julia Barenthien"
-mentors: 
+mentor: 
 quote: "We believe that the ability of pre-service teachers to design their own summative and formative assessment methods and strategies by using digital notebooks, to analyze the data obtained from these practices, and to share statistical analysis results by using graphs and tables in a short period of time can make significant contributions to the teaching and learning process."
 text: |
     ### Ausrichtung des Projekts

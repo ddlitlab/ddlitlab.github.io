@@ -11,7 +11,7 @@ round: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/05-dlit-algo-decision-support.html"
 contributors: "Julian Golak"
-mentors: "Prof. Dr. Malte Fliedner, Prof. Dr. Simone Neumann, Dr. Arne Schulz"
+mentor: "Prof. Dr. Malte Fliedner, Prof. Dr. Simone Neumann, Dr. Arne Schulz"
 quote: "Die Digitalisierung löst umfassende Veränderungsprozesse in fast allen Industriezweigen aus und beeinflusst die menschliche Arbeit tiefgreifend. Ein wesentlicher Aspekt dieser Veränderung ist die zunehmende Verwendung algorithmischer Verfahren in betrieblichen Entscheidungsprozessen, die ursprünglich menschlichen Entscheidern vorbehalten waren. Dies setzt zwangsläufig eine neue Form der Arbeitsteilung voraus, in der Planungs- und Steuerungshandlungen immer öfter mit maschineller Unterstützung durchgeführt werden."
 text: |
     ### Ausrichtung des Projekts

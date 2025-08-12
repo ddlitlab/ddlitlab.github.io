@@ -11,7 +11,7 @@ round: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/07-hybrides-beratungsangebot.html"
 contributors: "Pune Karimi"
-mentors: "Michael Eiden, Dr. Sabine Rauchmann, Ute Lehmann"
+mentor: "Michael Eiden, Dr. Sabine Rauchmann, Ute Lehmann"
 quote: "Studierende sollen die jeweiligen Teilkompetenzen zur wissenschaftlichen Informations- und Literaturrecherche immer genau dann im Verlauf ihres Studiums erwerben können, wenn sie sie unmittelbar benötigen und anwenden. Zu diesem Zweck wurde die Bibliothekseinführung weiterentwickelt."
 text: |
     ### Ausrichtung des Lehrlabors

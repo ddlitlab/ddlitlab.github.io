@@ -11,7 +11,7 @@ round: "2"
 lecture2go: "71043"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/16-breaking-bad.html"
 contributors: "Lucas Memmert"
-mentors: "Dr. Michaela Regneri, Fabian Burmeister"
+mentor: "Dr. Michaela Regneri, Fabian Burmeister"
 quote: "In einem besonderen hermeneutischen Lehransatz treten die Studierenden als „Advocatus Diaboli“ auf: Die Beratungskonzepte sollen zeigen, wie der AI Act mit minimalem Aufwand erfüllt wird und dabei wirtschaftlicher Profit und Inkaufnahme von gesellschaftlichem Risiko maximiert werden können."
 text: |
     ### Das Projekt BreAkIng Bad

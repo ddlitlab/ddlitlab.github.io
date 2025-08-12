@@ -40,3 +40,11 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[[cascade]]
+  _target = { path = "/lehrlabore/**" }
+  type = "projekte"
+
+[[cascade]]
+  _target = { path = "/studiprojekte/**" }
+  type = "projekte"

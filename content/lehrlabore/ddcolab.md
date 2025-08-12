@@ -11,7 +11,7 @@ round: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/17-ddco-lab.html"
 contributors: "Izabel Cvetkovic"
-mentors: "Eylem Tas, Dr. Navid Tavanapour"
+mentor: "Eylem Tas, Dr. Navid Tavanapour"
 quote: "This project funding will enable the design and development of the interdisciplinary and transdisciplinary digital teaching lab DDCo-Lab in collaboration with various external partners from Hamburg. The teaching project to be acquired has its focus on conveying the fundamentally critical understanding of processes of data collection and storage, their processing, analysis and visualization with real data and real data challenges."
 text: |
     ### Das Projekt DDCo-Lab

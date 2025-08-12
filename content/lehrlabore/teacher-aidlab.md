@@ -11,7 +11,7 @@ round: "2"
 lecture2go: "70365"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/20-teacher-aid-lab.html"
 contributors:
-mentors: "Moritz Kreinsen, Prof. Dr. Sandra Schulz, Prof. Dr. Sandra Sprenger"
+mentor: "Moritz Kreinsen, Prof. Dr. Sandra Schulz, Prof. Dr. Sandra Sprenger"
 quote: "Im Lehr-Lern-Labor treffen die Studierenden auf einen außerschulischen Lernraum, in dem sie zum einen selbst umfangreiche KI- und Datenkompetenzen und zum anderen didaktische Kompetenzen durch praktische und niedrigschwellige Übungen erwerben und dabei gleichzeitig praktische Unterrichtserfahrungen mit Schüler:innen der Sekundarstufen sammeln."
 text: |
     ### Das Projekt Teacher AID Lab

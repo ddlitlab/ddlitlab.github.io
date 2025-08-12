@@ -11,7 +11,7 @@ round: "1"
 lecture2go: "68600"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/13-smartcity.html"
 contributors: "Marten Borchers, Jan Krause"
-mentors: "Prof. Dr. Eva Bittner"
+mentor: "Prof. Dr. Eva Bittner"
 quote: "Aufgrund der fortschreitenden Digitalisierung aller Lebensbereiche sind die Anforderungen an Bürgerinnen und Bürger, sich selbstständig in einer sich schnell verändernden und von Informationen durchdrungenen Welt zurechtzufinden, gestiegen."
 text: |
     ### Das Projekt Smart City Hamburg

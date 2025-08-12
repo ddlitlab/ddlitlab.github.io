@@ -11,7 +11,7 @@ round: "3"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/09-repro.html"
 contributors: "Justus Johannes Reihs"
-mentors: "Dr. Lennart Wittkuhn"
+mentor: "Dr. Lennart Wittkuhn"
 quote:
 text: |
     ### Ausrichtung des Projekts

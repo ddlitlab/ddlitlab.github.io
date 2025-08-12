@@ -11,7 +11,7 @@ round: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/04-dh-didaktik.html"
 contributors: 
-mentors: "Marie Flüh"
+mentor: "Marie Flüh"
 quote: "Welche Handlungsmöglichkeiten entstehen für den Literaturunterricht durch den Einsatz digitaler Verfahren der Textanalyse und wie können Unterrichtskonzepte aussehen, in denen literarische Texte digital analysiert werden?"
 text: |
     ### Ausrichtung des Projekts

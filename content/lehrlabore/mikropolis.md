@@ -11,7 +11,7 @@ round: "1"
 lecture2go: "67585"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/01-mikropolis.html"
 contributors: "Larissa Gebken"
-mentors: "Dr. Martin Semmann, Prof. Dr. Janick Edinger, Prof. Dr. Arno Rolf, Dr. Lothar Hotz"
+mentor: "Dr. Martin Semmann, Prof. Dr. Janick Edinger, Prof. Dr. Arno Rolf, Dr. Lothar Hotz"
 quote: "Das Projekt arbeitet mit Daten auf einer Metaebene. Es rückt die durch Entstofflichung bzw. Dematerialisierung in Daten transferierten Dingen, Handlungen und Bedürfnissen ins Zentrum der Betrachtung. Daraus entsteht der Digitalisierungspfad, der grundlegende Veränderungen gesellschaftlicher Infrastrukturen hervorrufen wird."
 text: |
     ### Plattform MikroPolis.org
