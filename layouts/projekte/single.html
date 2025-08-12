@@ -50,7 +50,7 @@
             <p>Veranstaltungstyp: {{ . }}</p>
         {{ end }}
         {{ with .Params.link_external }}
-            <div>Externer Link: <a href="{{ . }}" target="_blank">{{ . }}</a></div>
+            <a class="article-info-external" href="{{ . }}" target="_blank">Externe Webseite</a>
         {{ end }}
     </div> 
 
