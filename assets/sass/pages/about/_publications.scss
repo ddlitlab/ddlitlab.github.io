@@ -1,11 +1,63 @@
-.publications-more {
-  font-size: 1.6rem !important;
-  // text-transform: uppercase;
+.publication-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+  gap: 3rem;
+  margin-bottom: 4rem;
 }
 
-.publications-link {
-  font-size: 1rem;
-  text-align: center;
+@media (max-width: $breakpoint-tablet) {
+  .publication-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.publication-grid::before {
+    background: no-repeat url("/images/Video-Hintergund_SVGs_Gesamt.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    position: absolute;
+    content: '';
+    width: 100vw;
+    height: 100%;
+    // top: 6vw;
+    // right: 5vw;
+    z-index: -1;
+}
+
+
+.publication-card {
+    color: var(--black-light);
+    padding: 1em;
+    transition: all 0.3s ease;
+    text-align: left;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    // background: var(--white);
+    font-size: 1.5rem;
+}
+
+.publication-authors {
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--black-light);
+
+}
+
+.publication-subtitle {
+  color: var(--black-lighter);
+}
+
+.publication-title::after {
+  font-family: codicon;
+  content: "\ea9c";
+  display: inline-block;
+  transform: rotate(-45deg);
+  font-weight: 1000;
+  margin-left: 0.1em;
+  vertical-align: -0.1em;
 }
 
 .publication-icon {
@@ -13,30 +65,30 @@
   font-size: 2rem !important;
 }
 
-.publication-grid {
-  display: grid;
-  width: 80vw;
-  max-width: 1200px;
-  grid-template-columns: 1fr 1fr;
-  align-items: stretch; 
-  gap: 3rem;
-  margin-bottom: 4rem;
+.publication-date::before { 
+  font-family: codicon;
+  content: "\eab0";
+  margin-right: 0.3em;
 }
 
-.publication-card {
-    color: #333;
-    box-shadow: -150px -150px 0 -145px var(--primary), 150px 150px 0 -145px var(--primary);
-    padding: 1.5rem;
-    transition: all 0.3s ease;
-    text-align: left;
-
-    &:hover {
-        box-shadow: -80px -80px 0 -75px var(--primary), 80px 80px 0 -75px var(--primary);
-        border-color: rgba(255, 255, 255, 0.3);
-    }
-
-    & > h3 {
-      font-size: 1.5rem;
-    }
+.publication-authors::before {
+  font-family: codicon;
+  content: "\ea67";
 }
 
+.publication-title {
+  color: var(--black);
+  font-size: 1.2em;
+}
+
+.publication-card p {
+  font-size: 0.8em;
+  font-weight: 500;
+  margin-top: 0.5em;
+}
+
+
+.publications-more {
+  font-size: 1.6rem !important;
+  // text-transform: uppercase;
+}

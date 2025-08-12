@@ -61,32 +61,15 @@ draft: false
     <p class="section-subtitle">Unsere Veröffentlichungen</p>
   </header>
   <div class="publication-grid">
-      {{< publication-card publication="0">}}
-      {{< publication-card publication="1">}}
-      {{< publication-card publication="2">}}
-      {{< publication-card publication="3">}}
-      {{< publication-card publication="4">}}
-      {{< publication-card publication="5">}}
+    {{< publications >}}
     </div>
 
   <div class="publications-more">      
       <a class="hover-fx publications-more" href="https://www.fis.uni-hamburg.de/publikationen.html?q=DDLitLab&order=publicationYear&orderBy=descending&treffer=10&publishedAfterDate=&publishedBeforeDate=" target="_blank">
-        Weitere Publikationen
+        Weitere Publikationen aus dem DDLitLab
       <i class='codicon codicon-arrow-right' style='font-size: 1.6rem; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>    
       </a>
   </div>
-
-  <!-- <div class="publication-button">
-    <a href="https://www.fis.uni-hamburg.de/publikationen.html?q=DDLitLab&order=publicationYear&orderBy=descending&treffer=10&publishedAfterDate=&publishedBeforeDate=">
-      <button class="learn-more">
-        <span class="circle" aria-hidden="true">
-          <span class="icon arrow"></span>
-        </span>
-        <span class="button-text">Weitere Publikationen</span>
-      </button>
-      </a>
-  </div> -->
-
 
   </div>
 </section>
