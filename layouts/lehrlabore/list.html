@@ -7,35 +7,35 @@
         <h1 class="section-title">Lehrlabore</h1>
         <p class="section-subtitle">Innovative Lehre fördern</p>
     </header>
-    
-    <input type="checkbox" id="toggle-lehrlabore-1" checked>
-    <input type="checkbox" id="toggle-lehrlabore-2" checked>
-    <input type="checkbox" id="toggle-lehrlabore-3" checked>
-    
-    <div class="controls">
-        <div class="checkbox-wrapper">
-            <label for="toggle-lehrlabore-1">Runde 1</label>
-        </div>
-        <div class="checkbox-wrapper">
-            <label for="toggle-lehrlabore-2">Runde 2</label>
-        </div>
-        <div class="checkbox-wrapper">
-            <label for="toggle-lehrlabore-3">Runde 3</label>
-        </div>
-    </div>
 
-    <div class="grid-lehrlabore" id="grid-lehrlabore">
-    {{ range .Pages }}
-        <a href="{{ .Permalink }}" class="grid-item filter-lehrlabore-{{ .Params.round }}"
-        style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
-        >
-            <div>
-                <h3>{{ .Params.title_short }}</h3>
-                <p>{{ .Params.title }}</p>
+    <div class="filter-wrapper">
+            <input type="radio" id="spotlights" name="filter" checked>
+            <label for="spotlights">Spotlights</label>
+
+            <input type="radio" id="runde1" name="filter">
+            <label for="runde1">Runde 1</label>
+            
+            <input type="radio" id="runde2" name="filter">
+            <label for="runde2">Runde 2</label>
+            
+            <input type="radio" id="runde3" name="filter">
+            <label for="runde3">Runde 3 (CDLTS)</label>
+
+            <div class="projekte-grid">
+                {{ range .Pages }}
+                    <a href="{{ .Permalink }}" class="projekte-grid-card projekte-filter-{{ .Params.round}}"
+                    style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
+                    >
+                        <div>
+                            <h3>{{ .Params.title_short }}</h3>
+                            <p>{{ .Params.title }}</p>
+                        </div>
+                    </a>
+                {{ end }}
             </div>
-        </a>
-    {{ end }}
-    </div>
+        </div>
+
+
     </section>
     </main>
 {{ end }}
