@@ -8,6 +8,7 @@ title_short: "DDLE in der Schule"
 period: "Apr 23 ­­- Mar 24 (12 months)"
 foerderlinie: "Fachspezifische Data Literacy"
 round: "2"
+filter: "2"
 lecture2go: "68603"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/04-dcl.html"
 contributors:

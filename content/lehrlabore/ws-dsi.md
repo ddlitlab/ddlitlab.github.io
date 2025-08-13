@@ -8,6 +8,7 @@ title_short: "WS DSI"
 period: "Apr 23 ­­- May 24 (12 months)"
 foerderlinie: "Transferorientierte Data Literacy"
 round: "2"
+filter: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/21-ws-dsi.html"
 contributors: "Laura Fichtner"

@@ -8,6 +8,7 @@ title_short: "ADS-ControDisc"
 period: "Apr 23 ­­- Mar 24 (12 months)"
 foerderlinie: "Fachspezifische Data Literacy"
 round: "2"
+filter: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/01-ads-controdisc.html"
 contributors: "Julia Schilling"

@@ -8,6 +8,7 @@ title_short: "Science Slam"
 period: "Sep 24 ­­- Sep 25 (12 months)"
 foerderlinie: "Fachübergreifende Data Literacy Education"
 round: "3"
+filter: "3"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/04-science-slam.html, https://www.hcl.uni-hamburg.de/ddlitlab/news/2025-06-11-science-slam.html"
 contributors:

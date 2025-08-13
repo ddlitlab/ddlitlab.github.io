@@ -8,6 +8,7 @@ title_short: "Queere Zugänge zur Korpus- und Diskurslinguistik"
 period: "Oct 24 ­­- Sep 25 (12 months)"
 foerderlinie: "Fachspezifische Data Literacy"
 round: "3"
+filter: "spotlights"
 lecture2go: "71164"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/spotlight-dl-lehrlabor-interviewreihe/spotlight-folge-08.html"
 contributors:

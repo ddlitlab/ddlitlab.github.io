@@ -8,6 +8,7 @@ title_short: "StudDigiLab"
 period: "Oct 23 ­­- Jul 24 (10 months)"
 foerderlinie: "Transferorientierte Data Literacy"
 round: "2"
+filter: "2"
 lecture2go: "70553"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/19-studdigilab.html"
 contributors: 

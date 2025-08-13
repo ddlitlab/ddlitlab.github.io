@@ -17,12 +17,12 @@
         <label for="ll-spotlights">Spotlights</label>
         <label for="ll-runde1">Runde 1</label>
         <label for="ll-runde2">Runde 2</label>
-        <label for="ll-runde3">Runde 3 (CDLTS)</label>
+        <label for="ll-runde3">Runde 3 (CDTLS)</label>
     </div>
 
     <div class="projekte-grid">
         {{ range .Pages }}
-            <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-ll-{{ .Params.round}}"
+            <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-ll-{{ .Params.filter}}"
             style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
             >
                 <div>

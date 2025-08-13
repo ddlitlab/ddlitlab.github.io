@@ -8,6 +8,7 @@ title_short: "Metadata Literacy Lab"
 period: "Apr 22 ­­- Mar 23 (12 months)"
 foerderlinie: "Data Literacy im Bereich Fachübergreifende Studienangebote"
 round: "1"
+filter: "1"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/10-metadata.html"
 contributors: "Nele Leiner"

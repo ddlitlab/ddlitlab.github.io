@@ -8,6 +8,7 @@ title_short: "E2D2 Adapted"
 period: "Apr 23 ­­- Mar 24 (12 months)"
 foerderlinie: "Data Literacy im Studium Generale"
 round: "2"
+filter: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/13-e2d2-adapted.html"
 contributors: "Jana Neumann"

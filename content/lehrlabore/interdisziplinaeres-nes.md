@@ -8,6 +8,7 @@ title_short: "Interdisziplinäres NES"
 period: "Apr 22 ­­- Mar 23 (12 months)"
 foerderlinie: "Fachspezifische Data Literacy"
 round: "1"
+filter: "1"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/08-interdisz-nes.html"
 contributors: "Laura Laugwitz, Nadja Schaetz"

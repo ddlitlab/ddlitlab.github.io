@@ -8,6 +8,7 @@ title_short: "Innovation by Legal Design Thinking – Studentisches Digitalisier
 period: "Apr 22 ­­- Jul 24 (27 months)"
 foerderlinie: "Transferorientierte Data Literacy"
 round: "1 & 2"
+filter: "spotlights"
 lecture2go: "70553"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/spotlight-dl-lehrlabor-interviewreihe/spotlight-folge-02.html"
 contributors: "Maimon Thiems"

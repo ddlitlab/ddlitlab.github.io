@@ -8,6 +8,7 @@ title_short: "Hybrides Beratungsangebot"
 period: "Apr 23 ­­- Mar 24 (12 months)"
 foerderlinie: "Fachspezifische Data Literacy"
 round: "2"
+filter: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/07-hybrides-beratungsangebot.html"
 contributors: "Pune Karimi"

@@ -8,6 +8,7 @@ title_short: "FemIntervention"
 period: "Apr 23 ­­- Mar 24 (12 months)"
 foerderlinie: "Data Literacy im Studium Generale"
 round: "2"
+filter: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/14-fem-intervention.html"
 contributors:

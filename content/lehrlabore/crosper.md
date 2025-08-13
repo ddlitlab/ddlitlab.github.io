@@ -8,6 +8,7 @@ title_short: "CROSPER"
 period: "Oct 22 ­­- Sep 23 (12 months)"
 foerderlinie: "Fachspezifische Data Literacy"
 round: "1"
+filter: "1"
 lecture2go: 
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/02-crosper.html"
 contributors: "Larissa Gebken"

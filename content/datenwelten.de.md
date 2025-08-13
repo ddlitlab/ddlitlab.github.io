@@ -92,15 +92,6 @@ draft: false
     </div>
 </section>
 
-
-
-
-
-
-
-
-
-
 <section class="dw-uebung-section">
     <header class="section-header">
         <h1 class="section-title">Begleitende Übungen</h1>

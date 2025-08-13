@@ -8,6 +8,7 @@ title_short: "Repro"
 period: "Sep 24 ­­- Sep 25 (12 months)"
 foerderlinie: "Fachspezifische Data Literacy"
 round: "3"
+filter: "3"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/09-repro.html"
 contributors: "Justus Johannes Reihs"

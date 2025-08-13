@@ -8,6 +8,7 @@ title_short: "Psychologie trifft Informatik – Von der Erhebung bis zur Auswert
 period: "Apr 23 ­­- Mar 24 (12 months)"
 foerderlinie: "Fachspezifische Data Literacy"
 round: "2"
+filter: "spotlights"
 lecture2go: "71037"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/spotlight-dl-lehrlabor-interviewreihe/spotlight-folge-04.html"
 contributors: "Habiba Schiller"
