@@ -1,6 +1,4 @@
 ---
-title: "Studi-Projekte"
+title: "Student Projects"
 layout: list
 ---
-
-

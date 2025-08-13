@@ -1,0 +1,35 @@
+---
+id: aidthinking
+title: "Artificial Intelligence-powered Data Thinking"
+title_project: "Artificial Intelligence-powered Data Thinking"
+title_short: "AID Thinking"
+period: "Oct 23 – Mar 24 (6 months)" 
+round: "3"
+lecture2go: "68030"
+uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenprojekte/dritte-foerderrunde/aidthinking.html"
+students: "Florian Straetmanns, Furkan Dursun"
+mentor: "Constantin von Brackel-Schmidt, Stephan Leible"
+text: |
+    Dialog-based generative AI models such as ChatGPT and Google Bard have made the use of AI accessible and democratized it for the general public [1]. As a technological revolution, they offer a wide range of applications and advantages, including in creative fields, where they can support people in various ways [2]. Given the public response and the rapid spread of ChatGPT since November 2022, as evidenced by over a million user profiles, it can be assumed that this technology is here to stay and will continue to play a prominent role in various scenarios in the future. Its advantages are particularly evident in the form of automation and collaboration between humans and AI [1].
+
+    As part of our AID Thinking project, we will investigate generative AI (genAI) with particular regard to creative processes and the idea generation process. Before the advent of generative AI models, idea generation and prototyping in the innovation process were often considered less important areas for AI applications in studies [3]. However, this assessment has changed [4-6]. The new capabilities of genAI to generate content—a feature that was not foreseeable in earlier studies—have the potential to significantly influence various industries [7]. Even human activities that were previously considered non-automatable, especially in the field of text generation, are now being called into question [8].
+
+    In the context of this objective, the AID Thinking project aims to evaluate the extent to which genAI can be applied in the context of idea generation and evaluation, based on current scientific literature and practical findings. In particular, the project aims to identify the advantages and disadvantages as well as the limitations and potential of this technology. One focus is on its potential role in supporting thought processes, structuring ideas, and evaluating them objectively. The project focuses on the design, development, and testing of a ChatGPT-supported format for idea generation and evaluation based on data thinking, supplemented by the consideration of functionally enhanced plugins. On this basis, application principles for the use of the developed genAI format in the innovation process will be derived. The focus here is on aspects such as the integration of plugins, the targeted control of the dialogue process, and the effective communication of approaches. These principles will be developed taking into account current technological limitations in order to ensure the effective use of genAI. The overarching goal is to be able to adapt the AID-Thinking format to different contexts, thus enabling versatile applicability. The results can help stakeholders develop a better understanding of the use of genAI in innovation processes.
+
+    To investigate and address these aspects, the AID Thinking project is based on a data-driven approach. It begins with a literature review to assess the current state of science. In the second step, current ChatGPT plugins are examined. These plugins are evaluated for their applicability in the context of idea generation and evaluation. If there is potential, these plugins are included in step 3. Based on the data from steps 1 and 2, we develop the AID Thinking format in step 3, which, according to current plans, is based on ChatGPT. In step 4, the developed AID Thinking format is tested and revised following the design-oriented Design Science Research paradigm [9]. At least two trials with 25 or more participants each are planned. Steps 3 and 4 are iterative, i.e., after the first trial, the format is revised and further developed based on the findings before it is run through a second time. At the end of each run, surveys are conducted with the participants to gather their feedback on human-AI collaboration and to quantify the perceived benefits of genAI. In addition, during the testing phase, at least one group will be allowed to operate without genAI support in order to compare the differences in the results. In the final step 5, application principles for the use and adaptation of the AID Thinking format are established based on all collected data.
+
+    ## References
+
+    - [1] Bilgram V. and Laarmann F., (2023). Accelerating Innovation with Generative AI: AI-augmented Digital Prototyping and Innovation Methods, in IEEE Engineering Management Review, https://doi.org/ 10.1109/EMR.2023.3272799.  
+    - [2] Larsen, B., and Narayan, J. (2023). Generative AI: a game-changer that society and industry need to be ready for. World Economic Forum. Retrieved from: https://www.weforum.org/agenda/2023/01/davos23- generative-ai-a-game-changer-industries-andsociety-code-developers/.  
+    - [3] Füller, J., Hutter, K., Wahl, J., Bilgram, V., Tekic, Z., (2022). How AI revolutionizes innovation management – Perceptions and implementation preferences of AI-based innovators, Technological Forecasting and Social Change, vol. 178, 2022, https://doi.org/10.1016/j.techfore.2022.121598.  
+    - [4] Bilgram, V., Canadas Link, D., Lang-Koetz, C., (2023). Generative KIs in Kreativprozessen: Praxiserfahrungen aus den ersten Monaten mit ChatGPT & Co., Ideen- und Innovationsmanagement, vol. 1, pp. 18-22.  
+    - [5] Brem, A., Giones, F., Werle, M., (2023). The AI digital revolution in innovation: A conceptual framework of artificial intelligence technologies for the management of innovation, IEEE Transactions of Engineering Management, vol. 70, no. 2, https://doi.org/10.1109/TEM.2021.3109983.  
+    - [6] Bouschery, S., Blazevic, V., Piller, F., (2023). Augmenting human innovation teams with artificial intelligence: Exploring transformer-based language models, Journal of Product Innovation Management, vol. 40, https://doi.org/10.1111/jpim.12656.  
+    - [7] Agrawal, A., Gans, J., & Goldfarb, A. (2022). ChatGPT and how AI disrupts Industries. Harvard Business Review, pp. 1-6.  
+    - [8] Burger, B., Kanbach, D. K., Kraus, S., Breier, M., & Corvello, V. (2023). On the use of AI-based tools like ChatGPT to support management research. European Journal of Innovation Management, 26(7), 233-241.  
+    - [9] Hevner, A., March, S. T., Park, J., Ram, S., (2004). Design Science in Information Systems Research. MIS Quarterly, 28, 75-105, https://doi.org/10.2307/25148625. 
+
+image: "https://www.hcl.uni-hamburg.de/18328595/final-projekt-banner-aid-thinking-733x414-f366ca33042eab47f7a4b1ef6f2b7733e524229e.jpg"
+image_credit: "Florian Straetmanns, Furkan Dursun"
+---

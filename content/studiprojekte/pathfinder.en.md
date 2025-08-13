@@ -1,0 +1,42 @@
+---
+id: pathfinder
+title: "Navigating AI-Driven Semantic Text Analysis for Decision Making in Idea Management"
+title_project: "Navigating AI-Driven Semantic Text Analysis for Decision Making in Idea Management"
+title_short: "Pathfinder"
+period: "Oct 24 – Sep 25 (12 months)" 
+round: "4"
+lecture2go: "70601"
+uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenprojekte/vierte-foerderrunde/pathfinder.html"
+students: "Pascal Priebe, Gian-Luca Gücük, Dejan Simic"
+mentor: "Stephan Leible, Constantin von Brackel-Schmidt"
+text: |
+    In modern organizations, the development and utilization of innovative ideas for process improvements or new products from employees is crucial, but the implementation of such approaches requires considerable effort [1]. To this end, so-called idea management systems are used: Here, employees submit their ideas primarily in text form, which are then evaluated and assessed to make decisions about whether to proceed or reject them [2]. However, organizations can face significant challenges in idea management when it comes to ensuring an appropriately detailed analysis and processing of submitted ideas [3]. With high employee participation, a large number of idea submissions can occur, which often leads to similar or nearly identical ideas being presented multiple times. This increases the effort necessary to evaluate the ideas and complicates the decision-making process regarding the further pursuit of these ideas. These evaluation processes also involve the expertise of managers or experts with extensive technological and specialist knowledge. This group of people is costly and requires considerable financial investment, and their time availability is generally very limited.
+
+    This is where the Pathfinder project comes in, investigating current possibilities in the field of (generative) artificial intelligence (AI) for the semantic analysis of texts using idea management systems as an example. The goal is to evaluate the use of AI to support and (partially) automate processes for idea analysis, evaluation, and prioritization. Modern AI technologies help identify semantic duplicates and compare similar ideas [4]. This makes it possible to reduce redundant suggestions and connect idea contributors with similar approaches, which in turn supports collaborative development and the exploitation of synergy potential and can thus lead, for example, to the establishment of so-called communities of practice [5]. The research question of the extent to which AI, in particular generative AI and language models, can be used to extract semantic information from text-based content is at the heart of the investigations. The potential of these technologies to support the complex and resource-intensive process of idea evaluation is high [6], but the Pathfinder project pays particular attention to ensuring that the quality of analyses and evaluations is not compromised and remains the same or is improved in collaboration with humans. 
+
+    We begin by conducting a systematic literature review following the method of Xiao and Watson [7]. The goal is to determine the current state of AI-supported semantic text analysis, analyze the possible applications and the current state of research of AI in the field of idea management, and explore relevant metrics for evaluating such solutions. We then intend to test and evaluate the most promising approaches using a prototype idea management system. For this purpose, we need the largest possible amount of data. We plan to use the following two data sources:
+
+    1. The Digital and Data Literacy in Teaching Lab (DDLitLab), which is funding this student project, has received numerous project proposals for funding over the past three years. These proposals will be used as a data source to identify commonalities between them, including thematic focuses or methodological approaches. This allows for matchmaking, potentially leading to joint funding opportunities or collaborations.
+    2. The prototype idea management system will be used to collect ideas for improving sustainability at the University of Hamburg during two planned workshops. In addition, a generative AI will generate synthetic ideas that serve as a control instance. These real and synthetic ideas will then be compared to evaluate their potential, with both humans and an AI independently rating the ideas. The goal is to investigate differences or similarities in the evaluations between humans and AI.
+
+    Data plays an essential role in our research project. To support future research in this area and provide other research groups with the opportunity to evaluate their own algorithms, we intend to create a dataset and make it available to the research community as an open-source resource. This dataset will consist of the ideas generated and collected within the project, excluding the project proposals mentioned under point 1 for data protection reasons. This will create a solid data basis that will allow us to understand our research results and compare them with new approaches.
+
+    Another central aspect of our research is ensuring fairness in evaluation and decision-making processes. When using artificial intelligence, there is always a risk that the algorithms will produce unbalanced or unfair results due to bias in the training data or the models used [8], [9]. This is particularly relevant in the automated evaluation of ideas, as bias could disadvantage or favor potentially innovative approaches. Our goal is to research methods and approaches that prevent such biases or at least highlight them. This should help ensure that AI-based processing remains as objective and transparent as possible and that ideas are evaluated fairly.
+
+    The Pathfinder project thus aims to contribute to the further development of idea management systems through the targeted use of modern AI technologies. Our approach aims to increase the efficiency and quality of idea evaluation, promote collaboration between idea contributors, and simultaneously foster fairness and transparency. In doing so, we create a foundation for organizations to better utilize the creative potential of their employees and establish innovation processes.
+
+    ##### References:
+
+    [1] S. Høyrup, „Employee-driven innovation and workplace learning: basic concepts, approaches and themes“, Transfer: European Review of Labour and Research, Bd. 16, Nr. 2, S. 143–154, 2010, doi: 10.1177/1024258910364102. 
+    [2] C. Sandstrom und J. Bjork, „Idea management systems for a changing innovation landscape“, IJPD, Bd. 11, Nr. 3/4, S. 310, 2010, doi: 10.1504/IJPD.2010.033964. 
+    [3] J. Just, T. Ströhle, J. Füller, und K. Hutter, „AI-based novelty detection in crowdsourced idea spaces“, Innovation, Bd. 26, Nr. 3, S. 359–386, 2024, doi: 10.1080/14479338.2023.2215740. 
+    [4] S. Leka, „The Role of Artificial Intelligence in Idea Management Systems and Innovation Processes: An Integrative Review“, in AICCONF ’24: Proceedings of the Cognitive Models and Artificial Intelligence Conference, 2024. doi: https://dl.acm.org/doi/10.1145/3660853.3660890. 
+    [5] E. Davenport und H. Hall, „Organizational knowledge and communities of practice“, Annual review of Information Science and technology, Bd. 36, Nr. 1, 2002, doi: 10.1002/aris.1440360105. 
+    [6] J. Bell, C. Pescher, G. Tellis, und J. Füller, „Can AI Help in Ideation? A Theory-Based Model for Idea Screening in Crowdsourcing Contests“, 2023, doi: 10.1287/mksc.2023.1434. 
+    [7] Y. Xiao und M. Watson, „Guidance on Conducting a Systematic Literature Review“, Journal of Planning Education and Research, Bd. 39, Nr. 1, S. 93–112, 2019, doi: 10.1177/0739456X17723971. 
+    [8] N. Mehrabi, F. Morstatter, N. Saxena, K. Lerman, und A. Galstyan, „A Survey on Bias and Fairness in Machine Learning“, 2022, Verfügbar unter: http://arxiv.org/abs/1908.09635 
+    [9] P. S. Varsha, „How can we manage biases in artificial intelligence systems – A systematic literature review“, International Journal of Information Management Data Insights, Bd. 3, Nr. 1, S. 100165, 2023, doi: 10.1016/j.jjimei.2023.100165.   
+
+image: "https://www.hcl.uni-hamburg.de/20937387/projektbanner-pathfinder-1cae3ded523fc1393b2e4a8acab7738df08c9bbd.png"
+image_credit: "Created with DALL-E3"
+---
