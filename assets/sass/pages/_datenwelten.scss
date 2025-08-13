@@ -306,10 +306,10 @@ i.icon-bullet {
     background-size: contain; 
     position: absolute;
     content: '';
-    width: 200%;
-    height: 200%;
-    left: 20vw;
-    top: -10vw;
+    width: 300%;
+    height: 300%;
+    left: 20%;
+    top: -100%;
     // width: 100vw;
     // height: 100%;
     // top: 6vw;
@@ -358,6 +358,14 @@ i.icon-bullet {
 
 
 
+
+
+.dw-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .dw-background::before {
     background: url("/images/datenwelten/datenwelten-background.svg");
     background-position: center center;
@@ -365,11 +373,15 @@ i.icon-bullet {
     background-size: contain; 
     position: absolute;
     content: '';
-    width: 100vw;
+    width: 90vw;
     height: 100%;
-    top: 0;
     z-index: -1;
-    left: -5vw;
+}
+
+@media (max-width: $breakpoint-mobile) {
+    .dw-background::before {
+        transform: rotate(90deg);
+    }
 }
 
 

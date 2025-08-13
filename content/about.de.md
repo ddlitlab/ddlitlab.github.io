@@ -38,7 +38,7 @@ draft: false
     {{< timeline >}}
 </section>
 
-<section>
+<section id="team">
   <header class="section-header">
     <h1 class="section-title">Unser Team</h1>
     <p class="section-subtitle">Alles ist gut, solange du wild bist</p>
@@ -49,12 +49,12 @@ draft: false
   </section>
 
 
-<section class="background-pattern publications-section" id="publications">
+<section id="publications">
   <header class="section-header">
     <h1 class="section-title">Publikationen</h1>
     <p class="section-subtitle">Unsere Veröffentlichungen</p>
   </header>
-  <div class="publication-grid">
+  <div class="publication-grid dw-background">
     {{< publications >}}
     </div>
 
