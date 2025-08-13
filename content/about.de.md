@@ -49,7 +49,7 @@ draft: false
   </section>
 
 
-<section class="section-publications" id="publications">
+<section class="background-pattern publications-section" id="publications">
   <header class="section-header">
     <h1 class="section-title">Publikationen</h1>
     <p class="section-subtitle">Unsere Veröffentlichungen</p>

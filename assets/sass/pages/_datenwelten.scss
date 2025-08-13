@@ -156,6 +156,10 @@
     grid-area: sommer-meta;
 }
 
+.datenwelten-big-numbers {
+    margin: 4rem 0;
+}
+
 i.icon-bullet {
     font-size: 2em !important;
     // @include highlight-icon;
@@ -343,7 +347,14 @@ i.icon-bullet {
     .datenwelten-hero {
         grid-template-columns: 1fr;
     }
+
+
 }
+
+.dw-uebung-section {
+    position: relative;
+}
+
 
 
 
@@ -356,6 +367,7 @@ i.icon-bullet {
     content: '';
     width: 100vw;
     height: 100%;
+    top: 0;
     z-index: -1;
     left: -5vw;
 }
@@ -430,6 +442,10 @@ i.icon-bullet {
     padding-left: 0;
 }
 
+.datenwelten-uebung-link-external {
+    margin-top: 2rem;
+}
+
 
 .datenwelten-uebung-link-external::before {
     @include link-external;
@@ -442,7 +458,19 @@ i.icon-bullet {
 
 .dw-uebung-text-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, 1fr);
     gap: 2em;
     text-align: left;
+}
+
+
+
+.dw-uebung-inhalte-header {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--black-lighter);
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 2rem;
 }

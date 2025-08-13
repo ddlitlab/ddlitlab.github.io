@@ -32,12 +32,11 @@ draft: false
 
 
 
-<section>
+<section class="background-pattern">
     <header class="section-header">
         <h1 class="section-title">Inhalte der Datenwelten</h1>
         <p class="section-subtitle">Interdisziplinäre Perspektiven</p>
     </header>
-    <div class="dw-background">
     <div class="dw-glass datenwelten-inhalte">
         <div class="datenwelten-inhalte-winter-meta">
             <p class="dw-pretitle">Wintersemester</p>
@@ -86,8 +85,7 @@ draft: false
                 <div>Möglichkeiten und Grenzen der rechtlichen (Datenschutz) und technischen (IT-Sicherheit) <span class="highlight">Regulierung</span> von Datennutzung und deren Konsequenzen</div>
             </div>
     </div>
-    </div>
-    <div class="big-numbers">
+    <div class="big-numbers datenwelten-big-numbers">
         <p>Über <span>3100</span> Studierende<i class="codicon codicon-mortar-board" style="font-size: 2em; transform: translateX(0.2em) translateY(0.2em);"></i></p>  
         <p>Aus <span>213</span> Fächern<i class="codicon codicon-rocket"></i></p>
         <p>Von <span>34</span> Dozierenden<i class="codicon codicon-coffee"></i></p>
@@ -103,34 +101,21 @@ draft: false
 
 
 
-<section>
+<section class="dw-uebung-section">
     <header class="section-header">
         <h1 class="section-title">Begleitende Übungen</h1>
         <p class="section-subtitle">Zwischen Code und Kontext</p>
     </header>
-    <div class="dw-uebung-text-grid">
-        <p>Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Inhalte. Sie richten sich an alle Studierenden der Universität Hamburg und sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnissen im Programmieren zugänglich sind.</p>
-        <p>Zum Programmieren nutzen wir vor allem den <a href="code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den Jupyter Notebooks können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine flexible Arbeitsumgebung, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.</p>
-        <p>Die Übungen verfolgen einen Literate-Programming-Ansatz, bei dem Code und Text kombiniert werden. 
-        Dadurch können Studierende den Code nicht nur schreiben, sondern auch verstehen und dokumentieren. 
-        Die Übungen sind so konzipiert, dass sie den eigenständigen Kompetenzerwerb fördern und gleichzeitig die technischen Grundlagen der Datenanalyse und des Machine Learning vermitteln.</p>
-        <p>Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind interdisziplinär angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.</p>
+    <div class="dw-background">
+        <div class="dw-glass dw-uebung-text-grid">
+            <p>Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Vorlesungsinhalte und eine Einführung in die Datenanalyse mit R. Sie richten sich an <span class="highlight">alle Studierenden</span> der Universität Hamburg und sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnissen im Programmieren zugänglich sind.</p>
+            <p>Zum Programmieren nutzen wir vor allem den <a href="code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den <span class="highlight">Jupyter Notebooks</span> können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine <span class=highlight">flexible Arbeitsumgebung, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.</p>
+            <p>Die Übungen verfolgen den Ansatz des <span class="highlight">Literate Programming</span>, bei dem Code und Text kombiniert werden. 
+            Dadurch können Studierende den Code nicht nur schreiben, sondern auch verstehen und dokumentieren. Die Übungen sind so konzipiert, dass sie den eigenständigen Kompetenzerwerb fördern und gleichzeitig die technischen Grundlagen der Datenanalyse und des Machine Learning vermitteln. Wir programmieren mit dem `tidyverse` (Begründung)</p>
+            <p>Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind <span class="highlight">interdisziplinär</span> angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.</p>
+        </div>
     </div>
-    <div class="logo-grid logo-grid-datenwelten">
-        <a href="https://jupyter.org/">
-            <img src="/svg/jupyter.svg" alt="Jupyter">
-        </a>
-        <a href="https://www.r-project.org/">
-            <img src="/svg/R.svg" alt="R">
-        </a>
-        <a href="https://www.tidyverse.org/">
-            <img src="/svg/tidyverse.svg" alt="tidyverse">
-        </a>
-        <a href="https://about.gitlab.com/">
-            <img src="/svg/gitlab_only.svg" alt="gitlab">
-        </a>
-      </div>
-    <h3>Inhalte der Übungen</h3>
+    <h3 class="dw-uebung-inhalte-header dw-pretitle">Inhalte der Übungen</h3>
     <div class="dw-uebung-grid">
         <div class="uppercase dw-uebung-subheader">Focus: Winter</div>
         <div class="uppercase dw-uebung-subheader">Basics</div>
@@ -250,3 +235,18 @@ draft: false
         </details>
     </div>
 </section>
+
+<!-- <div class="logo-grid logo-grid-datenwelten">
+    <a href="https://jupyter.org/">
+        <img src="/svg/jupyter.svg" alt="Jupyter">
+    </a>
+    <a href="https://www.r-project.org/">
+        <img src="/svg/R.svg" alt="R">
+    </a>
+    <a href="https://www.tidyverse.org/">
+        <img src="/svg/tidyverse.svg" alt="tidyverse">
+    </a>
+    <a href="https://about.gitlab.com/">
+        <img src="/svg/gitlab_only.svg" alt="gitlab">
+    </a>
+    </div> -->
