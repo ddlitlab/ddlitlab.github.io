@@ -3,12 +3,6 @@ title: "Über uns"
 draft: false
 ---
 
-<figure>
-  <audio controls src="https://www.pod.uni-hamburg.de/1/files/16__--file--25--s--webplayer--c--episode--Podcast_Linguistik-Duo_final.mp3"></audio>
-  <a href="https://www.pod.uni-hamburg.de/1/files/16__--file--25--s--webplayer--c--episode--Podcast_Linguistik-Duo_final.mp3"> Download audio </a>
-</figure>
-
-
 <section>
   <header class="section-header">
     <h1 class="section-title">Über uns</h1>

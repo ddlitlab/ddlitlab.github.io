@@ -29,4 +29,5 @@ image: "https://assets.rrz.uni-hamburg.de/instance_assets/zentrale/21861982/spot
 image_credit: "UHH / Pawlowski"
 link_external:
 stine:
+podcast: "https://www.pod.uni-hamburg.de/1/files/16__--file--25--s--webplayer--c--episode--Podcast_Linguistik-Duo_final.mp3"
 ---

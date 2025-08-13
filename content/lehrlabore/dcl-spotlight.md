@@ -27,4 +27,5 @@ image: "https://assets.rrz.uni-hamburg.de/instance_assets/zentrale/21489704/spot
 image_credit: "UHH / Pawlowski"
 link_external: "https://digitalcausalitylab.github.io/"
 stine:
+podcast: "https://www.pod.uni-hamburg.de/1/blog/16__/file/15/s/webplayer/c/episode/Podcast_Philipp-Bach_final.mp3"
 ---

@@ -10,3 +10,12 @@
   text-underline-offset: 6px;
   font-weight: bold;
 }
+
+
+@mixin link-external {
+  content: "\ea9b";
+  font-family: 'codicon';
+  transform: rotate(135deg);
+  float: right;
+  margin-left: 0.3em;
+}

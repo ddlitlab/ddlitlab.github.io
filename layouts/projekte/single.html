@@ -14,6 +14,13 @@
     </div>
     {{ end }}
 
+    {{/*  {{ with .Params.podcast }}
+    <figure>
+        <figcaption>Das Interview als Podcast:</figcaption>
+        <audio controls src="{{ . }}"></audio>
+    </figure>
+    {{ end }}  */}}
+
     {{ with .Params.spotlight_interview }}
     <div class="accordion-wrapper">
       <details class="accordion-simple accordion-spotlight">

@@ -22,7 +22,7 @@ draft: false
         </div> -->
         <div class="datenwelten-hero-right">
             <p class="datenwelten-hero-answer">Dann komm in die Ringvorlesung Datenwelten!</p>
-            <p>Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus interdisziplinären Perspektiven beleuchtet.</p>
+            <p class="datenwelten-hero-answer-sub">Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus interdisziplinären Perspektiven beleuchtet.</p>
         </div>
     </div>
     <div class="wide-movie-container">
@@ -108,22 +108,29 @@ draft: false
         <h1 class="section-title">Begleitende Übungen</h1>
         <p class="section-subtitle">Zwischen Code und Kontext</p>
     </header>
-    <!-- <div class="starter-image-area">
-            <img src="/images/datenwelten/lehre_david_01.png" alt="datenwelten-01">
-        </div> -->
-    <div class="wide-text">
-    <p>
-      Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Inhalte. Sie sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnisse im Programmieren zugänglich sind. Die Übungen fördern das Verständnis von Datenanalyse und Machine Learning durch interaktive Aufgaben und Projekte, die in Jupyter Notebooks durchgeführt werden. 
-      </p>
-    <div>
+    <div class="dw-uebung-text-grid">
+        <p>Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Inhalte. Sie richten sich an alle Studierenden der Universität Hamburg und sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnissen im Programmieren zugänglich sind.</p>
+        <p>Zum Programmieren nutzen wir vor allem den <a href="code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den Jupyter Notebooks können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine flexible Arbeitsumgebung, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.</p>
+        <p>Die Übungen verfolgen einen Literate-Programming-Ansatz, bei dem Code und Text kombiniert werden. 
+        Dadurch können Studierende den Code nicht nur schreiben, sondern auch verstehen und dokumentieren. 
+        Die Übungen sind so konzipiert, dass sie den eigenständigen Kompetenzerwerb fördern und gleichzeitig die technischen Grundlagen der Datenanalyse und des Machine Learning vermitteln.</p>
+        <p>Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind interdisziplinär angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.</p>
     </div>
-    <!-- <div class="wide-image">
-        <img src="/images/datenwelten/uebung.png" alt="inhalte uebung">
-    </div> -->
-    <p>Hier ist das Github-Repository der Übungen</p>
-    <p>JupyterLab der UHH verlinken</p>
-    <p>https://www.hcl.uni-hamburg.de/ddlitlab/datenwelten.html</p>
-    </div>
+    <div class="logo-grid logo-grid-datenwelten">
+        <a href="https://jupyter.org/">
+            <img src="/svg/jupyter.svg" alt="Jupyter">
+        </a>
+        <a href="https://www.r-project.org/">
+            <img src="/svg/R.svg" alt="R">
+        </a>
+        <a href="https://www.tidyverse.org/">
+            <img src="/svg/tidyverse.svg" alt="tidyverse">
+        </a>
+        <a href="https://about.gitlab.com/">
+            <img src="/svg/gitlab_only.svg" alt="gitlab">
+        </a>
+      </div>
+    <h3>Inhalte der Übungen</h3>
     <div class="dw-uebung-grid">
         <div class="uppercase dw-uebung-subheader">Focus: Winter</div>
         <div class="uppercase dw-uebung-subheader">Basics</div>
@@ -196,24 +203,8 @@ draft: false
             <p>Reflection</p>
             </div>
     </div>
-    <div class="logo-grid logo-grid-datenwelten">
-        <a href="https://jupyter.org/">
-            <img src="/svg/jupyter.svg" alt="Jupyter">
-        </a>
-        <a href="https://www.r-project.org/">
-            <img src="/svg/R.svg" alt="R">
-        </a>
-        <a href="https://www.tidyverse.org/">
-            <img src="/svg/tidyverse.svg" alt="tidyverse">
-        </a>
-        <a href="https://about.gitlab.com/">
-            <img src="/svg/gitlab_only.svg" alt="gitlab">
-        </a>
-      </div>
-    <div>
-        Hier geht es zum Github-Repository der Übungen: <a href="https://github.com/uhh-hcds/Datenwelten-entdecken-mit-R">Datenwelten entdecken mit R</a>
-    </div>
-    <div class="accordion-wrapper">
+    <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank">Zum Github-Repository</a>
+    <div class="accordion-wrapper dw-accordion">
         <details class="accordion-simple">
             <summary>Vergangene Veranstaltungen</summary>
             <div class="grid-datenwelten-events">

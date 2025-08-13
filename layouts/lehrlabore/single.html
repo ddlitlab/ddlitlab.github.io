@@ -3,7 +3,8 @@
 <main>
   {{ .Content }}
 
-  <article class="article-project">
+
+
     <header class="section-header">
         <h1 class="section-title">{{ .Params.title }}</h1>
         <p class="section-subtitle">Project: {{ .Params.title_short }}</p>
@@ -14,6 +15,8 @@
         <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj={{ . }}'  title='{{ $.Params.title }}' frameborder='0' allowfullscreen></iframe>
     </div>
     {{ end }}
+
+
 
     <div class="accordion-wrapper">
       <details class="accordion-simple accordion-spotlight">

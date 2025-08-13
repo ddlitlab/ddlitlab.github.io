@@ -25,4 +25,5 @@ image: "https://assets.rrz.uni-hamburg.de/instance_assets/zentrale/20784969/spot
 image_credit: "UHH / Pawlowski"
 link_external: "https://www.sfz-hamburg.de/"
 stine:
+podcast: "https://www.pod.uni-hamburg.de/1/blog/16__/file/5/s/webplayer/c/episode/spotlight-folge02-kreinsen.mp3"
 ---

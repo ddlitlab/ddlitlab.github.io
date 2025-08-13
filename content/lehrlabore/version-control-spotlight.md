@@ -25,4 +25,5 @@ image: "https://assets.rrz.uni-hamburg.de/instance_assets/zentrale/20784955/spot
 image_credit: "UHH / Pawlowski"
 link_external: "https://lennartwittkuhn.com/version-control-book/; https://lennartwittkuhn.com/recipes/"
 stine:
+podcast: "https://www.pod.uni-hamburg.de/1/blog/16__/file/9/s/webplayer/c/episode/spotlight-folge01-wittkuhn.mp3"
 ---

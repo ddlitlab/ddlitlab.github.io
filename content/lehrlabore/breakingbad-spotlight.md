@@ -31,4 +31,5 @@ image: "https://assets.rrz.uni-hamburg.de/instance_assets/zentrale/21489749/spot
 image_credit: "UHH / Pawlowski"
 link_external: "https://idigma.com/BreakingBad/"
 stine:
+podcast: "https://www.pod.uni-hamburg.de/1/blog/16__/file/19/s/webplayer/c/episode/Podcast-Breaking-Bad_final.mp3"
 ---
