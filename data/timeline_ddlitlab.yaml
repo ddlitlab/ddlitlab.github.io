@@ -1,12 +1,13 @@
 timeline:
   - date: 'August 2021'
     title: 'Kick-Off DDLitLab'
-    content: 'Das DDLitLab startet offiziell mit einem Kick-Off-Event, bei dem die Ziele und Visionen des Projekts vorgestellt werden. Das Team trifft sich, um die nächsten Schritte zu planen und die Zusammenarbeit zu koordinieren.'
+    # content: 'Das DDLitLab startet offiziell mit einem Kick-Off-Event, bei dem die Ziele und Visionen des Projekts vorgestellt werden. Das Team trifft sich, um die nächsten Schritte zu planen und die Zusammenarbeit zu koordinieren.'
     type: 'event'
     
   - date: 'Oktober 2021'
     title: 'Start Datenwelten I'
-    content: 'Die Vorlesung findet im Wintersemester statt und vermittelt Grundkenntnisse im Bereich Data Science. Ein besonderer Fokus liegt hierbei auf den informationstechnischen Systemen, die in weiten Teilen unseren Alltag (mit)gestalten.'
+    content: 'Die <a href="/datenwelten/">Ringvorlesung</a> geht im Wintersemester in die erste Runde.'
+    # content: 'Die Vorlesung findet im Wintersemester statt und vermittelt Grundkenntnisse im Bereich Data Science. Ein besonderer Fokus liegt hierbei auf den informationstechnischen Systemen, die in weiten Teilen unseren Alltag (mit)gestalten.'
     type: 'event'
     
   - date: '2022'
@@ -14,23 +15,23 @@ timeline:
     type: 'period'
     
   - date: 'April 2022'
-    title: 'Start Datenwelten II + Erste Runde Lehrlabore'
+    title: 'Start Datenwelten II + Lehrlabor Runde 1'
     content: 'Die Datenwelten II finden im Sommersemester statt. Ziel ist es, einen Überblick über den aktuellen Stand der Datennutzung in unterschiedlichen gesellschaftlichen Teilbereichen zu erhalten und sich mit verknüpften ethischen Problemen auseinanderzusetzen. Zusätzlich unterstützt das DDLitLab seit April 2022 mit dem Data Literacy Lehrlabor innovative Lehrprojekte für maximal 12 Monate. Der Fokus liegt auf digitalen und hybriden Lehrinnovationen, die sich im Rahmen fachübergreifender sowie fachspezifischer Lehrangebote oder transferorientierter Lehraktivitäten bewegen.'
     type: 'event'
     
   - date: 'Mai 2022'
     title: 'Start DDLitLab Lecture Series'
-    content: 'Um in einen lebhaften Austausch mit Interessierten zu treten und die Diskussion rund um das Thema Daten- und Digitalkompetenzen an der Universität Hamburg anzuregen, haben wir die *DDLitLab Lecture Series* im Mai 2022 ins Leben gerufen.'
+    content: 'Um in einen lebhaften Austausch mit Interessierten zu treten und die Diskussion rund um das Thema Daten- und Digitalkompetenzen an der Universität Hamburg anzuregen, startet die *DDLitLab Lecture Series* im Mai 2022.'
     type: 'event'
     
   - date: 'Oktober 2022'
-    title: 'Erste Runde der Studentischen Forschungsprojekte mit Schwerpunkt Data Literacy'
+    title: 'Studi-Projekte Runde 1'
     content: 'Vor dem Hintergrund der Digitalisierung unterstützen wir Studierende aller Fächer, ihre Digital- und Datenkompetenzen im Rahmen eigenständiger Projekte aufzubauen und sich zusätzliche Fertigkeiten im wissenschaftlichen Arbeiten und forschenden Lernen anzueignen. In der 1. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2022/23 wurden 8 Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert.'
     type: 'event'
     
   - date: 'Dezember 2022'
     title: 'Launch Lehre-Navi'
-    content: 'Das Lehre-Navi enthält Selbstlernmaterial, Veranstaltungen und andere Angebote für (digitale) Lehre. Zielgruppe sind Lehrende an der Universität Hamburg.'
+    content: 'Das <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank">Lehre-Navi</a> enthält Selbstlernmaterial, Veranstaltungen und andere Angebote für (digitale) Lehre und richtet sich an alle Lehrenden der Universität Hamburg.'
     type: 'event'
     
   - date: '2023'
@@ -38,7 +39,7 @@ timeline:
     type: 'period'
     
   - date: 'April 2023'
-    title: 'Zweite Runde Lehrlabore + Zweite Runde der Studentischen Forschungsprojekte'
+    title: 'Lehrlabor + Studi-Projekte Runde 2'
     content: 'Vom Sommersemester 2023 bis einschließlich Wintersemester 2023/24 wurden 21 Lehrprojekte im Data Literacy Lehrlabor gefördert. In der 2. Ausschreibungsrunde der Studierendenprojekte werden 6 Projekte im Rahmen der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2023/24 gefördert, die sich aus unterschiedlichen Perspektiven praktisch und reflektiv mit Daten auseinandersetzen.'
     type: 'event'
     
@@ -53,7 +54,7 @@ timeline:
     type: 'event'
     
   - date: 'Oktober 2023'
-    title: 'Dritte Runde der Studentischen Forschungsgruppen mit Schwerpunkt Data Literacy + Start Datenwelten Übung'
+    title: 'Studi-Projekte Runde 3 + Start Datenwelten Übung'
     content: 'In der 3. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2023/24 werden 10 Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert. In der vorlesungsbegleiteten Übung der „Datenwelten" lernen Studierende die Grundlagen der Statistiksoftware R für die Datenanalyse kennen. Dabei arbeiten sie mit öffentlichen oder persönlichen Daten und führen ein eigenes kritisches Datenprojekt durch.'
     type: 'event'
 
@@ -62,12 +63,12 @@ timeline:
     type: 'period'
     
   - date: 'August 2024'
-    title: 'Fortführung des Lehrlabors als CDTLs'
+    title: 'Fortführung des Lehrlabors als CDTL'
     content: 'Mit der dritten Förderrunde des Data Literacy Lehrlabors 2024/25 wird die Zusammenführung und Verstetigung eines der Kernvorhaben des DDLitLab mit dem Hub of Computing and Data Science (HCDS) in den Blick genommen.'
     type: 'event'
     
   - date: 'Oktober 2024'
-    title: 'Vierte Runde der Studentischen Forschungsgruppen mit Schwerpunkt Data Literacy + Publikation ChatGPT and me 2.0'
+    title: 'Studi-Projekte Runde 4 + ChatGPT and me 2.0'
     content: 'Im Juli 2024 haben wir die Erhebung zu „ChatGPT & me 2.0" über die Lebensrealität mit generativer KI an der Uni Hamburg durchgeführt. Diese wurde dann im Oktober als Forschungsbericht veröffentlicht. In der 4. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2024/25 werden sieben Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert.'
     type: 'event'
 

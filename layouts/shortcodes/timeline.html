@@ -5,7 +5,7 @@
     <li class="timeline-item timeline-period">
         <div class="timeline-marker"></div>
         <div class="timeline-content">
-            <h3 class="timeline-title">{{ .title }}</h3>
+            <span class="timeline-title">{{ .title }}</span>
         </div>
     </li>
     {{ else }}
@@ -15,12 +15,36 @@
         </div>
         <div class="timeline-marker"></div>
         <div class="timeline-content">
+            {{ if .content }}
+
+
+
+            <div class="accordion-wrapper">
+                <details class="accordion-simple accordion-timeline">
+                    <summary class="timeline-title">{{ .title }}</summary>
+                    {{ if .content }}
+                    <p class="timeline-text">
+                        {{ .content | markdownify }}
+                    </p>
+                    {{ end }}
+                </details>
+            </div>
+
+            {{ else }}
+            <h5 class="timeline-title">{{ .title }}</h5>
+            {{ end }}
+            
+        
+
+            {{/*  
+            so war es vorher
             <h5 class="timeline-title">{{ .title }}</h5>
             {{ if .content }}
             <p class="timeline-text">
                 {{ .content | markdownify }}
             </p>
-            {{ end }}
+            {{ end }} 
+            */}}
         </div>
     </li>
     {{ end }}
