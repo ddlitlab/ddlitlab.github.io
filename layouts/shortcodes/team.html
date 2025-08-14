@@ -1,6 +1,6 @@
 {{ $member_list := .Site.Data.team }}
 {{ range $member_list }}
-<div class="team-card">
+<div class="team-card glass">
   {{ if isset . "image" }}
   <div class="team-card-image">
     <img src="{{ .image }}" alt="{{ .name }}">

@@ -37,7 +37,7 @@ draft: false
     {{< timeline >}}
 </section>
 
-<section id="team">
+<section class="background-pattern" id="team">
   <header class="section-header">
     <h1 class="section-title">Unser Team</h1>
     <p class="section-subtitle">Alles ist gut, solange du wild bist</p>

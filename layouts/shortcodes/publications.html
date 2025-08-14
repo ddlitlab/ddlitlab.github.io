@@ -1,8 +1,7 @@
 {{ $publications_list := .Site.Data.publications }}
 
 {{ range $publications_list }}
-<a class="hover-fx-card publication-card" href='{{ .link }}' target="_blank">
-  {{/*  <div class="glass publication-card">  */}}
+<a class="hover-fx-card publication-card glass" href='{{ .link }}' target="_blank">
     <h2 class="publication-title">{{ .title }}</h2>
     <p class="publication-subtitle">{{ .subtitle }}</p>
     <p class="publication-date">{{ .date }}</p>
