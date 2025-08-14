@@ -8,13 +8,16 @@ draft: false
     <h1 class="section-title">Über uns</h1>
     <p class="section-subtitle">Digital denken von Anfang an</p>
   </header>
-  <div class="wide-image">
-      <img src="/images/team/_gruppenbild.jpg" alt="team picture">
+  <div class="image-full-page">
+      <img src="/images/team/_gruppenbild_cropped.jpg" alt="team picture">
     </div>
+    <!-- <div class="wide-image">
+      <img src="/images/team/_gruppenbild.jpg" alt="team picture">
+    </div> -->
     <article class="about-text-wide">
-    <p>Das Projekt „Digital and Data Literacy in Teaching Lab“ (DDLitLab) ist ein fachübergreifendes und hochschulweites Vorhaben der Universität Hamburg, das von August 2021 bis Dezember 2025 von der Stiftung Innovation in der Hochschullehre mit einem Fördervolumen von knapp 5 Mio. Euro gefördert wird. Ziel ist es, die Vermittlung digitaler und datenbezogener Kompetenzen sowohl bei Studierenden aller Fachrichtungen als auch bei Lehrenden systematisch zu stärken und neue Impulse für innovative Lehre an der Universität Hamburg zu setzen.</p>
-    <p>Im Mittelpunkt steht, Studierende zu befähigen, digitale Technologien reflektiert zu nutzen und datenbasierte Prozesse kritisch zu bewerten. Lehrende werden darin unterstützt, digitale und hybride Formate didaktisch sinnvoll in ihre Curricula zu integrieren. Zentrale Angebote sind das interdisziplinäre Grundlagenprogramm <a href="../datenwelten">Datenwelten</a>, das <a href="../lehrlabor">Data Literacy Lehrlabor</a>, <a href="../studiprojekte">Studi-Projekte</a> sowie die <a href="../gkicommunity">gKI Community</a>. Ergänzt wird das Portfolio durch das <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html">Lehre-Navi</a>, das Qualifizierung und Beratung zur digitalen und hybriden Hochschullehre bündelt.</p>
-    <p>Mit dem Abschluss des Projekts Ende 2025 stehen die hier entwickelten Materialien und Konzepte als Ressource für die Weiterentwicklung der digitalen und datenbezogenen Hochschullehre an der Universität Hamburg und darüber hinaus zur Verfügung. Die Erfahrungen des DDLitLab sollen langfristig zur Verankerung und Förderung von Data Literacy als Schlüsselkompetenz an der Universität beitragen.</p>
+      <p>Das Projekt „Digital and Data Literacy in Teaching Lab“ (DDLitLab) ist ein fachübergreifendes und hochschulweites Vorhaben der Universität Hamburg, das von August 2021 bis Dezember 2025 von der Stiftung Innovation in der Hochschullehre mit einem Fördervolumen von knapp 5 Mio. Euro gefördert wird. Ziel ist es, die Vermittlung digitaler und datenbezogener Kompetenzen sowohl bei Studierenden aller Fachrichtungen als auch bei Lehrenden systematisch zu stärken und neue Impulse für innovative Lehre an der Universität Hamburg zu setzen.</p>
+      <p>Im Mittelpunkt steht, Studierende zu befähigen, digitale Technologien reflektiert zu nutzen und datenbasierte Prozesse kritisch zu bewerten. Lehrende werden darin unterstützt, digitale und hybride Formate didaktisch sinnvoll in ihre Curricula zu integrieren. Zentrale Angebote sind das interdisziplinäre Grundlagenprogramm <a class="hover-fx-text-intern" href="/datenwelten">Datenwelten</a>, das <a href="/lehrlabore">Data Literacy Lehrlabor</a>, <a href="/studiprojekte">Studi-Projekte</a> sowie die <a href="/gkicommunity">gKI Community</a>. Ergänzt wird das Portfolio durch das <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html">Lehre-Navi</a>, das Qualifizierung und Beratung zur digitalen und hybriden Hochschullehre bündelt.</p>
+      <p>Mit dem Abschluss des Projekts Ende 2025 stehen die hier entwickelten Materialien und Konzepte als Ressource für die Weiterentwicklung der digitalen und datenbezogenen Hochschullehre an der Universität Hamburg und darüber hinaus zur Verfügung. Die Erfahrungen des DDLitLab sollen langfristig zur Verankerung und Förderung von Data Literacy als Schlüsselkompetenz an der Universität beitragen.</p>
     </article>
     <div class="logo-grid logo-grid-ddlitlab">
         <a href="https://www.uni-hamburg.de/">
