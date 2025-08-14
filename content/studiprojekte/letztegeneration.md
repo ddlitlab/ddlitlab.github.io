@@ -16,7 +16,7 @@ text: |
 
     Ebenso sollen medien- und plattformübergreifende Zusammenhänge zwischen der Twitter- und der Nachrichtendebatte über die „Letzte Generation” identifiziert werden. Dieses Projekt zielt somit auf Fragen gesellschaftlicher Aushandlungsfähigkeit und Deliberation ab: Wird Berichterstattung von vermeintlich polarisierten Onlinedebatten getrieben? Gelingt es Journalist:innen, eigene thematische und inhaltliche Akzente zu setzen? Sorgen vermeintlich polarisierende Protestbewegungen für eine Art „ansteckender“, plattformübergreifender Medienaufmerksamkeit? Und führt das schlussendlich zu einem produktiven Diskurs über eine notwendige ökologische Transformation oder lediglich zu einer emotionalisierten, inhaltsleeren und identitätsbasierten Debatte in Journalismus und Sozialen Medien?  
   
-    ##### Datengetriebener Forschungsansatz     
+    ## Datengetriebener Forschungsansatz     
 
     Das Projekt adressiert die Herausforderung eines polarisierten Diskurses in den deutschsprachigen Sozialen Medien und Nachrichten. Um diesen zu analysieren, setzen wir auf einen Lösungsansatz, der Netzwerkanalysen mit manueller und automatisierter Inhaltsanalyse kombiniert. Unser datengetriebener Ansatz zielt darauf ab, den Online Diskurs zu untersuchen und zu verstehen, wer in diesem zu Wort kommt und welche Frames verwendet werden (Wie wird über „Die Letzte Generation” gesprochen?). Durch die Kombination von Social Media- und Nachrichtendiskurs-Analysen wählen wir einen innovativen und cross-medialen Forschungsansatz, der zu diesem Fragenkomplex – zumindest nach unserem Wissen – so noch nicht durchgeführt wurde.  
 

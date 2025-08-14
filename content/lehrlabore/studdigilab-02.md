@@ -15,7 +15,7 @@ contributors:
 mentor: "Anton Sefkow, Lukas Musumeci, Marten Borchers"
 quote: "Im Seminar wird ein realer digitaler Prototyp mit Hilfe ko-kreativer Methoden und unter Verwendung eines no code-Tools (Forest/Legal OS) entwickelt. Die prototypischen Lösungen müssen statische Abstraktionen (Jura), Modelle (Informatik) und operative Anwendung (Soziale Arbeit & Sozialrecht) aufeinander abstimmen. Hierfür ist der interdisziplinäre Austausch entscheidend, da Rückmeldungen von und für andere Disziplinen das Verständnis von Anforderungen und Lösungen schärfen, damit letztere nützlich, attraktiv und bedienbar sind, was integraler Bestandteile von Design Thinking ist."
 text: |
-    ### Das Projekt StudDigiLab
+    ## Das Projekt StudDigiLab
 
     Interdisziplinäre Transferveranstaltungen sind sehr selten. Speziell im juristischen Bereich findet vordergründig eher eine Abschottung gegenüber anderen Disziplinen statt. Die Komplexität der Welt erfordert jedoch integrative Innovationen, die regelmäßig das Resultat interdisziplinärer Zusammenarbeit sind. Die Lehrveranstaltung zielt unter anderem darauf ab, hier einzigartige Erfahrungen zu vermitteln, die einen realistischen Blick auf das spätere Berufsleben zulassen.
 

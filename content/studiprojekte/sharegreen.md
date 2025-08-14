@@ -18,7 +18,7 @@ text: |
 
     Wir beschäftigen uns mit Produkten, die während ihrer Lebensdauer von mehreren Benutzern gemietet und verwendet werden. Daher können die Cradle-to-Gate-CO2-Emissionen [2] pro Produkt nicht direkt aus der Datenbank entnommen werden. Das einmalige Ausleihen eines Produkts ist sicherlich weniger kohlenstoff-intensiv als der Kauf eines völlig neuen, um jedoch die genauen Emissionen der Produktmieten zu berechnen, wurden die durchschnittliche Nutzung pro Jahr und die Lebensdauer des Artikels berücksichtigt. Die Verleihplattform fainin [1] steht uns bei dem Projekt als Partner zur Seite und stellt uns die Transaktionsdaten, außerdem wird der CO2-Counter auf dieser Plattform praktisch erprobt.
 
-    ##### Referenzen
+    ## Referenzen
 
     [1] https://www.fainin.com 
     [2] Souto-Martinez, A.; Arehart, J. H. & Srubar III, W. V. (2018). Cradle-to-gate CO2e emissions vs. in situ CO2 sequestration of structural concrete elements. In: Energy and Buildings (167:15), pp. 301-311. DOI: 10.1016/j.enbuild.2018.02.042

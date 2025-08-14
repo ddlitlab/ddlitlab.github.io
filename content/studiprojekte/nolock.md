@@ -24,7 +24,7 @@ text: |
 
     Anhand der gesammelten Daten werden die Herausforderungen und Grenzen sowie die Effektivität von No- & Low-Code Plattformen als Kompetenzbrücke analysiert und Einsatzprinzipien für die Nutzung dieser Plattformen in mitarbeitergetriebenen Innovationsprozessen entwickelt.
 
-    ##### Referenzen
+    ## Referenzen
 
     [1] Opland, L. E.; Jaccheri, L.; Pappas I. O. & Engesmo, J. (2020). Utilising the Innovation Potential – A Systematic Literature Review on Employee-driven Digital Innovation. In: Proceedings of the European Conference on Information Systems (ECIS 2020) 
     [2] Yoo, Y.; Henfridsson, O. & Lyytinen, K. (2010). The New Organizing Logic of Digital Innovation - An Agenda for Information Systems Research. In: Information Systems Research (21:4) 

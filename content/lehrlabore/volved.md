@@ -15,7 +15,7 @@ contributors: "Enqi Fan"
 mentor: "Prof. Dr. Jens Siemon"
 quote: "Den meisten Studierenden ist vage bekannt, dass sich das Verhalten von Menschen vorhersagen lässt, sofern genug unabhängige Einzelinformationen zur Verfügung stehen. Durch ein eigenes Forschungsprojekt, dass auf der Re-Analyse vorhandener Unterrichtsbeobachtungsdaten basiert, sollen Studierende eine Data Literacy aufbauen, um Anwendungsmöglichkeiten, Grenzen, Datenschutz- und datensicherheitsrelevante Aspekte und die Bedeutung solcher Vorhersagen für das eigene berufliche wie private Leben zu erkennen."
 text: |
-    ### Das Projekt VoLveD
+    ## Das Projekt VoLveD
 
     Das Seminar soll als Best-Practice-Beispiel aufzeigen, wie durch forschendes Lernen fachliche Kompetenz zusammen mit einer fachübergreifenden Data Literacy aufgebaut werden kann. In der Veranstaltung lernen Studierende das Beobachten von beruflichem Unterricht anhand verschiedener Beobachtungsfragestellungen.
 

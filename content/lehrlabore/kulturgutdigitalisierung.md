@@ -15,7 +15,7 @@ contributors: "Prof. Dr. Julia Nantke, Prof. Dr. Natalia Filatkina"
 mentor: "Sandra Bläß, Marie Flüh, Tanja Stevanović, David Maus"
 quote: "Den Rahmen für das Lehrprojekt bilden die zunehmende Digitalisierung kulturhistorisch relevanter Dokumente, die veränderten Nutzungsszenarien für digitalisierte Kulturgüter und insgesamt die gestiegene Relevanz der Digitalisierung in heutigen Gesellschaften."
 text: |
-    ### Das Projekt Kulturgutdigitalisierung
+    ## Das Projekt Kulturgutdigitalisierung
 
     Das Projekt zielte darauf ab, Studierenden die Arbeitsprozesse zu vermitteln, die mit der Überführung analoger Schriftartefakte in digitale Formate verbunden sind. Dabei wurden einerseits praktische Fertigkeiten in der Text- und Bilddigitalisierung vermittelt und andererseits die notwendigen Übersetzungsprozesse, Nutzungsmöglichkeiten und rechtliche Aspekte, wie beispielsweise Fragen von Urheberrechten, reflektiert. Bei dieser kritischen Reflexion wurde ein Augenmerk auf die Frage gelegt, welche Merkmale analoger Dokumente bei der Digitalisierung verloren gehen, welche Eigenschaften digital (besser) repräsentiert werden können und welche Mehrwerte und Möglichkeiten, aber auch  Herausforderungen dies für eine Nutzung in wissenschaftlicher Forschung und musealer Ausstellung mit sich bringt.
 

@@ -20,7 +20,7 @@ text: |
 
     Solche angepassten Instanzen ermöglichen es, die Vielseitigkeit von General Purpose Modellen noch effektiver zu nutzen. Durch Feinabstimmung auf spezielle Daten oder Aufgaben können bessere Ergebnisse erzielt und die Modelle an spezifische Bedürfnisse angepasst werden. Dieses Projekt hat das Ziel, einen Leitfaden zu entwickeln, der Nutzer:innen dabei unterstützt, das für ihre individuellen Anforderungen am besten geeignete Sprachmodell auszuwählen und durch Feinabstimmung anzupassen. Auf diese Weise soll das Potenzial generativer KI-Systeme bestmöglich ausgeschöpft werden.
 
-    ### Projektumsetzung
+    ## Projektumsetzung
 
     Das Projekt umfasst fünf aufeinanderfolgende Phasen:
 

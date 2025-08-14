@@ -15,7 +15,7 @@ contributors:
 mentor: "Prof. Robert Zepf, Dr. Jonas Müller-Laackman"
 quote: "In Projekten sollen ToDos erledigt werden, die aber auch irgendwie in Abhängigkeit zueinander stehen. Personal und Finanzmittel müssen verfügbar sein, aber auch verplant werden. Das Projekt soll natürlich erfolgreich sein, aber wer entscheidet alles darüber? Um sich diesen Herausforderungen zu stellen und DH-Projekten zum Erfolg zu verhelfen, bedarf es eines weiteren Tools im DH-Projekt-Werkzeugkasten, das ein überlegtes und systematisches Vorgehen fördert: Projektmanagement."
 text: |
-    ### Das Projekt Digital Humanities
+    ## Das Projekt Digital Humanities
 
     Die Entwicklung der Projektidee entstand aus dem Bedarf an Lehr- und Weiterbildungsangeboten im Bereich der Digital Humanities, die optional zum Studium oder zur Arbeit angeboten werden sollen. Diese Angebote sollen einen niedrigschwelligen Hands-on-Charakter in den Workshops mit einer theoretischen Einführung in den Vorträgen kombinieren. Dabei wurden Themen in Absprache mit potenziellen Stakeholdern identifiziert und zunächst ohne Einbettung in den curricularen Rahmen angeboten, um unabhängiger vom curricularen Verwaltungskontext zu sein und zunächst „freier“ DH-Veranstaltungen in Ergänzung zum UHH-Programm anbieten zu können. Die Veranstaltungsthemen wurden so gewählt, dass in der Regel der Vortrag den Workshop ergänzte oder der Workshop auf dem Vortrag aufbaute. Dabei sollten sowohl bibliotheksnahe Themen (z.B. Normdaten) als auch forschungsnahe und studienrelevante Themen eine Rolle spielen (z.B. NLP).
 

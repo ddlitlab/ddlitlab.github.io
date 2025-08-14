@@ -25,7 +25,7 @@ text: |
 
     The Pathfinder project thus aims to contribute to the further development of idea management systems through the targeted use of modern AI technologies. Our approach aims to increase the efficiency and quality of idea evaluation, promote collaboration between idea contributors, and simultaneously foster fairness and transparency. In doing so, we create a foundation for organizations to better utilize the creative potential of their employees and establish innovation processes.
 
-    ##### References:
+    ## References:
 
     [1] S. Høyrup, „Employee-driven innovation and workplace learning: basic concepts, approaches and themes“, Transfer: European Review of Labour and Research, Bd. 16, Nr. 2, S. 143–154, 2010, doi: 10.1177/1024258910364102. 
     [2] C. Sandstrom und J. Bjork, „Idea management systems for a changing innovation landscape“, IJPD, Bd. 11, Nr. 3/4, S. 310, 2010, doi: 10.1504/IJPD.2010.033964. 

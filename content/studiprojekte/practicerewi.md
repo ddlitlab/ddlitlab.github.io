@@ -26,7 +26,7 @@ text: |
 
     Unsere persönliche Motivation ist dabei Folge unseres eigenen Engagements in der deutschen Bewegung der Refugee Law Clinics. Hier befassen wir uns mit der „Access to Justice“ Problematik und daher vor allem mit solchen Fällen, in denen Menschen ein fairer Zugang zum Recht verwehrt bleibt. Mittelfristig wird sich die Access to Justice Problematik noch deutlich verschärfen, wenn sich das juristische Nachwuchsproblem nicht lösen lässt: Eine überlastete Justiz entscheidet langsam und ungenau, anwaltliche Beratung als knappes Gut steigt im Preis. Daher wollen wir nun auch forschend Verantwortung übernehmen und mit dazu beitragen, dass Reformbemühungen, welche das Nachwuchsproblem der Jurist:innenschaft zu lösen versuchen, auf eine ausdifferenzierte Entscheidungsgrundlage zurück- greifen können.
 
-    ##### Literatur:
+    ## Literatur:
 
     [1] „Juristen-Mangel in Deutschland: Zu wenige Richter und lange Justiz-Verfahren“
     [2] „Gigantische Pensionierungs-Welle, kaum Nachwuchs: Richter warnt vor Justiz-Kollaps“

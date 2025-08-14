@@ -26,7 +26,7 @@ text: |
 
     Our personal motivation stems from our own involvement in the German Refugee Law Clinics movement. Here, we address the "access to justice" issue and, therefore, primarily cases in which people are denied fair access to the law. In the medium term, the access to justice problem will become significantly more acute if the problem of recruiting young lawyers cannot be resolved: An overburdened judiciary makes slow and imprecise decisions, and legal advice, as a scarce commodity, is becoming increasingly expensive. Therefore, we now want to assume responsibility through research and contribute to ensuring that reform efforts that attempt to solve the problem of recruiting young lawyers can rely on a differentiated decision-making basis.
 
-    ##### References:
+    ## References:
 
     [1] „Juristen-Mangel in Deutschland: Zu wenige Richter und lange Justiz-Verfahren“
     [2] „Gigantische Pensionierungs-Welle, kaum Nachwuchs: Richter warnt vor Justiz-Kollaps“

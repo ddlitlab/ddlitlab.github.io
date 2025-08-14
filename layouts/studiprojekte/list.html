@@ -4,13 +4,12 @@
 
     <section>
     <header class="section-header">
-        <h1 class="section-title">Studentische Forschungsgruppen</h1>
-        <p class="section-subtitle">Die Projekte im Überblick</p>
+        <h1 class="section-title">{{ .Title }}</h1>
+        <p class="section-subtitle">{{ .Params.subtitle }}</p>
     </header>
 
     <div class="projekte-index-quote projekte-index-quote-studiprojekte">
-        <p>In einer digital geprägten Welt ist der kritische Umgang mit Daten – von Erhebung und Analyse bis zur Reflexion – eine zentrale Schlüsselkompetenz für Studierende aller Fächer. Das Programm fördert Kleingruppen der Universität Hamburg bei datengetriebenen Projekten, gern auch mit Praxispartner:innen und Themen zu KI oder generativer KI. Die Projekte werden finanziell und technisch unterstützt, können als Leistungspunkte im Studium angerechnet werden und durch eine wissenschaftliche Mentor:in begleitet.
-</p>
+        <p>{{ .Params.text }}</p>
     </div>
 
     <input type="radio" id="sf-runde1" name="filter" checked>
@@ -19,10 +18,10 @@
     <input type="radio" id="sf-runde4" name="filter">
     
     <div class="projekte-filter">
-        <label for="sf-runde1">Runde 1</label>
-        <label for="sf-runde2">Runde 2</label>
-        <label for="sf-runde3">Runde 3</label>
-        <label for="sf-runde4">Runde 4</label>
+        <label for="sf-runde1">{{ .Params.filter1 }}</label>
+        <label for="sf-runde2">{{ .Params.filter2 }}</label>
+        <label for="sf-runde3">{{ .Params.filter3 }}</label>
+        <label for="sf-runde4">{{ .Params.filter4 }}</label>
     </div>
 
     <div class="projekte-grid">

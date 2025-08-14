@@ -16,7 +16,7 @@ text: |
 
     It also aims to identify cross-media and cross-platform connections between the Twitter and news debates about the "Last Generation." This project thus aims to address questions of social negotiation and deliberation: Is reporting driven by supposedly polarized online debates? Do journalists succeed in setting their own thematic and content-related priorities? Do supposedly polarizing protest movements generate a kind of "contagious," cross-platform media attention? And does this ultimately lead to a productive discourse about a necessary ecological transformation or merely to an emotionalized, empty, and identity-based debate in journalism and social media? 
   
-    ##### Data-driven research approach    
+    ## Data-driven research approach    
 
     The project addresses the challenge of polarized discourse in German-language social media and news. To analyze this discourse, we employ a solution approach that combines network analysis with manual and automated content analysis. Our data-driven approach aims to examine the online discourse and understand who is speaking in it and which frames are used (How is "Die Letzte Generation" discussed?). By combining social media and news discourse analysis, we choose an innovative and cross-media research approach that – at least to our knowledge – has not been used before on this complex of questions.
 

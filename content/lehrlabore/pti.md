@@ -15,11 +15,11 @@ contributors: "Habiba Schiller"
 mentor: "Larissa Gebken, Dr. Matthias Pillny"
 quote: "Die Definition von Data Literacy kann in direkten Zusammenhang mit dem Ziehen kausaler Schlüsse aus Daten gesetzt werden: Nur auf Basis einer validen, nachvollziehbaren und kritischen kausalen Analyse können zielgerichtete Handlungsempfehlungen abgeleitet werden."
 text: |
-    ### Ein interdisziplinäres Projektseminar zur Datenauswertung mittels Python und Machine Learning
+    ## Ein interdisziplinäres Projektseminar zur Datenauswertung mittels Python und Machine Learning
 
     Die aktuelle empirisch-psychologische Forschung erfordert zunehmend anspruchsvolle Experimentalaufbauten und multimethodale Untersuchungsmethoden. Bei der Auswertung dieser Forschungsergebnisse bedarf es vor allem eines kompetenten Umgangs mit komplexen Datenstrukturen wie beispielsweise der Kombination aus psychometrischen, elektrophysiologischen und psychophysiologischen Daten.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Das interdisziplinäre Projektseminar für Studierende der Informatik und der Psychologie begann bereits im Sommersemester 2023. Ziel war es, den Herausforderungen um „Machine Learning“ in der Psychologie zu begegnen. Zu diesem Zweck wurde die breit einsetzbare Programmiersprache Python mit Anwendungsbezug zu einer psychologischen Fragestellung gelehrt: Die Studierenden untersuchten den Zusammenhang zwischen Musiknutzungsverhalten und psychischer Gesundheit. Die Teilnehmenden lernten, eigene Hypothesen aufzustellen, komplexe Daten zu erheben und unterschiedliche Datentypen für die Auswertung aufzubereiten. Sie erfassten dazu ihr eigenes Musiknutzungsverhalten und weitere relevante Daten mit Smartwatches. Dadurch wurden sie auch für Fragen der Datenqualität und des datenschutzkonformen sowie ethisch-sensitiven Umgangs mit personenbezogenen Daten sensibilisiert. Nach der Auswertung der Daten mit geeigneten Machine Learning-Verfahren wurden die Ergebnisse visualisiert und reflektiert, um sie in einer Abschlussveranstaltung öffentlich zu präsentieren.
 

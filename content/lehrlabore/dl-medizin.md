@@ -15,7 +15,7 @@ contributors: "Prof. Dr. Antonia Zapf, Christian Wiessner"
 mentor: 
 quote: "Für viele Studierende der Medizin nimmt die Methodik der medizinischen Forschung und die Auswertung von Daten eine untergeordnete Rolle ein. Einige haben zu Beginn des Studiums gar eine abwertende Haltung gegenüber Statistik. Dem möchte das Projekt „Data Literacy in der Medizin“ entgegenwirken."
 text: |
-    ### Zukunftsthema: Data Literacy in der Medizin
+    ## Zukunftsthema: Data Literacy in der Medizin
 
     Studierende, die später als Ärzt:innen tätig sind, haben die lebenslange Aufgabe neue Erkenntnisse der Medizin kritisch einzuordnen und in ihre Behandlungspraxis einzubeziehen. Diese Veranstaltung bringt Human- und Zahnmedizinstudierenden Methodenkenntnisse der Medizinforschung näher und zielt dabei insbesondere auf die Kompetenz der Evidenzbewertung ab. Diese grundlegenden Kenntnisse wurden im Rahmen von Vorlesungen vermittelt. Ergänzend dazu fanden Seminare statt, in denen statistische Konzepte anhand einer eigenen Datenerhebung und Auswertung praktisch erfahrbar wurden. Außerdem wurde durch die Bearbeitung aktueller Literatur ein kritischer Blick auf Inhalt und Methodik wissenschaftlicher Publikationen eingeübt.
 

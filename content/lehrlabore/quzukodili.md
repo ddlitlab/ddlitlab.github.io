@@ -15,11 +15,11 @@ contributors:
 mentor: "Lars Sörries-Vorberger, Carla Sökefeld"
 quote:
 text: |
-    ### Ausrichtung des Projekts
+    ## Ausrichtung des Projekts
 
     Das Projekt QuZuKoDiLi hat zum Ziel, Queerlinguistik und Digital Humanities in Forschung und Lehre zu vereinen. In den Lehrveranstaltungen werden (1) allgemeine Digital- und Datenkompetenzen (Data & Digital Literacy), (2) fächerübergreifende Methoden (Datenerhebung, -aufbereitung, -management, -analyse und -darstellung) und (3) fachspezifische Inhalte und Methoden (Queer-, Diskurs- und Korpuslinguistik) vermittelt. Zudem wird ein Konzept für geisteswissenschaftliche Lehrveranstaltungen entwickelt.
 
-    ### Projektumsetzung
+    ## Projektumsetzung
     
     Das Projekt besteht aus der Durchführung eines Seminars mit dazugehöriger Übung im Masterbereich – jeweils im Wintersemester 2024/2025 und Sommersemester 2025.
 

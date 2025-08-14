@@ -15,10 +15,10 @@ text: |
 
     Das Hauptziel von AIrise ist es, die verschiedenen Aspekte der AI Literacy und generativen AI Literacy zu untersuchen und zu definieren. Dazu gehören:
 
-    - **Grundverständnis von KI und generativer KI: Es wird erforscht, wie tief das Grundwissen über KI und speziell generative KI in unterschiedlichen Bevölkerungsgruppen und Berufsfeldern verankert ist.**
-    - **Ethik und gesellschaftliche Auswirkungen: Ein weiteres Untersuchungsfeld ist das Bewusstsein und die Meinung zu ethischen Aspekten und den sozialen Auswirkungen generativer KI-Technologien zu erfassen.**
-    - **Praktische Anwendungsfähigkeiten: Es wird evaluiert, welche Erfahrungen Menschen mit generativen KI-Tools bisher gemacht haben und in welchen Anwendungsfällen und -Bereichen sie diese nutzen und welche Fähigkeiten dafür benötigt werden.**
-    - **Kritische Bewertung von KI-Outputs: Außerdem umfasst ein wichtiger Teil des Projekts die kritische Betrachtung, wie Menschen die Ergebnisse von KI-Systemen reflektieren, bewerten und hinterfragen.**
+    - **Grundverständnis von KI und generativer KI**: Es wird erforscht, wie tief das Grundwissen über KI und speziell generative KI in unterschiedlichen Bevölkerungsgruppen und Berufsfeldern verankert ist.
+    - **Ethik und gesellschaftliche Auswirkungen**: Ein weiteres Untersuchungsfeld ist das Bewusstsein und die Meinung zu ethischen Aspekten und den sozialen Auswirkungen generativer KI-Technologien zu erfassen
+    - **Praktische Anwendungsfähigkeiten**: Es wird evaluiert, welche Erfahrungen Menschen mit generativen KI-Tools bisher gemacht haben und in welchen Anwendungsfällen und -Bereichen sie diese nutzen und welche Fähigkeiten dafür benötigt werden.
+    - **Kritische Bewertung von KI-Outputs**: Außerdem umfasst ein wichtiger Teil des Projekts die kritische Betrachtung, wie Menschen die Ergebnisse von KI-Systemen reflektieren, bewerten und hinterfragen.
 
     AIrise stützt sich auf einer umfangreichen Umfrage mit quantitativen und qualitativen Anteilen in den Bereichen KI und generative KI sowie auf Basis grauer Literatur in Form praktischer Fallbeispiele und der Erfahrungen durch KI-thematisierende Lehrveranstaltungen der Universität Hamburg.
 

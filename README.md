@@ -30,20 +30,20 @@ Link: https://softiceee.github.io/ddlit-prototype/
 
 To run this project locally, you need to have Hugo and Git installed on your machine. Additionally, you can use Visual Studio Code as your code editor.
 
-### Installations
+## Installations
 
 * [Install Hugo](https://gohugo.io/installation/)
 * [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Install VS Code](https://code.visualstudio.com/download) (gibt es auch in der RRZ Softwareverwaltung)
 
-#### macOS
+### macOS
 
 Open a Terminal.
 * Install [Homebrew](https://brew.sh/) (Package Manager for macOS): ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 * Install Hugo: `brew install hugo`
 * Install Git: `brew install git`
 
-#### Windows
+### Windows
 
 * Install [Git](https://git-scm.com/download/win)
 * Install Hugo. Follow these instructions: https://gohugo.io/installation/windows/#prebuilt-binaries
@@ -58,7 +58,7 @@ Open a Terminal.
 
 Now you can access Hugo and Git from any terminal window.
 
-### Setting up the local repository
+## Setting up the local repository
 
 First, Open VS Code. Then, open a terminal window (Terminal > New Terminal).
 
@@ -76,7 +76,7 @@ Now you have a local copy of the repository. You can switch to the directory:
 
 ```cd softiceee.github.io.git```
 
-### Running the website locally
+## Running the website locally
 
 You can run the site locally:
 
@@ -85,7 +85,7 @@ You can run the site locally:
 This starts a local webserver which you can access in your browser at `http://localhost:1313`.
 
 
-### Making changes
+## Making changes
 
 You can make changes to the website in the `content` directory. This is where all the content of the website is stored. You can try to change something in the file `content/about.md`. This is the "About" page of the website. You add some text in this file and save it. The local webserver will automatically reload the page in your browser.
 

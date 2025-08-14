@@ -17,7 +17,7 @@ text: |
     Accordingly, we will use discourse analysis. The analysis will be based on German weekly and daily newspapers, as these reflect public discourse (e.g., taz, Welt Online, Die Zeit, Der Tagesspiegel, Der Spiegel, Die Bild). However, we cannot examine all articles dealing with pensions or retirement provision in the form of close reading, which is why we will use the blended reading method. This complements classical discourse analysis and hermeneutics with text mining techniques. In order to be able to process even larger amounts of data, we are cooperating with the House of Computing and Data Science (HCDS) and using the D-WISE Tool Suite developed by them. This makes it possible to apply manually coded categories to large amounts of data using machine learning without having to read the texts themselves, as is the case with classic close reading. The material obtained is first analyzed using a pattern analysis, which takes temporality into account in the data analysis. We will then conduct a sociological discourse analysis according to Reiner Keller (2011). In this way, we combine classical quantitative approaches such as text mining with the otherwise mostly qualitative research approach of discourse analysis in our analysis. 
 
 
-    ##### References
+    ## References
 
     Keller, R. (2011). Wissenssoziologische Diskursanalyse – Grundlegung eines Forschungsprogramms. Springer Fachmedien Wiesbaden. DOI: 10.1007/978-3-531-92058-0. 
 

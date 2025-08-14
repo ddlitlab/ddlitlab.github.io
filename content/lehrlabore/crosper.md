@@ -15,7 +15,7 @@ contributors: "Larissa Gebken"
 mentor: "Prof. Dr. Tilo Böhmann, Prof. Dr. Wolfgang Schulz"
 quote: "Im Zuge der fortschreitenden Digitalisierung hat auch die öffentliche Kommunikation tiefgreifende Veränderungen erfahren. Diese Lehrveranstaltung vermittelt, wie neuartige Akteurskonstellationen und der Einsatz von algorithmischen Systemen und Daten öffentliche Kommunikation verändern."
 text: |
-    ### Das Projekt CROSPER
+    ## Das Projekt CROSPER
 
     Um die Fähigkeit zu entwickeln, komplexe Ökosysteme zu illustrieren, zu analysieren und folglich normativ zu bewerten, wird in diesem Projekt zunächst Architekturwissen vermittelt. Das zu vermittelnde Architekturwissen berücksichtigt dabei komplexe Akteurskonstellationen, in denen Daten ausgetauscht und algorithmische Systeme verwendet werden. Die Modellierung mithilfe von Architekturen schafft so die Grundlagen für die Illustration der Ökosysteme und damit die Transparenz von komplexen Systemen. Ergänzend wird medienrechtliches Wissen vermittelt zur Einschätzung dieser Ökosysteme sowie der dort befindlichen Problematiken und Herausforderungen. Der ursprüngliche Plan eine Lehrveranstaltung zu erproben, konnte nicht durchgeführt werden. Stattdessen wurde eine Lernumgebung aufgebaut, die in den kommenden Semestern genutzt werden kann.
 

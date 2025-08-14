@@ -15,7 +15,7 @@ contributors: "Izabel Cvetkovic"
 mentor: "Eylem Tas, Dr. Navid Tavanapour"
 quote: "This project funding will enable the design and development of the interdisciplinary and transdisciplinary digital teaching lab DDCo-Lab in collaboration with various external partners from Hamburg. The teaching project to be acquired has its focus on conveying the fundamentally critical understanding of processes of data collection and storage, their processing, analysis and visualization with real data and real data challenges."
 text: |
-    ### Das Projekt DDCo-Lab
+    ## Das Projekt DDCo-Lab
 
     Die Entwicklung des DDCo-Lab-Projekts zielte darauf ab, den Studierenden ein inter- und transdisziplinäres Lernumfeld zu bieten, um sie auf die Anforderungen der modernen Arbeitswelt vorzubereiten und ihre Datenkompetenz zu stärken. Dies schloss sowohl technische Fähigkeiten als auch kritisches Verständnis der Datenprozesse ein.
 

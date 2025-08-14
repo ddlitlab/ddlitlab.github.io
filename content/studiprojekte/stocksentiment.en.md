@@ -18,7 +18,7 @@ text: |
 
     Using the Twitter API, we gain access to the required data. Based on this, we will write a program that selects the appropriate data and prepares it for our sentiment analysis. The preparation step is an important and non-trivial part of data collection. Filtering out unwanted data is essential, especially when images or emoticons are an important part of a tweet. We retrieve the stock data for the selected time periods via another API. We compare the results from the sentiment analysis with the stock data and observe the extent to which we can detect a correlation between these data sets.
 
-    ##### References:
+    ## References:
 
     [1] Lyócsa, Š., Baumöhl, E. & Výrost, T. (2022). In: Finance Research Letters (46) A. https://www.sciencedirect.com/science/article/pii/S1544612321003603, last access: 13th November, 2022.    
 

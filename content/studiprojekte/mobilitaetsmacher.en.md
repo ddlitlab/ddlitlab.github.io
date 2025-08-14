@@ -18,7 +18,7 @@ text: |
 
     Furthermore, travel times to social participation sites will be calculated to enable comparability between different stops. The results will be presented as a map of Hamburg and serve as a starting point for realistic optimizations using machine learning algorithms. The research results can be used by our cooperation partner, the HVV, to obtain an overview of poorly connected districts in Hamburg. Furthermore, the map will be made available to the public so that every citizen can learn about the district's connectivity.
 
-    ##### References
+    ## References
 
     [1] Agora Verkehrswende (2023) „Große Unterschiede auf kleinstem Raum,“ Verfügbar unter: https://www.agora-verkehrswende.de/veroeffentlichungen/oev-atlas-deutschland/grosse-unterschiede-auf-kleinstem-raum/ (Letzter Zugriff am: 21.06.2023).  
     [2] Daubitz, S. and Aberle C. (2020) „Mobilität und Soziale Exklusion in Hamburg,“ Forschungsbericht, TU Berlin. DOI: 10.15480/882.3019.  

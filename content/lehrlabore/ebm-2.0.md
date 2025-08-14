@@ -15,7 +15,7 @@ contributors: "Lisa Holstein"
 mentor: "Prof. Dr. Antonia Zapf, Christian Wiessner"
 quote:
 text: |
-    ### Das Projekt EBM 2.0
+    ## Das Projekt EBM 2.0
 
     Das Projekt hat das Ziel, das EpiBioManual (aus dem vorigen Lehrlaborprojekt) um die weitere Modalität von Videos zu Grundkonzepten der Biostatistik zu erweitern und das im EpiBioManual vermittelte konzeptuelle Wissen um prozedurales Wissen im Umgang mit statistischer Software zu erweitern. Konkret bestehen die folgenden Ziele:
 
@@ -28,7 +28,7 @@ text: |
 
     Im Zuge des Projektes wurde eine moderne und innovative Lehrveranstaltung im Kontext von Kausalität geschaffen. Die Vorlesung wurde durch interaktive Lernmaterialien (Lern-Apps) ergänzt, die zum besseren Verständnis der theoretischen Inhalte beigetragen haben. Mit dem Digital Causality Lab, das die vorherige frontal-unterrichtete Übung ersetzt, wurde zudem ein innovativer Lernraum mit einem didaktischen Schwerpunkt auf forschendem Lernen etabliert. Einerseits werden im Digital Causality Lab wichtige praktische Werkzeuge und Fähigkeiten der Data Literacy vermittelt, sowie die theoretischen Konzepte aus der Vorlesung praktisch angewandt. Andererseits vertiefen die Studierende diese Kenntnisse im Zuge von kausalen Fallstudien, in denen sie eigenständig ein Data Product entwickeln.
 
-    ### Projektumsetzung
+    ## Projektumsetzung
 
     Videos: In der Planungsphase werden zunächst die grundlegenden Konzepte innerhalb der Biostatistik identifiziert und ein Grundkonzept für die Videos erstellt. Anschließend werden Skripte und Visualisierungen für die Videos erstellt, bevor diese dann eingesprochen werden. Die Videos werden mit Camtasia erstellt.
 

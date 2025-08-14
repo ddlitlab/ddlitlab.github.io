@@ -19,7 +19,7 @@ text: |
 
     Im Projekt wird das bestehende didaktische Szenario der letzten Runden kontinuierlich weiterentwickelt und durchgeführt. Zusätzlich wird eine Ausgründung des Projekts sowohl vorbereitet als auch durchgeführt. Hierfür werden unterschiedliche Finanzierungs- und Fördermöglichkeiten geprüft. Ein wesentlicher davon ist das Aufstellen einer tragfähigen und langfristigen Finanzplanung.
 
-    ### Projektumsetzung
+    ## Projektumsetzung
     
     Im Zeitraum von August bis Oktober 2024 befindet sich das Projekt in der Vorbereitungsphase, in der grundlegende Entscheidungen zur Ausgründung, wie die Wahl der Rechtsform und die Analyse von Fördermöglichkeiten, getroffen werden. Parallel dazu erfolgt der Ausbau des Netzwerks und administrative Vorbereitungen sowie die Einführung von Seminaren im Wintersemester.
 

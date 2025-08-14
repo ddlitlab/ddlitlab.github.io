@@ -18,7 +18,7 @@ text: |
 
     Des Weiteren werden die Fahrtzeiten zu den Orten sozialer Teilhabe berechnet, um eine Vergleichbarkeit der verschiedenen Haltestellen zu ermöglichen. Die Ergebnisse sollen in Form einer Karte von Hamburg dargestellt werden und als Ausgangspunkt für realistische Optimierungen mit Machine Learning Algorithmen dienen. Die Forschungsergebnisse können von unserem Kooperationspartner HVV genutzt werden, um einen Überblick über schlecht angebundene Stadtteile in Hamburg zu erhalten. Darüber hinaus wird die Karte der Öffentlichkeit bereitgestellt, damit sich jeder Bürger und jede Bürgerin über die Anbindung des Stadtteils informieren kann. 
 
-    ##### Referenzen
+    ## Referenzen
 
     [1] Agora Verkehrswende (2023) „Große Unterschiede auf kleinstem Raum,“ Verfügbar unter: https://www.agora-verkehrswende.de/veroeffentlichungen/oev-atlas-deutschland/grosse-unterschiede-auf-kleinstem-raum/ (Letzter Zugriff am: 21.06.2023).  
     [2] Daubitz, S. and Aberle C. (2020) „Mobilität und Soziale Exklusion in Hamburg,“ Forschungsbericht, TU Berlin. DOI: 10.15480/882.3019.  

@@ -22,7 +22,7 @@ text: |
 
     We deem it important to include the language communities and native speakers as part of our project. First for proper considerations and alignment of scientific goals with human desires, and later to guarantee high data quality. Collecting more low-quality data wouldn’t be prudent, and only the highest quality might be the inkling of a chance to counter-balance our target languages' severe data scarcity today. 
 
-    ##### References
+    ## References
     
     Öpengin, E. & Haig, G. (2014). Regional variation in Kurmanji: A preliminary classification of dialects. Kurdish Studies (2:2), 143-176.
 

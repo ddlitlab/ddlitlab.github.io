@@ -18,7 +18,7 @@ text: |
 
     Mithilfe der Twitter-API erhalten wir Zugang zu den benötigten Daten. Darauf aufbauend werden wir ein Programm schreiben, welches die geeigneten Daten auswählt und für unsere Sentiment-Analyse aufbereitet. Der Schritt der Aufbereitung ist ein wichtiger und nicht trivialer Teil der Datenerhebung. Insbesondere wenn z. B. Bilder oder Emoticons wichtiger Bestandteil eines Tweets sind, ist die Ausfilterung von unerwünschten Daten essentiell. Zu den ausgewählten Zeiträumen holen wir uns die Stock-Daten über eine weitere API. Die Ergebnisse aus der Sentiment-Analyse vergleichen wir mit den Stock-Daten und beobachten, inwiefern wir eine Korrelation zwischen diesen Datensätzen feststellen können.
 
-    ##### Literatur:
+    ## Literatur:
 
     [1] Lyócsa, Š., Baumöhl, E. & Výrost, T. (2022). In: Finance Research Letters (46) A. https://www.sciencedirect.com/science/article/pii/S1544612321003603, last access: 13th November, 2022.    
 

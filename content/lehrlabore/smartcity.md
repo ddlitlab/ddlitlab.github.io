@@ -15,7 +15,7 @@ contributors: "Marten Borchers, Jan Krause"
 mentor: "Prof. Dr. Eva Bittner"
 quote: "Aufgrund der fortschreitenden Digitalisierung aller Lebensbereiche sind die Anforderungen an Bürgerinnen und Bürger, sich selbstständig in einer sich schnell verändernden und von Informationen durchdrungenen Welt zurechtzufinden, gestiegen."
 text: |
-    ### Das Projekt Smart City Hamburg
+    ## Das Projekt Smart City Hamburg
 
     Im Projekt "Data-driven Solutions for the Smart City Hamburg (D²S²C)" werden real existierende Herausforderungen aus dem Bereich Smart City von Studierenden im Rahmen der Lehrveranstaltung analysiert und prototypische Lösungen entwickelt. Hierfür wird mit der HOCHBAHN, dem HSV/Future Dock und dem Landesbetrieb Geoinformation und Vermessung zusammengearbeitet und so ein Transfer zwischen Theorie und Praxis ermöglicht.
 

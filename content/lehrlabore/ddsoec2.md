@@ -15,7 +15,7 @@ contributors: "Victoria Hünewaldt"
 mentor: "Prof. Dr. Ulrich Fritsche, Lisa Wegner, Junbo Huang"
 quote:
 text: |
-    ### Ausrichtung des Projekts
+    ## Ausrichtung des Projekts
 
     Ziel des Projekts ist, Studierenden der Sozialökonomie Data Science näherzubringen. In einem hybriden Kurs sollen sie theoretisches und praktisches Wissen über Regressions- und Klassifikationsverfahren erlernen. Die Vorlesung wird durch Code-Beispiele ergänzt, sodass bereits hier "hands-on" Wissen vermittelt wird. In der Übung wird das erworbene Wissen durch kleine Übungsaufgaben praktisch angewendet. Die Studierenden arbeiten kollaborativ in Kleingruppen mit JupyterHub und dokumentieren ihre Ergebnisse in Quarto, erlernen Projektdokumentation und erwerben Wissen via Pair-Programming.
 
@@ -23,7 +23,7 @@ text: |
 
     Ziele des Kurses sind es, Unsicherheiten im Umgang mit Daten abzubauen und das Programmieren mit R anhand fachnaher Beispiele zu vermitteln. Nach Abschluss sollen die Studierenden selbstständig Datenanalysen für eigene Forschungsprojekte durchführen können. Zusätzlich bereitet der Kurs auf kollaboratives Arbeiten vor und ermutigt zur gemeinsamen Problemlösung.
 
-    ### Projektumsetzung
+    ## Projektumsetzung
 
     Folgende zentrale Ergebnisse sollen erreicht werden: Eine Einführung in die praktische Bedeutung von Daten, statistischen/machine learning-Methoden und "Big Data" für wirtschafts- und sozialwissenschaftliche Fragen.
 

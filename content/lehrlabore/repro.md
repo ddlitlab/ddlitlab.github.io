@@ -25,7 +25,7 @@ text: |
 
     Dieser Kurs bietet eine Einführung in Werkzeuge und Praktiken, die es angehenden Wissenschaftlern ermöglichen, ihre Forschung reproduzierbar durchzuführen. Für eine effektivere Arbeit und bessere Wissenschaft.
 
-    ### Projektumsetzung
+    ## Projektumsetzung
 
     Nach dem erfolgreichen Ansatz unseres vorherigen Kurses über „Versionskontrolle von Code und Daten mit Git“ werden wir uns auf die Entwicklung einer Online-Lernressource mit dem vorläufigen Titel „The Repro Book“ konzentrieren, nach dem Vorbild unseres „Version Control Book“. Dieser Online-Leitfaden wird an die Struktur des Seminars angepasst und dient als Lehrbuch für den Kurs. Während des Kurses werden die Teilnehmer in jeder Sitzung ein neues Konzept kennenlernen und dann das neu erlernte Werkzeug oder die neu erlernte Praxis mit praktischen Übungen umsetzen. Diese Übungen konzentrieren sich auf die Arbeit an einem kleinen Forschungsprojekt von der Konzeption bis zur Verbreitung, wobei die Methoden für reproduzierbare Forschung, die im Kurs vorgestellt werden.
 

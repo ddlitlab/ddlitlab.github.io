@@ -17,7 +17,7 @@ text: |
     Dementsprechend werden wir diskursanalytisch vorgehen. Basis der Analyse bilden deutsche Wochen- und Tageszeitungen, da diese den öffentlichen Diskurs abbilden (z. B. taz, Welt Online, Die Zeit, Der Tagesspiegel, Der Spiegel, Die Bild). Wir können jedoch nicht alle Artikel, in denen es um Rente bzw. Altersvorsorge geht, im Sinne des close reading untersuchen, weshalb wir die Methode des blended reading anwenden werden. Diese ergänzt die klassische Diskursanalyse und Hermeneutik um Text-Mining Verfahren. Um noch größere Datenmengen verarbeiten zu können, kooperieren wir mit dem House of Computing and Data Science (HCDS) und nutzen die von ihnen entwickelte D-WISE Tool Suite. Diese macht es möglich, manuell codierte Kategorien durch maschinelles Lernen auf große Datenmengen anzuwenden, ohne dass die Texte wie beim klassischen close reading selbst gelesen werden müssen. Analysiert wird das gewonnene Material zunächst mithilfe einer Velaufsmusteranalyse, bei der die Zeitlichkeit in der Datenanalyse berücksichtigt wird. Anschließend werden wir eine wissenssoziologische Diskursanalyse nach Reiner Keller (2011) durchführen. Damit verbinden wir in der Analyse klassische quantitative Ansätze wie das Text-Mining und dem sonst meist qualitativen Forschungsansatz der Diskursanalyse. 
 
 
-    ##### Referenzen
+    ## Referenzen
 
     Keller, R. (2011). Wissenssoziologische Diskursanalyse – Grundlegung eines Forschungsprogramms. Springer Fachmedien Wiesbaden. DOI: 10.1007/978-3-531-92058-0. 
 

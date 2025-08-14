@@ -15,7 +15,7 @@ contributors: "Franziska Gerwers"
 mentor: "Christina Schwalbe"
 quote: "Unsere Meinungsbildung ist beeinusst durch die komplexen Strukturen und Kommunikationsformen der digitalen Gesellschaft. Die digitale Datenverarbeitung hat Auswirkungen auf die öentliche Kommunikation als Basis der Demokratie. Zur Entwicklung von Mündigkeit in einer digitalen Gesellschaft gehört die Förderung von Data Literacy als Schlüsselkompetenz. Diese sollte bereits in der Schule gefördert werden – im gleichen Maße wie die Förderung von Lese- und Schreibkompetenzen, also Literacy im ursprünglichen Sinn."
 text: |
-    ### Das Projekt MeinungDigital
+    ## Das Projekt MeinungDigital
 
     Die Förderung von Grundelementen einer rezeptiven Data Literacy bei (angehenden) Lehrer:innen als Multiplikator:innen im Bereich schulischer Bildung ist dabei eine notwendige, aber nicht hinreichende Bedingung, um langfristig Data Literacy Education als Kernelement schulischer Bildung verankern zu können. Allerdings sind Lehrangebote zu Data Literacy bisher nicht systematisch im Lehramtscurriculum verankert. Und auch Lehrkräfte, die bereits im Schuldienst sind, verfügen häug nicht über das notwendige Wissen und die notwendigen Kompetenzen – zugleich fehlt ihnen im Schulalltag die Zeit, sich praktisch und reektierend mit den aktuellen Veränderungen in einer immer stärker digitalisierten und von datengetriebenen Prozessen geprägten Welt auseinanderzusetzen.
 

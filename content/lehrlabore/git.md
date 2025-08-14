@@ -15,7 +15,7 @@ contributors:
 mentor: "Dr. Lennart Wittkuhn, Prof. Dr. Nicolas Schuck"
 quote: "Versionskontrolle ist das Notizbuch für eine digitale Welt und Git das wohl bekannteste Versionskontrollsystem. Es ermöglicht, Veränderungen in digitalen Objekten präzise zu dokumentieren und damit nachzuvollziehen, wer was wann wie und warum in einer Datei verändert hat"
 text: |
-    ### Ausrichtung des Projekts
+    ## Ausrichtung des Projekts
 
     Digitale Objekte auf unseren Computern, besonders in der Wissenschaft, befinden sich im ständigen Wandel. Manuskripte, Programmiercode und Forschungsdaten werden kontinuierlich und kollaborativ verändert. Die systematische Dokumentation dieser Veränderungen ist essenziell für reproduzierbare und transparente Wissenschaft sowie effektive Zusammenarbeit.
 
@@ -23,7 +23,7 @@ text: |
 
     Forschende können von Praktiken der Softwareentwicklung lernen, insbesondere durch das Versionskontrollsystem Git. Git ermöglicht die Nachverfolgung und Organisation der Entwicklung digitaler Objekte und deren Teilen über Plattformen wie GitHub.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Vor dem Hintergrund der Replikationskrise bestehen große Anforderungen an Methoden zur Verbesserung der wissenschaftlichen Praxis. Ein Hauptergebnis des Lehrprojekts war, Kursteilnehmenden Versionskontrolle im wissenschaftlichen Kontext durch praktische Anwendung von Git und Nutzung von Plattformen wie GitHub zu vermitteln.
 
@@ -33,7 +33,7 @@ text: |
 
     Insgesamt haben die erzielten Ergebnisse das Verständnis für Versionskontrolle vertieft und wertvolle Ressourcen für die Gemeinschaft geschaffen, was zur Data Literacy der Teilnehmenden beiträgt und die Prinzipien von Offenheit und Zusammenarbeit im wissenschaftlichen Umfeld fördert.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Zentrales Element der digitalen Kompetenzentwicklung war die vollständig transparente, öffentliche und kollaborative Entwicklung von Lehrressourcen mit Git und GitHub. Von der Konzeption bis zum Abschlussbericht wurden alle Elemente des Lehrprojekts in kollaborativer Zusammenarbeit zwischen der Lehrperson, der studentischen Hilfskraft und dem Tutor erstellt. Dabei wurden die Lehrinhalte (Versionskontrolle von Code und Daten mit Git und GitHub) auf die Erstellung der Lehrinhalte angewendet. Dieser Ansatz verfolgt gute wissenschaftliche Prinzipien von Transparenz, Offenheit und Reproduzierbarkeit auch bei der Erstellung von Lehrmaterialien.
 

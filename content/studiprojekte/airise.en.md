@@ -10,7 +10,7 @@ uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenproj
 students: "Dejan Simic, Gian-Luca Gücük"
 mentor: "Stephan Leible"
 text: |
-    ##### [The content of the project was adjusted on February 1, 2024, due to a change in the student team.]
+    ## [The content of the project was adjusted on February 1, 2024, due to a change in the student team.]
 
      In the era of digital transformation, artificial intelligence (AI), especially generative AI, is playing an increasingly important role in our everyday lives and in the world of work. The ability to not only use AI technologies, but also to understand and critically evaluate them, is increasingly becoming a crucial skill. Against this backdrop, the topic of AI literacy, i.e., education in the field of artificial intelligence, is gaining in importance. More specifically, generative AI literacy is the focus of our AIrise project, which aims to research and promote understanding and skills in dealing with generative AI systems.  
 

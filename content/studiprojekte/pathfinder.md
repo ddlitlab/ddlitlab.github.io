@@ -25,7 +25,7 @@ text: |
 
     Das Pathfinder Projekt soll somit einen Beitrag zur Weiterentwicklung von Ideenmanagementsystemen durch den gezielten Einsatz moderner KI-Technologien leisten. Unser Ansatz zielt darauf ab, die Effizienz und Qualität der Ideenbewertung zu steigern, die Kollaboration zwischen Ideengeber:innen zu fördern und gleichzeitig Fairness sowie Transparenz zu fördern. Damit schaffen wir eine Grundlage für Organisationen, um das in diesen schlummernde kreative Potenzial der Mitarbeiterschaft besser auszuschöpfen und Innovationsprozesse zu etablieren.
 
-    ##### Literatur:
+    ## Literatur:
 
     [1] S. Høyrup, „Employee-driven innovation and workplace learning: basic concepts, approaches and themes“, Transfer: European Review of Labour and Research, Bd. 16, Nr. 2, S. 143–154, 2010, doi: 10.1177/1024258910364102. 
     [2] C. Sandstrom und J. Bjork, „Idea management systems for a changing innovation landscape“, IJPD, Bd. 11, Nr. 3/4, S. 310, 2010, doi: 10.1504/IJPD.2010.033964. 

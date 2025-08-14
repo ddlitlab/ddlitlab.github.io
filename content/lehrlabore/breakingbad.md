@@ -15,13 +15,13 @@ contributors: "Lucas Memmert"
 mentor: "Dr. Michaela Regneri, Fabian Burmeister"
 quote: "In einem besonderen hermeneutischen Lehransatz treten die Studierenden als „Advocatus Diaboli“ auf: Die Beratungskonzepte sollen zeigen, wie der AI Act mit minimalem Aufwand erfüllt wird und dabei wirtschaftlicher Profit und Inkaufnahme von gesellschaftlichem Risiko maximiert werden können."
 text: |
-    ### Das Projekt BreAkIng Bad
+    ## Das Projekt BreAkIng Bad
 
     Der Einfluss von KI auf das Leben vieler Menschen nimmt stetig zu. Wenngleich sich hierdurch große Chancen ergeben, entstehen auch erhebliche Risiken und ethische Herausforderungen. Die neue EU-KI-Regulierung (EU AI Act) versucht, diese Chancen und Risiken in Einklang zu bringen. Die Idee des Seminars ist es, Studierende über alle Fakultäten hinweg für die Gefahren im Umgang mit KI zu sensibilisieren und gleichzeitig ein erstes Gespür für unternehmerische Praxis im Kontext potentiell gewinngefährdender Gesetze zu bekommen. Hierbei sollen die Studierenden selbst Gestaltungsspielräume entlang des Gesetzesentwurfs anhand konkreter KI-Anwendungsfälle ausloten.
 
     Dies soll die Studierenden befähigen, KI kritisch und verantwortungsbewusst einzusetzen. Explizites Ziel war es, auch Studierende außerhalb der Informatik anzusprechen, da es sich um eine gesamtgesellschaftliche Herausforderung handelt und u.a. ethische, juristische, technische und betriebswirtschaftliche Aspekte vereint.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Das zentrale Ergebnis des Lehrprojekts war die praxisnahe und kritische Vermittlung von KI-basierten Datenpraktiken an die Studierenden. Das Lehrkonzept wurde in Zusammenarbeit mit der iDIGMA GmbH entwickelt und umfasste sowohl eigene Lehrinhalte als auch Gastlehreinheiten, um Chancen und Risiken von KI aus verschiedenen Perspektiven zu beleuchten. Themengerechte Literatur- und Materialempfehlungen wurden vorbereitet, um der Heterogenität der Studierenden gerecht zu werden.
 
@@ -29,7 +29,7 @@ text: |
 
     Ein weiteres wichtiges Zwischenergebnis war daher die Entwicklung von für das Seminar passenden KI-Anwendungsfällen. Wichtiges Kriterium für die KI-Anwendungsfälle war, dass diese technisch realistisch umsetzbar sind, einen erheblichen betriebswirtschaftlichen Nutzen bieten und gleichzeitig mit ethischen (und ggf. rechtlichen) Risiken verbunden sind. Die Anwendungsfälle wurden vom Projektteam gemeinsam mit dem Praxispartner priorisiert und ausgearbeitet. Zudem wurden Handreichungen für die Lehrenden mit weiterführenden Informationen (z.B. ethische Bedenken, Bewertungen hinsichtlich des EU AI Acts) erarbeitet.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Im Rahmen des Lehrprojekts konnte die Einbindung und Zusammenarbeit mit unterschiedlichen Fachbereichen und außeruniversitären Akteuren erprobt werden, was als Bereicherung empfunden wird. Gerade für vielschichtige Phänomene wie „Digitalisierung“ oder „Data Literacy“ scheint dieser übergreifende Ansatz sinnvoll. Das Projekt vereint eine Vielzahl von fachlichen Perspektiven (u.a. rechtlich, betriebswirtschaftlich, technisch, ethisch). Neben der interdisziplinären Besetzung des Projektteams wurde daher im Rahmen des projektbasierten Lehransatzes die Rolle eines internen rechtlichen Experten (einer wissenschaftlichen Hilfskraft) erprobt, welcher die Lehrpersonen und insbesondere die Studierenden durch punktuelle fachliche Beratung unterstützt hat.
 

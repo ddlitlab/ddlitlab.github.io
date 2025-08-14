@@ -15,7 +15,7 @@ contributors:
 mentor: "Moritz Kreinsen, Prof. Dr. Sandra Schulz, Prof. Dr. Sandra Sprenger"
 quote: "Im Lehr-Lern-Labor treffen die Studierenden auf einen außerschulischen Lernraum, in dem sie zum einen selbst umfangreiche KI- und Datenkompetenzen und zum anderen didaktische Kompetenzen durch praktische und niedrigschwellige Übungen erwerben und dabei gleichzeitig praktische Unterrichtserfahrungen mit Schüler:innen der Sekundarstufen sammeln."
 text: |
-    ### Das Projekt Teacher AID Lab
+    ## Das Projekt Teacher AID Lab
 
     Die Entwicklung des Lehrprojekts wurde durch mehrere Schlüsselfaktoren vorangetrieben. Ein zentraler Grund ist der dringende Bedarf, (angehenden) Lehrkräften während ihrer gesamten Ausbildung Daten- und KI-Kompetenz zu vermitteln. Trotz der wachsenden Bedeutung von Daten und KI in der Gesellschaft fehlen bisher Programme in der Lehrkräftebildung, die diesen Themen gerecht werden. Oft liegt der Fokus nur auf der Nutzung (z.B. „Prompting“) und nicht auf dem Verständnis der technologischen Perspektive von KI.
 
@@ -23,7 +23,7 @@ text: |
 
     Das übergeordnete Ziel bleibt die feste Integration niedrigschwelliger, praxisorientierter Programme in das Lehramtscurriculum. Der Zugang zu diesen Inhalten muss erleichtert und fest verankert werden, damit angehende Lehrkräfte die notwendigen Kompetenzen erwerben, um den Anforderungen des modernen Bildungssystems gerecht zu werden.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Das Lehrprojekt hat wichtige Ergebnisse für die Lehrkräfteausbildung und die Förderung der KI-Kompetenz von (angehenden) Lehrkräften erzielt. Es ist eines der ersten Angebote im Bereich „AI Literacy“ in der Lehramtsausbildung an der Universität Hamburg und ein wesentlicher Schritt zur zeitgemäßen Ausbildung zukünftiger Lehrkräfte. Das Projekt fördert die Professionalisierung von Lehrkräften in der digitalen Transformation von Schule und Unterricht unter den Bedingungen von KI.
 
@@ -35,7 +35,7 @@ text: |
     2. Konzepte und Methoden hinter dem Sammelbegriff „Künstliche Intelligenz“, insbesondere die Funktionsweise von maschinellem Lernen, differenzieren und erklären
     3. Daten- und KI-Konzepte fach-/anwendungsspezifisch einordnen und auf eigene Projekte anwenden.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Die Reflexion über sinnstiftende Lehrformate für die Projektziele spiegelt sich in der Seminargestaltung dieser Veranstaltung wider. Es bot sich insbesondere durch den hohen schulpraktischen Bezug an, den Studierenden überwiegend in Präsenzzeiten im Flipped-Classroom-Format zu begegnen. Begleitend zum Seminar wurde Moodle genutzt und ein entsprechender Kurs gemäß der Seminarstruktur entwickelt. Dieser beinhaltet auch eine reine Online-Einheit, für die während der Präsenzzeiten kein Raum war. Diese Online-Einheit wurde leider sehr schlecht angenommen. Die Studierenden fühlten sich aufgrund des Feedbacks überfordert mit der Fülle an Informationen, die ihnen zum Selbststudium im digitalen Raum überlassen wurden.
 

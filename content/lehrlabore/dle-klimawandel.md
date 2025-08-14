@@ -15,7 +15,7 @@ contributors: "Moritz Kreinsen"
 mentor: "Prof. Dr. Sandra Schulz, Prof. Dr. Sandra Sprenger"
 quote: "Eine zukünftige Lehrkraft benötigt eine vielfältige Data Literacy. Dazu gehören Kompetenzen von der Erfassung von Daten bis hin zur Interpretation und Anwendung. Dabei kommt ihnen eine Multiplikator:innenfunktion bei der Etablierung von (digitalen) Datenkompetenzen für Generationen von Schüler:innen zu."
 text: |
-    ### Das Projekt DLE-Klimawandel
+    ## Das Projekt DLE-Klimawandel
 
     Die Lehramtsstudierenden der Forschungswerkstatt durchlaufen anhand eigenständig erhobener Daten den kompletten Datenlebenszyklus, von der Sammlung bis zur Interpretation der Daten anhand des Inhaltsfelds Wetter, Klima und Klimawandel. Die Datensammlung erfolgt durch eigens konstruierte und programmierte Wetterstationen, die Wetterdaten an unterschiedlichen Orten sammeln. Im Rahmen der Lehrveranstaltung erwerben sie dabei neben informatischen Kompetenzen, etwa im Bereich Programmierung und Robotik auch grundlegende Kompetenzen des Datenmanagements, der Analyse und Visualisierung sowie Interpretation und Weitergabe von Daten. Neben der Förderung von Data Literacy und informatischen Kompetenzen, können die Masterstudierenden die Arbeit mit den Wetterstationen auch für den späteren Schulalltag nutzen.
 

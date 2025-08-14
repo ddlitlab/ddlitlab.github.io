@@ -27,7 +27,7 @@ text: |
 
     - Weiterentwicklung eines abgestimmten, systematisch aufgebauten DDLE-Angebots für die EW-Fakultät.
 
-    ### Seminar: Digital + Data + ‚KI‘ Literacy und die Transformation des Lernens
+    ## Seminar: Digital + Data + ‚KI‘ Literacy und die Transformation des Lernens
 
     Teil des Projekts ist außerdem ein Seminar. Ziel ist die Förderung von Digital-, Daten- und ‚KI‘-Kompetenz bei Studierenden der Erziehungswissenschaften und Lehrkräften, sowie Austausch und Reflexion über die Auswirkungen auf die Transformation des Lernens in der Schule.
 

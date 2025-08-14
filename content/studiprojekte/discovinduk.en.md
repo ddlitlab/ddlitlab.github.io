@@ -28,7 +28,7 @@ text: |
 
     Unlike other studies of discourse around the COVID-19 pandemic, this project will not search Twitter and newspapers for a predetermined list of keywords [2]. Rather, it will employ a data-driven approach to generate keyword lists from the data [1]. Combining self-directed work with the comparison to existing data and results, we, as the students participating in the project, will gain valuable experience in data management and analysis, thus building our data literacy skills. All datasets that are collected during the investigation will be stored in OSF, an online data platform. This implies that our results will always be accessible and reusable.
 
-    ##### References:
+    ## References:
 
     [1] Fuchs, R. (2022). Viral Discourses – How We Discuss COVID-19 [Conference talk].
     [2] Guntuku, S. C., Buttenheim, A. M., Sherman, G., & Merchant, R. M. (2021). Twitter discourse reveals geographical and temporal variation in concerns about covid-19 vaccines in the United States. Vaccine, 39(30), 4034–4038. https://doi.org/10.1016/j.vaccine.2021.06.014 

@@ -15,13 +15,13 @@ contributors: "Anton Sefkow, Lukas Musumeci, Marten Borchers"
 mentor:
 quote: "In de Debatte um sogenannte  'Future Skills' und innovative Lehrformate ist die Liste an Forderungen lang, konkrete Ideen zur Realisierung von didaktischen Interventionen sind jedoch Mangelware. Insbesondere Jurist:innen sowie Informatiker:innen  kommen in der Entwicklung zukünftiger digitaler Produkte Schlüsselstellungen zu. Hier setzt die Intervention an und sensibilisiert für zukünftige gesellschaftliche Herausforderungen und Notwendigkeiten, insbesondere im Kontext der Datenwertschöpfung und Produktentwicklung."
 text: |
-    ### Das Projekt StudDigiLab
+    ## Das Projekt StudDigiLab
 
     Das Lehrkonzept wurde konzipiert, um zu überprüfen inwieweit universitäre Lehre in Kooperation mit privatwirtschaftlichen Partnern funktionieren kann und wie in einem design-basierten Lernszenario gleichzeitig studentische Lernprozesse gefördert und marktfähige Produktqualitäten erreicht werden können.
 
     Das StudDigiLab richtete sich an Jura- und Informatikstudierende, die im Seminar reale, interne Prozesse vom Kooperationspartner Die Caritas (Niedersachsen) digitalisieren und optimieren sollen. Konfrontiert mit der ergebnisoffenen Gestaltungsaufgabe wurde, als Grundlage für die Entwicklung innovativer Lösungsansätze, das Konzept des Legal Design Thinking vorgestellt und eine Iteration durchlaufen.
 
-    ### Rückblick und Ergebnisse
+    ## Rückblick und Ergebnisse
 
     Jura- und Informatikstudierende arbeiteten in gemischten Gruppen und brachten sich einleitend gegenseitig in Peer-Learning-Szenarien die disziplinären Perspektiven näher. Das jeweilige Fachwissen der Studiengruppen wurde als komplementär und notwendig zur Lösung der gestellten Aufgabe angesehen. Die Jurastudierenden setzten sich dabei zentral mit der Digitalisierung rechtsbezogener Teilprozesse auseinander, sodass durch digitale Datenverarbeitung die Rechtsanwendung maschinell erfolgen kann. Dafür war es notwendig, Gesetzestexte in digitale algorithmische Entscheidungsbäume zu überführen, welche mit Hilfe einer Legal Technology (No- Code-Tool) angelegt werden. Diese Entscheidungsbäume bedurften in weiteren Schritten die Einbettung in einen Gesamtprozess-Prototyp, was wiederum schwerpunktmäßig die Aufgabe der Informatikstudierenden war. Ziel war die Gestaltung eines funktionierenden Produktes (minimum viable product), welches vom Kooperationspartner implementiert wurde.
 
@@ -29,7 +29,7 @@ text: |
 
     Das entwickelte Produkt (Prototyp) in den Seminaren hat eine Qualität erreicht, die marktfähig ist - dies gilt wohl insbesondere für den Wohlfahrtsbereich, da hier die Digitalisierung besonders langsam voranschreitet. Einer der Projektpartner hat den nach dem ersten Durchlauf entwickelten Prototypen in den Live-Betrieb implementiert. Das Format als Design-based Learning-Szenario wird außerdem, angepasst an den jeweiligen Kontext, in zukünftige Veranstaltungen einfließen. Das betrifft vor allem den groben Aufbau der Termine und die jeweils zu adressierenden abstrakten Inhalte, um am Ende ein funktionierendes Produkt entwickelt zu haben. Auf der konkreten Ebene muss geschaut werden, inwieweit Inhalte und Materialien die spezifischen Bedarfe des jeweiligen Designcases decken oder Anpassungen/Veränderungen notwendig sind.
 
-    ### Tipps von Lehrenden für Lehrende
+    ## Tipps von Lehrenden für Lehrende
 
     Transferprojekte, die mit realen Cases aus der Privatwirtschaft arbeiten, sind möglich, attraktiv und fördern intendierte “Future- Skills”. Die Ausbildung datenbezogener Kompetenzen anhand einer konkreten Gestaltungsaufgabe ist möglich. Die Reexionen der Studierenden haben gezeigt, dass das erworbene Wissen auf andere Zusammenhänge übertragen wurde. Atmosphärische Aspekte wie das vertrauensvolle und konstruktive Klima im Kurs, wurden wiederholt als Schlüssel für die Produktivität angegeben. Die Kommunikation im Projekt ist aufgrund der beteiligten Akteur:innen aufwändig. Das Kommunikationsmanagement liegt dabei primär bei den Lehrpersonen und es bedarf eines gewissen organisatorischen Geschicks, um dies zu bewältigen. Der Aufwand lohnt sich, weil die Studierenden aufgrund der Authentizität der Arbeit besondere Motivation entfalten und zudem ein tatsächlicher Beitrag zur Verbesserung der Arbeit prozessbetroener Personen erreicht werden kann.
 

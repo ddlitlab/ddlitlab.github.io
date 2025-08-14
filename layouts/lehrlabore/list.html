@@ -4,13 +4,12 @@
 
     <section>
     <header class="section-header">
-        <h1 class="section-title">Lehrlabore</h1>
-        <p class="section-subtitle">Innovative Lehre fördern</p>
+        <h1 class="section-title">{{ .Title }}</h1>
+        <p class="section-subtitle">{{ .Params.subtitle }}</p>
     </header>
 
     <div class="projekte-index-quote projekte-index-quote-lehrlabor">
-        {{/*  <p>Das Data Literacy Lehrlabor, später Cross-Disciplinary Teaching Lab (CDTL), unterstützt <span class="highlight">innovative Lehrprojekte</span> für bis zu <span class="highlight">zwölf Monate</span> – sowohl fachübergreifend als auch fachspezifisch oder transferorientiert. Ziel ist es, <span class="highlight">Freiräume</span> für die Weiterentwicklung von Lehrideen zu schaffen, Data Literacy als <span class="highlight">Schlüsselkompetenz</span> in Curricula zu verankern und durch Erfahrungsaustausch eine lebendige <span class="highlight">Community of Practice</span> aufzubauen.</p>  */}}
-        <p>Das Data Literacy Lehrlabor, später Cross-Disciplinary Teaching Lab (CDTL), unterstützt innovative Lehrprojekte für bis zu zwölf Monate – sowohl fachübergreifend als auch fachspezifisch oder transferorientiert. Ziel ist es, Freiräume für die Weiterentwicklung von Lehrideen zu schaffen, Data Literacy als Schlüsselkompetenz in Curricula zu verankern und durch Erfahrungsaustausch eine lebendige Community of Practice aufzubauen.</p>
+        <p>{{ .Params.text }}</p>
     </div>
 
     <input type="radio" id="ll-spotlights" name="filter" checked>
@@ -19,10 +18,10 @@
     <input type="radio" id="ll-runde3" name="filter">
     
     <div class="projekte-filter">
-        <label for="ll-spotlights">Spotlights</label>
-        <label for="ll-runde1">Runde 1</label>
-        <label for="ll-runde2">Runde 2</label>
-        <label for="ll-runde3">Runde 3 (CDTL)</label>
+        <label for="ll-spotlights">{{ .Params.filter1 }}</label>
+        <label for="ll-runde1">{{ .Params.filter2 }}</label>
+        <label for="ll-runde2">{{ .Params.filter3 }}</label>
+        <label for="ll-runde3">{{ .Params.filter4 }}</label>
     </div>
 
     <div class="projekte-grid">

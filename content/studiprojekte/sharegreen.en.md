@@ -18,7 +18,7 @@ text: |
 
     We are dealing with products that are rented and used by multiple users throughout their lifetime. Therefore, the cradle-to-gate CO2 emissions [2] per product cannot be directly extracted from the database. Renting a product once is certainly less carbon-intensive than buying a brand new one, but to calculate the exact emissions from product rentals, the average annual usage and the lifetime of the item were taken into account. The rental platform fainin[1] is supporting us as a partner in the project and provides us with the transaction data. Furthermore, the CO2 counter is being tested in practice on this platform.
 
-    ##### References
+    ## References
 
     [1] https://www.fainin.com 
     [2] Souto-Martinez, A.; Arehart, J. H. & Srubar III, W. V. (2018). Cradle-to-gate CO2e emissions vs. in situ CO2 sequestration of structural concrete elements. In: Energy and Buildings (167:15), pp. 301-311. DOI: 10.1016/j.enbuild.2018.02.042

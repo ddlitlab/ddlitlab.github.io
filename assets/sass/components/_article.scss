@@ -42,16 +42,31 @@
     margin-bottom: 1em;
 }
 
-.article-text ul li strong {
-    font-style: normal;
-    font-weight: normal;
+.article-text strong {
+    font-weight: 550;
 }
 
-.article-text ul li strong::before {
+.article-text ol {
+    font-size: 1.3rem;
+    list-style-position: inside;
+}
+
+.article-text ol li {
+    margin-bottom: 0.5em;
+}
+
+.article-text ol li::before {
     content: "\ea9c";
     font-family: 'codicon';
-    display: inline-block;
     margin-right: 0.3em;
+    float: left;
+}
+
+.article-text ul li::before {
+    content: "\ea9c";
+    font-family: 'codicon';
+    margin-right: 0.3em;
+    float: left;
 }
 
 .article-text em {
