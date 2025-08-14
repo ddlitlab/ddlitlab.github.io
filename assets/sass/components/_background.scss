@@ -1,29 +1,3 @@
-
-
-// you can change these three
-$c: gainsboro; // grid lines
-$d: 1em; // grid cell size
-$l: 0.2px; // line thickness
-
-// computed value, don't change
-$o: .5*$l;
-
-// .background-pattern {
-// 	background: 
-// 		/* horizontal and vertical lines */
-// 		conic-gradient(from 90deg at $l $l, 
-// 				#0000 25%, $c 0%) 
-// 			#{-1*$o -1*$o}/ #{$d $d}, 
-// 		/* main diagonal */
-// 		linear-gradient(45deg, 
-// 				#0000 calc(50% + -1*#{$o}), 
-// 				$c 0 calc(50% + #{$o}), #0000 0) 0 0/ #{2*$d 2*$d}, 
-// 		/* secondary diagonal */
-// 		linear-gradient(-45deg, 
-// 				#0000 calc(50% + -1*#{$o}), 
-// 				$c 0 calc(50% + #{$o}), #0000 0) 0 0/ #{2*$d 2*$d}
-// }
-
 .background-circles::before {
 	content: '';
 	position: absolute;
@@ -32,10 +6,17 @@ $o: .5*$l;
 	width: 200vw;
 	height: 100%;
 	z-index: -1;
-	// background-color: #1f2937;
 	background-image: radial-gradient(circle, var(--primary-lighter, #fff) 5px, transparent 5px);
 	background-size: 2rem 2rem;
 }
+
+// you can change these three
+$c: gainsboro; // grid lines
+$d: 1em; // grid cell size
+$l: 0.2px; // line thickness
+
+// computed value, don't change
+$o: .5*$l;
 
 .background-pattern::before {
   content: '';
@@ -59,7 +40,6 @@ $o: .5*$l;
             #0000 calc(50% + -1*#{$o}), 
             $c 0 calc(50% + #{$o}), #0000 0) 0 0/ #{2*$d 2*$d};
 }
-
 
 .background-grey {
     background: linear-gradient(135deg, #f0f0f0 0%, #ffffff 100%);

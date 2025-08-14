@@ -30,10 +30,10 @@
 @import "components/_logo"; // design überarbeiten, streamlinen, responsive
 @import "components/_glass"; 
 
-@import "pages/_home";
-@import "pages/_home_hero";
-@import "pages/_datenwelten";
-@import "pages/_projekte";
+@import "pages/home/home";
+@import "pages/home/_home_hero";
+@import "pages/datenwelten/_datenwelten";
+@import "pages/projekte/_projekte";
 @import "pages/about/_about";
 @import "pages/about/_team"; // for mobile view, change it to flip card
 @import "pages/about/_publications";

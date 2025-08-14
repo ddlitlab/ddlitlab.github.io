@@ -1,15 +1,53 @@
+.projekte-index-quote {
+    padding: 2rem 4rem 6rem 4rem;
+    position: relative;
+}
+
+.projekte-index-quote p {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.projekte-index-quote-lehrlabor::before {
+    position: absolute;
+    font-family: 'codicon';
+    top: 10%;
+    right: -5%;
+    content:"\ea79";
+    font-size: 200px;
+    color: rgba(0,0,0,0.1);  
+}
+
+.projekte-index-quote-studiprojekte::before {
+    position: absolute;
+    font-family: 'codicon';
+    top: 10%;
+    right: -5%;
+    content:"\eb44";
+    font-size: 200px;
+    color: rgba(0,0,0,0.1);  
+}
+
+.projekte-index-quote::after {
+    content: "";
+    top: 0;
+    left: 25%;
+    position: absolute;
+    border-bottom: 0.5rem solid var(--primary);
+    width: 50%;
+}
+
 .blockquote {
     padding: 60px 80px 40px;
     position: relative;
 }
 .blockquote p {
     font-size: 1.5rem;
-    font-weight: 700px;
     text-align: center;
     font-style: italic;
 }
 
-.blockquote:before {
+.blockquote::before {
     position: absolute;
     font-family: 'codicon';
     top: 0;
