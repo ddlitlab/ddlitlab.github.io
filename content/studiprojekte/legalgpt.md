@@ -10,7 +10,7 @@ uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenproj
 students: "Johannes Fabian Hahn, Gregor Stange"
 mentor: "Anton Semjonov"
 text: |
-   In einer zunehmend komplexen Gesellschaft ist der Zugang zu rechtlichen Informationen von entscheidender Bedeutung, um die eigenen Rechte und Pflichten zu verstehen und wahrzunehmen. Viele Menschen, insbesondere Laien, stehen jedoch vor der Herausforderung, juristische Texte zu entschlüsseln. Die häufig schwierige Rechtsprache und der Einsatz zahlreicher Fachbegriffe führen oft zu Missverständnissen und einem ungleichen Rechtsbewusstsein. Lange, komplexe Sätze mit zahlreichen Verweisen auf andere Gesetze erschweren selbst gut informierten Bürgern das Verständnis ihrer Rechte und deren Durchsetzung. Studien zeigen, dass ein großer Teil der Bevölkerung gezwungen ist, sich mit Original-Gesetzestexten auseinanderzusetzen, wenn rechtliche Fragen auftreten. Unser Projekt LegalGPT setzt genau hier an und entwickelt ein Open-Source-KI-System, das juristische Texte auf verständliche Weise erklärt und Antworten auf rechtliche Fragen liefert.
+   In einer zunehmend komplexen Gesellschaft ist der Zugang zu rechtlichen Informationen von entscheidender Bedeutung, um die *eigenen Rechte und Pflichten* zu verstehen und wahrzunehmen. Viele Menschen, insbesondere Laien, stehen jedoch vor der Herausforderung, juristische Texte zu entschlüsseln. Die häufig schwierige Rechtsprache und der Einsatz zahlreicher Fachbegriffe führen oft zu Missverständnissen und einem ungleichen Rechtsbewusstsein. Lange, komplexe Sätze mit zahlreichen Verweisen auf andere Gesetze erschweren selbst gut informierten Bürgern das Verständnis ihrer Rechte und deren Durchsetzung. Studien zeigen, dass ein großer Teil der Bevölkerung gezwungen ist, sich mit Original-Gesetzestexten auseinanderzusetzen, wenn rechtliche Fragen auftreten. Unser Projekt LegalGPT setzt genau hier an und entwickelt ein Open-Source-KI-System, das *juristische Texte auf verständliche Weise erklärt* und Antworten auf rechtliche Fragen liefert.
 
    ## Warum nicht einfach ChatGPT?
 
@@ -18,11 +18,11 @@ text: |
 
    ## Das Ziel des Projekts 
 
-   Das Projekt hat zum Ziel, ein KI-System zu entwickeln, das den Zugang zu rechtlichen Informationen vereinfacht und die Verständlichkeit von juristischen Texten fördert. Dabei kommt ein innovativer Ansatz namens Retrieval-Augmented Generation (RAG) zum Einsatz. Dieser nutzt eine Vektordatenbank mit öffentlich zugänglichen, digitalisierten Rechtstexten, um präzise und kontextualisierte Antworten zu liefern. Die Datenbank stellt sicher, dass die Informationen auf verlässlichen und aktuellen juristischen Quellen basieren, sodass der Nutzer keine „halluzinierten“ Antworten erhält, sondern konkrete, überprüfbare Informationen.
+   Das Projekt hat zum Ziel, ein KI-System zu entwickeln, das den Zugang zu rechtlichen Informationen vereinfacht und die Verständlichkeit von juristischen Texten fördert. Dabei kommt ein innovativer Ansatz namens Retrieval-Augmented Generation (RAG) zum Einsatz. Dieser nutzt eine Vektordatenbank mit öffentlich zugänglichen, digitalisierten Rechtstexten, um präzise und kontextualisierte Antworten zu liefern. Die Datenbank stellt sicher, dass die Informationen auf *verlässlichen und aktuellen juristischen Quellen* basieren, sodass der Nutzer keine „halluzinierten“ Antworten erhält, sondern konkrete, überprüfbare Informationen.
 
    ## Wie funktioniert es?
 
-   Im Gegensatz zu herkömmlichen LLMs, die auf internem Wissen basieren, kombiniert RAG die Stärken eines LLMs mit externen Wissensquellen. Wenn eine Anfrage gestellt wird, durchsucht die KI die angebundenen Datenbanken nach relevanten Informationen und formuliert eine Antwort, die auf realen, gesicherten juristischen Texten basiert. Dies gewährleistet die Präzision und Verlässlichkeit der bereitgestellten Informationen.
+   Im Gegensatz zu herkömmlichen LLMs, die auf internem Wissen basieren, kombiniert RAG die Stärken eines LLMs mit externen Wissensquellen. Wenn eine Anfrage gestellt wird, durchsucht die KI die *angebundenen Datenbanken* nach relevanten Informationen und formuliert eine Antwort, die auf realen, gesicherten juristischen Texten basiert. Dies gewährleistet die Präzision und Verlässlichkeit der bereitgestellten Informationen.
 
    ## Die Vision des Projekts
 
