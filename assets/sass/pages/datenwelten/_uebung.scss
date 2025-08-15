@@ -1,0 +1,16 @@
+.dw-uebung-cycle {
+    display: flex;
+    flex-direction: row;
+    padding: 4rem 0;
+    color: var(--black-light);
+    font-size: 2rem;
+}
+
+.dw-uebung-cycle p {
+    text-transform: uppercase;
+    font-size: 1em;
+    letter-spacing: 0.2em;
+    font-weight: 600;
+    transform: rotate(-90deg);
+    padding: 0;
+}

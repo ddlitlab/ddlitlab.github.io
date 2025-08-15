@@ -180,6 +180,18 @@ draft: false
             </div>
     </div>
     <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank">Zum Github-Repository</a>
+    <div class="dw-uebung-cycle">
+        <p>Collect</p>
+        <i class="codicon codicon-arrow-right"></i>
+        <p>Import</p>
+        <p>Tidy</p>
+        <div>
+        <p>Transform</p>
+        <p>Visualize</p>
+        <p>Model</p>
+        </div>
+        <p>Communicate</p>
+    </div>
     <div class="accordion-wrapper dw-accordion">
         <details class="accordion-simple">
             <summary>Vergangene Veranstaltungen</summary>
