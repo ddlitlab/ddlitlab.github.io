@@ -4,13 +4,84 @@
     padding: 4rem 0;
     color: var(--black-light);
     font-size: 2rem;
+    place-items: center;
 }
 
 .dw-uebung-cycle p {
     text-transform: uppercase;
     font-size: 1em;
-    letter-spacing: 0.2em;
+    // letter-spacing: 0.2em;
+    letter-spacing: -0.1em;
     font-weight: 600;
-    transform: rotate(-90deg);
     padding: 0;
+    writing-mode: vertical-lr;
+    // text-orientation: upright;
+}
+
+p.cycle-other {
+    writing-mode: horizontal-tb;
+    text-orientation: sideways;
+    letter-spacing: 0.2em;
+}
+
+.dw-uebung-cycle i {
+    font-size: 3rem !important;
+}
+
+.pre-icon-jupyter::before {
+    content: url("/images/logos-external/dw_jupyter.svg");
+    line-height: 1;
+    height: 100%;
+}
+
+.dw-cycle-icon-reflection {
+    position: relative;
+}
+
+.dw-cycle-icon-reflection::after {
+    content: "\ebb6";
+    font-family: "codicon";
+    position: absolute;
+    right: 15%;
+    bottom: -15%;
+    font-size: 5em;
+    color: var(--black-lighter);
+}
+
+.dw-cycle-icon-coding {
+    position: relative;
+}
+
+.dw-cycle-icon-coding::after {
+    content: "\eac4";
+    font-family: "codicon";
+    position: absolute;
+    top: -50%;
+    left: 30%;
+    font-size: 5em;
+    color: var(--black-lighter);
+}
+
+.dw-cycle-icon-tools {
+    position: relative;
+}
+
+.dw-cycle-icon-tools::after {
+    content: "\eb6d";
+    font-family: "codicon";
+    position: absolute;
+    right: 0;
+    bottom: -40%;
+    font-size: 5em;
+    color: var(--black-lighter);
+}
+
+
+
+.dw-cycle-comment {
+    color: var(--black-lighter);
+}
+
+.dw-cycle-central-area {
+    background: var(--primary-light);
 }

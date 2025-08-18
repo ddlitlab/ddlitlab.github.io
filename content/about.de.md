@@ -27,7 +27,7 @@ draft: false
           <img src="/images/logos-external/partner_stil.svg" alt="Stil Logo">
         </a>
         <a href="https://www.uni-hamburg.de/exzellenz.html">
-          <img src="/images/logos-external/partner_exzellenz.png" alt="Stil Logo">
+          <img src="/images/logos-external/partner_exzellenz.png" alt="Exzellenz Logo">
         </a>
       </div>      
   </section>

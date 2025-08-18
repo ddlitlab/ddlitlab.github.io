@@ -15,6 +15,7 @@ Unsortiert
 - links bei zeilenumbrüchen in studiprojekten werden komisch angezeigt
 - das Fullscreen Bild auf der Abut-Seite macht Stress wenn man die Seite kleiner zieht
 - Coding Tools Reflection 3 von den 4 Textblöcken zuordnen bei dw übung
+- @font-face und https://web.dev/learn/css/typography durchlesen
 
 Umsetzung CSS
 - DDLit-Logo Hover Effekt soll wieder auf die ganze Navbar wirken

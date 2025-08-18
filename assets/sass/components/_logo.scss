@@ -6,6 +6,17 @@
     width: 80%;
 }
 
+.logo-grid-dw-uebung {
+    margin: 2rem 0;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    place-items: center;    
+}
+
+.logo-grid-dw-uebung img {
+    height: 120px;
+}
+
 .logo-grid-ddlitlab {
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;

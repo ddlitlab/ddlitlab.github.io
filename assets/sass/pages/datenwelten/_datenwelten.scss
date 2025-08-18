@@ -471,8 +471,15 @@ i.icon-bullet {
 .dw-uebung-text-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 2em;
+    gap: 3em;
     text-align: left;
+}
+
+@media (max-width: $breakpoint-mobile) {
+    .dw-uebung-text-grid {
+        grid-template-columns: 1fr;
+        gap: 1em;
+    }
 }
 
 
@@ -485,4 +492,5 @@ i.icon-bullet {
     text-transform: uppercase;
     letter-spacing: 0.1em;
     margin-top: 2rem;
+    text-align: right;
 }

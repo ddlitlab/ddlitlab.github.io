@@ -100,13 +100,52 @@ draft: false
     <div class="dw-background">
         <div class="dw-glass dw-uebung-text-grid">
             <p>Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Vorlesungsinhalte und eine Einführung in die Datenanalyse mit R. Sie richten sich an <span class="highlight">alle Studierenden</span> der Universität Hamburg und sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnissen im Programmieren zugänglich sind.</p>
-            <p>Zum Programmieren nutzen wir vor allem den <a href="code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den <span class="highlight">Jupyter Notebooks</span> können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine <span class=highlight">flexible Arbeitsumgebung, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.</p>
-            <p>Die Übungen verfolgen den Ansatz des <span class="highlight">Literate Programming</span>, bei dem Code und Text kombiniert werden. 
+            <p class="dw-cycle-icon-tools">Zum Programmieren nutzen wir vor allem den <a href="code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den <span class="highlight pre-icon-jupyter">Jupyter Notebooks</span> können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine <span class=highlight">flexible Arbeitsumgebung, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.</p>
+            <p class="dw-cycle-icon-coding">Die Übungen verfolgen den Ansatz des <span class="highlight">Literate Programming</span>, bei dem Code und Text kombiniert werden. 
             Dadurch können Studierende den Code nicht nur schreiben, sondern auch verstehen und dokumentieren. Die Übungen sind so konzipiert, dass sie den eigenständigen Kompetenzerwerb fördern und gleichzeitig die technischen Grundlagen der Datenanalyse und des Machine Learning vermitteln. Wir programmieren mit dem `tidyverse` (Begründung)</p>
-            <p>Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind <span class="highlight">interdisziplinär</span> angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.</p>
+            <p class="dw-cycle-icon-reflection">Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind <span class="highlight">interdisziplinär</span> angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.</p>
         </div>
     </div>
-    <h3 class="dw-uebung-inhalte-header dw-pretitle">Inhalte der Übungen</h3>
+    <div class="logo-grid logo-grid-dw-uebung">
+        <a href="https://www.r-project.org/">
+          <img src="/images/logos-external/dw_R.svg" alt="R Logo">
+        </a>
+        <a href="https://jupyter.org/">
+          <img src="/images/logos-external/dw_jupyter.svg" alt="Jupyter Logo">
+        </a>
+        <a href="https://www.tidyverse.org/">
+          <img src="/images/logos-external/dw_tidyverse.svg" alt="Tidyverse Logo">
+        </a>
+      </div>
+    <h2 class="dw-uebung-inhalte-header dw-pretitle">Whole Game</h2>
+    <p class="dw-cycle-comment">Die Übungen orientieren sich an einem typischen Data Science Workflow:<a href="https://r4ds.hadley.nz/" target="_blank">R for Data Science</a></p>
+        <div class="dw-uebung-cycle">
+            <p>Collect</p>
+            <i class="codicon codicon-arrow-right"></i>
+            <p>Import</p>
+            <i class="codicon codicon-arrow-right"></i>
+            <p>Tidy</p>
+            <i class="codicon codicon-arrow-right"></i>
+            <div class="dw-cycle-central-area">
+                <p class="cycle-other">Transform</p>
+                <p class="cycle-other">Visualize</p>
+                <p class="cycle-other">Model</p>
+            </div>
+            <p>Understand</p>
+            <i class="codicon codicon-arrow-right"></i>
+            <p>Communicate</p>
+        </div>
+    <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank">Zum Github-Repository</a>
+    <!-- 
+    Collect: references
+    Import: folder-opened
+    Tidy: jersey / filter
+    Transform: codicon-edit
+    Visualize: codicon-graph
+    Model: symbol-misc, type-hierarchy
+    Communicate: codicon-megaphone
+    -->
+    <!-- <h3 class="dw-uebung-inhalte-header dw-pretitle">Inhalte der Übungen</h3>
     <div class="dw-uebung-grid">
         <div class="uppercase dw-uebung-subheader">Focus: Winter</div>
         <div class="uppercase dw-uebung-subheader">Basics</div>
@@ -178,20 +217,7 @@ draft: false
             <i class='codicon codicon-combine'></i>
             <p>Reflection</p>
             </div>
-    </div>
-    <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank">Zum Github-Repository</a>
-    <div class="dw-uebung-cycle">
-        <p>Collect</p>
-        <i class="codicon codicon-arrow-right"></i>
-        <p>Import</p>
-        <p>Tidy</p>
-        <div>
-        <p>Transform</p>
-        <p>Visualize</p>
-        <p>Model</p>
-        </div>
-        <p>Communicate</p>
-    </div>
+    </div> -->
     <div class="accordion-wrapper dw-accordion">
         <details class="accordion-simple">
             <summary>Vergangene Veranstaltungen</summary>
@@ -238,18 +264,3 @@ draft: false
         </details>
     </div>
 </section>
-
-<!-- <div class="logo-grid logo-grid-datenwelten">
-    <a href="https://jupyter.org/">
-        <img src="/svg/jupyter.svg" alt="Jupyter">
-    </a>
-    <a href="https://www.r-project.org/">
-        <img src="/svg/R.svg" alt="R">
-    </a>
-    <a href="https://www.tidyverse.org/">
-        <img src="/svg/tidyverse.svg" alt="tidyverse">
-    </a>
-    <a href="https://about.gitlab.com/">
-        <img src="/svg/gitlab_only.svg" alt="gitlab">
-    </a>
-    </div> -->
