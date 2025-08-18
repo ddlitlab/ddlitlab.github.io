@@ -199,7 +199,7 @@ draft: false
             </ul>
         </div>
     </div>
-    <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank">Zum Github-Repository</a>
+    <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank"><i class="codicon codicon-github"></i> Zum Github-Repository</a>
     <div class="accordion-wrapper dw-accordion">
         <details class="accordion-simple">
             <summary class="dw-events">Vergangene Veranstaltungen</summary>
