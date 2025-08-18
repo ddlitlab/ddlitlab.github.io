@@ -21,12 +21,15 @@ draft: false
     </article>
     <div class="logo-grid logo-grid-ddlitlab">
         <a href="https://www.uni-hamburg.de/">
-          <img src="/svg/uhh.svg" alt="UHH Logo">
+          <img src="/images/logos-external/partner_uhh.svg" alt="UHH Logo">
         </a>
         <a href="https://stiftung-hochschullehre.de/">
-          <img src="/svg/stil_2.svg" alt="Stil Logo">
+          <img src="/images/logos-external/partner_stil.svg" alt="Stil Logo">
         </a>
-      </div>
+        <a href="https://www.uni-hamburg.de/exzellenz.html">
+          <img src="/images/logos-external/partner_exzellenz.png" alt="Stil Logo">
+        </a>
+      </div>      
   </section>
 
 <section>

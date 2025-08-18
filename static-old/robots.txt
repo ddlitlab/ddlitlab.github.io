@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block specific directories if needed
+# Disallow: /private/
+# Disallow: /drafts/
+
+# Allow search engines to access your sitemap
+Sitemap: https://yourdomain.com/sitemap.xml

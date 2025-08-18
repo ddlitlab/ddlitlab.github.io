@@ -7,12 +7,16 @@
 }
 
 .logo-grid-ddlitlab {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
 }
 
 .logo-grid-ddlitlab img {
     padding: 2rem 4rem;
+    height: 200px;
 }
+
+
 
 @media (max-width: $breakpoint-tablet) {
     .logo-grid-ddlitlab img {

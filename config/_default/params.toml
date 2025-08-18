@@ -1,8 +1,7 @@
 # Site Params
 description = "DDLitLab – Digital and Data Literacy in Teaching Lab"
-images = ['images/logo.svg','images/site-feature-image.png']
-# mainMenuLogo = "favicon.svg"
-mainMenuLogo = "site-logo/logo02.png"
+# images = ['images/logo.svg','images/site-feature-image.png']
+mainMenuLogo = "illustrations/logo-site/favicon.png"
 
 # For favicons
 ## Chrome Browser
