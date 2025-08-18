@@ -99,6 +99,9 @@ draft: false
         <h1 class="section-title">Begleitende Übungen</h1>
         <p class="section-subtitle">Zwischen Code und Kontext</p>
     </header>
+    <div class="image-full-page image-full-page-dw">
+      <img src="/images/projekt/dw-uebung.png" alt="team picture">
+    </div>
     <div class="dw-background">
         <div class="dw-glass dw-uebung-text-grid">
             <p>Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Vorlesungsinhalte und eine Einführung in die Datenanalyse mit R. Sie richten sich an <span class="highlight">alle Studierenden</span> der Universität Hamburg und sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnissen im Programmieren zugänglich sind.</p>
