@@ -202,7 +202,7 @@ draft: false
     <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank">Zum Github-Repository</a>
     <div class="accordion-wrapper dw-accordion">
         <details class="accordion-simple">
-            <summary>Vergangene Veranstaltungen</summary>
+            <summary class="dw-events">Vergangene Veranstaltungen</summary>
             <div class="grid-datenwelten-events">
                 <div>
                     <h4 class="dw-pretitle">Im Wintersemester</p>

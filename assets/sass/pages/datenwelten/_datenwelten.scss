@@ -73,18 +73,20 @@
     line-height: 130%;
 }
 
+
+
+.dw-uebung-header {
+    font-size: 1.3em;
+    font-weight: 200;
+    color: var(--black-lighter);
+    margin-bottom: 0.5rem;
+}
+
 .uppercase.dw-uebung-header {
     letter-spacing: 0.05em;
     text-decoration: 4px underline solid var(--black-lighter);
     text-underline-offset: 0.3em;
-}
-
-.dw-uebung-header {
-    font-size: 1.3em;
     font-weight: 500;
-    color: var(--black-lighter);
-    
-    margin-bottom: 0.5rem;
 }
 
 .dw-uebung-content {
@@ -516,4 +518,12 @@ i.icon-bullet {
     letter-spacing: 0.1em;
     margin-top: 2rem;
     text-align: right;
+}
+
+.dw-events {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--black-lighter);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
 }

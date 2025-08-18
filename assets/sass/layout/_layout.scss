@@ -6,7 +6,7 @@ body {
 main {
   display: grid;
   grid-template-columns: minmax(2rem, 1fr) minmax(auto, var(--max-width)) minmax(2rem, 1fr);
-  row-gap: 4em;
+  row-gap: 2rem;
   overflow: hidden;
 }
 
@@ -14,7 +14,7 @@ main section {
   grid-column: 2;
   place-items: center;
   position: relative;
-  padding-bottom: 2rem;
+  // padding-bottom: 2rem;
 }
 
 main article {
