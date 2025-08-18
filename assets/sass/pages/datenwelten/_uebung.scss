@@ -42,9 +42,10 @@ p.cycle-other {
     content: "\ebb6";
     font-family: "codicon";
     position: absolute;
-    right: 15%;
-    bottom: -15%;
-    font-size: 5em;
+    right: 3%;
+    top: 3%;
+    font-size: 3rem;
+    line-height: 1;
     color: var(--black-lighter);
 }
 
@@ -56,9 +57,10 @@ p.cycle-other {
     content: "\eac4";
     font-family: "codicon";
     position: absolute;
-    top: -50%;
-    left: 30%;
-    font-size: 5em;
+    right: 3%;
+    top: 3%;
+    font-size: 3rem;
+    line-height: 1;
     color: var(--black-lighter);
 }
 
@@ -70,9 +72,10 @@ p.cycle-other {
     content: "\eb6d";
     font-family: "codicon";
     position: absolute;
-    right: 0;
-    bottom: -40%;
-    font-size: 5em;
+    right: 3%;
+    top: 3%;
+    font-size: 3rem;
+    line-height: 1;
     color: var(--black-lighter);
 }
 

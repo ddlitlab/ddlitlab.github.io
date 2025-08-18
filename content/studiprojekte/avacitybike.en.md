@@ -10,13 +10,13 @@ uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenproj
 students: "Sebastian Rühmann, Radmila Khramtseva"
 mentor: "Prof. Dr. Janick Edinger"
 text: |
-    In the Available Citybikes (Ava-Citybike) project, we want to improve the availability of rental bikes with the help of artificial intelligence. To this end, we are developing a neural network that forecasts local demand at rental bike stations. With this knowledge, we are pursuing several goals. 
+    In the Available Citybikes (Ava-Citybike) project, we want to improve the availability of rental bikes with the help of artificial intelligence. To this end, we are developing a neural network that forecasts *local demand* at rental bike stations. With this knowledge, we are pursuing several goals. 
 
-    On the one hand, we want to enable users to use rental bikes as a reliable means of transportation in their everyday lives. Due to local peaks in demand, rental bikes are currently unavailable at some stations at times. This is a major problem, as users rely on the availability of rental bikes every day on their way to work, university, or a leisure event. That is why we will enable users to plan ahead with regard to the availability of rental bikes by forecasting demand.  
+    On the one hand, we want to enable users to use rental bikes as a *reliable means of transportation* in their everyday lives. Due to local peaks in demand, rental bikes are currently unavailable at some stations at times. This is a major problem, as users rely on the availability of rental bikes every day on their way to work, university, or a leisure event. That is why we will enable users to plan ahead with regard to the availability of rental bikes by forecasting demand.  
 
     On the other hand, our service is aimed at rental bike providers. They can use the predicted demand for rental bikes to distribute the bikes across the network of stations. Distributing rental bikes can help balance out local shortages of rental bikes between stations. This is also an important factor in increasing the long-term availability of rental bikes at all stations.
 
-    In this project, we look forward to working in an interdisciplinary manner in the fields of mobility, computer science, and psychology. It becomes clear that it makes a lot of sense for our project to work in an interdisciplinary manner when we look at the project plan below.
+    In this project, we look forward to working in an interdisciplinary manner in the fields of *mobility, computer science, and psychology*. It becomes clear that it makes a lot of sense for our project to work in an interdisciplinary manner when we look at the project plan below.
 
     In the first phase of the project, we will analyze the numerous factors that influence the demand for rental bikes and consider those most relevant to the development of our forecast. Examples of such factors include time of day, weather, local events, and traffic conditions.
 
@@ -26,7 +26,7 @@ text: |
     - Second, we plan to conduct interviews with employees of the regional bike-sharing provider Stadtrad. In the interviews, we want to find out in particular which methods and technologies Stadtrad is currently using to improve the availability of rental bikes. 
     - Thirdly, we plan to conduct a user study. The aim of this study is to gain a better understanding of how rental bikes are used. For example, in order to develop a reliable forecast, we are interested in how often Stadtrad users use the service, for what purpose, and how users plan their route to their destination.
 
-    In the next phase, we will design and implement the neural network based on the selected relevant factors. We will then train the neural network using the Urban Data Hub dataset. In an iterative process, we will optimize and train the neural network to ultimately obtain the most accurate predictions possible about the demand for rental bikes per station, taking into account the relevant factors.
+    In the next phase, we will design and implement the *neural network* based on the selected relevant factors. We will then train the neural network using the Urban Data Hub dataset. In an iterative process, we will optimize and train the neural network to ultimately obtain the most accurate predictions possible about the demand for rental bikes per station, taking into account the relevant factors.
 
     In the final phase, we will focus on implementing the neural network in one or more use cases. Over the next 12 months of the project, we will evaluate which implementations are feasible, meaningful, and effective. The exploration of the following three use cases is firmly planned for this phase:
 

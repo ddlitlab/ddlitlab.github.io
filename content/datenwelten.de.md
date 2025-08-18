@@ -100,10 +100,10 @@ draft: false
     <div class="dw-background">
         <div class="dw-glass dw-uebung-text-grid">
             <p>Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Vorlesungsinhalte und eine Einführung in die Datenanalyse mit R. Sie richten sich an <span class="highlight">alle Studierenden</span> der Universität Hamburg und sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnissen im Programmieren zugänglich sind.</p>
-            <p class="dw-cycle-icon-tools">Zum Programmieren nutzen wir vor allem den <a href="code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den <span class="highlight pre-icon-jupyter">Jupyter Notebooks</span> können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine <span class=highlight">flexible Arbeitsumgebung, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.</p>
-            <p class="dw-cycle-icon-coding">Die Übungen verfolgen den Ansatz des <span class="highlight">Literate Programming</span>, bei dem Code und Text kombiniert werden. 
+            <p>Zum Programmieren nutzen wir vor allem den <a href="code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den <span class="highlight pre-icon-jupyter">Jupyter Notebooks</span> können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine <span class=highlight">flexible Arbeitsumgebung, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.</p>
+            <p>Die Übungen verfolgen den Ansatz des <span class="highlight">Literate Programming</span>, bei dem Code und Text kombiniert werden. 
             Dadurch können Studierende den Code nicht nur schreiben, sondern auch verstehen und dokumentieren. Die Übungen sind so konzipiert, dass sie den eigenständigen Kompetenzerwerb fördern und gleichzeitig die technischen Grundlagen der Datenanalyse und des Machine Learning vermitteln. Wir programmieren mit dem `tidyverse` (Begründung)</p>
-            <p class="dw-cycle-icon-reflection">Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind <span class="highlight">interdisziplinär</span> angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.</p>
+            <p>Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind <span class="highlight">interdisziplinär</span> angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.</p>
         </div>
     </div>
     <div class="logo-grid logo-grid-dw-uebung">
@@ -117,7 +117,7 @@ draft: false
           <img src="/images/logos-external/dw_tidyverse.svg" alt="Tidyverse Logo">
         </a>
       </div>
-    <h2 class="dw-uebung-inhalte-header dw-pretitle">Whole Game</h2>
+    <!-- <h2 class="dw-uebung-inhalte-header dw-pretitle">Whole Game</h2>
     <p class="dw-cycle-comment">Die Übungen orientieren sich an einem typischen Data Science Workflow:<a href="https://r4ds.hadley.nz/" target="_blank">R for Data Science</a></p>
         <div class="dw-uebung-cycle">
             <p>Collect</p>
@@ -134,8 +134,7 @@ draft: false
             <p>Understand</p>
             <i class="codicon codicon-arrow-right"></i>
             <p>Communicate</p>
-        </div>
-    <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank">Zum Github-Repository</a>
+        </div> -->
     <!-- 
     Collect: references
     Import: folder-opened
@@ -145,13 +144,10 @@ draft: false
     Model: symbol-misc, type-hierarchy
     Communicate: codicon-megaphone
     -->
-    <!-- <h3 class="dw-uebung-inhalte-header dw-pretitle">Inhalte der Übungen</h3>
+    <h2 class="dw-uebung-inhalte-header dw-pretitle">Inhalte der Übungen</h2>
     <div class="dw-uebung-grid">
-        <div class="uppercase dw-uebung-subheader">Focus: Winter</div>
-        <div class="uppercase dw-uebung-subheader">Basics</div>
-        <div class="uppercase dw-uebung-subheader">Focus: Summer</div>
-        <div></div>
-        <div class="dw-uebung-content">
+        <div class="dw-uebung-content dw-uebung-grid-item-primary dw-uebung-grid-sommer">
+            <h3 class="dw-uebung-subheader">Fokus: Winter</h3>
             <ul>
             <li>Classification</li>
             <li>Regression</li>
@@ -160,7 +156,8 @@ draft: false
             </ul>
             <p class="uppercase dw-uebung-subheader">Model</p>
         </div>
-        <div class="dw-uebung-content">
+        <div class="dw-uebung-content dw-cycle-icon-coding  dw-uebung-grid-item-primary">
+            <h3 class="uppercase dw-uebung-header">Coding</h3>
             <ul>
             <li>Import</li>
             <li>Tidy</li>
@@ -170,7 +167,8 @@ draft: false
             </ul>
             <p class="uppercase dw-uebung-subheader">Analyze</p>
         </div>
-        <div class="dw-uebung-content">
+        <div class="dw-uebung-content dw-uebung-grid-item-primary">
+            <h3 class="dw-uebung-subheader">Fokus: Sommer</h3>
             <ul>
             <li>APIs</li>
             <li>Web Scraping</li>
@@ -178,46 +176,25 @@ draft: false
             </ul>
             <p class="uppercase dw-uebung-subheader">Collect</p>
         </div>
-        <div class="uppercase dw-uebung-content dw-uebung-header">
-            <i class='codicon codicon-code'></i>
-            <p>Coding</p>
-        </div>
-        <div>
-            <ul>
-            <li>Google Colab</li>
-            </ul>
-        </div>
-        <div>
+        <div class="dw-cycle-icon-tools dw-uebung-grid-item-secondary">
+            <h3 class="uppercase dw-uebung-header">Tools</h3>
             <ul>
             <li>Jupyter</li>
             <li>Git</li>
             <li>LLM Chatbots</li>
-            </ul>
-        </div>
-        <div>
-            <ul>
             <li>RStudio</li>
-            <li>Quarto</li>
             </ul>
         </div>
-        <div class="uppercase dw-uebung-content dw-uebung-header">
-            <i class='codicon codicon-tools'></i>
-            <p>Tools</p>
-        </div>
-        <div></div>
-        <div>
+        <div class="dw-cycle-icon-reflection dw-uebung-grid-item-secondary">
+            <h3 class="uppercase dw-uebung-header">Reflection</h3>
             <ul>
             <li>AI Images</li>
             <li>Ethics & Bias</li>
             <li>Datafiction</li>
             </ul>
         </div>
-        <div></div>
-        <div class="uppercase dw-uebung-content dw-uebung-header">
-            <i class='codicon codicon-combine'></i>
-            <p>Reflection</p>
-            </div>
-    </div> -->
+    </div>
+    <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank">Zum Github-Repository</a>
     <div class="accordion-wrapper dw-accordion">
         <details class="accordion-simple">
             <summary>Vergangene Veranstaltungen</summary>
