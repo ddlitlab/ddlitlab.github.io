@@ -41,7 +41,8 @@ draft: false
         <div class="datenwelten-inhalte-winter-meta">
             <p class="dw-pretitle">Wintersemester</p>
             <h3>Datenwelten 1</h3>
-            <p class="datenwelten-inhalte-text">Im Wintersemester legt die Vorlesungsreihe den Fokus auf <span class="highlight">Grundlagen von Statistik, Datenanalyse und Machine Learning</span> aus einer technischen Perspektive. Das <span class="highlight">interdisziplinäre Team</span> setzt sich aus Dozierenden der Informatik und den Sozialwissenschaften zusammen.</p>
+            <p class="datenwelten-inhalte-text">Im Wintersemester legt die Vorlesungsreihe den Fokus auf <strong>Grundlagen von Statistik, Datenanalyse und Machine Learning</strong> aus einer technischen Perspektive. Das <strong>interdisziplinäre Team</strong> setzt sich aus Dozierenden der Informatik und den Sozialwissenschaften zusammen.</p>
+            <!-- <p class="datenwelten-inhalte-text">Im Wintersemester legt die Vorlesungsreihe den Fokus auf <span class="highlight">Grundlagen von Statistik, Datenanalyse und Machine Learning</span> aus einer technischen Perspektive. Das <span class="highlight">interdisziplinäre Team</span> setzt sich aus Dozierenden der Informatik und den Sozialwissenschaften zusammen.</p> -->
             <div>
                 <a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank">
                     Zur Vorlesungsreihe auf Lecture2Go
@@ -64,7 +65,8 @@ draft: false
         <div class="datenwelten-inhalte-sommer-meta">
             <p class="dw-pretitle">Sommersemester</p>
             <h3>Datenwelten 2</h3>
-            <p class="datenwelten-inhalte-text">Im Sommersemester beleuchtet die Vorlesungsreihe gesellschaftliche, politische und wirtschaftliche Zusammenhänge der zunehmenden <span class="highlight">Datafizierung und Digitalisierung</span> aus unterschiedlichen Perspektiven durch Dozierende <span class="highlight">aller Fakultäten</span>.</p>
+            <p class="datenwelten-inhalte-text">Im Sommersemester beleuchtet die Vorlesungsreihe gesellschaftliche, politische und wirtschaftliche Zusammenhänge der zunehmenden <strong>Datafizierung und Digitalisierung</strong> aus unterschiedlichen Perspektiven durch Dozierende <strong>aller Fakultäten</strong>.</p>
+            <!-- <p class="datenwelten-inhalte-text">Im Sommersemester beleuchtet die Vorlesungsreihe gesellschaftliche, politische und wirtschaftliche Zusammenhänge der zunehmenden <span class="highlight">Datafizierung und Digitalisierung</span> aus unterschiedlichen Perspektiven durch Dozierende <span class="highlight">aller Fakultäten</span>.</p> -->
             <div>
                 <a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank">
                     Zur Vorlesungsreihe auf Lecture2Go
@@ -146,8 +148,8 @@ draft: false
     -->
     <h2 class="dw-uebung-inhalte-header dw-pretitle">Inhalte der Übungen</h2>
     <div class="dw-uebung-grid">
-        <div class="dw-uebung-content dw-uebung-grid-item-primary dw-uebung-grid-sommer">
-            <h3 class="dw-uebung-subheader">Fokus: Winter</h3>
+        <div class="dw-uebung-content dw-uebung-grid-item-primary-light dw-uebung-grid-sommer">
+            <h3 class="dw-uebung-header">Fokus: Winter</h3>
             <ul>
             <li>Classification</li>
             <li>Regression</li>
@@ -167,8 +169,8 @@ draft: false
             </ul>
             <p class="uppercase dw-uebung-subheader">Analyze</p>
         </div>
-        <div class="dw-uebung-content dw-uebung-grid-item-primary">
-            <h3 class="dw-uebung-subheader">Fokus: Sommer</h3>
+        <div class="dw-uebung-content dw-uebung-grid-item-primary-light">
+            <h3 class="dw-uebung-header">Fokus: Sommer</h3>
             <ul>
             <li>APIs</li>
             <li>Web Scraping</li>
@@ -188,9 +190,9 @@ draft: false
         <div class="dw-cycle-icon-reflection dw-uebung-grid-item-secondary">
             <h3 class="uppercase dw-uebung-header">Reflection</h3>
             <ul>
-            <li>AI Images</li>
+            <li>AI-generierte Bilder & Fake News</li>
             <li>Ethics & Bias</li>
-            <li>Datafiction</li>
+            <li>Datafizierung der Gesellschaft</li>
             </ul>
         </div>
     </div>

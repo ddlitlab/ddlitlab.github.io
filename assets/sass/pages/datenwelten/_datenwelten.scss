@@ -58,6 +58,11 @@
     grid-column: span 2;
 }
 
+.dw-uebung-grid-item-primary-light {
+    background-color: var(--primary-lighter);
+    grid-column: span 2;
+}
+
 .dw-uebung-grid-item-secondary {
     background-color: var(--secondary-lighter);
     grid-column: span 3;
@@ -65,15 +70,21 @@
 
 .dw-uebung-grid ul {
     list-style-type: none;
-    line-height: 120%;
+    line-height: 130%;
 }
 
+.uppercase.dw-uebung-header {
+    letter-spacing: 0.05em;
+    text-decoration: 4px underline solid var(--black-lighter);
+    text-underline-offset: 0.3em;
+}
 
 .dw-uebung-header {
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-weight: 500;
-    letter-spacing: 0.05em;
     color: var(--black-lighter);
+    
+    margin-bottom: 0.5rem;
 }
 
 .dw-uebung-content {
