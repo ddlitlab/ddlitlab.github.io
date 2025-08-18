@@ -91,7 +91,7 @@
 
 - name: "Mareike Bartels"
   title: "Wissenschaftliche Mitarbeiterin (DUTy)"
-  image: "/images/team/default-character-2.png"
+  image: "/images/team/default-character.png"
   team: "Team Digital University Teaching Literacy (DUTy)"
   poisition: "WiMi"
   description:
@@ -123,7 +123,7 @@
 
 - name: "Carolin Reichert"
   title: "Wissenschaftliche Hilfskraft"
-  image: "/images/team/default-character-2.png"
+  image: "/images/team/default-character.png"
   position: "WHK"
   description: 
     - "Gesamtkoordination"
@@ -147,7 +147,7 @@
     - "DUTy-Team"
 - name: "Julian Wichert"
   title: "Wissenschaftliche Hilfskraft" 
-  image: "/images/team/default-character-2.png"
+  image: "/images/team/default-character.png"
   position: "WHK"
   description:
     - "Koordination Datenwelten"
@@ -184,49 +184,49 @@
     - "Koordination der DLE im Bereich Transfer"
 - name: "Güler Kocaman" 
   title: "Ehemalige Mitarbeiterin"
-  # image: "/images/team/default-character-2.png"
+  # image: "/images/team/default-character.png"
   position: "Ehemalige"
   description:
     - "Wissenschaftliche Hilfskraft"
 - name: "Max Ludzay" 
   title: "Ehemaliger Mitarbeiter"
-  # image: "/images/team/default-character-2.png"
+  # image: "/images/team/default-character.png"
   position: "Ehemalige"
   description:
     - "Studentische Hilfskraft"
 - name: "Hannes Klingler" 
   title: "Ehemaliger Mitarbeiter"
-  # image: "/images/team/default-character-2.png"
+  # image: "/images/team/default-character.png"
   position: "Ehemalige"
   description:
     - "Studentische Hilfskraft"
 - name: "Verena Beissel" 
   title: "Ehemalige Mitarbeiterin"
-  # image: "/images/team/default-character-2.png"
+  # image: "/images/team/default-character.png"
   position: "Ehemalige"
   description:
     - "Studentische Hilfskraft"
 - name: "Elisa Paepcke" 
   title: "Ehemalige Mitarbeiterin"
-  # image: "/images/team/default-character-2.png"
+  # image: "/images/team/default-character.png"
   position: "Ehemalige"
   description:
     - "Wissenschaftliche Hilfskraft"
 - name: "Jan Newiger"
   title: "Ehemaliger Mitarbeiter"
-  # image: "/images/team/default-character-2.png"
+  # image: "/images/team/default-character.png"
   position: "Ehemalige"
   description:
     - "Studentische Hilfskraft" 
 - name: "Fabian Braun" 
   title: "Ehemaliger Mitarbeiter"
-  # image: "/images/team/default-character-2.png"
+  # image: "/images/team/default-character.png"
   position: "Ehemalige"
   description:
     - "Technischer Support"
 - name: "Meron Yemane" 
   title: "Ehemaliger Mitarbeiter"
-  # image: "/images/team/default-character-2.png"
+  # image: "/images/team/default-character.png"
   position: "Ehemalige"
   description:
     - "Technischer Support"
