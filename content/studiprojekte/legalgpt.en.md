@@ -10,7 +10,7 @@ uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenproj
 students: "Johannes Fabian Hahn, Gregor Stange"
 mentor: "Anton Semjonov"
 text: |
-   In an increasingly complex society, access to legal information is crucial for understanding and exercising one's rights and obligations. However, many people, especially laypeople, face the challenge of deciphering legal texts. The often difficult legal language and the use of numerous technical terms frequently lead to misunderstandings and uneven legal awareness. Long, complex sentences with numerous references to other laws make it difficult for even well-informed citizens to understand their rights and enforce them. Studies show that a large portion of the population is forced to consult original legal texts when legal questions arise. Our LegalGPT project addresses this issue by developing an open-source AI system that explains legal texts in an understandable way and provides answers to legal questions.
+   In an increasingly complex society, access to legal information is crucial for understanding and exercising one's *rights and obligations*. However, many people, especially laypeople, face the challenge of deciphering legal texts. The often difficult legal language and the use of numerous technical terms frequently lead to misunderstandings and uneven legal awareness. Long, complex sentences with numerous references to other laws make it difficult for even well-informed citizens to understand their rights and enforce them. Studies show that a large portion of the population is forced to consult original legal texts when legal questions arise. Our LegalGPT project addresses this issue by developing an open-source AI system that *explains legal texts in an understandable way* and provides answers to legal questions.
 
    ## Why not simply ChatGPT?
 
@@ -18,11 +18,11 @@ text: |
 
    ## The aim of the project
 
-   The project aims to develop an AI system that simplifies access to legal information and promotes the comprehensibility of legal texts. It uses an innovative approach called Retrieval-Augmented Generation (RAG). This approach leverages a vector database of publicly available, digitized legal texts to provide precise and contextualized answers. The database ensures that the information is based on reliable and up-to-date legal sources, so users receive specific, verifiable information rather than "hallucinated" answers.
+   The project aims to develop an AI system that simplifies access to legal information and promotes the comprehensibility of legal texts. It uses an innovative approach called Retrieval-Augmented Generation (RAG). This approach leverages a vector database of publicly available, digitized legal texts to provide precise and contextualized answers. The database ensures that the information is based on *reliable and up-to-date legal sources*, so users receive specific, verifiable information rather than "hallucinated" answers.
 
    ## How does it work?
 
-   Unlike traditional LLMs which rely on internal knowledge, RAG combines the strengths of an LLM with external knowledge sources. When a query is submitted, the AI searches the connected databases for relevant information and formulates a response based on real, verified legal texts. This ensures the precision and reliability of the information provided.
+   Unlike traditional LLMs which rely on internal knowledge, RAG combines the strengths of an LLM with external knowledge sources. When a query is submitted, the AI searches the *connected databases* for relevant information and formulates a response based on real, verified legal texts. This ensures the precision and reliability of the information provided.
 
    ## The vision of the project
 

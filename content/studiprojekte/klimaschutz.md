@@ -27,7 +27,7 @@ text: |
 
     Am Ende des Projekts sollen die Ergebnisse in einer *interaktiven Karte* sichtbar sein. So sollen potentielle Cluster und Unterschiede zwischen Stadtteilen, Akteur:innen und ggf. verschiedensten Arten von Klimaschutzprojekten auf einen Blick dargestellt werden.
 
-    Literatur: 
+    ## Literatur: 
 
     - [1] Europäische Kommission (2023): Climate Change, Special Eurobarometer 538, Report. DOI: 10.2834/653431 
     - [2] Holzmann, Sara und Wolf, Ingo (2023): Klimapolitik und soziale Gerechtigkeit. Wie die deutsche Bevölkerung Zielkonflikte in der Transformation wahrnimmt, Bertelsmann Stiftung (Hrsg.): Gütersloh. DOI:10.11586/2023094 

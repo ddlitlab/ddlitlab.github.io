@@ -3,7 +3,7 @@ id: textascorpusrep
 title: "Text as Corpus Repository for Multilingual Machine Translation of Low-resource Languages"
 title_project: "Text as Corpus Repository for Multilingual Machine Translation of Low-resource Languages"
 title_short: "TextAsCorpusRep"
-period: "Oct 23 – Mar 24 (6 months)" 
+period: "Okt 23 – Mär 24 (6 Monate)" 
 round: "3"
 lecture2go: "68037"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenprojekte/dritte-foerderrunde/textcorpus.html"

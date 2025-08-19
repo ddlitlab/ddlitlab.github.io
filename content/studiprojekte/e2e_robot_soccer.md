@@ -22,8 +22,8 @@ text: |
 
     Bei unserem Projekt handelt es sich um praxisorientierte Grundlagenforschung, mit der wir folgende Forschungsfragen beantworten wollen:
 
-    - *Ist es für ein einziges neuronales Netz möglich, die vollständige Kontrolle (Wahrnehmung, Planung und Aktion) eines Roboters im RoboCup zu erlernen?*
-    - *Wie wirkt sich dabei die geringe Menge an heterogenen Daten mehrerer Robotertypen auf den Lernprozess aus?*
+    - **Ist es für ein einziges neuronales Netz möglich, die vollständige Kontrolle (Wahrnehmung, Planung und Aktion) eines Roboters im RoboCup zu erlernen?**
+    - **Wie wirkt sich dabei die geringe Menge an heterogenen Daten mehrerer Robotertypen auf den Lernprozess aus?**
 
     Diese Fragen könnten Erkenntnisse über Anwendungsmöglichkeiten in anderen dynamischen Bereichen der Robotik liefern (z. B. Einsatz von humanoiden Robotern in der Industrie oder im Haushalt). Daher streben wir die Veröffentlichung eines Papers mit unseren Ergebnissen an, welches unser wissenschaftliches Vorgehen sowie die Ergebnisse detailliert und reproduzierbar beschreibt.
 
