@@ -1,13 +1,60 @@
 .about-text-wide {
     // padding: 20px;
     text-align: justify;
-    width: 90%;
+    width: 70%;
     margin-top: 4rem;
     margin-bottom: 2rem;
     font-size: 1.2rem;
+    position: relative;
+}
+
+.about-text-wide hr:first-child {
+    margin-bottom: 1em;
 }
 
 .about-text-wide p {
-    
-    margin-bottom: 0.5em;
+    position: relative;
+}
+
+.about-text-wide p:first-child::before {
+    content:"\eb33";
+    position: absolute;
+    font-family: 'codicon';
+    left: 0;
+    top: 50%;
+    font-size: 200px;
+    color: rgba(0,0,0,0.1);  
+}
+
+.about-text-wide p {
+    margin-bottom: 1em;
+    // letter-spacing: 0.03em;
+}
+
+.about-text-wide p:last-child {
+    margin-bottom: 0;
+}
+
+.about-text-wide-paragraph::first-letter {
+  float: left;
+  text-transform: uppercase;
+  line-height: 0.7;
+  font-size: 5em;
+  margin-top: 0.1em;
+  margin-right: 0.05em;
+}
+
+.about-text-wide-paragraph::first-line {
+  font-weight: 300;
+  letter-spacing: 0.07em;
+  // font-size: 0.9em;
+  text-transform: uppercase;
+}
+
+.about-text-wide hr {
+    border: none;
+    height: 4px;
+    width: 70%;
+    background-color: var(--black);
+    // margin: 2rem auto;
 }
