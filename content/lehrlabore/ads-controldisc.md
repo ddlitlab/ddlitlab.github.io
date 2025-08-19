@@ -11,8 +11,7 @@ round: "2"
 filter: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/01-ads-controdisc.html"
-contributors: "Julia Schilling"
-mentor: "Prof. Dr. Robert Fuchs"
+contributors: "Julia Schilling, Prof. Dr. Robert Fuchs"
 quote: "A critical evaluation of the current Teaching Lab project also indicates that, by foregrounding the focus on data literacy, mainly intrinsically motivated students with a pre-existing interest in data literacy are addressed. Many students in English linguistics are reluctant to engage with data-intensive methods. A new approach is needed to reach these students."
 text: |
     ## Ausrichtung des Projekts

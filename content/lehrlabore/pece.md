@@ -11,8 +11,7 @@ round: "1"
 filter: "1"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/11-pece.html"
-contributors: "Roman Knipping-Sorokin, Kim Winterhalter"
-mentor: "Prof. Dr. Gertraud Koch"
+contributors: "Roman Knipping-Sorokin, Kim Winterhalter, Prof. Dr. Gertraud Koch"
 quote: "Digitale Kompetenzen für das wissenschaftliche Arbeiten müssen beginnend mit der Studieneingangsphase in enger Verbindung mit fachlichen Arbeitsweisen und Inhalten sukzessive erworben und weiterentwickelt werden."
 text: |
     ## Ausrichtung des Projekts

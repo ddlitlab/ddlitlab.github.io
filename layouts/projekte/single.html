@@ -41,14 +41,11 @@
 
     <div class="article-info">
         {{ if eq .Section "lehrlabore" }}
-            <p><b>Referent:innen: {{ .Params.contributors }}</b></p>
+            <p><b>Beteiligte: {{ .Params.contributors }}</b></p>
         {{ else }}
             <p><b>Studierende: {{ .Params.students }}</b></p>
         {{ end }}
             <p class="text-secondary">Runde {{ .Params.round }}</p>
-        {{ with .Params.mentor }}
-            <p><b>Mentor:innen: {{ . }}</b></p>
-        {{ end }}
             <p class="text-secondary">{{ .Params.period }}</p>
         {{ with .Params.institution }}
             <p>{{ . }}</p>

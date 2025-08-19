@@ -11,8 +11,7 @@ round: "3"
 filter: "3"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/05-epi-bio-manual.html"
-contributors: "Lisa Holstein"
-mentor: "Prof. Dr. Antonia Zapf, Christian Wiessner"
+contributors: "Lisa Holstein, Prof. Dr. Antonia Zapf, Christian Wiessner"
 quote:
 text: |
     ## Das Projekt EBM 2.0

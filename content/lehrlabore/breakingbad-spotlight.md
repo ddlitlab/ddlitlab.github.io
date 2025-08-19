@@ -11,8 +11,7 @@ round: "2 & 3"
 filter: "spotlights"
 lecture2go: "71043"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/spotlight-dl-lehrlabor-interviewreihe/spotlight-folge-06.html"
-contributors: "Sandra Timmermann"
-mentor: "Lucas Memmert, Dr. Michaela Regneri, Fabian Burmeister"
+contributors: "Sandra Timmermann, Lucas Memmert, Dr. Michaela Regneri, Fabian Burmeister"
 quote:
 spotlight_interview: "Ja"
 text: |

@@ -11,8 +11,7 @@ round: "1"
 filter: "1"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/10-metadata.html"
-contributors: "Nele Leiner"
-mentor: "Dr. Robert Zepf"
+contributors: "Nele Leiner, Dr. Robert Zepf"
 quote: "Das Wissen um die vielfältigen Funktionsweisen und Anwendungsmöglichkeiten der Daten über Daten ist wesentliche Voraussetzung für das erfolgreiche Navigieren auf Datenströmen einer digitalisierten Wissenschaft. Das Metadata Literacy Lab hat es sich zur Aufgabe gemacht, Studierenden den Umgang mit Metadaten, also Daten über Daten, nahzubringen."
 text: |
     ## Ausrichtung des Metadata Literacy Labs

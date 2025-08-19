@@ -11,8 +11,7 @@ round: "2"
 filter: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/12-digital-humanities.html"
-contributors: 
-mentor: "Prof. Robert Zepf, Dr. Jonas Müller-Laackman"
+contributors: "Prof. Robert Zepf, Dr. Jonas Müller-Laackman"
 quote: "In Projekten sollen ToDos erledigt werden, die aber auch irgendwie in Abhängigkeit zueinander stehen. Personal und Finanzmittel müssen verfügbar sein, aber auch verplant werden. Das Projekt soll natürlich erfolgreich sein, aber wer entscheidet alles darüber? Um sich diesen Herausforderungen zu stellen und DH-Projekten zum Erfolg zu verhelfen, bedarf es eines weiteren Tools im DH-Projekt-Werkzeugkasten, das ein überlegtes und systematisches Vorgehen fördert: Projektmanagement."
 text: |
     ## Das Projekt Digital Humanities

@@ -11,8 +11,7 @@ round: "2"
 filter: "spotlights"
 lecture2go: "71037"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/spotlight-dl-lehrlabor-interviewreihe/spotlight-folge-04.html"
-contributors: "Habiba Schiller"
-mentor: "Larissa Gebken, Dr. Matthias Pillny"
+contributors: "Habiba Schiller, Larissa Gebken, Dr. Matthias Pillny"
 quote:
 spotlight_interview: "Ja"
 text: |

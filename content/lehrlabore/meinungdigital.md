@@ -11,8 +11,7 @@ round: "1"
 filter: "1"
 lecture2go: "68927"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/12-meinungdigital.html"
-contributors: "Franziska Gerwers"
-mentor: "Christina Schwalbe"
+contributors: "Franziska Gerwers, Christina Schwalbe"
 quote: "Unsere Meinungsbildung ist beeinusst durch die komplexen Strukturen und Kommunikationsformen der digitalen Gesellschaft. Die digitale Datenverarbeitung hat Auswirkungen auf die öentliche Kommunikation als Basis der Demokratie. Zur Entwicklung von Mündigkeit in einer digitalen Gesellschaft gehört die Förderung von Data Literacy als Schlüsselkompetenz. Diese sollte bereits in der Schule gefördert werden – im gleichen Maße wie die Förderung von Lese- und Schreibkompetenzen, also Literacy im ursprünglichen Sinn."
 text: |
     ## Das Projekt MeinungDigital

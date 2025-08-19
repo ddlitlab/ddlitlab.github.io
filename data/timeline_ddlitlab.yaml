@@ -75,3 +75,7 @@ timeline:
   - date: '2025'
     title: '2025'
     type: 'period'
+
+  - date: 'Dezember 2025'
+    title: 'Projekt-Ende'
+    type: 'event'

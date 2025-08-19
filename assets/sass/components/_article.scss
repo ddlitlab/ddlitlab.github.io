@@ -12,6 +12,23 @@
     margin-bottom: 0.5em;
 }
 
+.article-text p:first-of-type::first-letter {
+  float: left;
+  text-transform: uppercase;
+  line-height: 0.7;
+  font-size: 3.5em;
+  margin-top: 0.1em;
+  margin-right: 0.1em;
+  // text-shadow: 0.05em 0.05em var(--primary-light);
+}
+
+.article-text p:first-of-type::first-line {
+  font-weight: 300;
+  letter-spacing: 0.07em;
+  // font-size: 0.9em;
+  text-transform: uppercase;
+}
+
 .article-text a {
     color: var(--black);
     text-decoration: underline;

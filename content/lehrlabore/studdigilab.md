@@ -12,7 +12,6 @@ filter: "1"
 lecture2go: "67450"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/14-studigilab.html"
 contributors: "Anton Sefkow, Lukas Musumeci, Marten Borchers"
-mentor:
 quote: "In de Debatte um sogenannte  'Future Skills' und innovative Lehrformate ist die Liste an Forderungen lang, konkrete Ideen zur Realisierung von didaktischen Interventionen sind jedoch Mangelware. Insbesondere Jurist:innen sowie Informatiker:innen  kommen in der Entwicklung zukünftiger digitaler Produkte Schlüsselstellungen zu. Hier setzt die Intervention an und sensibilisiert für zukünftige gesellschaftliche Herausforderungen und Notwendigkeiten, insbesondere im Kontext der Datenwertschöpfung und Produktentwicklung."
 text: |
     ## Das Projekt StudDigiLab

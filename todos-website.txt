@@ -1,24 +1,19 @@
 HTML / Layouts
-- Timeline inhaltlich kürzen und ausklappbare Boxen umsetzen, außerdem Zentrierung
+- Timeline inhaltlich bis Ende 2025 füllen und Texte nochmal kürzen
 - eigene #id für alle Sections
 
 
 Unsortiert
+- Lehrlabor Projektverantwortliche (mentor / contributors zusammenführen)
 - Hyphens anpassen
 - semantic figure / img tags instead of divs?
-- Bilder sortieren
 - Navigation Links vereinheitlichen
 - before / after Elemente vereinheitlichen
-- Lehrlabor Projektverantwortliche (mentor / contributors zusammenführen)
 - Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)
 - .article a::after {} muss angepasst werden
 - links bei zeilenumbrüchen in studiprojekten werden komisch angezeigt
 - das Fullscreen Bild auf der Abut-Seite macht Stress wenn man die Seite kleiner zieht
-- Coding Tools Reflection 3 von den 4 Textblöcken zuordnen bei dw übung
-- @font-face und https://web.dev/learn/css/typography durchlesen
 
-Umsetzung CSS
-- DDLit-Logo Hover Effekt soll wieder auf die ganze Navbar wirken
 
 Designs / Planning
 - simple audio player für lehrlabor-spotlight podcasts (inspiration: https://codepen.io/amy_e_carrigan/pen/XWNeGKp)
@@ -31,8 +26,6 @@ Designs / Planning
 
 Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen
-
-
 
 
 Aufgaben Julian

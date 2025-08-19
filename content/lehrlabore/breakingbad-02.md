@@ -11,8 +11,7 @@ round: "3"
 filter: "3"
 lecture2go: "71043"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/08-breaking-bad.html"
-contributors: "Sandra Timmermann"
-mentor: "Dr. Michaela Regneri, Lucas Memmert"
+contributors: "Sandra Timmermann, Dr. Michaela Regneri, Lucas Memmert"
 quote:
 text: |
     ## Ausrichtung des Projekts

@@ -11,8 +11,7 @@ round: "3"
 filter: "3"
 lecture2go: 
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/02-dcl-vol3.html"
-contributors:
-mentor: "Dr. Philipp Bach, Prof. Dr. Martin Spindler"
+contributors: "Dr. Philipp Bach, Prof. Dr. Martin Spindler"
 quote:
 text: |
     ## Ausrichtung des Digital Causality Labs

@@ -4,6 +4,25 @@
     background-color: #fff;
     color: var(--black);
     position: relative;
+
+    // overflow: hidden;
+}
+
+.navbar::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 4px;
+    background: var(--primary);
+    // transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    transition: all 0.7s ease;
+}
+
+.navbar:has(.logo:hover)::after {
+    width: 100%;
+    left: 0;
 }
 
 // container
@@ -28,6 +47,7 @@
     align-items: center;
     gap: 1rem;
     padding: 0rem 0.5rem;
+    z-index: 1;
 }
 
 .logo img {
@@ -136,7 +156,8 @@ a.hover-fx-card::after {
   left: 50%;
   position: absolute;
   background: var(--primary);
-  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  // transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  transition: all 0.7s ease;
   width: 0;
 }
 
@@ -166,7 +187,8 @@ a.hover-fx:after {
   left: 50%;
   position: absolute;
   background: var(--primary);
-  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+//   transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    transition: all 0.5s ease;
   width: 0;
 }
 
@@ -207,7 +229,7 @@ a.hover-fx:hover:after {
         gap: 0.5rem;
         background-color: var(--background-white);
         padding-top: 60px;
-        transition: right 0.3s ease;
+        transition: right 0.5s ease;
         z-index: 1;
         align-content: start;
     }

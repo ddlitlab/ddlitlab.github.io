@@ -11,8 +11,7 @@ round: "2"
 filter: "spotlights"
 lecture2go: "70364"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/spotlight-dl-lehrlabor-interviewreihe/spotlight-folge-01.html"
-contributors: "Dr. Lennart Wittkuhn"
-mentor: "Prof. Dr. Nicolas Schuck"
+contributors: "Dr. Lennart Wittkuhn, Prof. Dr. Nicolas Schuck"
 quote:
 spotlight_interview: "Ja"
 text: |

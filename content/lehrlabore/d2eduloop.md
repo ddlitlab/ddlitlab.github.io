@@ -11,8 +11,7 @@ round: "3"
 filter: "3"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/07-d2eduloop.html"
-contributors: "Bjarne Techert"
-mentor: "Christina Schwalbe, Sören-Kristian Berger, Moritz Kreinsen, Regina Schulz"
+contributors: "Bjarne Techert, Christina Schwalbe, Sören-Kristian Berger, Moritz Kreinsen, Regina Schulz"
 quote:
 text: |
     ## Ausrichtung des Projekts

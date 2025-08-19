@@ -11,8 +11,7 @@ round: "1 - 3"
 filter: "spotlights"
 lecture2go: "71040"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/spotlight-dl-lehrlabor-interviewreihe/spotlight-folge-05.html"
-contributors: "Gangli Tan"
-mentor: "Dr. Philipp Bach, Prof. Dr. Martin Spindler, Prof. Dr. Knut Haase"
+contributors: "Gangli Tan, Dr. Philipp Bach, Prof. Dr. Martin Spindler, Prof. Dr. Knut Haase"
 quote:
 spotlight_interview: "Ja"
 text: |

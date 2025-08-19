@@ -11,8 +11,7 @@ round: "1"
 filter: "1"
 lecture2go: 
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/03-da-for-ling.html"
-contributors: "Julia Schilling"
-mentor: "Prof. Dr. Robert Fuchs"
+contributors: "Julia Schilling, Prof. Dr. Robert Fuchs"
 quote: "Die Fähigkeit, große Datenmengen zu analysieren und auszuwerten, wird zunehmend zu einer Kernkompetenz in vielen Branchen und Wissenschaftsbereichen, da sie die Möglichkeit bietet, fundierte Erkenntnisse zu gewinnen und effektive Strategien zu entwickeln. Dies gilt auch für die Disziplin der Linguistik (auch: Sprachwissenschaft), die sich der Erforschung von Sprache widmet. Große Datenmengen werden insbesondere in Datenbanken (‚Korpora‘) natürlicher Sprache bereitgestellt und analysiert, die mehrere Milliarden Wörter umfassen können (eine DIN-A4 Seite umfasst 350 bis 400 Wörter). Im Vergleich zur steigenden Bedeutung von Datenkompetenz in vielen Branchen und insbesondere auch der Forschungspraxis in der Linguistik zeigt sich, dass die aktuelle Lehrpraxis in dieser Disziplin hinter den neuesten Entwicklungen in der Big Data-Forschung zurückbleibt."
 text: |
     ## Das Projekt DAforLing

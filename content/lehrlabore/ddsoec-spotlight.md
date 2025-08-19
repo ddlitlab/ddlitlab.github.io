@@ -11,8 +11,7 @@ round: "2 & 3"
 filter: "spotlights"
 lecture2go: "71157"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/spotlight-dl-lehrlabor-interviewreihe/spotlight-folge-07.html"
-contributors: "Victoria Hünewaldt"
-mentor: "Prof. Dr. Ulrich Fritsche, Lisa Wegner, Junbo Huang, Max Weinig"
+contributors: "Victoria Hünewaldt, Prof. Dr. Ulrich Fritsche, Lisa Wegner, Junbo Huang, Max Weinig"
 quote:
 spotlight_interview: "Ja"
 text: |

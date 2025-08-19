@@ -11,8 +11,7 @@ round: "2"
 filter: "2"
 lecture2go: "70364"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/06-git.html"
-contributors:
-mentor: "Dr. Lennart Wittkuhn, Prof. Dr. Nicolas Schuck"
+contributors: "Dr. Lennart Wittkuhn, Prof. Dr. Nicolas Schuck"
 quote: "Versionskontrolle ist das Notizbuch für eine digitale Welt und Git das wohl bekannteste Versionskontrollsystem. Es ermöglicht, Veränderungen in digitalen Objekten präzise zu dokumentieren und damit nachzuvollziehen, wer was wann wie und warum in einer Datei verändert hat"
 text: |
     ## Ausrichtung des Projekts

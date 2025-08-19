@@ -11,8 +11,7 @@ round: "2"
 filter: "2"
 lecture2go:
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/09-volved.html"
-contributors: "Enqi Fan"
-mentor: "Prof. Dr. Jens Siemon"
+contributors: "Enqi Fan, Prof. Dr. Jens Siemon"
 quote: "Den meisten Studierenden ist vage bekannt, dass sich das Verhalten von Menschen vorhersagen lässt, sofern genug unabhängige Einzelinformationen zur Verfügung stehen. Durch ein eigenes Forschungsprojekt, dass auf der Re-Analyse vorhandener Unterrichtsbeobachtungsdaten basiert, sollen Studierende eine Data Literacy aufbauen, um Anwendungsmöglichkeiten, Grenzen, Datenschutz- und datensicherheitsrelevante Aspekte und die Bedeutung solcher Vorhersagen für das eigene berufliche wie private Leben zu erkennen."
 text: |
     ## Das Projekt VoLveD

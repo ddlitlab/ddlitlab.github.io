@@ -11,8 +11,7 @@ round: "2"
 filter: "2"
 lecture2go: "68603"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/04-dcl.html"
-contributors:
-mentor: "Moritz Kreinsen, Christina Schwalbe, Sören-Kristian Berger, Regina Schulz"
+contributors: "Moritz Kreinsen, Christina Schwalbe, Sören-Kristian Berger, Regina Schulz"
 quote: "Zur Verankerung von Digital und Data Literacy Education (DDLE) in der Schule ist die Förderung von DDL von Lehrkräften jedoch nur notwendige, aber nicht hinreichende Bedingung. Ergänzend müssen curriculare und didaktische Fragestellungen betrachtet werden: Welche Themen sind für die Förderung von DDL in der Schule wichtig? Wie kann DDLE in den Unterrichtsfächern berücksichtigt werden? Wie und wo kann DDLE außerhalb der Fächer verortet werden? Welches Komplexitätsniveau ist für die Befassung in der Schule angemessen?"
 text: |
     ## Ausrichtung des Lehrlabors

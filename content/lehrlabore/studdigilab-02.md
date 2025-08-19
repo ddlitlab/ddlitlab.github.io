@@ -11,8 +11,7 @@ round: "2"
 filter: "2"
 lecture2go: "70553"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/19-studdigilab.html"
-contributors: 
-mentor: "Anton Sefkow, Lukas Musumeci, Marten Borchers"
+contributors: "Anton Sefkow, Lukas Musumeci, Marten Borchers"
 quote: "Im Seminar wird ein realer digitaler Prototyp mit Hilfe ko-kreativer Methoden und unter Verwendung eines no code-Tools (Forest/Legal OS) entwickelt. Die prototypischen Lösungen müssen statische Abstraktionen (Jura), Modelle (Informatik) und operative Anwendung (Soziale Arbeit & Sozialrecht) aufeinander abstimmen. Hierfür ist der interdisziplinäre Austausch entscheidend, da Rückmeldungen von und für andere Disziplinen das Verständnis von Anforderungen und Lösungen schärfen, damit letztere nützlich, attraktiv und bedienbar sind, was integraler Bestandteile von Design Thinking ist."
 text: |
     ## Das Projekt StudDigiLab

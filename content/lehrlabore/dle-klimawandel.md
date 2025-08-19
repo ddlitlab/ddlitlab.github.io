@@ -11,8 +11,7 @@ round: "1"
 filter: "1"
 lecture2go: "66697"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/05-dle-klimawandel.html"
-contributors: "Moritz Kreinsen"
-mentor: "Prof. Dr. Sandra Schulz, Prof. Dr. Sandra Sprenger"
+contributors: "Moritz Kreinsen, Prof. Dr. Sandra Schulz, Prof. Dr. Sandra Sprenger"
 quote: "Eine zukünftige Lehrkraft benötigt eine vielfältige Data Literacy. Dazu gehören Kompetenzen von der Erfassung von Daten bis hin zur Interpretation und Anwendung. Dabei kommt ihnen eine Multiplikator:innenfunktion bei der Etablierung von (digitalen) Datenkompetenzen für Generationen von Schüler:innen zu."
 text: |
     ## Das Projekt DLE-Klimawandel

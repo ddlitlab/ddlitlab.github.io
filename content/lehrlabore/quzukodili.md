@@ -11,8 +11,7 @@ round: "3"
 filter: "3"
 lecture2go: "71164"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/03-quzukodili.html"
-contributors:
-mentor: "Lars Sörries-Vorberger, Carla Sökefeld"
+contributors: "Lars Sörries-Vorberger, Carla Sökefeld"
 quote:
 text: |
     ## Ausrichtung des Projekts

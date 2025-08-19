@@ -11,8 +11,7 @@ round: "3"
 filter: "spotlights"
 lecture2go: "71164"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/spotlight-dl-lehrlabor-interviewreihe/spotlight-folge-08.html"
-contributors:
-mentor: "Prof. Dr. Lars Sörries-Vorberger, Carla Sökefeld"
+contributors: "Prof. Dr. Lars Sörries-Vorberger, Carla Sökefeld"
 quote:
 spotlight_interview: "Ja"
 text: |
