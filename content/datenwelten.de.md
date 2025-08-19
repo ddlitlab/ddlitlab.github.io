@@ -104,10 +104,10 @@ draft: false
     </div>
     <div class="dw-background">
         <div class="dw-glass dw-uebung-text-grid">
-            <p>Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Vorlesungsinhalte und eine Einführung in die Datenanalyse mit R. Sie richten sich an <span class="highlight">alle Studierenden</span> der Universität Hamburg und sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnissen im Programmieren zugänglich sind.</p>
-            <p>Zum Programmieren nutzen wir vor allem den <a href="code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den <span class="highlight pre-icon-jupyter">Jupyter Notebooks</span> können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine <span class=highlight">flexible Arbeitsumgebung, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.</p>
-            <p>Die Übungen verfolgen den Ansatz des <span class="highlight">Literate Programming</span>, bei dem Code und Text kombiniert werden. 
-            Dadurch können Studierende den Code nicht nur schreiben, sondern auch verstehen und dokumentieren. Die Übungen sind so konzipiert, dass sie den eigenständigen Kompetenzerwerb fördern und gleichzeitig die technischen Grundlagen der Datenanalyse und des Machine Learning vermitteln. Wir programmieren mit dem `tidyverse` (Begründung)</p>
+            <p>Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Vorlesungsinhalte und eine Einführung in die <span class="highlight">Datenanalyse mit R</span>. Sie richten sich an <span class="highlight">alle Studierenden</span> der Universität Hamburg und sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnissen im Programmieren zugänglich sind.</p>
+            <p>Zum Programmieren nutzen wir vor allem den <a href="code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den <span class="highlight">Jupyter Notebooks</span> können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine <span class=highlight">flexible Arbeitsumgebung, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.</p>
+            <p>Wir nutzen <span class="highlight">Literate Programming</span>, bei dem Code und Text kombiniert werden. 
+            Dadurch können Studierende den Code nicht nur schreiben, sondern auch verstehen, verändern und dokumentieren. Die Übungen fördern den selbstständigen Kompetenzerwerb und vermitteln die technischen Grundlagen der Datenanalyse und des Machine Learning. Wir programmieren mit der Paketsammlung <a href="https://www.tidyverse.org/" target="_blank"><code>tidyverse</code></a >, welches einer einheitlichen Designphilosophie, Grammatik und Datenstrukturen folgt.</p>
             <p>Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind <span class="highlight">interdisziplinär</span> angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.</p>
         </div>
     </div>
@@ -122,33 +122,6 @@ draft: false
           <img src="/images/logos-external/dw_tidyverse.svg" alt="Tidyverse Logo">
         </a>
       </div>
-    <!-- <h2 class="dw-uebung-inhalte-header dw-pretitle">Whole Game</h2>
-    <p class="dw-cycle-comment">Die Übungen orientieren sich an einem typischen Data Science Workflow:<a href="https://r4ds.hadley.nz/" target="_blank">R for Data Science</a></p>
-        <div class="dw-uebung-cycle">
-            <p>Collect</p>
-            <i class="codicon codicon-arrow-right"></i>
-            <p>Import</p>
-            <i class="codicon codicon-arrow-right"></i>
-            <p>Tidy</p>
-            <i class="codicon codicon-arrow-right"></i>
-            <div class="dw-cycle-central-area">
-                <p class="cycle-other">Transform</p>
-                <p class="cycle-other">Visualize</p>
-                <p class="cycle-other">Model</p>
-            </div>
-            <p>Understand</p>
-            <i class="codicon codicon-arrow-right"></i>
-            <p>Communicate</p>
-        </div> -->
-    <!-- 
-    Collect: references
-    Import: folder-opened
-    Tidy: jersey / filter
-    Transform: codicon-edit
-    Visualize: codicon-graph
-    Model: symbol-misc, type-hierarchy
-    Communicate: codicon-megaphone
-    -->
     <h2 class="dw-uebung-inhalte-header dw-pretitle">Inhalte der Übungen</h2>
     <div class="dw-uebung-grid">
         <div class="dw-uebung-content dw-uebung-grid-item-primary-light dw-uebung-grid-sommer">
@@ -186,7 +159,7 @@ draft: false
             <ul>
             <li>Jupyter</li>
             <li>Git</li>
-            <li>LLM Chatbots</li>
+            <li>gKI-Chatbots</li>
             <li>RStudio</li>
             </ul>
         </div>
