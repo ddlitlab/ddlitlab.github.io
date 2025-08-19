@@ -1,0 +1,12 @@
+.page-not-found {
+    margin-top: 2rem;
+    padding-left: 0 !important;
+}
+
+.page-not-found::before {
+    content: "\ea9c";
+    font-family: "codicon";
+    float: left;
+    font-size: 1em;
+    margin-right: 0.2em;
+}

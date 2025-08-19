@@ -13,7 +13,7 @@ Unsortiert
 - .article a::after {} muss angepasst werden
 - links bei zeilenumbrüchen in studiprojekten werden komisch angezeigt
 - das Fullscreen Bild auf der Abut-Seite macht Stress wenn man die Seite kleiner zieht
-
+- 404 page
 
 Designs / Planning
 - simple audio player für lehrlabor-spotlight podcasts (inspiration: https://codepen.io/amy_e_carrigan/pen/XWNeGKp)

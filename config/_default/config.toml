@@ -43,8 +43,8 @@ enableEmoji = true
 
 [[cascade]]
   _target = { path = "/lehrlabore/**" }
-  type = "projekte"
+  layout = "projektseite"
 
 [[cascade]]
   _target = { path = "/studiprojekte/**" }
-  type = "projekte"
+  layout = "projektseite"

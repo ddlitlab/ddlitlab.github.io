@@ -6,5 +6,5 @@ filter1: "Runde 1"
 filter2: "Runde 2"
 filter3: "Runde 3"
 filter4: "Runde 4"
-layout: list
+layout: "studiprojekte"
 ---

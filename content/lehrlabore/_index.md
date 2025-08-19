@@ -6,5 +6,6 @@ filter1: "Spotlights"
 filter2: "Runde 1"
 filter3: "Runde 2"
 filter4: "Runde 3 (CDTL)"
-layout: list
+# layout: list
+layout: "lehrlabor"
 ---
