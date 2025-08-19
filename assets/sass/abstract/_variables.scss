@@ -4,8 +4,21 @@ $breakpoint-mobile: 768px;
 $breakpoint-tablet: 1200px;
 $spacing-desktop: 2.5rem;
 
+
+
 // Global CSS Variables
 :root {
+  --size-h1: 3rem;
+  --size-h1-p: 1.5rem;
+
+  --size-h2: 2.5rem;
+  --size-h2-p: 1.8rem;
+  --size-h2-mobile: 2rem;
+  --size-h2-p-mobile: 1.5rem;
+
+  --size-h3: 2rem;
+  --size-h4: 1.5rem;
+  --size-h5: 1.2rem;
   // Colors
   // --title-black: #333;
   // --title-accent: #666;

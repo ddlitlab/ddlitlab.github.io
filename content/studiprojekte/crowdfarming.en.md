@@ -10,13 +10,11 @@ uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenproj
 students: "Shivanshi Asthana, Leidy Gicela Vergara López, Ferdinand Hölzl, Shuyue Qu, Sojung Oh"
 mentor: "Dr. Juan Miguel Rodriguez Lopez"
 text: |
-    This student project aims to explore avenues for deploying machine and deep learning algorithms to bridge the gap between supply and demand in small agricultural businesses. We aim at using OpenStreetMap for visualising hotspots of supply of fresh farm and other agri-business commodities deploying geographic information systems (GIS) and OpenStreetMap, followed by machine learning algorithms with Python for studying hotspots for demand based on chosen socio-economic indicators via proxies (Feldmeyer et al. 2020). 
+    This student project aims to explore avenues for deploying machine and deep learning algorithms to bridge the gap between supply and demand in *small agricultural businesses*. We aim at using OpenStreetMap for visualising hotspots of supply of fresh farm and other agri-business commodities deploying geographic information systems (GIS) and OpenStreetMap, followed by machine learning algorithms with Python for studying hotspots for demand based on chosen socio-economic indicators via proxies (Feldmeyer et al. 2020). 
 
-    The project is by no means deterministic, and we aim to work collaboratively in an iterative manner with our project mentor to study the strengths, weaknesses, and limitations of our approach when it comes to sustainable local consumption in Hamburg and surrounding regions, which is also part of the Sustainable Development Goals (SDGs) 11 and 12. Furthermore, our results could be further expanded to cover other regions based on the availability of data and the replicability of our results.
+    The project is by no means deterministic, and we aim to work collaboratively in an iterative manner with our project mentor to study the strengths, weaknesses, and limitations of our approach when it comes to *sustainable local consumption* in Hamburg and surrounding regions, which is also part of the Sustainable Development Goals (SDGs) 11 and 12. Furthermore, our results could be further expanded to cover other regions based on the availability of data and the replicability of our results.
 
-    ! (https://www.hcl.uni-hamburg.de/18330209/crowdfarming-fe62ff899a9f1b59c9fbcb15ce5157bdfb597884.jpg)
-
-    Our ultimate goal is project-based learning (collection, management, evaluation, and application), learning geospatial/temporal data management and operability, and exploring limitations to “datafication” of problem-solving in this very limited field within sustainability. We expect our project to bridge information asymmetry by taking a step towards data-driven decision-making.
+    Our ultimate goal is project-based learning (collection, management, evaluation, and application), learning geospatial/temporal data management and operability, and exploring *limitations to “datafication” of problem-solving* in this very limited field within sustainability. We expect our project to bridge information asymmetry by taking a step towards data-driven decision-making.
 
     In the following, we list some exemplary literature related to our project topics:
 

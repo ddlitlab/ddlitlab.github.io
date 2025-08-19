@@ -27,8 +27,6 @@ Designs / Planning
 - Was ist mit den ImpactStory-Entwürfen?
 
 
-Aufgaben Caro
-- About: Publications: Direktlink der Publikation vom FIS
 
 
 Nach Abschluss der Webseite
@@ -37,9 +35,8 @@ Nach Abschluss der Webseite
 
 
 
-
-
-- Nur Englisch:
+Aufgaben Julian
+- Übersetzung der englischen Studiprojekte ins Deutsche
 aieducation
 crowdfarming
 discovinduk
