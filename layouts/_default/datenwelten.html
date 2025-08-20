@@ -1,0 +1,153 @@
+{{ define "main" }}
+<main>
+    <section>
+    <header class="section-header">
+        <h1 class="section-title">{{ .Params.hero.title }}</h1>
+        <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
+    </header>
+    <div class="datenwelten-hero">
+        <div class="datenwelten-hero-left">
+            <p>{{ .Params.hero.left }}</p>
+        </div>
+        <div class="datenwelten-hero-right">
+            <p class="datenwelten-hero-answer">{{ .Params.hero.right.first }}</p>
+            <p class="datenwelten-hero-answer-sub">{{ .Params.hero.right.second }}</p>
+        </div>
+    </div>
+    <div class="wide-movie-container">
+        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
+    </div>
+    </section>
+
+    <section class="background-pattern">
+        <header class="section-header">
+            <h1 class="section-title">{{ .Params.lecture.title }}</h1>
+            <p class="section-subtitle">{{ .Params.lecture.subtitle }}</p>
+        </header>
+        <div class="dw-glass datenwelten-inhalte">
+            <div class="datenwelten-inhalte-winter-meta">
+                <p class="dw-pretitle">{{ .Params.lecture.grid.winter.pretitle }}</p>
+                <h3>{{ .Params.lecture.grid.winter.title }}</h3>
+                <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.winter.text | markdownify }}</p>
+                <div><a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank">
+                    {{ .Params.lecture.grid.link }}
+                    <i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
+                </a></div>
+            </div>
+            <div class="grid-datenwelten-inhalte datenwelten-inhalte-winter-content">
+                {{ range .Params.lecture.grid.winter.content }}
+                    <i class="icon-bullet codicon codicon-{{ .icon }}"></i>
+                    <p>{{ .text | markdownify }}</p>
+                {{ end }}
+            </div>
+            <div class="datenwelten-inhalte-sommer-meta">
+                <p class="dw-pretitle">{{ .Params.lecture.grid.sommer.pretitle }}</p>
+                <h3>{{ .Params.lecture.grid.sommer.title }}</h3>
+                <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.sommer.text | markdownify }}</p>
+                <div><a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank">
+                    {{ .Params.lecture.grid.link }}
+                    <i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
+                </a></div>
+            </div>
+            <div class="grid-datenwelten-inhalte datenwelten-inhalte-sommer-content">
+                {{ range .Params.lecture.grid.sommer.content }}
+                    <i class="icon-bullet codicon codicon-{{ .icon }}"></i>
+                    <p>{{ .text | markdownify }}</p>
+                {{ end }}
+            </div>
+        </div>
+        <div class="big-numbers datenwelten-big-numbers">
+            {{ range .Params.lecture.numbers }}
+                <p>{{ . | markdownify }}</p>
+            {{ end }}
+        </div>
+    </section>
+    
+    
+    <section class="dw-uebung-section">
+        <header class="section-header">
+            <h1 class="section-title">{{ .Params.exercise.title }}</h1>
+            <p class="section-subtitle">{{ .Params.exercise.subtitle }}</p>
+        </header>
+        <div class="image-full-page image-full-page-dw">
+        <img src="/images/projekt/dw-uebung.png" alt="team picture">
+        </div>
+        <div class="dw-background">
+            <div class="dw-glass dw-uebung-text-grid">
+                {{ range .Params.exercise.grid }}
+                <p>{{ . | markdownify }}</p>
+                {{ end }}
+            </div>
+        </div>
+        <div class="logo-grid logo-grid-dw-uebung">
+        <a href="https://www.r-project.org/">
+          <img src="/images/logos-external/dw_R.svg" alt="R Logo">
+        </a>
+        <a href="https://jupyter.org/">
+          <img src="/images/logos-external/dw_jupyter.svg" alt="Jupyter Logo">
+        </a>
+        <a href="https://www.tidyverse.org/">
+          <img src="/images/logos-external/dw_tidyverse.svg" alt="Tidyverse Logo">
+        </a>
+      </div>
+    <h2 class="dw-uebung-inhalte-header dw-pretitle">{{ .Params.exercise.illustration.title }}</h2>
+    <div class="dw-uebung-grid">
+        <div class="dw-uebung-content dw-uebung-grid-item-primary-light dw-uebung-grid-sommer">
+            <h3 class="dw-uebung-header">Fokus: Winter</h3>
+            <ul>
+            <li>Classification</li>
+            <li>Regression</li>
+            <li>Clustering</li>
+            <li>Neural Networks</li>
+            </ul>
+            <p class="uppercase dw-uebung-subheader">Model</p>
+        </div>
+        <div class="dw-uebung-content dw-cycle-icon-coding  dw-uebung-grid-item-primary">
+            <h3 class="uppercase dw-uebung-header">Coding</h3>
+            <ul>
+            <li>Import</li>
+            <li>Tidy</li>
+            <li>Visualize</li>
+            <li>Transform</li>
+            <li>Communicate</li>
+            </ul>
+            <p class="uppercase dw-uebung-subheader">Analyze</p>
+        </div>
+        <div class="dw-uebung-content dw-uebung-grid-item-primary-light">
+            <h3 class="dw-uebung-header">Fokus: Sommer</h3>
+            <ul>
+            <li>APIs</li>
+            <li>Web Scraping</li>
+            <li>Open Repositories</li>
+            </ul>
+            <p class="uppercase dw-uebung-subheader">Collect</p>
+        </div>
+        <div class="dw-cycle-icon-tools dw-uebung-grid-item-secondary">
+            <h3 class="uppercase dw-uebung-header">Tools</h3>
+            <ul>
+            <li>Jupyter</li>
+            <li>Git</li>
+            <li>gKI-Chatbots</li>
+            <li>RStudio</li>
+            </ul>
+        </div>
+        <div class="dw-cycle-icon-reflection dw-uebung-grid-item-secondary">
+            <h3 class="uppercase dw-uebung-header">Reflection</h3>
+            <ul>
+            <li>AI-generierte Bilder & Fake News</li>
+            <li>Ethics & Bias</li>
+            <li>Datafizierung der Gesellschaft</li>
+            </ul>
+        </div>
+    </div>
+    <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank"><i class="codicon codicon-github"></i> {{ .Params.exercise.repo }}</a>
+    </section>
+
+
+
+{{ .Content }}
+
+
+
+</main>
+{{ end }}

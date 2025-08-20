@@ -1,100 +1,73 @@
 ---
 title: "Ringvorlesung Datenwelten"
-draft: false
+layout: "datenwelten"
+hero:
+    title: 'Ringvorlesung Datenwelten'
+    subtitle: 'Daten verstehen, Zukunft gestalten'
+    left: 'Du bist neugierig, wie Daten unsere Gesellschaft formen? Dir brummt der Kopf bei der Geschwindigkeit der aktuellen Entwicklungen?'
+    right: 
+        first: 'Dann komm in die Ringvorlesung Datenwelten!'
+        second: 'Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus interdisziplinären Perspektiven beleuchtet.'
+lecture:
+    title: 'Inhalte der Datenwelten'
+    subtitle: 'Interdisziplinäre Perspektiven'
+    grid:
+        link: 'Zur Vorlesungsreihe auf Lecture2Go'
+        winter:
+            pretitle: 'Wintersemester'
+            title: 'Datenwelten 1'
+            text: 'Im Wintersemester legt die Vorlesungsreihe den Fokus auf **Grundlagen von Statistik, Datenanalyse und Machine Learning** aus einer technischen Perspektive. Das **interdisziplinäre Team** setzt sich aus Dozierenden der Informatik und den Sozialwissenschaften zusammen.'
+            content: 
+                - icon: 'debug-disconnect'
+                  text: '*Funktionsweise* der informationstechnischen Datenökosysteme, die in weiten Teilen unseren Alltag (mit-)gestalten'
+                - icon: 'cloud-upload'
+                  text: 'Das *technische und soziale Zusammenspiel* dieser Systeme bei der Erhebung, Aufbewahrung und Nutzung von Daten'
+                - icon: 'graph-scatter'
+                  text: 'Einfache *statistische und visualisierende Verfahren* zur explorativen Analyse von Daten'
+                - icon: 'debug-alt'
+                  text: 'Grundlegende Algorithmen des Supervised and Unsupervised *Machine Learning* (Classification, Regression, Clustering)'
+                - icon: 'combine'
+                  text: 'Elementare Einführung in *Neuronale Netze* und ihre Anwendungen in der Bild- und Textverarbeitung (Large Language Models)'
+        sommer:
+            pretitle: 'Sommersemester'
+            title: 'Datenwelten 2'
+            text: 'Im Sommersemester beleuchtet die Vorlesungsreihe gesellschaftliche, politische und wirtschaftliche Zusammenhänge der zunehmenden **Datafizierung und Digitalisierung** aus unterschiedlichen Perspektiven durch Dozierende **aller Fakultäten**.'
+            content: 
+                - icon: 'telescope'
+                  text: 'Überblick über den *aktuellen Stand* der Datennutzung und -anwendung in verschiedenen gesellschaftlichen Bereichen wie Politik, Wissenschaft, Bildung und Wirtschaft'
+                - icon: 'organization'
+                  text: 'Kritische Auseinandersetzung mit diesen Datenanwendungen und ihren *gesellschaftlichen und ethischen Herausforderungen* wie Digital Divide, Bias & Diskriminierung'
+                - icon: 'device-camera'
+                  text: 'Auswirkung der zunehmenden Digitalisierung und Datafizierung auf die *politische Öffentlichkeit* und journalistische Arbeit'
+                - icon: 'book'
+                  text: 'Verschiedene Fragestellungen der *Digital Humanities* und deren Entwicklung im Kontext von Datafizierung und Artificial Intelligence'
+                - icon: 'law'
+                  text: 'Möglichkeiten und Grenzen der rechtlichen (Datenschutz) und technischen (IT-Sicherheit) *Regulierung* von Datennutzung und deren Konsequenzen'
+    numbers:
+        - 'Über <span>3100</span> Studierende<i class="codicon codicon-mortar-board"></i>'
+        - 'Aus <span>213</span> Fächern<i class="codicon codicon-rocket"></i>'
+        - 'Von <span>34</span> Dozierenden<i class="codicon codicon-coffee"></i>'
+exercise:
+    title: 'Begleitende Übungen'
+    subtitle: 'Zwischen Code und Kontext'
+    grid:
+        - 'Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Vorlesungsinhalte und eine Einführung in die *Datenanalyse mit R*. Sie richten sich an *alle Studierenden* der Universität Hamburg und sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnissen im Programmieren zugänglich sind.'
+        - 'Zum Programmieren nutzen wir vor allem den <a href="https://code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den *Jupyter Notebooks* können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine *flexible Arbeitsumgebung*, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.'
+        - 'Wir nutzen *Literate Programming*, bei dem Code und Text kombiniert werden. Dadurch können Studierende den Code nicht nur schreiben, sondern auch verstehen, verändern und dokumentieren. Die Übungen fördern den selbstständigen Kompetenzerwerb und vermitteln die technischen Grundlagen der Datenanalyse und des Machine Learning. Wir programmieren mit der Paketsammlung <a href="https://www.tidyverse.org/" target="_blank"><code>tidyverse</code></a>, welches einer einheitlichen Designphilosophie, Grammatik und Datenstrukturen folgt.'
+        - 'Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind *interdisziplinär* angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.'
+    illustration:
+        title: 'Inhalte der Übungen'
+        
+    repo: 'Zum Github-Repository'
+
+
+
+
+            
+
 ---
-<!-- <div class="background-pattern"> -->
 
-<section>
-    <header class="section-header">
-        <h1 class="section-title">Ringvorlesung Datenwelten</h1>
-        <p class="section-subtitle">Daten verstehen, Zukunft gestalten</p>
-    </header>
-    <div class="datenwelten-hero">
-        <div class="datenwelten-hero-left">
-            <p>Du bist neugierig, wie Daten unsere Gesellschaft formen? Dir brummt der Kopf bei der Geschwindigkeit der aktuellen Entwicklungen?</p>
-        </div>
-        <!-- <div class="datenwelten-hero-icons">
-            <i class="codicon codicon-preview"></i>
-            <i class="codicon codicon-project"></i>
-            <i class="codicon codicon-pulse"></i>
-            <i class="codicon codicon-question"></i>
-            <i class="codicon codicon-radio-tower"></i>
-        </div> -->
-        <div class="datenwelten-hero-right">
-            <p class="datenwelten-hero-answer">Dann komm in die Ringvorlesung Datenwelten!</p>
-            <p class="datenwelten-hero-answer-sub">Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus interdisziplinären Perspektiven beleuchtet.</p>
-        </div>
-    </div>
-    <div class="wide-movie-container">
-        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
-    </div>
-</section>
-
-
-
-<section class="background-pattern">
-    <header class="section-header">
-        <h1 class="section-title">Inhalte der Datenwelten</h1>
-        <p class="section-subtitle">Interdisziplinäre Perspektiven</p>
-    </header>
-    <div class="dw-glass datenwelten-inhalte">
-        <div class="datenwelten-inhalte-winter-meta">
-            <p class="dw-pretitle">Wintersemester</p>
-            <h3>Datenwelten 1</h3>
-            <p class="datenwelten-inhalte-text">Im Wintersemester legt die Vorlesungsreihe den Fokus auf <strong>Grundlagen von Statistik, Datenanalyse und Machine Learning</strong> aus einer technischen Perspektive. Das <strong>interdisziplinäre Team</strong> setzt sich aus Dozierenden der Informatik und den Sozialwissenschaften zusammen.</p>
-            <!-- <p class="datenwelten-inhalte-text">Im Wintersemester legt die Vorlesungsreihe den Fokus auf <span class="highlight">Grundlagen von Statistik, Datenanalyse und Machine Learning</span> aus einer technischen Perspektive. Das <span class="highlight">interdisziplinäre Team</span> setzt sich aus Dozierenden der Informatik und den Sozialwissenschaften zusammen.</p> -->
-            <div>
-                <a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank">
-                    Zur Vorlesungsreihe auf Lecture2Go
-                    <i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
-                </a>
-            </div>
-        </div>
-        <div class="grid grid-datenwelten-inhalte datenwelten-inhalte-winter-content">
-                <i class="icon-bullet codicon codicon-debug-disconnect"></i>
-                <div><span class="highlight">Funktionsweise</span> der informationstechnischen Datenökosysteme, die in weiten Teilen unseren Alltag (mit-)gestalten</div>
-                <i class="icon-bullet codicon codicon-cloud-upload"></i>
-                <div>Das <span class="highlight">technische und soziale Zusammenspiel</span> dieser Systeme bei der Erhebung, Aufbewahrung und Nutzung von Daten</div>
-                <i class="icon-bullet codicon codicon-graph-scatter"></i>
-                <div>Einfache <span class="highlight">statistische und visualisierende Verfahren</span> zur explorativen Analyse von Daten</div>
-                <i class="icon-bullet codicon codicon-debug-alt"></i>
-                <div>Grundlegende Algorithmen des Supervised and Unsupervised <span class="highlight">Machine Learning</span> (Classification, Regression, Clustering)</div>
-                <i class="icon-bullet codicon codicon-combine"></i>
-                <div>Elementare Einführung in <span class="highlight">Neuronale Netze</span> und ihre Anwendungen in der Bild- und Textverarbeitung (Large Language Models)</div>
-            </div>
-        <div class="datenwelten-inhalte-sommer-meta">
-            <p class="dw-pretitle">Sommersemester</p>
-            <h3>Datenwelten 2</h3>
-            <p class="datenwelten-inhalte-text">Im Sommersemester beleuchtet die Vorlesungsreihe gesellschaftliche, politische und wirtschaftliche Zusammenhänge der zunehmenden <strong>Datafizierung und Digitalisierung</strong> aus unterschiedlichen Perspektiven durch Dozierende <strong>aller Fakultäten</strong>.</p>
-            <!-- <p class="datenwelten-inhalte-text">Im Sommersemester beleuchtet die Vorlesungsreihe gesellschaftliche, politische und wirtschaftliche Zusammenhänge der zunehmenden <span class="highlight">Datafizierung und Digitalisierung</span> aus unterschiedlichen Perspektiven durch Dozierende <span class="highlight">aller Fakultäten</span>.</p> -->
-            <div>
-                <a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank">
-                    Zur Vorlesungsreihe auf Lecture2Go
-                    <i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
-                </a>
-            </div>
-        </div>
-        <div class="grid grid-datenwelten-inhalte datenwelten-inhalte-sommer-content">
-                <i class="icon-bullet codicon codicon-telescope"></i>
-                <div>Überblick über den <span class="highlight">aktuellen Stand</span> der Datennutzung und -anwendung in verschiedenen gesellschaftlichen Bereichen wie Politik, Wissenschaft, Bildung und Wirtschaft</div>
-                <i class="icon-bullet codicon codicon-organization"></i>
-                <div>Kritische Auseinandersetzung mit diesen Datenanwendungen und ihren <span class="highlight">gesellschaftlichen und ethischen Herausforderungen</span> wie Digital Divide, Bias & Diskriminierung</div>
-                <i class="icon-bullet codicon codicon-device-camera"></i>
-                <div>Auswirkung der zunehmenden Digitalisierung und Datafizierung auf die <span class="highlight">politische Öffentlichkeit</span> und journalistische Arbeit</div>
-                <i class="icon-bullet codicon codicon-book"></i>
-                <div>Verschiedene Fragestellungen der <span class="highlight">Digital Humanities</span> und deren Entwicklung im Kontext von Datafizierung und Artificial Intelligence</div>
-                <i class="icon-bullet codicon codicon-law"></i>
-                <div>Möglichkeiten und Grenzen der rechtlichen (Datenschutz) und technischen (IT-Sicherheit) <span class="highlight">Regulierung</span> von Datennutzung und deren Konsequenzen</div>
-            </div>
-    </div>
-    <div class="big-numbers datenwelten-big-numbers">
-        <p>Über <span>3100</span> Studierende<i class="codicon codicon-mortar-board" style="font-size: 2em; transform: translateX(0.2em) translateY(0.2em);"></i></p>  
-        <p>Aus <span>213</span> Fächern<i class="codicon codicon-rocket"></i></p>
-        <p>Von <span>34</span> Dozierenden<i class="codicon codicon-coffee"></i></p>
-    </div>
-</section>
-
-<section class="dw-uebung-section">
+<!-- <section class="dw-uebung-section">
     <header class="section-header">
         <h1 class="section-title">Begleitende Übungen</h1>
         <p class="section-subtitle">Zwischen Code und Kontext</p>
@@ -218,4 +191,4 @@ draft: false
             </div>
         </details>
     </div>
-</section>
+</section> -->
