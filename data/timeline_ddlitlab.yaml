@@ -76,6 +76,17 @@ timeline:
     title: '2025'
     type: 'period'
 
+
+  - date: 'September 2025'
+    title: 'Publikation ChatGPT and Me 3.0'
+    content: 'Im Juli 2025 haben wir die Erhebung zu „ChatGPT & me 3.0" über die Lebensrealität mit generativer KI an der Uni Hamburg durchgeführt. Diese wurde dann im September als Forschungsbericht veröffentlicht.'
+    type: 'event'
+
+  - date: 'November 2025'
+    title: 'Feierliche Abschlussveranstaltung des DDLitLab'
+    content: 'Nach viereinhalb Jahren DDLitLab haben wir gemeinsam mit zahlreichen Gästen den erfolgreichen Abschluss unseres Projekts gefeiert. Zusammen mit allen, die uns während der Projektlaufzeit begleitet haben, blickten wir auf die erreichten Meilensteine und Erfolge zurück.'
+    type: 'event'
+
   - date: 'Dezember 2025'
     title: 'Projekt-Ende'
     type: 'event'

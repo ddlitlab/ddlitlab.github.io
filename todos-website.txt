@@ -14,12 +14,19 @@ Unsortiert
 - links bei zeilenumbrüchen in studiprojekten werden komisch angezeigt
 - das Fullscreen Bild auf der Abut-Seite macht Stress wenn man die Seite kleiner zieht
 - 404 page
+- codicon icons werden nicht geladen
+- Inhalte Datenwelten hr Linie?
+- Lehrlabore / Studiprojekte Index Pages übersetzen
+- Info Kachel Projektseiten grid ist verrutscht / blau weg?
+- Exzellenz E weißraum größer
+- Vergangene Veranstaltungen GKI-Community
+- Navigation Links Styling vereinheitlichen
+- Team-Seite inhaltlich überarbeiten (ehemalige Mitarbeiter:innen macht keinen Sinn)
+
 
 Designs / Planning
 - simple audio player für lehrlabor-spotlight podcasts (inspiration: https://codepen.io/amy_e_carrigan/pen/XWNeGKp)
-- Navigation Links, Text Styling (highlight, hover styles, mit Julia einigen)
-- Sollen die Markdown-Seiten noch gestyled werden von den Projekten (also ZB Überschriften, Links etc.)
-- Was ist mit den ImpactStory-Entwürfen?
+
 
 
 
@@ -36,3 +43,16 @@ discovinduk
 finwaiid
 studytoolkitvid
 texascorpusrep
+
+
+
+
+- page layouts 
+- translations
+- aufräumen
+- animations desktop view
+- responsiveness: tablet view - mobile view
+
+
+
+

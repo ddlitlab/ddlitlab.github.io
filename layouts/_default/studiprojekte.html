@@ -9,7 +9,7 @@
     </header>
 
     <div class="projekte-index-quote projekte-index-quote-studiprojekte">
-        <p>{{ .Params.text }}</p>
+        <p>{{ .Params.text | markdownify }}</p>
     </div>
 
     <input type="radio" id="sf-runde1" name="filter" checked>
