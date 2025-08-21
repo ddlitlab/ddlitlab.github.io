@@ -57,138 +57,48 @@ exercise:
         - 'Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind *interdisziplinär* angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.'
     illustration:
         title: 'Inhalte der Übungen'
-        
+        winter:
+            title: 'Fokus: Winter'
+            items:
+                - 'Classification'
+                - 'Regression'
+                - 'Clustering'
+                - 'Neural Networks'
+            subtitle: 'Model'
+        coding:
+            title: 'Coding'
+            items:
+                - 'Import'
+                - 'Tidy'
+                - 'Visualize'
+                - 'Transform'
+                - 'Communicate'
+            subtitle: 'Analyze'
+        sommer:
+            title: 'Fokus: Sommer'
+            items:
+                - 'APIs'
+                - 'Web Scraping'
+                - 'Open Repositories'
+            subtitle: 'Collect'
+        tools:
+            title: 'Tools'
+            items:
+                - 'Jupyter'
+                - 'Git'
+                - 'gKI-Chatbots'
+                - 'RStudio'
+        reflection:
+            title: 'Reflektion'
+            items:
+                - 'AI-generierte Bilder & Fake News'
+                - 'Ethics & Bias'
+                - 'Datafizierung der Gesellschaft'
     repo: 'Zum Github-Repository'
-
-
-
-
-            
+events:
+    title: 'Vergangene Veranstaltungen'
+    semesters:
+        - 'Im Wintersemester'
+        - 'Im Sommersemester'
 
 ---
-
-<!-- <section class="dw-uebung-section">
-    <header class="section-header">
-        <h1 class="section-title">Begleitende Übungen</h1>
-        <p class="section-subtitle">Zwischen Code und Kontext</p>
-    </header>
-    <div class="image-full-page image-full-page-dw">
-      <img src="/images/projekt/dw-uebung.png" alt="team picture">
-    </div>
-    <div class="dw-background">
-        <div class="dw-glass dw-uebung-text-grid">
-            <p>Die Übungen zu den Vorlesungen bieten eine praktische Vertiefung der Vorlesungsinhalte und eine Einführung in die <span class="highlight">Datenanalyse mit R</span>. Sie richten sich an <span class="highlight">alle Studierenden</span> der Universität Hamburg und sind so gestaltet, dass sie sowohl für Studierende mit als auch ohne Vorkenntnissen im Programmieren zugänglich sind.</p>
-            <p>Zum Programmieren nutzen wir vor allem den <a href="code.min.uni-hamburg.de" target="_blank">Jupyter-Server der MIN-Fakultät</a>. Mit den <span class="highlight">Jupyter Notebooks</span> können Studierende interaktiv programmieren und ihren Code direkt im eigenen Browser ausführen, ohne etwas installieren zu müssen. Das ermöglicht eine <span class=highlight">flexible Arbeitsumgebung, die sich gut für das Lernen und Experimentieren mit Datensätze eignet.</p>
-            <p>Wir nutzen <span class="highlight">Literate Programming</span>, bei dem Code und Text kombiniert werden. 
-            Dadurch können Studierende den Code nicht nur schreiben, sondern auch verstehen, verändern und dokumentieren. Die Übungen fördern den selbstständigen Kompetenzerwerb und vermitteln die technischen Grundlagen der Datenanalyse und des Machine Learning. Wir programmieren mit der Paketsammlung <a href="https://www.tidyverse.org/" target="_blank"><code>tidyverse</code></a >, welches einer einheitlichen Designphilosophie, Grammatik und Datenstrukturen folgt.</p>
-            <p>Neben den technischen Aspekten werden auch gesellschaftliche Fragestellungen behandelt, um ein umfassendes Verständnis für die Auswirkungen von Digitalisierung und Datafizierung zu entwickeln. Die Übungen sind <span class="highlight">interdisziplinär</span> angelegt und berücksichtigen verschiedene Perspektiven aus Informatik, Sozialwissenschaften und anderen Disziplinen.</p>
-        </div>
-    </div>
-    <div class="logo-grid logo-grid-dw-uebung">
-        <a href="https://www.r-project.org/">
-          <img src="/images/logos-external/dw_R.svg" alt="R Logo">
-        </a>
-        <a href="https://jupyter.org/">
-          <img src="/images/logos-external/dw_jupyter.svg" alt="Jupyter Logo">
-        </a>
-        <a href="https://www.tidyverse.org/">
-          <img src="/images/logos-external/dw_tidyverse.svg" alt="Tidyverse Logo">
-        </a>
-      </div>
-    <h2 class="dw-uebung-inhalte-header dw-pretitle">Inhalte der Übungen</h2>
-    <div class="dw-uebung-grid">
-        <div class="dw-uebung-content dw-uebung-grid-item-primary-light dw-uebung-grid-sommer">
-            <h3 class="dw-uebung-header">Fokus: Winter</h3>
-            <ul>
-            <li>Classification</li>
-            <li>Regression</li>
-            <li>Clustering</li>
-            <li>Neural Networks</li>
-            </ul>
-            <p class="uppercase dw-uebung-subheader">Model</p>
-        </div>
-        <div class="dw-uebung-content dw-cycle-icon-coding  dw-uebung-grid-item-primary">
-            <h3 class="uppercase dw-uebung-header">Coding</h3>
-            <ul>
-            <li>Import</li>
-            <li>Tidy</li>
-            <li>Visualize</li>
-            <li>Transform</li>
-            <li>Communicate</li>
-            </ul>
-            <p class="uppercase dw-uebung-subheader">Analyze</p>
-        </div>
-        <div class="dw-uebung-content dw-uebung-grid-item-primary-light">
-            <h3 class="dw-uebung-header">Fokus: Sommer</h3>
-            <ul>
-            <li>APIs</li>
-            <li>Web Scraping</li>
-            <li>Open Repositories</li>
-            </ul>
-            <p class="uppercase dw-uebung-subheader">Collect</p>
-        </div>
-        <div class="dw-cycle-icon-tools dw-uebung-grid-item-secondary">
-            <h3 class="uppercase dw-uebung-header">Tools</h3>
-            <ul>
-            <li>Jupyter</li>
-            <li>Git</li>
-            <li>gKI-Chatbots</li>
-            <li>RStudio</li>
-            </ul>
-        </div>
-        <div class="dw-cycle-icon-reflection dw-uebung-grid-item-secondary">
-            <h3 class="uppercase dw-uebung-header">Reflection</h3>
-            <ul>
-            <li>AI-generierte Bilder & Fake News</li>
-            <li>Ethics & Bias</li>
-            <li>Datafizierung der Gesellschaft</li>
-            </ul>
-        </div>
-    </div>
-    <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank"><i class="codicon codicon-github"></i> Zum Github-Repository</a>
-    <div class="accordion-wrapper dw-accordion">
-        <details class="accordion-simple">
-            <summary class="dw-events">Vergangene Veranstaltungen</summary>
-            <div class="grid-datenwelten-events">
-                <div>
-                    <h4 class="dw-pretitle">Im Wintersemester</p>
-                </div>
-                <div>
-                    <h4 class="dw-pretitle">Im Sommersemester</h4>
-                </div>
-                <div>
-                    <h5>WiSe 24/25</h5>
-                    {{< dw_events dw_event="10">}}
-                    {{< dw_events dw_event="9">}}
-                    {{< dw_events dw_event="8">}}
-                </div>
-                <div>
-                    <h5>SoSe 24</h5>
-                    {{< dw_events dw_event="7">}}
-                    {{< dw_events dw_event="6">}}
-                </div>        
-                <div>
-                    <h5>WiSe 23/24</h5>
-                    {{< dw_events dw_event="5">}}
-                    {{< dw_events dw_event="4">}}
-                </div>
-                <div>
-                    <h5>SoSe 23</h5>
-                    {{< dw_events dw_event="3">}}
-                    </div>
-                <div>
-                    <h5>WiSe 22/23</h5>
-                    {{< dw_events dw_event="2">}}
-                </div>
-                <div>
-                    <h5>SoSe 22</h5>
-                    {{< dw_events dw_event="1">}}
-                </div>
-                <div>
-                    <h5>WiSe 21/22</h5>
-                    {{< dw_events dw_event="0">}}
-                </div>
-            </div>
-        </details>
-    </div>
-</section> -->

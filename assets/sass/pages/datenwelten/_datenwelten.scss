@@ -468,26 +468,29 @@ i.icon-bullet {
 }
 
 .grid-datenwelten-events h4 {
-    width: 80%;
-    font-size: 1.2em
+    width: 100%;
+    font-size: 1rem
 }
 
 
 
-.grid-datenwelten-events p, h5 {
+.grid-datenwelten-events p, h3 {
     font-size: 0.8em;
     color: var(--black-light);
     margin-bottom: 0.3em;
 }
 
-.grid-datenwelten-events h5 {
+.grid-datenwelten-events h3 {
     text-transform: uppercase;
     margin-bottom: 0.5em;
 }
 
 .grid-datenwelten-events a {
     text-decoration: none;
+    margin-bottom: 0.3em;
+    font-size: 0.8em;
     color: var(--black-light);
+    font-weight: 300;
 }
 
 .grid-datenwelten-events ul {

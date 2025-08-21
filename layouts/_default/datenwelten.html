@@ -93,61 +93,76 @@
     <h2 class="dw-uebung-inhalte-header dw-pretitle">{{ .Params.exercise.illustration.title }}</h2>
     <div class="dw-uebung-grid">
         <div class="dw-uebung-content dw-uebung-grid-item-primary-light dw-uebung-grid-sommer">
-            <h3 class="dw-uebung-header">Fokus: Winter</h3>
+            <h3 class="dw-uebung-header">{{ .Params.exercise.illustration.winter.title }}</h3>
             <ul>
-            <li>Classification</li>
-            <li>Regression</li>
-            <li>Clustering</li>
-            <li>Neural Networks</li>
+            {{ range .Params.exercise.illustration.winter.items }}
+                <li>{{ . }}</li>
+            {{ end }}
             </ul>
-            <p class="uppercase dw-uebung-subheader">Model</p>
+            <p class="uppercase dw-uebung-subheader">{{ .Params.exercise.illustration.winter.subtitle }}</p>
         </div>
         <div class="dw-uebung-content dw-cycle-icon-coding  dw-uebung-grid-item-primary">
-            <h3 class="uppercase dw-uebung-header">Coding</h3>
+            <h3 class="uppercase dw-uebung-header">{{ .Params.exercise.illustration.coding.title }}</h3>
             <ul>
-            <li>Import</li>
-            <li>Tidy</li>
-            <li>Visualize</li>
-            <li>Transform</li>
-            <li>Communicate</li>
+            {{ range .Params.exercise.illustration.coding.items }}
+                <li>{{ . }}</li>
+            {{ end }}
             </ul>
-            <p class="uppercase dw-uebung-subheader">Analyze</p>
+            <p class="uppercase dw-uebung-subheader">{{ .Params.exercise.illustration.coding.subtitle }}</p>
         </div>
         <div class="dw-uebung-content dw-uebung-grid-item-primary-light">
-            <h3 class="dw-uebung-header">Fokus: Sommer</h3>
+            <h3 class="dw-uebung-header">{{ .Params.exercise.illustration.sommer.title }}</h3>
             <ul>
-            <li>APIs</li>
-            <li>Web Scraping</li>
-            <li>Open Repositories</li>
+            {{ range .Params.exercise.illustration.sommer.items }}
+                <li>{{ . }}</li>
+            {{ end }}
             </ul>
-            <p class="uppercase dw-uebung-subheader">Collect</p>
+            <p class="uppercase dw-uebung-subheader">{{ .Params.exercise.illustration.sommer.subtitle }}</p>
         </div>
         <div class="dw-cycle-icon-tools dw-uebung-grid-item-secondary">
-            <h3 class="uppercase dw-uebung-header">Tools</h3>
+            <h3 class="uppercase dw-uebung-header">{{ .Params.exercise.illustration.tools.title }}</h3>
             <ul>
-            <li>Jupyter</li>
-            <li>Git</li>
-            <li>gKI-Chatbots</li>
-            <li>RStudio</li>
+            {{ range .Params.exercise.illustration.tools.items }}
+                <li>{{ . }}</li>
+            {{ end }}
             </ul>
         </div>
         <div class="dw-cycle-icon-reflection dw-uebung-grid-item-secondary">
-            <h3 class="uppercase dw-uebung-header">Reflection</h3>
+            <h3 class="uppercase dw-uebung-header">{{ .Params.exercise.illustration.reflection.title }}</h3>
             <ul>
-            <li>AI-generierte Bilder & Fake News</li>
-            <li>Ethics & Bias</li>
-            <li>Datafizierung der Gesellschaft</li>
+            {{ range .Params.exercise.illustration.reflection.items }}
+                <li>{{ . }}</li>
+            {{ end }}
             </ul>
         </div>
     </div>
     <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank"><i class="codicon codicon-github"></i> {{ .Params.exercise.repo }}</a>
     </section>
 
-
+    <section>
+        <div class="accordion-wrapper dw-accordion">
+            <details class="accordion-simple">
+                <summary class="dw-events">{{ .Params.events.title }}</summary>
+                <div class="grid-datenwelten-events">
+                    {{ range .Params.events.semesters }}
+                    <div><h2 class="dw-pretitle">{{ . }}</h2></div>
+                    {{ end }}
+                    {{ range .Site.Data.datenwelten_events}}
+                    <div>
+                        <h3>{{ .semester }}</h3>
+                        {{ range .events }}
+                        <a class="hover-fx" href="{{ .link }}" target="_blank">
+                            <i class="codicon {{ .icon }}" style="float: left; margin-right: 0.3em"></i> {{ .title }}<i class='codicon codicon-arrow-right' style='transform: rotate(-45deg); font-size: 1em; font-weight: 1000;'></i>
+                        </a>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                </div>
+            </details>
+        </div>
+    </section>
 
 {{ .Content }}
-
-
 
 </main>
 {{ end }}
