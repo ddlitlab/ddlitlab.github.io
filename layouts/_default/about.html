@@ -1,0 +1,124 @@
+{{ define "main" }}
+<main>
+    <section>
+        <header class="section-header">
+            <h1 class="section-title">{{ .Params.hero.title }}</h1>
+            <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
+        </header>
+        <div class="image-full-page">
+            <img src="/images/team/_gruppenbild_cropped.jpg" alt="team picture">
+        </div>
+        <article class="about-text-wide">
+            <hr>
+            {{ .Params.hero.text | markdownify }}
+            <hr>
+        </article>
+        <div class="logo-grid logo-grid-ddlitlab">
+            <a href="https://www.uni-hamburg.de/">
+            <img src="/images/logos-external/partner_uhh.svg" alt="UHH Logo">
+            </a>
+            <a href="https://stiftung-hochschullehre.de/">
+            <img src="/images/logos-external/partner_stil.svg" alt="Stil Logo">
+            </a>
+            <a href="https://www.uni-hamburg.de/exzellenz.html">
+            <img src="/images/logos-external/partner_exzellenz.png" alt="Exzellenz Logo">
+            </a>
+        </div>    
+    
+    </section>
+    
+    <section>
+        <header class="section-header">
+            <h1 class="section-title">{{ .Params.timeline.title }}</h1>
+            <p class="section-subtitle">{{ .Params.timeline.subtitle }}</p>
+        </header>
+        
+        <ul class="timeline timeline-centered">
+        {{ range $.Site.Data.timeline_ddlitlab.timeline }}
+            {{ if eq .type "period" }}
+            <li class="timeline-item timeline-period">
+                <div class="timeline-marker"></div>
+                <div class="timeline-content">
+                    <span class="timeline-title">{{ .title }}</span>
+                </div>
+            </li>
+            {{ else }}
+            <li class="timeline-item">
+                <div class="timeline-info">
+                    <span>{{ .date }}</span>
+                </div>
+                <div class="timeline-marker"></div>
+                <div class="timeline-content">
+                    {{ if .content }}
+                    <div class="accordion-wrapper">
+                        <details class="accordion-simple accordion-timeline">
+                            <summary class="timeline-title">{{ .title }}</summary>
+                            {{ if .content }}
+                            <p class="timeline-text">{{ .content | markdownify }}</p>
+                            {{ end }}
+                        </details>
+                    </div>
+                    {{ else }}
+                    <h5 class="timeline-title">{{ .title }}</h5>
+                    {{ end }}
+                </div>
+            </li>
+            {{ end }}
+        {{ end }}
+        </ul>
+
+    </section>
+
+    <section class="background-pattern">
+        <header class="section-header">
+            <h1 class="section-title">{{ .Params.team.title }}</h1>
+            <p class="section-subtitle">{{ .Params.team.subtitle }}</p>
+        </header>
+        <div class="team-grid">
+        {{ range .Site.Data.team }}
+            <div class="team-card glass">
+            {{ if isset . "image" }}
+                <div class="team-card-image">
+                    <img src="{{ .image }}" alt="{{ .name }}">
+                </div>
+            {{ end }}
+                <div class="team-card-content">
+                    <h2>{{ .name }}</h2>
+                    <p>{{ .title }}</p>
+                    <ul>
+                    {{ range .description }}
+                        <li>{{ . }}</li>
+                    {{ end }}
+                    </ul>
+                </div>
+            </div>
+        {{ end }}
+        </div>
+    </section>
+
+    <section>
+        <header class="section-header">
+            <h1 class="section-title">{{ .Params.publications.title }}</h1>
+            <p class="section-subtitle">{{ .Params.publications.subtitle }}</p>
+        </header>
+        <div class="publication-grid dw-background">
+        {{ range .Site.Data.publications }}
+            <a class="hover-fx-card publication-card glass" href='{{ .link }}' target="_blank">
+                <h2 class="publication-title">{{ .title }}</h2>
+                <p class="publication-subtitle">{{ .subtitle }}</p>
+                <p class="publication-date">{{ .date }}</p>
+                <p class="publication-authors">{{ .authors }}</p>
+            </a>
+        {{ end }}
+        </div>
+        <div class="publications-more">      
+            <a class="hover-fx publications-more" href="https://www.fis.uni-hamburg.de/publikationen.html?q=DDLitLab&order=publicationYear&orderBy=descending&treffer=10&publishedAfterDate=&publishedBeforeDate=" target="_blank">
+            {{ .Params.publications.button }}
+            <i class='codicon codicon-arrow-right' style='font-size: 1.6rem; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>    
+            </a>
+        </div>
+    </section>
+
+    {{ .Content }}
+</main>
+{{ end }}
