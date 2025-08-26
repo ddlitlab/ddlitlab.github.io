@@ -5,6 +5,11 @@
     gap: 2em;
 }
 
+.feature-highlight em {
+    font-style: normal;
+    @include highlight;    
+}
+
 .feature-highlight p {
     text-align: left;
     font-size: 1.5em;

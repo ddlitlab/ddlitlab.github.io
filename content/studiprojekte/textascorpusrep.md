@@ -10,7 +10,7 @@ uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenproj
 students: "Christian Schuler, Deepesha Saurty, Tramy Thi Tran"
 mentor: "Dr. Seid Muhie Yimam"
 text: |
-    Fast die Hälfte der rund 7.000 derzeit gesprochenen Sprachen wird voraussichtlich in diesem Jahrhundert aussterben. Schätzungsweise weniger als 5 % davon werden online verwendet oder haben eine nennenswerte digitale Präsenz. Der Mangel an Ressourcen, darunter Sprachdaten und Übersetzungssysteme, erschwert die effektive Kommunikation und das Verständnis zwischen vielen Sprachen. Dies stellt ein erhebliches Hindernis für die *Förderung von Inklusivität und kulturellem Austausch* dar.  
+    Fast die Hälfte der rund 7.000 derzeit gesprochenen Sprachen wird voraussichtlich in diesem Jahrhundert aussterben. Schätzungsweise weniger als 5% davon werden online verwendet oder haben eine nennenswerte digitale Präsenz. Der Mangel an Ressourcen, darunter Sprachdaten und Übersetzungssysteme, erschwert die effektive Kommunikation und das Verständnis zwischen vielen Sprachen. Dies stellt ein erhebliches Hindernis für die *Förderung von Inklusivität und kulturellem Austausch* dar.  
 
     **Ziel unseres Projekts ist die Sammlung und Kuratierung von Sprachtextdaten zur Unterstützung der natürlichen Sprachverarbeitung, insbesondere der Entwicklung robuster Übersetzungssysteme für *ressourcenarme Sprachen*. Sozial zielt dieses Projekt darauf ab, marginalisierte Sprachgemeinschaften zu stärken und Kommunikationslücken zu schließen, um den Spracherhalt und die kulturelle Vielfalt zu fördern. Wissenschaftlich gesehen leistet es einen Beitrag zur Sprachtechnologie und zu Übersetzungssystemen für ressourcenarme Sprachen und schließt damit eine kritische Forschungslücke.
 

@@ -73,8 +73,6 @@
 .grid-lehre-navi {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(3, auto);
-    grid-auto-flow: column;
     column-gap: 4rem;
     row-gap: 0;
 }
@@ -82,8 +80,6 @@
 @media (max-width: $breakpoint-mobile) {
     .grid-lehre-navi {
         grid-template-columns: 1fr;
-        grid-template-rows: repeat(9, auto);
-        grid-auto-flow: column;
         column-gap: 0;
         row-gap: 0;
         font-size: 0.8rem;

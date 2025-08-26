@@ -4,8 +4,8 @@
   <section>
     <header class="hero-section">
       <div class="hero-content">
-        <h1>Data Literacy für alle an der UHH</h1>
-        <p>Wir stärken die Digital and Data Literacy an der Universität Hamburg – Projekte für mehr Datenkompetenz für Studierende und Lehrende an der Universität Hamburg.</p>
+        <h1>{{ .Params.hero.title }}</h1>
+        <p>{{ .Params.hero.subtitle }}</p>
       </div>
       <div class="hero-image">
         <img src="illustrations/hero/hero_adobe_main-hero.png"  alt="Hero Image">
@@ -15,42 +15,30 @@
 
   <section>
     <header class="section-header">
-        <h1 class="section-title">Unsere Schwerpunkte</h1>
-        <p class="section-subtitle">Unsere Arbeit zur Förderung von Digital und Data Literacy</p>
+        <h1 class="section-title">{{ .Params.navigation.title }}</h1>
+        <p class="section-subtitle">{{ .Params.navigation.subtitle }}</p>
     </header>
     <div class="navigation-cards-grid">
-      <a class="navigation-cards-grid-item hover-fx" href="/datenwelten">
-        <i class='codicon codicon-book'></i>  
-        <p>Ringvorlesung<br>Datenwelten</p>
+      {{ range .Params.navigation.items }}
+        <a class="navigation-cards-grid-item hover-fx" href="/{{ .link }}">
+        <i class='codicon codicon-{{ .icon }}'></i>  
+        <p>{{ .title | markdownify }}</p>
       </a>
-      <a class="navigation-cards-grid-item hover-fx" href="/lehrlabore">
-        <i class='codicon codicon-beaker'></i>  
-        <p>Lehrlabor<br>Förderungen</p>
-      </a>
-      <a class="navigation-cards-grid-item hover-fx" href="/studiprojekte">
-        <i class='codicon codicon-rocket'></i>  
-        <p>Studentische<br>Forschungsprojekte</p>
-      </a>
-      <a class="navigation-cards-grid-item hover-fx" href="/gkicommunity">
-        <i class='codicon codicon-coffee'></i>  
-        <p>GKI<br>Community</p>
-      </a>
+      {{ end }}
     </div>
   </section>
 
 
 <section>
     <header class="section-header">
-        <h1 class="section-title">Unsere Ziele</h1>
-        <p class="section-subtitle">Werdet fit für eine Welt voller Daten in überfachlichen Lernräumen und fachspezifischen Diskussionen</p>
+        <h1 class="section-title">{{ .Params.goals.title }}</h1>
+        <p class="section-subtitle">{{ .Params.goals.subtitle }}</p>
     </header>
     <div class="feature-highlight">
-      <div class="feature-highlight-text">
-        <p>Im DDLitLab erarbeitet Ihr Euch Kenntnisse und Fähigkeiten für einen <span class="highlight">selbstbestimmten Umgang mit Daten und digitalen Formaten</span> in einer Welt, aus der Daten nicht mehr wegzudenken sind.</p>
-        <p>Dazu entwickeln wir <span class="highlight">überfachliche Lehrräume, in denen verschiedene Perspektiven</span> und Fragestellung diskutiert werden, die die Orientierung in datenreichen Berufs- und Lebenswelten erleichtern.</p>
-        <p>In fachspezifischen Diskussionsräumen entwickelt Ihr <span class="highlight">ergänzend spezifische Fähigkeiten und Fertigkeiten</span>, die spezielle (Probleme …).</p>
+      <div>
+        {{ .Params.goals.text | markdownify }}
       </div>
-      <figure class="feature-highlight-image">
+      <figure>
         <img src="illustrations/hero/hero_adobe_ziele_vertikal.png" alt="An image showing project goals">
         {{/*  <figcaption>put image credits here</figcaption>  */}}
       </figure>
@@ -60,9 +48,9 @@
 <section>
     <header class="section-header">
           <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank" alt="UHH Lehre-Navi">
-            <h1 class="section-title">Lehre-Navi<i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i></h1>
+            <h1 class="section-title">{{ .Params.lehre_navi.title }}<i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i></h1>
           </a>
-          <p class="section-subtitle">Gute Lehre durch passende Angebote stärken</p>
+          <p class="section-subtitle">{{ .Params.lehre_navi.subtitle }}</p>
       </header>
     
     
@@ -71,48 +59,18 @@
     </div>
 
     <div class="grid-lehre-navi">
+      {{ range .Params.lehre_navi.items }}
       <div class="grid-lehre-navi-item">
-        <h2>Lehrende schnell zum Ziel bringen</h2>
-      </div>
-      <div class="grid-lehre-navi-item">
-        <p class="content-text">Mit dem Lehre-Navi finden Lehrende der UHH gezielt Materialien, Beratungsangebote und Veranstaltungen – klar strukturiert, aktuell und praxistauglich für den Lehralltag.</p>
-      </div>
-      <div class="grid-lehre-navi-item">
+        <h2>{{ .title }}</h2>
+        <p class="content-text">{{ .text }}</p>
         <div>
-          <a class="hover-fx" href="https://www.uni-hamburg.de/lehre-navi/faq.html" target="_blank">
-            Zum Lehre-FAQ
+          <a class="hover-fx" href="{{ .link }}" target="_blank">
+            {{ .link_text }}
             <i class='codicon codicon-arrow-right' style='font-size: 1rem; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>
           </a>
         </div>
       </div>
-      <div class="grid-lehre-navi-item">
-        <h2>Didaktisches Wissen leicht zugänglich gemacht</h2>
-      </div>
-      <div class="grid-lehre-navi-item">
-        <p class="content-text">Ob Grundlagentexte, Tool-Tipps oder KI-Impulse: Der Lehre-Navi unterstützt Lehrentwicklung und fördert eine Kultur des Austauschs – quer durch Disziplinen und Erfahrungsstufen.</p>
-      </div>
-      <div class="grid-lehre-navi-item">
-        <div>
-          <a class="hover-fx" href="https://www.uni-hamburg.de/lehre-navi/material.html" target="_blank">
-            Zum Material
-            <i class='codicon codicon-arrow-right' style='font-size: 1rem; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>
-          </a>
-        </div>  
-      </div>
-      <div class="grid-lehre-navi-item">
-        <h2>Strukturen nachhaltig verbinden</h2>
-      </div>
-      <div class="grid-lehre-navi-item">
-        <p class="content-text">Der Lehre-Navi wurde im DDLitLab entwickelt und wird nun durch das HUL dauerhaft weitergeführt – als digitale Brücke zwischen Supportstrukturen, Praxis und strategischer Entwicklung.</p>
-      </div>
-      <div class="grid-lehre-navi-item">
-        <div>
-          <a class="hover-fx" href="https://www.uni-hamburg.de/lehre-navi/veranstaltungen/veranstaltungskalender.html" target="_blank">
-            Zum Kalender
-            <i class='codicon codicon-arrow-right' style='font-size: 1rem; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
-          </a>
-          </div>
-      </div>
+      {{ end }}
     </div>
 
 </section>
