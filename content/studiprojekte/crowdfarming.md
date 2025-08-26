@@ -1,22 +1,22 @@
 ---
 id: crowdfarming
-title: "A digital data platform for crowd farming and sustainable agriculture information deploying machine learning algorithms and OpenStreetMap"
-title_project: "A digital data platform for crowd farming and sustainable agriculture information deploying machine learning algorithms and OpenStreetMap"
+title: "Eine digitale Datenplattform für Crowdfarming und Informationen zu nachhaltiger Landwirtschaft unter dem Einsatz von Machine-learning Algorithmen und OpenStreetMap"
+title_project: "Eine digitale Datenplattform für Crowdfarming und Informationen zu nachhaltiger Landwirtschaft unter dem Einsatz von Machine-learning Algorithmen und OpenStreetMap"
 title_short: "CrowdFarming"
-period: "Oct 23 – Mar 24 (6 months)" 
+period: "Okt 23 – Mär 24 (6 Monate)" 
 round: "3"
 lecture2go: "68034"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenprojekte/dritte-foerderrunde/crowdfarming.html"
 students: "Shivanshi Asthana, Leidy Gicela Vergara López, Ferdinand Hölzl, Shuyue Qu, Sojung Oh"
 mentor: "Dr. Juan Miguel Rodriguez Lopez"
 text: |
-    This student project aims to explore avenues for deploying machine and deep learning algorithms to bridge the gap between supply and demand in *small agricultural businesses*. We aim at using OpenStreetMap for visualising hotspots of supply of fresh farm and other agri-business commodities deploying geographic information systems (GIS) and OpenStreetMap, followed by machine learning algorithms with Python for studying hotspots for demand based on chosen socio-economic indicators via proxies (Feldmeyer et al. 2020). 
+    Dieses Studierendenprojekt untersucht Möglichkeiten für den Einsatz von Machine- und Deep-Learning-Algorithmen, um die Lücke zwischen Angebot und Nachfrage in *kleinen landwirtschaftlichen Betrieben* zu schließen. Wir nutzen OpenStreetMap zur Visualisierung von Hotspots, welche frische landwirtschaftliche Erzeugnissen und andere Agrarrohstoffe anbieten. Dabei kommen geografische Informationssysteme (GIS) und OpenStreetMap zum Einsatz. Anschließend nutzen wir Machine-Learning-Algorithmen mit Python, um Hotspots der Nachfrage anhand ausgewählter sozioökonomischer Indikatoren über Proxys zu untersuchen (Feldmeyer et al. 2020). 
 
-    The project is by no means deterministic, and we aim to work collaboratively in an iterative manner with our project mentor to study the strengths, weaknesses, and limitations of our approach when it comes to *sustainable local consumption* in Hamburg and surrounding regions, which is also part of the Sustainable Development Goals (SDGs) 11 and 12. Furthermore, our results could be further expanded to cover other regions based on the availability of data and the replicability of our results.
+    Das Projekt ist keineswegs deterministisch. Wir möchten gemeinsam mit unserem Projektmentor iterativ die Stärken, Schwächen und Grenzen unseres Ansatzes im Hinblick auf *nachhaltigen lokalen Konsum* in Hamburg und den umliegenden Regionen untersuchen, der auch Teil der Ziele für nachhaltige Entwicklung (SDGs) 11 und 12 ist. Darüber hinaus könnten unsere Ergebnisse je nach Datenverfügbarkeit und Reproduzierbarkeit auf andere Regionen ausgeweitet werden.
 
-    Our ultimate goal is project-based learning (collection, management, evaluation, and application), learning geospatial/temporal data management and operability, and exploring *limitations to “datafication” of problem-solving* in this very limited field within sustainability. We expect our project to bridge information asymmetry by taking a step towards data-driven decision-making.
+    Unsere übergeordneten Ziele sind das projektbasierte Lernen (Erfassung, Verwaltung, Auswertung und Anwendung), das Erlernen der Verwaltung und Bedienbarkeit georäumlicher/zeitlicher Daten sowie die Erforschung der *Grenzen der „Datafizierung“ von Problemlösungen* in diesem sehr begrenzten Bereich im Feld der Nachhaltigkeit. Wir erwarten, dass unser Projekt Informationsasymmetrien überbrücken wird, indem es einen Schritt in Richtung datengesteuerter Entscheidungsfindung macht.
 
-    In the following, we list some exemplary literature related to our project topics:
+    Nachfolgend listen wir beispielhaft Literatur zu unseren Projektthemen auf:
 
     - Bavorova, M., Unay‐Gailhard, I., & Lehberger, M. (2016). Who buys from farmers’ markets and farm shops: The case of Germany. International journal of consumer studies, 40(1), 107-114.
     - Faletar, I., Erler, M., Berkes, J., Ollier, C., Mergenthaler, M., & Christoph-Schulz, I. (2022). Farmers' and Citizens' Criticism towards the German Food Retail Sector – Insight into the Results of a Future Workshop. Austrian Journal of Agricultural Economics and Rural Studies, 31(17). https://doi.org/10.15203/OEGA_31.17ISSN 1815-8129 I E-ISSN 1815-1027.

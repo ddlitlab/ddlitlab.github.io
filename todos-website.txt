@@ -22,6 +22,9 @@ Unsortiert
 - Vergangene Veranstaltungen GKI-Community
 - Navigation Links Styling vereinheitlichen
 - Team-Seite inhaltlich überarbeiten (ehemalige Mitarbeiter:innen macht keinen Sinn)
+- rewrite about-text-wide-paragraph as first:child class
+- wie übersetze ich alles was aus data/ kommt? -> maybe just put it in the markdown?
+
 
 
 Designs / Planning

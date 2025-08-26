@@ -1,26 +1,26 @@
 ---
 id: aieducation
-title: "Social media discourse on AI use in education"
-title_project: "Social media discourse on AI use in education"
-title_short: "AI in Education" 
-period: "Oct 23 – Mar 24 (6 months)" 
+title: "Social Media Diskurse zum KI-Einsatz in der Bildung"
+title_project: "Social Media Diskurse zum KI-Einsatz in der Bildung"
+title_short: "KI in der Bildung" 
+period: "Okt 23 – Mär 24 (6 Monate)" 
 round: "3"
 lecture2go: "68029"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-studierendenprojekte/dritte-foerderrunde/aieducation.html"
 students: "Ylvi Lüth, Dana Kenzhekeyeva"
 mentor: "Prof. Dr. Robert Fuchs"
 text: |
-    With the release of the free version of ChatGPT in Nov. 2022, the use of this AI-based chatbot has received both positive and negative comments. While there has been research on *opinions on ChatGPT in education*, there are, as yet, very limited results. Also, the focus has not yet been on Reddit and subreddits, such as r/ChatGPT, r/education, and r/teachers. 
+    Mit der Veröffentlichung der kostenlosen Version von ChatGPT im November 2022 stieß der Einsatz dieses KI-basierten Chatbots auf gemischte Reaktionen. Zwar gibt es schon Studien zu den *Meinungen zu ChatGPT im Bildungsbereich*, die Ergebnisse sind jedoch noch sehr begrenzt. Zudem fokussierten sich diese Studien bisher nicht auf die Platform Reddit und Subreddits wie r/ChatGPT, r/education und r/teachers. 
 
-    We aim to determine the opinions on the use of ChatGPT in education on Reddit and how those might have changed over time, using keyword and sentiment analysis. We focus on the *opinions on subreddits* in general and how users react to those opinions using the voting system. The project will help us understand how the *debate on ChatGPT* has developed over time and if it entails sector-specific argumentation. The results and the corpus will be of interest to scholars and corporations, as they provide a foundation for future research on the topic and show public opinion of an important new technology in different domains. Furthermore, people’s opinions may be swayed by what they see on social media, and insight into people’s stance on AI use in education could help us make predictions and educated guesses on how AI will be received and used and how it might *change the education system*. Lastly, our study is linkable to other studies regarding discourse analysis, social media, education, and AI. While there are risks with our study, such as the difficulty of interpreting the keywords and its being limited and not necessarily representative, our methods are reliable and will, therefore, produce robust results. 
+    Wir möchten die Meinungen zum Einsatz von ChatGPT im Bildungsbereich auf Reddit und deren Veränderung im Laufe der Zeit mithilfe von Keyword- und Sentimentanalysen untersuchen. Wir konzentrieren uns auf die *Meinungen in Subreddits* im Allgemeinen und auf die Art und Weise, wie die Nutzenden per Abstimmungsfunktion auf diese reagieren. Das Projekt wird uns helfen zu verstehen, wie sich die *Debatte über ChatGPT* im Laufe der Zeit entwickelt hat und ob sie branchenspezifische Argumente beinhaltet. Die Ergebnisse und das Korpus sind für Wissenschaft und Wirtschaft von Interesse, da sie eine Grundlage für zukünftige Forschung zu diesem Thema bilden und die öffentliche Meinung zu einer wichtigen neuen Technologie in verschiedenen Bereichen widerspiegeln. Darüber hinaus können die Meinungen der Menschen durch das, was sie in sozialen Medien sehen, beeinflusst werden. Einblicke in die Haltung der Menschen zum Einsatz von KI im Bildungsbereich könnten uns helfen, Vorhersagen und fundierte Vermutungen darüber zu treffen, wie KI aufgenommen und genutzt wird und wie sie *das Bildungssystem verändern* könnte. Außerdem ist unsere Studie mit anderen Studien zu den Feldern Diskursanalyse, soziale Medien, Bildung und KI verknüpfbar. Zwar birgt unsere Studie Risiken, wie etwa die Schwierigkeit, die Schlüsselwörter zu interpretieren, und die Tatsache, dass sie begrenzt und nicht unbedingt repräsentativ ist. Dennoch sind unsere Methoden zuverlässig und werden daher belastbare Ergebnisse liefern.
 
-    Our research questions are as follows:
+    Unsere Forschungsfragen lauten:
 
-    1. What are the most frequently used keywords in the Reddit discourse around ChatGPT in each domain, and what is the degree of their similarity or distinction? 
-    2. What is the general attitude expressed on Reddit towards the use of ChatGPT in education in subreddits focused on technology and education? 
-    3. Has this attitude changed over time, and if so, how? 
+    1. Welche Schlüsselwörter werden im Reddit-Diskurs rund um ChatGPT in jeden Bereich am häufigsten verwendet und wie stark ähneln oder unterscheiden sich diese?
+    2. Welche generelle Einstellung zum Einsatz von ChatGPT im Bildungsbereich wird auf Reddit in den Subreddits über Technologie und Bildung geäußert?
+    3. Hat sich diese Einstellung im Laufe der Zeit verändert und wenn ja, wie?
 
-    We will attempt to answer these questions by first making corpora with RStudio and RedditExtractoR using data from different subreddits. We will then make a keyword list using Python and Excel and conduct a keyword analysis. This will serve as a base for the sentiment analysis done using R and RStudio, both of all the data and separated by subreddit. Upvotes and downvotes will be considered as well. Lastly, we will compare the subreddits, compare the votes with the sentiment analysis, examine the change over time, and interpret our findings in a report. 
+    Wir versuchen, diese Fragen zu beantworten, indem wir zunächst mit RStudio und RedditExtractoR Korpora aus Daten verschiedener Subreddits erstellen. Anschließend erstellen wir mit Python und Excel eine Keyword-Liste und führen eine Keyword-Analyse durch. Diese dient als Grundlage für die Sentimentanalyse mit R und RStudio, welche sowohl für alle Daten als auch getrennt nach Subreddits durchgeführt wird. Upvotes und Downvotes werden ebenfalls berücksichtigt. Abschließend vergleichen wir die Subreddits, gleichen die Votes mit der Sentimentanalyse ab, untersuchen die Veränderung im Zeitverlauf und werten unsere Ergebnisse in einem Bericht aus. 
 
 image: "https://www.hcl.uni-hamburg.de/18288303/ai-generated-8242227-1920-733x414-dcc1c44d9b9ca99de8831a0868472644f24e93aa.jpg"
 image_credit: "Draconianimages / Pixabay"
