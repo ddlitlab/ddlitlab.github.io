@@ -1,38 +1,28 @@
-HTML / Layouts
-- Timeline inhaltlich bis Ende 2025 füllen und Texte nochmal kürzen
-- eigene #id für alle Sections
-
-
 Unsortiert
 - Hyphens anpassen
 - semantic figure / img tags instead of divs?
-- Navigation Links vereinheitlichen
 - before / after Elemente vereinheitlichen
 - Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)
-- .article a::after {} muss angepasst werden
-- links bei zeilenumbrüchen in studiprojekten werden komisch angezeigt
 - das Fullscreen Bild auf der Abut-Seite macht Stress wenn man die Seite kleiner zieht
 - 404 page
 - codicon icons werden nicht geladen
-- Lehrlabore / Studiprojekte Index Pages übersetzen
-- Info Kachel Projektseiten grid ist verrutscht / blau weg?
-- Exzellenz E weißraum größer
-- Vergangene Veranstaltungen GKI-Community
+- Vergangene Veranstaltungen GKI-Community Grid richtig machen
 - Navigation Links Styling vereinheitlichen
-- Team-Seite inhaltlich überarbeiten (ehemalige Mitarbeiter:innen macht keinen Sinn)
-- rewrite about-text-wide-paragraph as first:child class
-- wie übersetze ich alles was aus data/ kommt? -> maybe just put it in the markdown?
+- Team-Kacheln: Bilder sollten gleich breit sein? aber erstmal neue Bilder einfügen
+- Timeline-Texte nochmal durchgehen
 
 
+
+
+Roadmap:
+- page layouts 
+- aufräumen
+- All Translations
+- animations desktop view
+- responsiveness: tablet view - mobile view
 
 
 
 Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen
 
-
-- page layouts 
-- translations
-- aufräumen
-- animations desktop view
-- responsiveness: tablet view - mobile view

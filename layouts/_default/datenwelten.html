@@ -19,7 +19,7 @@
     </div>
     </section>
 
-    <section class="background-pattern">
+    <section class="background-pattern" id="lecture">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.lecture.title }}</h1>
             <p class="section-subtitle">{{ .Params.lecture.subtitle }}</p>
@@ -65,7 +65,7 @@
     </section>
     
     
-    <section class="dw-uebung-section">
+    <section class="dw-uebung-section" id="exercise">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.exercise.title }}</h1>
             <p class="section-subtitle">{{ .Params.exercise.subtitle }}</p>
@@ -140,10 +140,10 @@
     <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank"><i class="codicon codicon-github"></i> {{ .Params.exercise.repo }}</a>
     </section>
 
-    <section>
+    <section id="datenwelten-events">
         <div class="accordion-wrapper dw-accordion">
             <details class="accordion-simple">
-                <summary class="dw-events">{{ .Params.events.title }}</summary>
+                <summary class="accordion-events">{{ .Params.events.title }}</summary>
                 <div class="grid-datenwelten-events">
                     {{ range .Params.events.semesters }}
                     <div><h2 class="dw-pretitle">{{ . }}</h2></div>

@@ -9,6 +9,25 @@
     </section>
 
     <section>
+        <div class="accordion-wrapper">
+            <details class="accordion-simple">
+                <summary class="accordion-events">{{ .Params.events.title }}</summary>
+                <div class="grid-datenwelten-events">
+                    {{ range .Params.events.columns }}
+                    <div><h2 class="dw-pretitle">{{ .title }}</h2></div>
+                        {{ range .items }}
+                        <div>
+                            <h3>{{ .date }}</h3>
+                            <p>{{ .title }}</p>
+                        </div>
+                        {{ end }}
+                    {{ end }}
+                </div>
+            </details>
+        </div>
+    </section>
+
+    <section>
         {{ .Content }}
 
     </section>

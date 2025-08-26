@@ -4,6 +4,39 @@ layout: "gkicommunity"
 hero:
     title: 'GKI Community'
     subtitle: 'Text'
+
+events:
+  title: 'Vergangene Veranstaltungen'
+  columns:
+    - title: 'Fellow-Workshops'
+      subtitle: 'Fellow-Workshop'
+      items:
+        - title: 'Auftakt des Lehrlabors'
+          date: 'Mai 2022'
+        - title: 'Verstetigung des Lehrlabors'
+          date: 'November 2022'
+        - title: 'Auftakt der zweiten Förderrunde'
+          date: 'Mai 2023'
+        - title: 'Vernetzung und Nachhaltigkeit des Lehrlabors'
+          date: 'November 2023'
+    - title: 'KI Hands-On'
+      subtitle: 'KI-Hands On'
+      items:
+        - title: 'Lehrbeispiele zu generativer KI an der Universität Hamburg'
+          date: 'Juli 2023'
+        - title: 'Diskussion von Rahmenempfehlungen zum Umgang mit gKI-Systemen an der UHH'
+          date: 'November 2023'
+        - title: 'Workshop Use Cases'
+          date: 'Februar 2024'
+        - title: 'Barcamp-Edition'
+          date: 'Mai 2024'
+        - title: 'Custom GPTs und Prompting'
+          date: 'Oktober 2024'
+        - title: 'Was müssen Studierende in Zeiten von gKI Neues fürs Studium lernen?'
+          date: 'Januar 2025'
+        - title: 'KI-Handreichung für Studierende'
+          date: 'Mai 2025'
+
 ---
 
 
@@ -51,19 +84,3 @@ Von Tool-Übersichten bis Reflexionsfragen: Die KI-Website bietet Studierenden O
 - https://www.fdr.uni-hamburg.de/record/13403 ChatGPT & me 2.0 (2024) 
 - https://www.fdr.uni-hamburg.de/record/15968 ChatGPT & me 3.0 (2025) [folgt] 
 
-## Weitere wichtige Veranstaltungen (vllt. Als separater Zeitstrahl?) 
-
-### Fellow-Workshops 
-
-Fellow-Workshop: Auftakt des Lehrlabors – Mai 2022 
-Fellow-Workshop: Verstetigung des Lehrlabors – November 2022 
-Fellow-Workshop: Auftakt der zweiten Förderrunde – Mai 2023 
-Fellow-Workshop: Vernetzung und Nachhaltigkeit des Lehrlabors – November 2023 
-KI Hands-On 
-KI Hands-On: Lehrbeispiele zu generativer KI an der Universität Hamburg – Juli 2023 
-KI Hands-On #2: Diskussion von Rahmenempfehlungen zum Umgang mit gKI-Systemen an der UHH – November 2023 
-KI Hands-on #3: Workshop Use Cases – Februar 2024 
-KI Hands-On #4: Barcamp-Edition – Mai 2024 
-KI Hands-On #5: Custom GPTs und Prompting – Oktober 2024 
-KI Hands-On #6: Was müssen Studierende in Zeiten von gKI Neues fürs Studium lernen? – Januar 2025 
-KI Hands-On #7: KI-Handreichung für Studierende – Mai 2025  

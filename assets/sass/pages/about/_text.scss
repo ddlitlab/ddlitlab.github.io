@@ -1,0 +1,46 @@
+.about-text-wide {
+    text-align: justify;
+    width: 70%;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+    position: relative;
+    color: var(--black-light);
+    hyphens: auto;
+}
+
+.about-text-wide::before {
+    content:"\eb33";
+    position: absolute;
+    font-family: 'codicon';
+    left: -25%;
+    top: 15%;
+    font-size: 200px;
+    color: rgba(0,0,0,0.1);  
+}
+
+.about-text-wide hr {
+    border: none;
+    height: 4px;
+    width: 70%;
+    background-color: var(--black-lightest);
+}
+
+.about-text-wide hr:first-child, p {
+    margin-bottom: 1em;
+}
+
+.about-text-wide p:first-of-type::first-letter {
+    float: left;
+    text-transform: uppercase;
+    line-height: 0.7;
+    font-size: 5em;
+    margin-top: 0.1em;
+    margin-right: 0.1em;
+    text-shadow: 0.05em 0.05em var(--primary-light);
+}
+
+.about-text-wide p:first-of-type::first-line {
+    font-weight: 300;
+    font-weight: 700;
+}

@@ -84,9 +84,10 @@
     background: linear-gradient(to right, var(--primary-lighter), var(--primary-lightest));
     border: 1.5px solid var(--primary-light);
     width: 85%;
-    & > div > a {
-        text-decoration: none;
-    }
+}
+
+.article-info a {
+    text-decoration: none;
 }
 
 .article-info-external {

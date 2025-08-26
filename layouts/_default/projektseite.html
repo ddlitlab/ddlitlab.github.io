@@ -45,8 +45,9 @@
         {{ else }}
             <p><b>Studierende: {{ .Params.students }}</b></p>
         {{ end }}
-            <p class="text-secondary">Runde {{ .Params.round }}</p>
-            <p class="text-secondary">{{ .Params.period }}</p>
+            <div></div>
+            <p>Runde {{ .Params.round }}</p>
+            <p>{{ .Params.period }}</p>
         {{ with .Params.institution }}
             <p>{{ . }}</p>
         {{ end }}

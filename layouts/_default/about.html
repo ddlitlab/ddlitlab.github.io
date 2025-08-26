@@ -27,14 +27,15 @@
     
     </section>
     
-    <section>
+    <section id="timeline">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.timeline.title }}</h1>
             <p class="section-subtitle">{{ .Params.timeline.subtitle }}</p>
         </header>
         
         <ul class="timeline timeline-centered">
-        {{ range $.Site.Data.timeline_ddlitlab.timeline }}
+        {{ range .Params.timeline.items }}
+        {{/*  {{ range $.Site.Data.timeline_ddlitlab.timeline }}  */}}
             {{ if eq .type "period" }}
             <li class="timeline-item timeline-period">
                 <div class="timeline-marker"></div>
@@ -69,7 +70,7 @@
 
     </section>
 
-    <section class="background-pattern">
+    <section class="background-pattern" id="team">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.team.title }}</h1>
             <p class="section-subtitle">{{ .Params.team.subtitle }}</p>
@@ -97,13 +98,13 @@
         </div>
     </section>
 
-    <section>
+    <section id="publications">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.publications.title }}</h1>
             <p class="section-subtitle">{{ .Params.publications.subtitle }}</p>
         </header>
         <div class="publication-grid dw-background">
-        {{ range .Site.Data.publications }}
+        {{ range .Params.publications.items }}
             <a class="hover-fx-card publication-card glass" href='{{ .link }}' target="_blank">
                 <h2 class="publication-title">{{ .title }}</h2>
                 <p class="publication-subtitle">{{ .subtitle }}</p>
