@@ -75,7 +75,8 @@
             <p class="section-subtitle">{{ .Params.team.subtitle }}</p>
         </header>
         <div class="team-grid">
-        {{ range .Site.Data.team }}
+        {{/*  {{ range .Site.Data.team }}  */}}
+        {{ range .Params.team.items }}
             <div class="team-card glass">
             {{ if isset . "image" }}
                 <div class="team-card-image">
@@ -87,7 +88,7 @@
                     <p>{{ .title }}</p>
                     <ul>
                     {{ range .description }}
-                        <li>{{ . }}</li>
+                        <li>{{ . | markdownify }}</li>
                     {{ end }}
                     </ul>
                 </div>
