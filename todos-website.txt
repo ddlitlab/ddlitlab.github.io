@@ -1,6 +1,5 @@
 Unsortiert
 - Hyphens anpassen
-- semantic figure / img tags instead of divs?
 - Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)
 - das Fullscreen Bild auf der Abut-Seite macht Stress wenn man die Seite kleiner zieht
 - 404 page

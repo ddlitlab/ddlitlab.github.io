@@ -1,13 +1,14 @@
 {{ define "main" }}
 <main>
-    <section>
+    <section class="section-full-width">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.hero.title }}</h1>
             <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
         </header>
-        <div class="image-full-page">
+        <img src="/images/team/_gruppenbild_cropped.jpg" alt="team picture">
+        <figure class="image-full-page">
             <img src="/images/team/_gruppenbild_cropped.jpg" alt="team picture">
-        </div>
+        </figure>
         <article class="about-text-wide">
             <hr>
             {{ .Params.hero.text | markdownify }}
@@ -80,9 +81,9 @@
         {{ range .Params.team.items }}
             <div class="team-card glass">
             {{ if isset . "image" }}
-                <div class="team-card-image">
+                <figure class="team-card-image">
                     <img src="{{ .image }}" alt="{{ .name }}">
-                </div>
+                </figure>
             {{ end }}
                 <div class="team-card-content">
                     <h2>{{ .name }}</h2>
