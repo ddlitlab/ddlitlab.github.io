@@ -24,7 +24,6 @@
 @import "components/_section"; // todos: css streamlining, responsive 
 @import "components/_article"; // todos: css streamlining, responsive
 
-@import "components/_feature";
 @import "components/_background";
 @import "components/_big-numbers"; // done
 @import "components/_media";
@@ -34,6 +33,7 @@
 
 @import "pages/home/home";
 @import "pages/home/_hero";
+@import "pages/home/goals";
 
 @import "pages/datenwelten/_datenwelten";
 @import "pages/datenwelten/_uebung";
