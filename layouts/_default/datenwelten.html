@@ -24,7 +24,7 @@
             <h1 class="section-title">{{ .Params.lecture.title }}</h1>
             <p class="section-subtitle">{{ .Params.lecture.subtitle }}</p>
         </header>
-        <div class="dw-glass datenwelten-inhalte">
+        <div class="glass datenwelten-inhalte">
             <div class="datenwelten-inhalte-winter-meta">
                 <p class="dw-pretitle">{{ .Params.lecture.grid.winter.pretitle }}</p>
                 <h3>{{ .Params.lecture.grid.winter.title }}</h3>
@@ -74,7 +74,7 @@
             <img src="/images/projekt/dw-uebung.png" alt="team picture">
         </figure>
         <div class="dw-background">
-            <div class="dw-glass dw-uebung-text-grid">
+            <div class="glass dw-uebung-text-grid">
                 {{ range .Params.exercise.grid }}
                 <p>{{ . | markdownify }}</p>
                 {{ end }}
