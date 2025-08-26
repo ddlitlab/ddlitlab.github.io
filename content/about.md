@@ -7,7 +7,7 @@ hero:
     text: |
         Das Projekt „Digital and Data Literacy in Teaching Lab“ (DDLitLab) ist ein fachübergreifendes und hochschulweites Vorhaben der Universität Hamburg, das von August 2021 bis Dezember 2025 von der Stiftung Innovation in der Hochschullehre mit einem Fördervolumen von knapp 5 Mio. Euro gefördert wird. Ziel ist es, die Vermittlung digitaler und datenbezogener Kompetenzen sowohl bei Studierenden aller Fachrichtungen als auch bei Lehrenden systematisch zu stärken und neue Impulse für innovative Lehre an der Universität Hamburg zu setzen.
     
-        Im Mittelpunkt steht, Studierende zu befähigen, digitale Technologien reflektiert zu nutzen und datenbasierte Prozesse kritisch zu bewerten. Lehrende werden darin unterstützt, digitale und hybride Formate didaktisch sinnvoll in ihre Curricula zu integrieren. Zentrale Angebote sind das interdisziplinäre Grundlagenprogramm <a class="hover-fx-text-intern" href="/datenwelten">Datenwelten</a>, das <a href="/lehrlabore">Data Literacy Lehrlabor</a>, <a href="/studiprojekte">Studi-Projekte</a> sowie die <a href="/gkicommunity">gKI Community</a>. Ergänzt wird das Portfolio durch das <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html">Lehre-Navi</a>, das Qualifizierung und Beratung zur digitalen und hybriden Hochschullehre bündelt.
+        Im Mittelpunkt steht, Studierende zu befähigen, digitale Technologien reflektiert zu nutzen und datenbasierte Prozesse kritisch zu bewerten. Lehrende werden darin unterstützt, digitale und hybride Formate didaktisch sinnvoll in ihre Curricula zu integrieren. Zentrale Angebote sind das interdisziplinäre Grundlagenprogramm <a class="hover-fx-text-intern" href="/datenwelten">Datenwelten</a>, das <a href="/lehrlabor">Data Literacy Lehrlabor</a>, <a href="/studiprojekte">Studi-Projekte</a> sowie die <a href="/gkicommunity">gKI Community</a>. Ergänzt wird das Portfolio durch das <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html">Lehre-Navi</a>, das Qualifizierung und Beratung zur digitalen und hybriden Hochschullehre bündelt.
 
         Mit dem Abschluss des Projekts Ende 2025 stehen die hier entwickelten Materialien und Konzepte als Ressource für die Weiterentwicklung der digitalen und datenbezogenen Hochschullehre an der Universität Hamburg und darüber hinaus zur Verfügung. Die Erfahrungen des DDLitLab sollen langfristig zur Verankerung und Förderung von Data Literacy als Schlüsselkompetenz an der Universität beitragen.
 timeline:
@@ -27,7 +27,7 @@ timeline:
           type: 'period'
         - date: 'April 2022'
           title: 'Start Datenwelten II + Lehrlabor Runde 1'
-          content: 'Die <a href="/datenwelten/">Ringvorlesung</a> geht im Sommersemester in die zweite Runde. <br> Zusätzlich startet das <a href="/lehrlabore/">Data Literacy Lehrlabor</a>, bei dem das DDLitLab innovative digitale und hybride Lehrprojekte für maximal 12 Monate unterstützt.'
+          content: 'Die <a href="/datenwelten/">Ringvorlesung</a> geht im Sommersemester in die zweite Runde. <br> Zusätzlich startet das <a href="/lehrlabor/">Data Literacy Lehrlabor</a>, bei dem das DDLitLab innovative digitale und hybride Lehrprojekte für maximal 12 Monate unterstützt.'
           type: 'event'
         - date: 'Mai 2022'
           title: 'Start DDLitLab Lecture Series'
@@ -39,14 +39,14 @@ timeline:
           type: 'event'
         - date: 'Dezember 2022'
           title: 'Launch Lehre-Navi'
-          content: 'Das <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank">Lehre-Navi</a> enthält Selbstlernmaterial, Veranstaltungen und andere Angebote für (digitale) Lehre und richtet sich an alle Lehrenden der Universität Hamburg.'
+          content: 'Das <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank">Lehre-Navi</a> enthält Selbstlernmaterialen, Veranstaltungen und andere Angebote für (digitale) Lehre und richtet sich an alle Lehrenden der Universität Hamburg.'
           type: 'event'
         - date: '2023'
           title: '2023'
           type: 'period'
         - date: 'April 2023'
           title: 'Lehrlabor + Studi-Projekte Runde 2'
-          content: 'In der zweiten Förderungsrunde werden im <a href="/lehrlabore/">Lehrlabor</a> 21 Lehrprojekte und sechs <a href="/studiprojekte/">Studi-Projekte</a> gefördert.'
+          content: 'In der zweiten Förderungsrunde werden im <a href="/lehrlabor/">Lehrlabor</a> 21 Lehrprojekte und sechs <a href="/studiprojekte/">Studi-Projekte</a> gefördert.'
           type: 'event'
         - date: 'Juli 2023'
           title: 'Auftakt KI Hands-On'

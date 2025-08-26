@@ -11,7 +11,7 @@ navigation:
           link: 'datenwelten'
           icon: 'book'
         - title: 'Lehrlabor<br>Förderungen'
-          link: 'lehrlabore'
+          link: 'lehrlabor'
           icon: 'beaker'
         - title: 'Studentische<br>Forschungsprojekte'
           link: 'studiprojekte'

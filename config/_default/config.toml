@@ -42,7 +42,7 @@ enableEmoji = true
     target = "static"
 
 [[cascade]]
-  _target = { path = "/lehrlabore/**" }
+  _target = { path = "/lehrlabor/**" }
   layout = "projektseite"
 
 [[cascade]]

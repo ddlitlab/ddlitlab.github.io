@@ -1,15 +1,19 @@
 Unsortiert
 - Hyphens anpassen
 - semantic figure / img tags instead of divs?
-- before / after Elemente vereinheitlichen
 - Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)
 - das Fullscreen Bild auf der Abut-Seite macht Stress wenn man die Seite kleiner zieht
 - 404 page
 - codicon icons werden nicht geladen
 - Vergangene Veranstaltungen GKI-Community Grid richtig machen
-- Navigation Links Styling vereinheitlichen
 - Team-Kacheln: Bilder sollten gleich breit sein? aber erstmal neue Bilder einfügen
 - Timeline-Texte nochmal durchgehen
+
+
+Navigation Links:
+- Buttons: hover-fx
+- innerhalb Text: 
+
 
 
 

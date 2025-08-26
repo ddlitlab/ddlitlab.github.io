@@ -4,8 +4,8 @@ url = "datenwelten"
 weight = 20
 
 [[main]]
-name = "Teaching Labs"
-url = "lehrlabore"
+name = "Teaching Lab"
+url = "lehrlabor"
 weight = 30
 
 [[main]]
