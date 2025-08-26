@@ -152,11 +152,22 @@
     grid-template-columns: 3fr 0.5fr 3fr;
     grid-template-areas: 
         "winter-meta winter winter"
+        "divider divider divider"
         "sommer sommer sommer-meta";
     place-items: center;
     gap: 2em 4em;
     text-align: left;
     hyphens: none;
+}
+
+.datenwelten-inhalte-divider {
+    display: block;
+    width: 30%;
+    height: 4px;
+    margin: 1em 0;
+    border: none;
+    background-color: var(--black-light);
+    grid-area: divider;
 }
 
 // .grid-datenwelten-inhalte .highlight {

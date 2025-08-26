@@ -4,7 +4,6 @@ HTML / Layouts
 
 
 Unsortiert
-- Lehrlabor Projektverantwortliche (mentor / contributors zusammenführen)
 - Hyphens anpassen
 - semantic figure / img tags instead of divs?
 - Navigation Links vereinheitlichen
@@ -15,7 +14,6 @@ Unsortiert
 - das Fullscreen Bild auf der Abut-Seite macht Stress wenn man die Seite kleiner zieht
 - 404 page
 - codicon icons werden nicht geladen
-- Inhalte Datenwelten hr Linie?
 - Lehrlabore / Studiprojekte Index Pages übersetzen
 - Info Kachel Projektseiten grid ist verrutscht / blau weg?
 - Exzellenz E weißraum größer
@@ -27,27 +25,10 @@ Unsortiert
 
 
 
-Designs / Planning
-- simple audio player für lehrlabor-spotlight podcasts (inspiration: https://codepen.io/amy_e_carrigan/pen/XWNeGKp)
-
-
-
 
 
 Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen
-
-
-Aufgaben Julian
-- Übersetzung der englischen Studiprojekte ins Deutsche
-aieducation
-crowdfarming
-discovinduk
-finwaiid
-studytoolkitvid
-texascorpusrep
-
-
 
 
 - page layouts 
@@ -55,7 +36,3 @@ texascorpusrep
 - aufräumen
 - animations desktop view
 - responsiveness: tablet view - mobile view
-
-
-
-

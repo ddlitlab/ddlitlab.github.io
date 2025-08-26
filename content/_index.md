@@ -44,9 +44,5 @@ lehre_navi:
           text: 'Der Lehre-Navi wurde im DDLitLab entwickelt und wird nun durch das HUL dauerhaft weitergeführt – als digitale Brücke zwischen Supportstrukturen, Praxis und strategischer Entwicklung.'
           link: 'https://www.uni-hamburg.de/lehre-navi/veranstaltungen/veranstaltungskalender.html'
           link_text: 'Zum Kalender'
-
-
-
-
 ---
 
