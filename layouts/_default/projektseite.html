@@ -5,7 +5,7 @@
   <article class="article-project">
     <header class="section-header">
         <h1 class="section-title">{{ .Params.title }}</h1>
-        <p class="section-subtitle">Project: {{ .Params.title_short }}</p>
+        <p class="section-subtitle">{{ i18n "project" }}: {{ .Params.title_short }}</p>
     </header>
 
     {{ with .Params.lecture2go }}
@@ -24,16 +24,14 @@
     {{ with .Params.spotlight_interview }}
     <div class="accordion-wrapper">
       <details class="accordion-simple accordion-spotlight">
-          <summary>Informationen zur Interview-Reihe</summary>
-          <h3>Spotlight: Data Literacy Lehrlabor</h3>
-          <p>In unsere Reihe „Spotlight: Data Literacy Lehrlabor” sprechen wir mit Lehrpersonen, die mit ihren Lehrprojekten vom Digital and Data Literacy in Teaching Lab (kurz: DDLitLab) der Universität Hamburg gefördert wurden. Was waren die innovativen Ideen der Projekte? Was die besonderen didaktischen und inhaltliche Herausforderungen, aber auch Highlights? Und gibt es vielleicht konkrete Tipps für andere Lehrpersonen, die auch ein neues Lehr- projekt ins Leben rufen möchten und auf der Suche nach Erfahrungsberichten sind? Das und mehr klären wir bei unserem Blick auf und hinter die Kulissen. Spotlight an!</p>
-          <p><span class="highlight">Konzept & Produktion</span>: Julia Pawlowski, Sven Rehder, Simon Steinhauser, unterstützt von Laura Aguilera</p>
+          <summary>{{ i18n "spotlight_interview_info" }}</summary>
+          <h3>{{ i18n "spotlight_interview_title" }}</h3>
+          <p>{{ i18n "spotlight_interview_description" }}</p>
+          <p><span class="highlight">{{ i18n "concept_production" }}</span>: Julia Pawlowski, Sven Rehder, Simon Steinhauser, unterstützt von Laura Aguilera</p>
           {{/*  Digital and Data Literacy in Teaching Lab, Februar 2024/25  */}}
       </details>
     </div>
-    {{ end }}
-
-    {{ with .Params.quote }}
+    {{ end }}    {{ with .Params.quote }}
     <div class="blockquote">
       <p>"{{ . }}"</p>
     </div>
@@ -41,36 +39,36 @@
 
     <div class="article-info">
         {{ if eq .Section "lehrlabor" }}
-            <p><b>Beteiligte: {{ .Params.contributors }}</b></p>
+            <p><b>{{ i18n "participants" }}: {{ .Params.contributors }}</b></p>
         {{ else }}
-            <p><b>Studierende: {{ .Params.students }}</b></p>
+            <p><b>{{ i18n "students" }}: {{ .Params.students }}</b></p>
         {{ end }}
             <div></div>
-            <p>Runde {{ .Params.round }}</p>
+            <p>{{ i18n "round" }} {{ .Params.round }}</p>
             <p>{{ .Params.period }}</p>
         {{ with .Params.institution }}
             <p>{{ . }}</p>
         {{ end }}
         {{ with .Params.foerderlinie }}
-            <p>Förderlinie: {{ . }}</p>
+            <p>{{ i18n "funding_line" }}: {{ . }}</p>
         {{ end }}
         {{ with .Params.method }}
-            <p>Veranstaltungstyp: {{ . }}</p>
+            <p>{{ i18n "event_type" }}: {{ . }}</p>
         {{ end }}
         {{ with .Params.link_external }}
-            <a class="article-info-external" href="{{ . }}" target="_blank">Externe Webseite</a>
+            <a class="article-info-external" href="{{ . }}" target="_blank">{{ i18n "external_website" }}</a>
         {{ end }}
     </div> 
 
     {{ with .Params.stine }}
-        <a class="hover-fx article-stine-link" href="{{ . | safeHTML }}">Seminarbeschreibung im Vorlesungsverzeichnis der UHH</a>
+        <a class="hover-fx article-stine-link" href="{{ . | safeHTML }}">{{ i18n "course_description_uhh" }}</a>
     {{ end }}
 
     <div class="article-text">
         {{ .Params.text | markdownify }}
     </div>
 
-    <a class="hover-fx article-backref" href="/{{ .Section }}/">Zurück zur Übersicht</a>
+    <a class="hover-fx article-backref" href="/{{ .Section }}/">{{ i18n "back_to_overview" }}</a>
 
   </article>
 </main>

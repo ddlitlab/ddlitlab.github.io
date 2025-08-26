@@ -1,0 +1,38 @@
+- id: "project"
+  translation: "Project"
+
+- id: "spotlight_interview_title"
+  translation: "Spotlight: Data Literacy Lehrlabor"
+
+- id: "spotlight_interview_info"
+  translation: "Informationen zur Interview-Reihe"
+
+- id: "spotlight_interview_description"
+  translation: "In unsere Reihe 'Spotlight: Data Literacy Lehrlabor' sprechen wir mit Lehrpersonen, die mit ihren Lehrprojekten vom Digital and Data Literacy in Teaching Lab (kurz: DDLitLab) der Universität Hamburg gefördert wurden. Was waren die innovativen Ideen der Projekte? Was die besonderen didaktischen und inhaltliche Herausforderungen, aber auch Highlights? Und gibt es vielleicht konkrete Tipps für andere Lehrpersonen, die auch ein neues Lehr- projekt ins Leben rufen möchten und auf der Suche nach Erfahrungsberichten sind? Das und mehr klären wir bei unserem Blick auf und hinter die Kulissen. Spotlight an!"
+
+- id: "concept_production"
+  translation: "Konzept & Produktion"
+
+- id: "participants"
+  translation: "Beteiligte"
+
+- id: "students"
+  translation: "Studierende"
+
+- id: "round"
+  translation: "Runde"
+
+- id: "funding_line"
+  translation: "Förderlinie"
+
+- id: "event_type"
+  translation: "Veranstaltungstyp"
+
+- id: "external_website"
+  translation: "Externe Webseite"
+
+- id: "course_description_uhh"
+  translation: "Seminarbeschreibung im Vorlesungsverzeichnis der UHH"
+
+- id: "back_to_overview"
+  translation: "Zurück zur Übersicht"

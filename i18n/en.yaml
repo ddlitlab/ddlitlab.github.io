@@ -1,0 +1,38 @@
+- id: "project"
+  translation: "Project"
+
+- id: "spotlight_interview_title"
+  translation: "Spotlight: Data Literacy Teaching Lab"
+
+- id: "spotlight_interview_info"
+  translation: "Information about the Interview Series"
+
+- id: "spotlight_interview_description"
+  translation: "In our series 'Spotlight: Data Literacy Teaching Lab' we talk to teachers whose teaching projects were funded by the Digital and Data Literacy in Teaching Lab (DDLitLab) at the University of Hamburg. What were the innovative ideas of the projects? What were the special didactic and content-related challenges, but also highlights? And are there perhaps concrete tips for other teachers who also want to start a new teaching project and are looking for experience reports? We clarify this and more in our look at and behind the scenes. Spotlight on!"
+
+- id: "concept_production"
+  translation: "Concept & Production"
+
+- id: "participants"
+  translation: "Participants"
+
+- id: "students"
+  translation: "Students"
+
+- id: "round"
+  translation: "Round"
+
+- id: "funding_line"
+  translation: "Funding Line"
+
+- id: "event_type"
+  translation: "Event Type"
+
+- id: "external_website"
+  translation: "External Website"
+
+- id: "course_description_uhh"
+  translation: "Course Description in the University of Hamburg Course Catalog"
+
+- id: "back_to_overview"
+  translation: "Back to Overview"
