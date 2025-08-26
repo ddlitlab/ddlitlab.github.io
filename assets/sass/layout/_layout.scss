@@ -14,16 +14,6 @@ main section {
   grid-column: 2;
   place-items: center;
   position: relative;
-  // padding-bottom: 2rem;
-}
-
-.section-full-width {
-  display: grid;
-  grid-template-columns: subgrid;
-}
-
-.section-full-width img {
-  grid-column: 3;
 }
 
 main article {
