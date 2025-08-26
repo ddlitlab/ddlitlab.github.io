@@ -2,11 +2,11 @@ Unsortiert
 - Hyphens anpassen
 - Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)
 - das Fullscreen Bild auf der Abut-Seite macht Stress wenn man die Seite kleiner zieht
-- 404 page
 - codicon icons werden nicht geladen
 - Vergangene Veranstaltungen GKI-Community Grid richtig machen
 - Team-Kacheln: Bilder sollten gleich breit sein? aber erstmal neue Bilder einfügen
 - Timeline-Texte nochmal durchgehen
+- Projektseite static content from html übersetzen
 
 
 Navigation Links:

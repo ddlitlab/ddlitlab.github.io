@@ -176,21 +176,6 @@
 //     text-underline-offset: 0.3em;
 // }
 
-.grid-datenwelten-inhalte em {
-    @include highlight; 
-    font-style: normal;
-    font-weight: 500;
-    text-decoration-thickness: 0.15em;
-    text-underline-offset: 0.3em;
-}
-
-.dw-uebung-text-grid em {
-    @include highlight; 
-    font-style: normal;
-    font-weight: 500;
-    text-decoration-thickness: 0.15em;
-    text-underline-offset: 0.3em;
-}
 
 
 .datenwelten-inhalte-winter-meta {

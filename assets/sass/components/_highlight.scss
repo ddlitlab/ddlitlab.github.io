@@ -1,0 +1,39 @@
+.grid-datenwelten-inhalte em, 
+.dw-uebung-text-grid em, 
+.timeline-text em,
+.feature-highlight em,
+.article-text em,
+.about-text-wide em,
+.projekte-index-quote em,
+.highlight {
+    font-style: normal;
+    @include highlight; 
+    // font-weight: 500;
+    color: var(--black);
+}
+
+.grid-datenwelten-inhalte a, 
+.dw-uebung-text-grid a, 
+.timeline-text a,
+.feature-highlight a,
+.article-text a,
+.about-text-wide a,
+.projekte-index-quote a {
+    @include highlight;
+    color: var(--black);
+    text-decoration-color: var(--secondary-light);
+    margin-right: 1em;
+}
+
+.grid-datenwelten-inhalte a::after, 
+.dw-uebung-text-grid a::after, 
+.timeline-text a::after,
+.feature-highlight a::after,
+.article-text a::after,
+.about-text-wide a::after,
+.projekte-index-quote a::after {
+    content: "\ea9c";
+    font-family: 'codicon';
+    transform: rotate(-45deg);
+    position: absolute;
+}
