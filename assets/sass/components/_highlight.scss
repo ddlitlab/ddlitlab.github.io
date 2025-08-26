@@ -12,7 +12,8 @@
     color: var(--black);
 }
 
-.feature-highlight em {
+.feature-highlight em,
+.about-text-wide em {
     color: var(--black-light);
 }
 
@@ -27,6 +28,11 @@
     color: var(--black);
     text-decoration-color: var(--secondary-light);
     margin-right: 1em;
+}
+
+.about-text-wide a {
+    color: var(--black-light);
+    font-weight: 500;
 }
 
 .grid-datenwelten-inhalte a::after, 
