@@ -1,35 +1,11 @@
-.publications-section {
-  // background: linear-gradient(135deg, #f0f0f0 0%, #ffffff 100%);
-}
-
 .publication-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  width: 100%;
-  gap: 3rem;
-  margin-bottom: 4rem;
+  width: 90%;
+  gap: 2em;
+  margin-bottom: 2em;
+  font-size: 1.5rem;
 }
-
-@media (max-width: $breakpoint-tablet) {
-  .publication-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-// .publication-grid::before {
-//     background: no-repeat url("/images/Video-Hintergund_SVGs_Gesamt.svg");
-//     background-position: center center;
-//     background-repeat: no-repeat;
-//     background-size: contain; 
-//     position: absolute;
-//     content: '';
-//     width: 100vw;
-//     height: 100%;
-//     // top: 6vw;
-//     // right: 5vw;
-//     z-index: -1;
-// }
-
 
 .publication-card {
     color: var(--black-light);
@@ -38,16 +14,13 @@
     text-align: left;
     height: 100%;
     display: flex;
-    flex-direction: column;
-    // background: var(--white);
-    font-size: 1.5rem;
+    flex-direction: column;   
 }
 
 .publication-authors {
   text-transform: uppercase;
   letter-spacing: 0.03em;
   color: var(--black-light);
-
 }
 
 .publication-subtitle {
@@ -62,11 +35,6 @@
   font-weight: 1000;
   margin-left: 0.1em;
   vertical-align: -0.1em;
-}
-
-.publication-icon {
-  color: var(--primary);
-  font-size: 2rem !important;
 }
 
 .publication-date::before { 
@@ -91,8 +59,19 @@
   margin-top: 0.5em;
 }
 
-
 .publications-more {
   font-size: 1.6rem !important;
-  // text-transform: uppercase;
+}
+
+@media (max-width: $breakpoint-tablet) {
+  .publication-grid {
+    grid-template-columns: 1fr;
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: $breakpoint-mobile) {
+  .publication-grid {
+    font-size: 1rem;
+  }
 }

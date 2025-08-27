@@ -44,3 +44,20 @@ $o: .5*$l;
 .background-grey {
     background: linear-gradient(135deg, #f0f0f0 0%, #ffffff 100%);
 }
+
+.background-publications {
+    align-items: center;
+}
+
+.background-publications::before {
+    background: url("/illustrations/background/publications.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    position: absolute;
+    content: '';
+    width: 100vw;
+    left: -10%;
+    height: 100%;
+    z-index: -1;
+}
