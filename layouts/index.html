@@ -35,13 +35,13 @@
         <p class="section-subtitle">{{ .Params.goals.subtitle }}</p>
     </header>
     <div class="feature-highlight">
-      <div>
-        {{ .Params.goals.text | markdownify }}
-      </div>
       <figure>
         <img src="illustrations/hero/hero_adobe_ziele_vertikal.png" alt="An image showing project goals">
         {{/*  <figcaption>put image credits here</figcaption>  */}}
       </figure>
+      <div>
+        {{ .Params.goals.text | markdownify }}
+      </div>
     </div>
 </section>
 
@@ -62,13 +62,11 @@
       {{ range .Params.lehre_navi.items }}
       <div class="grid-lehre-navi-item">
         <h2>{{ .title }}</h2>
-        <p class="content-text">{{ .text }}</p>
-        <div>
-          <a class="hover-fx" href="{{ .link }}" target="_blank">
-            {{ .link_text }}
-            <i class='codicon codicon-arrow-right' style='font-size: 1rem; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>
-          </a>
-        </div>
+        <p>{{ .text }}</p>
+        <a class="link-hover" href="{{ .link }}" target="_blank">
+          {{ .link_text }}
+          <i class='codicon codicon-arrow-right' style='font-size: 1rem; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>
+        </a>
       </div>
       {{ end }}
     </div>
