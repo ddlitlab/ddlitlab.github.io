@@ -36,3 +36,12 @@
 
 - id: "back_to_overview"
   translation: "Back to Overview"
+
+- id: "publications"
+  translation: "Publications"
+- id: "lehre-navi"
+  translation: "Teaching-Navi"
+- id: "about"
+  translation: "About"
+- id: "imprint"
+  translation: "Imprint"

@@ -36,3 +36,12 @@
 
 - id: "back_to_overview"
   translation: "Zurück zur Übersicht"
+
+- id: "publications"
+  translation: "Publikationen"
+- id: "lehre-navi"
+  translation: "Lehre-Navi"
+- id: "about"
+  translation: "Über Uns"
+- id: "imprint"
+  translation: "Impressum"
