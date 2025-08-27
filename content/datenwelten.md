@@ -100,5 +100,4 @@ events:
     semesters:
         - 'Im Wintersemester'
         - 'Im Sommersemester'
-
 ---

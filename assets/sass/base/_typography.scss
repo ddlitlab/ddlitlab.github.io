@@ -18,22 +18,6 @@ html {
 }
 
 
-.highlight-icon {
-  @include highlight-icon;
-}
-
-// .highlight {
-//     @include highlight; 
-// }
-
-
-p.paragraph {
-  margin-bottom: 1em;
-}
-
-.text-secondary {
-  color: var(--secondary-darker);
-}
 
 .uppercase {
   text-transform: uppercase;

@@ -1,9 +1,8 @@
 Unsortiert
-- Hyphens anpassen
 - Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)
-- codicon icons werden nicht geladen
 - Vergangene Veranstaltungen GKI-Community Grid richtig machen
 - Timeline-Texte nochmal durchgehen
+-  datenwelten-event grids überarbeiten, list elemente statt divs
 
 
 Roadmap:
@@ -18,3 +17,15 @@ Roadmap:
 Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen
 
+
+
+
+Font-Sizes Index:
+
+hero-title 3rem
+hero-subtitle 1.3rem
+section-title 2rem
+section-subtitle 1.3rem
+navigation-cards 1.5rem
+goals-section 1.3rem
+text 1rem

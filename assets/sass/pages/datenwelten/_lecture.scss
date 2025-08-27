@@ -1,0 +1,82 @@
+.grid-datenwelten-inhalte {
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+    align-items: center;
+    gap: 0.5em;
+    text-align: left;
+}
+
+.datenwelten-inhalte {
+    display: grid;
+    grid-template-columns: 3fr 0.5fr 3fr;
+    grid-template-areas: 
+        "winter-meta winter winter"
+        "divider divider divider"
+        "sommer sommer sommer-meta";
+    place-items: center;
+    gap: 2em 4em;
+    padding: 2em 4em;
+    text-align: left;
+    hyphens: none;
+
+    h3 {
+        color: var(--black);
+        font-size: 2em;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        text-align: left;
+    }
+
+    &-text {
+        position: relative;
+
+        &::before {
+            content: "\eb70";
+            font-family: "codicon";
+            position: absolute;
+            left: -1em;
+            font-size: 3em;
+            line-height: 1;
+            @include highlight-icon;
+        }
+    }
+
+    &-divider {
+        grid-area: divider;
+        width: 30%;
+        height: 4px;
+        margin: 1em 0;
+        border: none;
+        background-color: var(--black-light);
+    }
+
+    &-winter-meta { grid-area: winter-meta; }
+    &-winter-content { grid-area: winter; }
+    &-sommer-content { grid-area: sommer; }
+    &-sommer-meta { grid-area: sommer-meta; }
+}
+
+@media (max-width: $breakpoint-mobile) {
+    .datenwelten-inhalte {
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+            "winter-meta"
+            "winter"
+            "sommer-meta"
+            "sommer";
+        gap: 2em;
+
+        &-text::before {
+            position: relative;
+            float: left;
+            left: 0;
+        }
+
+        &-winter-meta,
+        &-winter-content,
+        &-sommer-content,
+        &-sommer-meta {
+            width: 100%;
+        }
+    }
+}

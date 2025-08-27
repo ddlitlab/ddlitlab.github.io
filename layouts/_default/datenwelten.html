@@ -26,7 +26,7 @@
         </header>
         <div class="glass datenwelten-inhalte">
             <div class="datenwelten-inhalte-winter-meta">
-                <p class="dw-pretitle">{{ .Params.lecture.grid.winter.pretitle }}</p>
+                <p class="datenwelten-pretitle">{{ .Params.lecture.grid.winter.pretitle }}</p>
                 <h3>{{ .Params.lecture.grid.winter.title }}</h3>
                 <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.winter.text | markdownify }}</p>
                 <div><a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank">
@@ -42,7 +42,7 @@
             </div>
             <hr class="datenwelten-inhalte-divider">
             <div class="datenwelten-inhalte-sommer-meta">
-                <p class="dw-pretitle">{{ .Params.lecture.grid.sommer.pretitle }}</p>
+                <p class="datenwelten-pretitle">{{ .Params.lecture.grid.sommer.pretitle }}</p>
                 <h3>{{ .Params.lecture.grid.sommer.title }}</h3>
                 <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.sommer.text | markdownify }}</p>
                 <div><a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank">
@@ -65,7 +65,7 @@
     </section>
     
     
-    <section class="dw-uebung-section" id="exercise">
+    <section id="exercise">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.exercise.title }}</h1>
             <p class="section-subtitle">{{ .Params.exercise.subtitle }}</p>
@@ -73,14 +73,14 @@
         <figure class="image-full-page image-full-page-dw">
             <img src="/images/projekt/dw-uebung.png" alt="team picture">
         </figure>
-        <div class="dw-background">
-            <div class="glass dw-uebung-text-grid">
+        <div class="datenwelten-background">
+            <div class="glass datenwelten-uebung-text-grid">
                 {{ range .Params.exercise.grid }}
                 <p>{{ . | markdownify }}</p>
                 {{ end }}
             </div>
         </div>
-        <div class="logo-grid logo-grid-dw-uebung">
+        <div class="logo-grid logo-grid-datenwelten-uebung">
         <a href="https://www.r-project.org/">
           <img src="/images/logos-external/dw_R.svg" alt="R Logo">
         </a>
@@ -91,45 +91,45 @@
           <img src="/images/logos-external/dw_tidyverse.svg" alt="Tidyverse Logo">
         </a>
       </div>
-    <h2 class="dw-uebung-inhalte-header dw-pretitle">{{ .Params.exercise.illustration.title }}</h2>
-    <div class="dw-uebung-grid">
-        <div class="dw-uebung-content dw-uebung-grid-item-primary-light dw-uebung-grid-sommer">
-            <h3 class="dw-uebung-header">{{ .Params.exercise.illustration.winter.title }}</h3>
+    <h2 class="datenwelten-uebung-inhalte-header datenwelten-pretitle">{{ .Params.exercise.illustration.title }}</h2>
+    <div class="datenwelten-uebung-grid">
+        <div class="datenwelten-uebung-content datenwelten-uebung-grid-item-primary-light datenwelten-uebung-grid-sommer">
+            <h3 class="datenwelten-uebung-header">{{ .Params.exercise.illustration.winter.title }}</h3>
             <ul>
             {{ range .Params.exercise.illustration.winter.items }}
                 <li>{{ . }}</li>
             {{ end }}
             </ul>
-            <p class="uppercase dw-uebung-subheader">{{ .Params.exercise.illustration.winter.subtitle }}</p>
+            <p class="uppercase datenwelten-uebung-subheader">{{ .Params.exercise.illustration.winter.subtitle }}</p>
         </div>
-        <div class="dw-uebung-content dw-cycle-icon-coding  dw-uebung-grid-item-primary">
-            <h3 class="uppercase dw-uebung-header">{{ .Params.exercise.illustration.coding.title }}</h3>
+        <div class="datenwelten-uebung-content datenwelten-icon datenwelten-icon-coding  datenwelten-uebung-grid-item-primary">
+            <h3 class="uppercase datenwelten-uebung-header">{{ .Params.exercise.illustration.coding.title }}</h3>
             <ul>
             {{ range .Params.exercise.illustration.coding.items }}
                 <li>{{ . }}</li>
             {{ end }}
             </ul>
-            <p class="uppercase dw-uebung-subheader">{{ .Params.exercise.illustration.coding.subtitle }}</p>
+            <p class="uppercase datenwelten-uebung-subheader">{{ .Params.exercise.illustration.coding.subtitle }}</p>
         </div>
-        <div class="dw-uebung-content dw-uebung-grid-item-primary-light">
-            <h3 class="dw-uebung-header">{{ .Params.exercise.illustration.sommer.title }}</h3>
+        <div class="datenwelten-uebung-content datenwelten-uebung-grid-item-primary-light">
+            <h3 class="datenwelten-uebung-header">{{ .Params.exercise.illustration.sommer.title }}</h3>
             <ul>
             {{ range .Params.exercise.illustration.sommer.items }}
                 <li>{{ . }}</li>
             {{ end }}
             </ul>
-            <p class="uppercase dw-uebung-subheader">{{ .Params.exercise.illustration.sommer.subtitle }}</p>
+            <p class="uppercase datenwelten-uebung-subheader">{{ .Params.exercise.illustration.sommer.subtitle }}</p>
         </div>
-        <div class="dw-cycle-icon-tools dw-uebung-grid-item-secondary">
-            <h3 class="uppercase dw-uebung-header">{{ .Params.exercise.illustration.tools.title }}</h3>
+        <div class="datenwelten-icon datenwelten-icon-tools datenwelten-uebung-grid-item-secondary">
+            <h3 class="uppercase datenwelten-uebung-header">{{ .Params.exercise.illustration.tools.title }}</h3>
             <ul>
             {{ range .Params.exercise.illustration.tools.items }}
                 <li>{{ . }}</li>
             {{ end }}
             </ul>
         </div>
-        <div class="dw-cycle-icon-reflection dw-uebung-grid-item-secondary">
-            <h3 class="uppercase dw-uebung-header">{{ .Params.exercise.illustration.reflection.title }}</h3>
+        <div class="datenwelten-icon datenwelten-icon-reflection datenwelten-uebung-grid-item-secondary">
+            <h3 class="uppercase datenwelten-uebung-header">{{ .Params.exercise.illustration.reflection.title }}</h3>
             <ul>
             {{ range .Params.exercise.illustration.reflection.items }}
                 <li>{{ . }}</li>
@@ -141,21 +141,23 @@
     </section>
 
     <section id="datenwelten-events">
-        <div class="accordion-wrapper dw-accordion">
+        <div class="accordion-wrapper datenwelten-accordion">
             <details class="accordion-simple">
                 <summary class="accordion-events">{{ .Params.events.title }}</summary>
                 <div class="grid-datenwelten-events">
                     {{ range .Params.events.semesters }}
-                    <div><h2 class="dw-pretitle">{{ . }}</h2></div>
+                    <div><h2 class="datenwelten-pretitle">{{ . }}</h2></div>
                     {{ end }}
                     {{ range .Site.Data.datenwelten_events}}
                     <div>
                         <h3>{{ .semester }}</h3>
-                        {{ range .events }}
-                        <a class="hover-fx" href="{{ .link }}" target="_blank">
-                            <i class="codicon {{ .icon }}" style="float: left; margin-right: 0.3em"></i> {{ .title }}<i class='codicon codicon-arrow-right' style='transform: rotate(-45deg); font-size: 1em; font-weight: 1000;'></i>
-                        </a>
-                        {{ end }}
+                        <ul>
+                            {{ range .events }}
+                            <li><a class="hover-fx" href="{{ .link }}" target="_blank">
+                                <i class="codicon {{ .icon }}" style="float: left; margin-right: 0.3em"></i> {{ .title }}<i class='codicon codicon-arrow-right' style='transform: rotate(-45deg); font-size: 1em; font-weight: 1000;'></i>
+                            </a></li>
+                            {{ end }}
+                        </ul>
                     </div>
                     {{ end }}
                 </div>
