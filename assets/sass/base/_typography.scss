@@ -11,6 +11,12 @@ html {
   color: var(--black);
 }
 
+@media (max-width: $breakpoint-mobile) {
+  html {
+    font-size: 16px;
+  }
+}
+
 
 .highlight-icon {
   @include highlight-icon;
