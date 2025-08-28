@@ -1,43 +1,33 @@
-// complete navigation bar
 .navbar {
-    background-color: var(--white-dark);
-    background-color: #fff;
     color: var(--black);
     position: relative;
 
-    // overflow: hidden;
+    &::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        width: 0;
+        height: 4px;
+        background: var(--primary);
+        transition: all 0.7s ease;
+    }
+
+    &:has(.logo:hover)::after {
+        width: 100%;
+        left: 0;
+    }
 }
 
-.navbar::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 0;
-    height: 4px;
-    background: var(--primary);
-    // transition: width 0.3s ease 0s, left 0.3s ease 0s;
-    transition: all 0.7s ease;
-}
-
-.navbar:has(.logo:hover)::after {
-    width: 100%;
-    left: 0;
-}
-
-// container
 .nav-container {
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
-    // gap: 1rem;
     justify-content: space-between;
     align-items: center;
     background-color: inherit;
-    // height: 100%;
 }
 
-// logo on the left
 .logo {
     font-size: 1.5rem;
     font-weight: bold;
@@ -46,22 +36,15 @@
     display: flex;
     align-items: center;
     gap: 1rem;
-    padding: 0rem 0.5rem;
+    padding: 0 0.5rem;
     z-index: 1;
+
+    img {
+        height: 50px;
+    }
 }
 
-.logo img {
-    height: 50px;
-    border-radius: 0;
-}
-
-// hamburger menu for mobile/tablet
-// https://codepen.io/singhimalaya/pen/mNOJPM
 .hamburger {
-    width: 30px;
-    height: 30px;
-    position: relative;
-    cursor: pointer;
     display: none;
     flex-direction: column;
     justify-content: center;
@@ -69,89 +52,65 @@
     width: 50px;
     height: 50px;
     gap: 10px;
-}
+    cursor: pointer;
 
-// creates the three lines of the hamburger menu
-.hamburger div {
-    position: relative;
-    top: 0;
-    height: 12px;
-    width: 60px;
-    background-color: var(--black);
-    // margin-bottom: 12px;
-    transition: 0.3s ease transform, 0.3s ease top, 0.3s ease width,
-    0.3s ease right;
-    transition: all 0.5s ease;
-    border-radius: 2px; 
-    width: 100%;
-    height: 12px;
-    background: var(--black);
-    
-}
-
-#nav-toggle:checked + .hamburger div {
-    transform: rotateZ(90deg);
-}
-
-#nav-toggle:checked + .hamburger div:first-child {
-  transform-origin: -3px -3px;
-  transform: translateX(6px);
-  transform: rotateZ(90deg) + translateY(-16px);
-}
-
-#nav-toggle:checked + .hamburger div:nth-child(3) {
-    transform-origin: 100% 100%;
-    transform: rotateZ(90deg) + translateY(10px);
+    div {
+        width: 100%;
+        height: 12px;
+        background: var(--black);
+        border-radius: 2px;
+        transition: all 0.5s ease;
+    }
 }
 
 #nav-toggle {
     display: none;
+
+    &:checked + .hamburger div {
+        transform: rotateZ(90deg);
+
+        &:first-child {
+            transform-origin: -3px -3px;
+            transform: rotateZ(90deg) translateY(-16px) translateX(6px);
+        }
+
+        &:nth-child(3) {
+            transform-origin: 100% 100%;
+            transform: rotateZ(90deg) translateY(10px);
+        }
+    }
+
+    &:checked ~ .nav-links {
+        right: 0;
+    }
 }
 
-// navigation links
 .nav-links {
-    display: table-cell; 
-    position: relative; 
-    padding: 15px 0;
+    li {
+        display: inline-block;
+        padding: 1rem 0.2rem;
+    }
+
+    a {
+        color: #000;
+        text-decoration: none;
+        font-weight: 600;
+        display: inline-block;
+        padding: 0.7rem;
+        font-size: 1.3rem;
+    }
 }
 
-.nav-links li {
-    display: inline-block;
-    padding: 1rem 0.2rem;
-}
-
-.nav-links a {
-    color: #000;
-    text-decoration: none;
-    font-weight:600;
-    display: inline-block;
-    padding: 0.7rem;
-    position: relative;
-    font-size: 1.3rem;
-}
-
-
-// MOBILE
-@media screen and (max-height: 300px) {
-	ul {
-		margin-top: 40px;
-	}
-}
-
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: $breakpoint-navigation) {
     .navbar {
         padding: 1rem 2rem;
     }
+
     .hamburger {
-        display: block;
         display: flex;
         z-index: 2;
     }
-    
-    #nav-toggle:checked ~ .nav-links {
-        right: 0;
-    }
-    
+
     .nav-links {
         position: fixed;
         top: 0;
@@ -159,16 +118,15 @@
         width: 70%;
         height: 100vh;
         display: grid;
-        grid-template-rows: auto;
         gap: 0.5rem;
-        // background-color: var(--background-white);
+        background-color: var(--background-white);
         padding-top: 60px;
         transition: right 0.5s ease;
         z-index: 1;
         align-content: start;
-    }
-    
-    .nav-links li {
-        padding: 0 1rem;
+
+        li {
+            padding: 0 1rem;
+        }
     }
 }
