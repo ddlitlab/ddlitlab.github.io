@@ -29,10 +29,10 @@
                 <p class="datenwelten-pretitle">{{ .Params.lecture.grid.winter.pretitle }}</p>
                 <h3>{{ .Params.lecture.grid.winter.title }}</h3>
                 <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.winter.text | markdownify }}</p>
-                <div><a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank">
+                <a class="link-hover" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank">
                     {{ .Params.lecture.grid.link }}
                     <i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
-                </a></div>
+                </a>
             </div>
             <div class="grid-datenwelten-inhalte datenwelten-inhalte-winter-content">
                 {{ range .Params.lecture.grid.winter.content }}
@@ -45,10 +45,10 @@
                 <p class="datenwelten-pretitle">{{ .Params.lecture.grid.sommer.pretitle }}</p>
                 <h3>{{ .Params.lecture.grid.sommer.title }}</h3>
                 <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.sommer.text | markdownify }}</p>
-                <div><a class="hover-fx" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank">
+                <a class="link-hover" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank">
                     {{ .Params.lecture.grid.link }}
                     <i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
-                </a></div>
+                </a>
             </div>
             <div class="grid-datenwelten-inhalte datenwelten-inhalte-sommer-content">
                 {{ range .Params.lecture.grid.sommer.content }}
@@ -137,7 +137,7 @@
             </ul>
         </div>
     </div>
-    <a class="hover-fx datenwelten-uebung-link-external" href="" target="_blank"><i class="codicon codicon-github"></i> {{ .Params.exercise.repo }}</a>
+    <a class="link-hover datenwelten-uebung-link-external" href="" target="_blank"><i class="codicon codicon-github"></i> {{ .Params.exercise.repo }}</a>
     </section>
 
     <section id="datenwelten-events">
@@ -153,7 +153,7 @@
                         <h3>{{ .semester }}</h3>
                         <ul>
                             {{ range .events }}
-                            <li><a class="hover-fx" href="{{ .link }}" target="_blank">
+                            <li><a class="link-hover" href="{{ .link }}" target="_blank">
                                 <i class="codicon {{ .icon }}" style="float: left; margin-right: 0.3em"></i> {{ .title }}<i class='codicon codicon-arrow-right' style='transform: rotate(-45deg); font-size: 1em; font-weight: 1000;'></i>
                             </a></li>
                             {{ end }}

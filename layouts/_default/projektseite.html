@@ -61,14 +61,14 @@
     </div> 
 
     {{ with .Params.stine }}
-        <a class="hover-fx article-stine-link" href="{{ . | safeHTML }}">{{ i18n "course_description_uhh" }}</a>
+        <a class="link-hover article-stine-link" href="{{ . | safeHTML }}">{{ i18n "course_description_uhh" }}</a>
     {{ end }}
 
     <div class="article-text">
         {{ .Params.text | markdownify }}
     </div>
 
-    <a class="hover-fx article-backref" href="/{{ .Section }}/">{{ i18n "back_to_overview" }}</a>
+    <a class="link-hover article-backref" href="/{{ .Section }}/">{{ i18n "back_to_overview" }}</a>
 
   </article>
 </main>

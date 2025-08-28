@@ -32,6 +32,7 @@ i.icon-bullet {
     color: var(--black-light);
 }
 
+.article-info-external, 
 .grid-datenwelten-inhalte a, 
 .datenwelten-uebung-text-grid a, 
 .timeline-text a,
@@ -68,10 +69,11 @@ i.icon-bullet {
     text-decoration: none;
     color: inherit;
     font-weight: 600;
-    position: relative;
+    
     display: inline-block;
-    align-self: flex-start;
-    white-space: nowrap;
+    // align-self: flex-start;
+    // white-space: nowrap;
+    position: relative;
     padding: 0.5em;
 }
 
@@ -80,7 +82,7 @@ i.icon-bullet {
     bottom: 0;
     content: "";
     display: block;
-    height: 0.25em;
+    height: 0.25rem;
     left: 50%;
     position: absolute;
     background: var(--primary);

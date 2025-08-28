@@ -61,6 +61,10 @@
     }
 }
 
+.article-backref {
+    font-size: 1.3rem;
+}
+
 .article-backref,
 .article-stine-link {
     text-align: center;
@@ -98,7 +102,6 @@
 }
 
 .article-info-external {
-    text-decoration: none;
     color: var(--black);
 
     &::after {

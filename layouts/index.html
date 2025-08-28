@@ -20,7 +20,7 @@
     </header>
     <div class="navigation-cards-grid">
       {{ range .Params.navigation.items }}
-        <a class="navigation-cards-grid-item hover-fx" href="/{{ .link }}">
+        <a class="navigation-cards-grid-item link-hover" href="/{{ .link }}">
         <i class='codicon codicon-{{ .icon }}'></i>  
         <p>{{ .title | markdownify }}</p>
       </a>
