@@ -130,41 +130,7 @@
     font-size: 1.3rem;
 }
 
-a.hover-fx-text-intern {
-    color: var(--black);
-    text-decoration: none;
-    font-weight: 600;
-}
 
-a.hover-fx-text-intern:hover {
-    text-decoration: underline;
-    text-decoration-color: var(--primary);
-    text-decoration-thickness: 2px;
-}
-
-a.hover-fx-card {
-    text-decoration: none;
-    position: relative;
-}
-
-a.hover-fx-card::after {    
-  background: none repeat scroll 0 0 transparent;
-  bottom: 0;
-  content: "";
-  display: block;
-  height: 4px;
-  left: 50%;
-  position: absolute;
-  background: var(--primary);
-  // transition: width 0.3s ease 0s, left 0.3s ease 0s;
-  transition: all 0.7s ease;
-  width: 0;
-}
-
-a.hover-fx-card:hover::after { 
-  width: 100%; 
-  left: 0; 
-}
 
 
 // HOVER FX for link
@@ -227,7 +193,7 @@ a.hover-fx:hover:after {
         display: grid;
         grid-template-rows: auto;
         gap: 0.5rem;
-        background-color: var(--background-white);
+        // background-color: var(--background-white);
         padding-top: 60px;
         transition: right 0.5s ease;
         z-index: 1;

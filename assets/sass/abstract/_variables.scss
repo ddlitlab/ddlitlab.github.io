@@ -2,26 +2,12 @@
 
 $breakpoint-mobile: 480px;
 $breakpoint-tablet: 1024px;
-$spacing-desktop: 2.5rem;
-
-
 
 // Global CSS Variables
 :root {
-  --size-h1: 3rem;
-  --size-h1-p: 1.5rem;
-
-  --size-h2: 2.5rem;
-  --size-h2-p: 1.8rem;
-  --size-h2-mobile: 2rem;
-  --size-h2-p-mobile: 1.5rem;
-
-  --size-h3: 2rem;
-  --size-h4: 1.5rem;
-  --size-h5: 1.2rem;
-  // Colors
-  // --title-black: #333;
-  // --title-accent: #666;
+  --max-width: 1200px;
+  --transition-speed: 0.5s;
+  
   --shadow-color: rgba(0, 0, 0, 0.1);
 
   --black-full: #000;
@@ -34,66 +20,22 @@ $spacing-desktop: 2.5rem;
   --white-dark: #fafafa;
   --white-darker: #eee;
 
-
   --background-white: var(--primary-lighter);
 
-
-
-  //Colors David
-  //--primary: rgba(0, 183, 255, 1);;
-  //--primary-light: rgba(0, 183, 255, 0.8);
-  //--primary-lighter: rgba(0, 183, 255, 0.5);
-
-  //--secondary: rgba(255, 175, 0, 1);
-
- // --accent: rgba(255, 225, 0, 1);
-  //--accent-light: rgba(255, 225, 0, 0.5);
-  //--accent-lighter: rgba(255, 225, 0, 0.2);
-
-  
-  // Colors Julia
-  //Gelbes Theme
   --primary: rgb(255,225,0);;
-
   --primary-light: rgb(255,242,113);
   --primary-lighter: rgb(255,255,194);
   --primary-lightest: rgb(255, 255, 222);
-
   --primary-dark: rgb(255,205,0);
   --primary-darker: rgb(255,175, 0);
 
-  //Blaues Theme
-
   --secondary: rgb(0,183,255);;
-
   --secondary-light: rgb(124,222,255);
   --secondary-lighter: rgb(198,246,255);
-
   --secondary-dark: rgb(24,146,255);
   --secondary-darker: rgb(31,109,246);
 
-
- // Grazes Theme
   --grey-dark: RGB(60,60,60);
   --grey-mid: RGB(160,160,160);
   --grey-light: RGB(241,241,241);
-  
-
-
-  
-
-
-
-  // Spacing
-  --spacing-mobile: 1.5rem;
-  --spacing-tablet: 2rem;
-  --spacing-desktop: $spacing-desktop;
-  --border-radius-desktop: 15px;
-  --max-width: 1200px;
-
-  // Transitions
-  --transition-speed: 0.5s;
-
-  // Breakpoints
-  --breakpoint-mobile: $breakpoint-mobile;
 }
