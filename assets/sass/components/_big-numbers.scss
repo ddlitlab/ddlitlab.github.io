@@ -6,30 +6,26 @@
     margin: 0 20vw;
     color: var(--black);
     font-weight: 1000;
-    gap: 0px;
-    & p {
+    gap: 0;
+
+    p {
         text-transform: uppercase;
         font-size: clamp(1rem, 2.5vw, 3rem);
         margin: 0;
         letter-spacing: 0.1vw;
+
+        &:nth-child(1) { justify-self: start; }
+        &:nth-child(2) { justify-self: end; }
+        &:nth-child(3) { justify-self: center; }
     }
-    & span {
+
+    span {
         font-size: clamp(1.5rem, 5vw, 6rem);
     }
-    & p:nth-child(1) {
-        justify-self: start;
-    }
-    & p:nth-child(2) {
-        justify-self: end;
-    }
-    & p:nth-child(3) {
-        justify-self: center; 
-    }
 
-}
-
-.big-numbers i {
-    font-size: 2em !important;
-    transform: translateX(0.2em) translateY(0.25em);
-    display: inline-block !important;
+    i {
+        font-size: 2em !important;
+        transform: translate(0.2em, 0.25em);
+        display: inline-block !important;
+    }
 }

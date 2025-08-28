@@ -1,11 +1,23 @@
-// every accordion needs a div class="accordion-wrapper" around it
-
 .accordion-wrapper {
   width: 100%;
   margin: 0 auto;
 }
 
-// accordion-simple (simple style by Julia)
+details[class*="accordion"] {
+  font-size: 1rem;
+  
+  summary::marker,
+  ::-webkit-details-marker {
+    content: "+ ";
+    font-weight: 200;
+    font-size: 1.2em;
+    line-height: 1em;
+  }
+  
+  &[open] summary::marker {
+    content: "– ";
+  }
+}
 
 details.accordion-simple {
   border: 1px solid var(--black-lighter);
@@ -13,37 +25,21 @@ details.accordion-simple {
   color: var(--black-light);
 }
 
-details.accordion-simple:first-of-type summary::marker,
-details.accordion-simple ::-webkit-details-marker {
-  content: "+ ";
-  font-weight: 200;
-  font-size: 1.2em;
-  line-height: 1em;
-}
-
-details.accordion-simple[open]:first-of-type summary::marker {
-  content: "– ";
-}
-
-// accordion-spotlight (Lehrlabore / Studiprojekte Unterseiten)
-
 details.accordion-spotlight {
-  font-size: 1rem;
   margin-top: 1em;
+  
+  h3 {
+    text-transform: uppercase;
+    font-size: 1rem;
+    letter-spacing: 0.08em;
+    padding: 1em;
+  }
+  
+  p {
+    font-size: 0.8rem;
+    padding: 0 1em 1.5em;
+  }
 }
-
-details.accordion-spotlight h3 {
-  text-transform: uppercase;
-  font-size: 1rem;
-  letter-spacing: 0.08em;
-  padding: 1em 1em;
-}
-
-details.accordion-spotlight p {
-  font-size: 0.8rem;
-  padding: 0 1em 1.5em 1em;
-}
-
 
 details.accordion-timeline {
   padding: 0;
@@ -51,9 +47,9 @@ details.accordion-timeline {
 }
 
 .accordion-events {
-    font-size: 1rem;
-    font-weight: 500;
-    color: var(--black-lighter);
-    text-transform: uppercase;
-    letter-spacing: 0.15em;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--black-lighter);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
 }

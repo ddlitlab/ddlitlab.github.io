@@ -1,63 +1,58 @@
 .section-header {
     display: flex;
     flex-direction: column;
-    padding: 3rem 3rem;
+    padding: 3rem;
     text-align: center;
-    font-size: 2.5em;
     color: var(--black);
+
+    a {
+        text-decoration: none;
+        color: inherit;
+        display: block;
+
+        .section-title:hover::after {
+            background-color: var(--primary);
+        }
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        margin-top: 0;
+        padding: 1rem 0;
+        font-size: 1.8em;
+    }
 }
 
 .section-title {
     font-weight: bold;
     position: relative;
+    font-size: 2.5rem;
     margin-bottom: 1.2em;
     text-decoration: none;
-}
 
-.section-title::after {
-    content: "";
-    position: absolute;
-    bottom: -0.7em;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 120px;
-    height: 4px;
-    background-color: var(--black);
-    border-radius: 2px;
+    &::after {
+        content: "";
+        position: absolute;
+        bottom: -0.7em;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 120px;
+        height: 4px;
+        background-color: var(--black);
+        border-radius: 2px;
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        margin-bottom: 0.7rem;
+
+        &::after {
+            bottom: -0.25em;
+        }
+    }
 }
 
 .section-subtitle {
-    font-size: 0.7em;
+    font-size: 1.8rem;
     color: var(--black-light);
     font-weight: 600;
     line-height: 140%;
-}
-
-.section-header a {
-    text-decoration: none;
-    color: inherit;
-    display: block;
-}
-
-.section-header a .section-title:hover::after {
-    background-color: var(--primary);
-}
-
-@media (max-width: $breakpoint-mobile) { 
-  .section-header {
-    margin-top: 0;
-    padding: 1rem 0;
-  }
-
-  .section-title {
-      margin-bottom: 0.7rem; // modulize
-  }
-
-  .section-title::after {
-    bottom: -0.25em;
-  }
-
-  .section-header {
-    font-size: 1.8em;
-  }
 }
