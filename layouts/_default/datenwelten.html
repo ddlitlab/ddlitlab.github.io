@@ -93,7 +93,7 @@
       </div>
     <h2 class="datenwelten-uebung-inhalte-header datenwelten-pretitle">{{ .Params.exercise.illustration.title }}</h2>
     <div class="datenwelten-uebung-grid">
-        <div class="datenwelten-uebung-content datenwelten-uebung-grid-item-primary-light datenwelten-uebung-grid-sommer">
+        <div class="datenwelten-uebung-grid-item-winter">
             <h3 class="datenwelten-uebung-header">{{ .Params.exercise.illustration.winter.title }}</h3>
             <ul>
             {{ range .Params.exercise.illustration.winter.items }}
@@ -102,7 +102,7 @@
             </ul>
             <p class="datenwelten-uebung-subheader">{{ .Params.exercise.illustration.winter.subtitle }}</p>
         </div>
-        <div class="datenwelten-uebung-content datenwelten-icon datenwelten-icon-coding  datenwelten-uebung-grid-item-primary">
+        <div class="datenwelten-uebung-grid-item-coding">
             <h3 class="datenwelten-uebung-header datenwelten-uebung-header-uppercase">{{ .Params.exercise.illustration.coding.title }}</h3>
             <ul>
             {{ range .Params.exercise.illustration.coding.items }}
@@ -111,7 +111,7 @@
             </ul>
             <p class="datenwelten-uebung-subheader">{{ .Params.exercise.illustration.coding.subtitle }}</p>
         </div>
-        <div class="datenwelten-uebung-content datenwelten-uebung-grid-item-primary-light">
+        <div class="datenwelten-uebung-grid-item-summer">
             <h3 class="datenwelten-uebung-header">{{ .Params.exercise.illustration.sommer.title }}</h3>
             <ul>
             {{ range .Params.exercise.illustration.sommer.items }}
@@ -120,7 +120,7 @@
             </ul>
             <p class="datenwelten-uebung-subheader">{{ .Params.exercise.illustration.sommer.subtitle }}</p>
         </div>
-        <div class="datenwelten-icon datenwelten-icon-tools datenwelten-uebung-grid-item-secondary">
+        <div class="datenwelten-uebung-grid-item-tools">
             <h3 class="datenwelten-uebung-header datenwelten-uebung-header-uppercase">{{ .Params.exercise.illustration.tools.title }}</h3>
             <ul>
             {{ range .Params.exercise.illustration.tools.items }}
@@ -128,7 +128,7 @@
             {{ end }}
             </ul>
         </div>
-        <div class="datenwelten-icon datenwelten-icon-reflection datenwelten-uebung-grid-item-secondary">
+        <div class="datenwelten-uebung-grid-item-reflection">
             <h3 class="datenwelten-uebung-header datenwelten-uebung-header-uppercase">{{ .Params.exercise.illustration.reflection.title }}</h3>
             <ul>
             {{ range .Params.exercise.illustration.reflection.items }}
@@ -144,7 +144,7 @@
         <div class="accordion-wrapper datenwelten-accordion">
             <details class="accordion-simple">
                 <summary class="accordion-events">{{ .Params.events.title }}</summary>
-                <div class="grid-datenwelten-events">
+                <div class="grid-accordion-events">
                     {{ range .Params.events.semesters }}
                     <div><h2 class="datenwelten-pretitle">{{ . }}</h2></div>
                     {{ end }}

@@ -12,7 +12,13 @@
     
     img {
         height: 120px;
+
+        @media (max-width: $breakpoint-mobile) {
+            height: 80px;
+        }
     }
+
+    
 }
 
 .logo-grid-ddlitlab {

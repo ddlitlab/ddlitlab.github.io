@@ -53,3 +53,49 @@ details.accordion-timeline {
   text-transform: uppercase;
   letter-spacing: 0.15em;
 }
+
+
+.grid-accordion-events {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+    padding: 1em;
+    color: var(--black-light);
+    text-align: left;
+
+    &-column {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+    }
+
+    h2 {
+        width: 70%;
+    }
+
+    h3, a {
+        font-size: 0.8em;
+        color: var(--black-light);
+        margin-bottom: 0.3em;
+    }
+
+    h3 {
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+    }
+
+    a {
+        text-decoration: none;
+        font-weight: 300;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    ul {
+        list-style: none;
+    }
+
+  @media (max-width: $breakpoint-mobile) {
+        grid-template-columns: 1fr;
+    }
+}

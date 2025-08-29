@@ -2,7 +2,7 @@ Unsortiert
 - Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)
 - Vergangene Veranstaltungen GKI-Community Grid richtig machen
 - Timeline-Texte nochmal durchgehen
--  datenwelten-event grids überarbeiten, list elemente statt divs
+- datenwelten-event grids überarbeiten, list elemente statt divs
 
 
 Roadmap:

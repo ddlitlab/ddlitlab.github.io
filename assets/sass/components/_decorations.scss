@@ -94,3 +94,15 @@ i.icon-bullet {
     width: 100%; 
     left: 0; 
 }
+
+.datenwelten-pretitle {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--black-light);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    text-align: left;
+    border-top: 0.4em solid var(--primary-light);
+    width: 50%;
+    padding-top: 0.5em;
+}
