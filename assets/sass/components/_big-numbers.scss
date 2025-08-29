@@ -10,7 +10,7 @@
 
     p {
         text-transform: uppercase;
-        font-size: clamp(1rem, 2.5vw, 3rem);
+        font-size: clamp(1.5rem, 2.5vw, 3rem);
         margin: 0;
         letter-spacing: 0.1vw;
 
@@ -20,12 +20,17 @@
     }
 
     span {
-        font-size: clamp(1.5rem, 5vw, 6rem);
+        font-size: clamp(3rem, 5vw, 6rem);
     }
 
     i {
         font-size: 2em !important;
         transform: translate(0.2em, 0.25em);
         display: inline-block !important;
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        width: 90vw;
+        margin: 0 5vw;
     }
 }

@@ -3,6 +3,8 @@ Unsortiert
 - Vergangene Veranstaltungen GKI-Community Grid richtig machen
 - Timeline-Texte nochmal durchgehen
 - datenwelten-event grids überarbeiten, list elemente statt divs
+- das video bild geht nicht mehr
+
 
 
 Roadmap:

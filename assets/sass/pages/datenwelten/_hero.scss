@@ -7,6 +7,7 @@
 
     @media (max-width: $breakpoint-mobile) {
         grid-template-columns: 1fr;
+        gap: 1rem;
     }
 }
 
@@ -14,6 +15,10 @@
 .datenwelten-hero-right {
     font-size: 1.5rem;
     position: relative;
+
+    @media (max-width: $breakpoint-mobile) {
+        font-size: 1.2rem;
+    }
 }
 
 .datenwelten-hero-left {
@@ -21,17 +26,32 @@
     color: var(--black-light);
     width: 70%;
 
+    @media (max-width: $breakpoint-mobile) {
+        grid-column: 1;
+        width: 100%;
+    }
+
     p {
         font-weight: 500;
         border-top: 0.4em solid var(--primary-light);
         padding: 0.5em 0 0 1.7em;
         margin-left: 1em;
+
+        @media (max-width: $breakpoint-mobile) {
+            margin-left: 0;
+            padding-left: 0;
+        }
     }
 
     &::before {
         content: "\eb33";
         left: -3%;
         top: 17%;
+
+        @media (max-width: $breakpoint-mobile) {
+            left: 75%;
+            top: 55%;
+        }
     }
 
     &::after {
@@ -43,17 +63,30 @@
         left: 12%;
         top: -120%;
         z-index: -1;
+
+        @media (max-width: $breakpoint-mobile) {
+            left: 50%;
+        }
     }
 }
 
 .datenwelten-hero-right {
     grid-column: 2 / 4;
 
+    @media (max-width: $breakpoint-mobile) {
+        grid-column: 1;
+    }
+
     &::after {
         content: "\ebe2";
         left: -15%;
         top: 20%;
         font-size: 5em;
+
+        @media (max-width: $breakpoint-mobile) {
+            left: 75%;
+            top: 0%;
+        }
     }
 }
 
@@ -67,7 +100,6 @@
     }
 }
 
-// Shared pseudo-element styles
 .datenwelten-hero-left::before,
 .datenwelten-hero-right::after {
     font-family: "codicon";

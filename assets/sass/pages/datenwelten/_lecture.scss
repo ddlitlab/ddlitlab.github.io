@@ -14,14 +14,14 @@
         "divider divider divider"
         "sommer sommer sommer-meta";
     place-items: center;
-    gap: 2em 4em;
-    padding: 2em 4em;
+    gap: 2rem 4rem;
+    padding: 2rem 4rem;
     text-align: left;
     hyphens: none;
 
     h3 {
         color: var(--black);
-        font-size: 2em;
+        font-size: 2rem;
         text-transform: uppercase;
         letter-spacing: 0.05em;
         text-align: left;
@@ -68,12 +68,14 @@
             "winter"
             "sommer-meta"
             "sommer";
-        gap: 2em;
+        gap: 2rem 0;
+        padding: 1rem;
 
         &-text::before {
             position: relative;
             float: left;
             left: 0;
+            font-size: 1.5rem;
         }
 
         &-winter-meta,
@@ -81,6 +83,23 @@
         &-sommer-content,
         &-sommer-meta {
             width: 100%;
+        }
+
+        p.datenwelten-pretitle {
+            font-size: 1.1rem;
+        }
+
+        h3 {
+            font-size: 1.5rem;
+            letter-spacing: 0.05em;
+        }
+
+        a {
+            font-size: 1rem;
+        }
+
+        i.icon-bullet {
+            font-size: 1.5rem !important;
         }
     }
 }
