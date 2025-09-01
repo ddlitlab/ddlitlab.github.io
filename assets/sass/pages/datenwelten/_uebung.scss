@@ -130,16 +130,13 @@ $grid-items: (
     align-items: center;
     
     &::before {
-        background: url("/illustrations/background/background_datenwelten.svg") center center / contain no-repeat;
-        position: absolute;
         content: '';
-        width: 90vw;
-        height: 100%;
+        position: absolute;
+        width: 100%;
+        height: 180%;
+        top: -30%;
+        background: url("/illustrations/background/background_datenwelten.svg") no-repeat center/contain;
         z-index: -1;
-        
-        @media (max-width: $breakpoint-mobile) {
-            display: none;
-        }
     }
 }
 

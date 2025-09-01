@@ -64,21 +64,20 @@
         </div>
     </section>
     
+
+    <figure class="image-full-page datenwelten-background">
+        <img src="/images/projekt/dw-uebung.png" alt="team picture">
+    </figure>
     
     <section id="exercise">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.exercise.title }}</h1>
             <p class="section-subtitle">{{ .Params.exercise.subtitle }}</p>
         </header>
-        <figure class="image-full-page image-full-page-dw">
-            <img src="/images/projekt/dw-uebung.png" alt="team picture">
-        </figure>
-        <div class="datenwelten-background">
-            <div class="glass datenwelten-uebung-text-grid">
-                {{ range .Params.exercise.grid }}
-                <p>{{ . | markdownify }}</p>
-                {{ end }}
-            </div>
+        <div class="glass datenwelten-uebung-text-grid">
+            {{ range .Params.exercise.grid }}
+            <p>{{ . | markdownify }}</p>
+            {{ end }}
         </div>
         <div class="logo-grid logo-grid-datenwelten-uebung">
         <a href="https://www.r-project.org/">

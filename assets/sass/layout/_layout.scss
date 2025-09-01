@@ -17,6 +17,12 @@ main section {
   position: relative;
 }
 
+main figure {
+  grid-column: 1 / -1;
+  place-items: center;
+  position: relative;
+}
+
 main article {
     grid-column: 2;
     place-items: center;
