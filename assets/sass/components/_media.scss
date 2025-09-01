@@ -37,4 +37,8 @@
 .image-full-page {
     border-top: 0.5rem solid var(--primary-light);
     border-bottom: 0.5rem solid var(--primary-light);
+
+    &-about {
+        margin-top: 4rem;
+    }
 }

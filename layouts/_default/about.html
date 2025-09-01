@@ -1,13 +1,13 @@
 {{ define "main" }}
 <main>
+    <figure class="image-full-page image-full-page-about">
+            <img src="/images/team/_gruppenbild_cropped.jpg" alt="team picture">
+        </figure>
     <section>
         <header class="section-header">
             <h1 class="section-title">{{ .Params.hero.title }}</h1>
             <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
         </header>
-        <figure class="image-full-page">
-            <img src="/images/team/_gruppenbild_cropped.jpg" alt="team picture">
-        </figure>
         <article class="about-text-wide">
             <hr>
             {{ .Params.hero.text | markdownify }}

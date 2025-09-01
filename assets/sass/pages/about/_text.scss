@@ -1,7 +1,7 @@
 .about-text-wide {
     position: relative;
     width: 70%;
-    margin: 4rem 0 2rem;
+    margin-bottom: 2rem;
     font-size: 1.2rem;
     text-align: justify;
     color: var(--black-light);
@@ -19,7 +19,7 @@
 
     hr {
         border: none;
-        width: 70%;
+        width: 40%;
         height: 4px;
         background-color: var(--black-lightest);
         margin-bottom: 1em;
@@ -41,6 +41,32 @@
             &::first-line {
                 font-weight: 700;
             }
+        }
+    }
+
+    @media (max-width: $breakpoint-tablet) {
+        width: 85%;
+
+        &::before {
+            left: -10%;
+            top: -25%;
+            font-size: 150px;
+        }
+    }
+
+    @media (max-width: $breakpoint-footer) {
+        width: 100%;
+
+        &::before {
+            left: 0;
+            top: -10%;
+            font-size: 100px;
+        }
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        &::before {
+            display: none;
         }
     }
 }
