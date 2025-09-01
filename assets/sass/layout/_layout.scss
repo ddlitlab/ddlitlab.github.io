@@ -11,7 +11,8 @@ main {
   overflow: hidden;
 }
 
-main section {
+main section,
+main article {
   grid-column: 2;
   place-items: center;
   position: relative;
@@ -23,24 +24,15 @@ main figure.image-full-page {
   position: relative;
 }
 
-main article {
-    grid-column: 2;
-    place-items: center;
-}
-
-article {
-    display: flex;
-    flex-direction: column;
-}
-
+article,
 section {
-    display: flex;
-    flex-direction: column;
-    place-items: center;
+  display: flex;
+  flex-direction: column;
+  place-items: center;
 }
 
 img {
-    max-width: 100%;
-    height: auto; 
-    display: block; 
+  max-width: 100%;
+  height: auto; 
+  display: block; 
 }

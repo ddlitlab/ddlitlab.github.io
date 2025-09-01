@@ -3,35 +3,35 @@
     grid-template-columns: 1fr 1fr;
     place-items: center;
     gap: 2em;
-}
 
-.feature-highlight p {
-    text-align: left;
-    font-size: 1.5em;
-    color: var(--black-light);
-    margin-bottom: 0.5em;
-    padding-left: 2em;
-    position: relative;
-}
+    p {
+        text-align: left;
+        font-size: 1.5em;
+        color: var(--black-light);
+        margin-bottom: 0.5em;
+        padding-left: 2em;
+        position: relative;
 
-.feature-highlight p::before {
-    content: "\eb70";
-    font-family: "codicon";
-    position: absolute;
-    font-size: 2em;
-    left: 0;
-    top: 50%;
-    transform: translateY(-50%);
-    line-height: 1;
+        &::before {
+            content: "\eb70";
+            font-family: "codicon";
+            position: absolute;
+            font-size: 2em;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            line-height: 1;
+        }
+    }
 }
 
 @media (max-width: $breakpoint-mobile) {
     .feature-highlight {
         grid-template-columns: 1fr;
         gap: 1em;
-    }
 
-    .feature-highlight p {
-        font-size: 1.2em;
+        p {
+            font-size: 1.2em;
+        }
     }
 }
