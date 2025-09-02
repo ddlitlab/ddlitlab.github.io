@@ -1,0 +1,78 @@
+/* Optimized Roboto Font Loading - Only Load Actually Used Weights */
+
+/* roboto-300 - latin (Light) */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'),
+       local('Roboto-Light'),
+       url('/fonts/roboto-v48-latin/roboto-v48-latin-300.woff2') format('woff2');
+}
+
+/* roboto-regular - latin (400) */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'),
+       local('Roboto-Regular'),
+       url('/fonts/roboto-v48-latin/roboto-v48-latin-regular.woff2') format('woff2');
+}
+
+/* roboto-500 - latin (Medium) */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Roboto Medium'),
+       local('Roboto-Medium'),
+       url('/fonts/roboto-v48-latin/roboto-v48-latin-500.woff2') format('woff2');
+}
+
+/* roboto-600 - latin (Semi-bold) */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Roboto SemiBold'),
+       local('Roboto-SemiBold'),
+       url('/fonts/roboto-v48-latin/roboto-v48-latin-600.woff2') format('woff2');
+}
+
+/* roboto-700 - latin (Bold) */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'),
+       local('Roboto-Bold'),
+       url('/fonts/roboto-v48-latin/roboto-v48-latin-700.woff2') format('woff2');
+}
+
+/* roboto-900 - latin (Black) - for big numbers component */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Roboto Black'),
+       local('Roboto-Black'),
+       url('/fonts/roboto-v48-latin/roboto-v48-latin-900.woff2') format('woff2');
+}
+
+/* roboto-italic - latin (400 italic) */
+@font-face {
+  font-display: swap;
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Roboto Italic'),
+       local('Roboto-Italic'),
+       url('/fonts/roboto-v48-latin/roboto-v48-latin-italic.woff2') format('woff2');
+}

@@ -1,0 +1,47 @@
+# Performance optimization configuration for Hugo
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+
+[minify.tdewolff.html]
+  keepDocumentTags = true
+  keepSpecialComments = false
+
+[minify.tdewolff.css]
+  decimals = 3
+  keepCSS2 = true
+
+[minify.tdewolff.js]
+  decimals = 3
+
+[imaging]
+  resampleFilter = "Lanczos"
+  quality = 85
+  hint = "photo"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    maxAge = '1440h'  # 60 days
+  [caches.assets]
+    dir = ':cacheDir/assets'
+    maxAge = '720h'   # 30 days
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = 'github'
+    lineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    lineNumbersInTable = true
+    noClasses = true
+    tabWidth = 4
