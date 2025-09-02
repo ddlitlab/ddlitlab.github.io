@@ -33,11 +33,12 @@
         }
         
         @media (max-width: $breakpoint-mobile) {
-            padding: 3rem 1rem;
+            padding: 1rem 0;
         }
     }
     
     @media (max-width: $breakpoint-mobile) {
         grid-template-columns: 1fr;
+        gap: 0;
     }
 }

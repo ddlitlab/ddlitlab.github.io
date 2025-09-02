@@ -32,7 +32,7 @@
             <p class="section-subtitle">{{ .Params.timeline.subtitle }}</p>
         </header>
         
-        <ul class="timeline timeline-centered">
+        <ul class="timeline">
         {{ range .Params.timeline.items }}
         {{/*  {{ range $.Site.Data.timeline_ddlitlab.timeline }}  */}}
             {{ if eq .type "period" }}

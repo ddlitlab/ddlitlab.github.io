@@ -1,4 +1,7 @@
 Unsortiert
+
+- Timeline richtig anpassen
+
 - Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)
 - Vergangene Veranstaltungen GKI-Community Grid richtig machen
 - Timeline-Texte nochmal durchgehen
@@ -13,6 +16,70 @@ Roadmap:
 - animations desktop view
 - responsiveness: tablet view - mobile view
 
+
+
+
+Loading Optimization:
+===============================
+1. 🔤 Implement font preloading for critical fonts
+2. 📱 Enable CSS/JS minification in production
+3. 🖼️  Convert large images to WebP format
+4. 🚀 Add resource hints (preload, prefetch)
+5. 📦 Implement CSS critical path optimization
+6. 🗜️  Enable Brotli/Gzip compression on server
+
+🎯 Quick Wins Applied:
+======================
+✅ Font preloading partial created
+✅ Optimized font loading (removed unused weights)
+✅ CSS async loading implementation
+✅ Lazy loading for images
+✅ JavaScript optimization with modern techniques
+
+
+
+💡 Optimization Strategies:
+-------------------------
+1. Format Optimization:
+   • Convert large PNGs to JPEGs (if no transparency needed)
+   • Use WebP format for modern browsers
+   • Keep SVGs for icons and simple graphics
+
+2. Responsive Images:
+   • Implement srcset for different screen sizes
+   • Use Hugo's image processing features
+   • Create multiple sizes: 320w, 768w, 1024w, 1920w
+
+3. Lazy Loading:
+   • Add loading='lazy' to below-the-fold images
+   • Implement intersection observer for advanced lazy loading
+
+4. Hero Image Optimization:
+   • Preload critical hero images
+   • Use appropriate formats and sizes
+   • Consider CSS background-image for hero sections
+
+🛠️  Hugo Image Processing Example:
+--------------------------------
+<!-- Example of optimized image usage in Hugo templates -->
+{{ $image := resources.Get "images/hero.jpg" }}
+{{ $small := $image.Resize "320x" }}
+{{ $medium := $image.Resize "768x" }}
+{{ $large := $image.Resize "1024x" }}
+{{ $webp := $image.Resize "1024x webp" }}
+
+<picture>
+  <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+  <img src="{{ $large.RelPermalink }}"
+       srcset="{{ $small.RelPermalink }} 320w,
+               {{ $medium.RelPermalink }} 768w,
+               {{ $large.RelPermalink }} 1024w"
+       sizes="(max-width: 768px) 100vw, 
+              (max-width: 1024px) 50vw, 
+              33vw"
+       alt="Description"
+       loading="lazy">
+</picture>
 
 
 Nach Abschluss der Webseite

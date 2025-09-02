@@ -1,8 +1,8 @@
 .publication-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  width: 90%;
-  gap: 2em;
+  width: 100%;
+  gap: 2rem;
   margin-bottom: 2em;
   font-size: 1.5rem;
 }
@@ -90,5 +90,11 @@
 @media (max-width: $breakpoint-mobile) {
   .publication-grid {
     font-size: 1rem;
+    gap: 1.5rem;
+  }
+
+  .publications-more {
+    font-size: 1.2rem;
+    text-align: center;
   }
 }

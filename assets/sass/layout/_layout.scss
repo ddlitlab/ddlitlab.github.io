@@ -6,7 +6,7 @@ body {
 
 main {
   display: grid;
-  grid-template-columns: minmax(2rem, 1fr) minmax(0, var(--max-width)) minmax(2rem, 1fr);
+  grid-template-columns: minmax(1.5rem, 1fr) minmax(0, var(--max-width)) minmax(1.5rem, 1fr);
   row-gap: 2rem;
   overflow: hidden;
 }
