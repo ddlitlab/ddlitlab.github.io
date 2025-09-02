@@ -145,12 +145,35 @@
 }
 
 @media (max-width: $breakpoint-mobile) {
+    .article-project {
+        h1 {
+            font-size: 1.2rem;
+            margin-bottom: 1.6rem;
+
+            &::after {
+                bottom: -0.8em;
+            }
+        }
+
+        .section-subtitle {
+            font-size: 1rem;
+        }
+
+        .section-header {
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+    }
+    
     .article-text {
         text-align: left;
+        hyphens: none;
+        font-size: 1rem;
     }
 
     .article-info {
         grid-template-columns: 1fr;
-        text-align: center;
+        width: 100%;
+        margin: 0;
     }
 }

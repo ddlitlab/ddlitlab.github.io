@@ -19,13 +19,13 @@ details[class*="accordion"] {
   }
 }
 
-details.accordion-simple {
+.accordion-simple {
   border: 1px solid var(--black-lighter);
   padding: 0.5em;
   color: var(--black-light);
 }
 
-details.accordion-spotlight {
+.accordion-spotlight {
   margin-top: 1em;
   
   h3 {
@@ -41,7 +41,7 @@ details.accordion-spotlight {
   }
 }
 
-details.accordion-timeline {
+.accordion-timeline {
   padding: 0;
   border: none;
 }
@@ -105,5 +105,9 @@ details.accordion-timeline {
 @media (max-width: $breakpoint-mobile) {
   .datenwelten-events-pretitle {
     display: none;
+  }
+
+  .accordion-spotlight {
+    margin-top: 0;
   }
 }

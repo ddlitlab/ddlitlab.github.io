@@ -1,6 +1,7 @@
 Unsortiert
 
 - Timeline richtig anpassen
+- Datenwelten Hero auf Mobile ist noch nicht gut
 
 - Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)
 - Vergangene Veranstaltungen GKI-Community Grid richtig machen
