@@ -107,3 +107,26 @@ i.icon-bullet {
     width: 50%;
     padding-top: 0.5em;
 }
+
+// Base arrow icon class
+.arrow-icon {
+  transform: rotate(-45deg);
+  display: inline-block;
+  font-weight: 1000;
+  font-size: 1em; // default size
+  
+  // Size variations using modifiers
+  &--small {
+    font-size: 1rem;
+  }
+  
+  &--large {
+    font-size: 1.6rem;
+  }
+}
+
+// Left-floating icon for lists
+.icon-float-left {
+  float: left;
+  margin-right: 0.3em;
+}

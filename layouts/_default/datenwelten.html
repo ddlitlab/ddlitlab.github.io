@@ -31,7 +31,7 @@
                 <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.winter.text | markdownify }}</p>
                 <a class="link-hover" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank">
                     {{ .Params.lecture.grid.link }}
-                    <i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
+                    <i class='codicon codicon-arrow-right arrow-icon'></i>  
                 </a>
             </div>
             <div class="grid-datenwelten-inhalte datenwelten-inhalte-winter-content">
@@ -47,7 +47,7 @@
                 <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.sommer.text | markdownify }}</p>
                 <a class="link-hover" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank">
                     {{ .Params.lecture.grid.link }}
-                    <i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>  
+                    <i class='codicon codicon-arrow-right arrow-icon'></i>  
                 </a>
             </div>
             <div class="grid-datenwelten-inhalte datenwelten-inhalte-sommer-content">
@@ -153,7 +153,7 @@
                         <ul>
                             {{ range .events }}
                             <li><a class="link-hover" href="{{ .link }}" target="_blank">
-                                <i class="codicon {{ .icon }}" style="float: left; margin-right: 0.3em"></i> {{ .title }}<i class='codicon codicon-arrow-right' style='transform: rotate(-45deg); font-size: 1em; font-weight: 1000;'></i>
+                                <i class="codicon {{ .icon }} icon-float-left"></i> {{ .title }}<i class='codicon codicon-arrow-right arrow-icon'></i>
                             </a></li>
                             {{ end }}
                         </ul>

@@ -48,7 +48,7 @@
 <section id="home-lehre-navi">
     <header class="section-header">
           <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank" alt="UHH Lehre-Navi">
-            <h1 class="section-title">{{ .Params.lehre_navi.title }}<i class='codicon codicon-arrow-right' style='font-size: 1em; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i></h1>
+            <h1 class="section-title">{{ .Params.lehre_navi.title }}<i class='codicon codicon-arrow-right arrow-icon'></i></h1>
           </a>
           <p class="section-subtitle">{{ .Params.lehre_navi.subtitle }}</p>
       </header>
@@ -65,7 +65,7 @@
         <p>{{ .text }}</p>
         <a class="link-hover" href="{{ .link }}" target="_blank">
           {{ .link_text }}
-          <i class='codicon codicon-arrow-right' style='font-size: 1rem; transform: rotate(-45deg); display: inline-block; font-weight: 1000'></i>
+          <i class='codicon codicon-arrow-right arrow-icon--small'></i>
         </a>
       </div>
       {{ end }}

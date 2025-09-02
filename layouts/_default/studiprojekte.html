@@ -27,7 +27,7 @@
     <div class="projekte-grid">
         {{ range .Pages }}
             <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-sf-{{ .Params.round}}"
-            style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center; min-height: 200px;"
+            style="background-image: url('{{ .Params.image }}');"
             >
                 <div>
                     <h2>{{ .Params.title_short }}</h2>

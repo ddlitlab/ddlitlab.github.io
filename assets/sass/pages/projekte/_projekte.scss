@@ -68,6 +68,10 @@
     transition: all var(--transition-speed) ease;
     overflow: hidden;
     
+    background-size: cover; 
+    background-position: center; 
+    min-height: 200px;
+    
     h2 {
         font-size: 1.2em;
         padding: 0.5rem 1rem;
