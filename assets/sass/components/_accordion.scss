@@ -97,5 +97,13 @@ details.accordion-timeline {
 
   @media (max-width: $breakpoint-mobile) {
         grid-template-columns: 1fr;
+        padding: 0 1rem;
     }
+}
+
+
+@media (max-width: $breakpoint-mobile) {
+  .datenwelten-events-pretitle {
+    display: none;
+  }
 }

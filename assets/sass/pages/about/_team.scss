@@ -90,39 +90,38 @@
 
 @media (max-width: $breakpoint-footer) {
     .team-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
         width: 100%;
     }
 }
 
 @media (max-width: $breakpoint-mobile) {
     .team-grid {
-        grid-template-columns: 1fr;
+        // grid-template-columns: 1fr;
         width: 100%;
         gap: 1.5rem;
     }
 
     .team-card-content {
-        padding: 0.5rem 1rem;
+        padding: 1.5rem 1rem;
 
         h2 {
             font-size: 1.2rem;
+            margin-bottom: 0.5rem;
         }
 
         p {
             font-size: 0.9rem;
         }
 
-
-
         ul {
             display: none;
         }
     }
     
-    .team-card:has(img) {
-        grid-column: span 1;
-    }
+    // .team-card:has(img) {
+    //     grid-column: span 1;
+    // }
 }
 
 

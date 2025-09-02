@@ -71,7 +71,7 @@
 
         &:first-child {
             transform-origin: -3px -3px;
-            transform: rotateZ(90deg) translateY(-16px) translateX(6px);
+            transform: rotateZ(90deg) translateY(-16px);
         }
 
         &:nth-child(3) {
@@ -103,7 +103,7 @@
 
 @media screen and (max-width: $breakpoint-navigation) {
     .navbar {
-        padding: 1rem 2rem;
+        padding: 1rem 1rem;
     }
 
     .hamburger {

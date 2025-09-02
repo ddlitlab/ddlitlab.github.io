@@ -26,19 +26,19 @@
     
     img {
         padding: 2rem 4rem;
-        height: 200px;
+        height: 100px;
         
         @media (max-width: $breakpoint-tablet) {
             padding: 2rem;
         }
         
         @media (max-width: $breakpoint-mobile) {
-            padding: 1rem 0;
+            padding: 0;
         }
     }
     
     @media (max-width: $breakpoint-mobile) {
         grid-template-columns: 1fr;
-        gap: 0;
+        gap: 2rem;
     }
 }

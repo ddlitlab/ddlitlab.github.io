@@ -10,7 +10,7 @@
         </div>
         <div class="datenwelten-hero-right">
             <p class="datenwelten-hero-answer">{{ .Params.hero.right.first }}</p>
-            <p class="datenwelten-hero-answer-sub">{{ .Params.hero.right.second }}</p>
+            <p>{{ .Params.hero.right.second }}</p>
         </div>
     </div>
     <div class="wide-movie-container">
@@ -144,7 +144,7 @@
                 <summary class="accordion-events">{{ .Params.events.title }}</summary>
                 <div class="grid-accordion-events">
                     {{ range .Params.events.semesters }}
-                    <div><h2 class="datenwelten-pretitle">{{ . }}</h2></div>
+                    <div><h2 class="datenwelten-pretitle datenwelten-events-pretitle">{{ . }}</h2></div>
                     {{ end }}
                     {{ range .Site.Data.datenwelten_events}}
                     <div>

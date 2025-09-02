@@ -113,7 +113,7 @@ i.icon-bullet {
   transform: rotate(-45deg);
   display: inline-block;
   font-weight: 1000;
-  font-size: 1em; // default size
+  font-size: 1em !important; // default size
   
   // Size variations using modifiers
   &--small {

@@ -2,10 +2,12 @@
 .projekte-index-quote {
     padding: 2rem 4rem 6rem 4rem;
     position: relative;
+    font-size: 1.2rem;
     
     p {
-        font-size: 1.2rem;
         text-align: justify;
+        hyphens: auto;
+        margin-bottom: 0.5em;
     }
     
     &::after {
@@ -16,6 +18,12 @@
         width: 50%;
         border-bottom: 0.5rem solid var(--primary);
     }
+
+    @media (max-width: $breakpoint-mobile) {
+        padding: 2rem 0;
+        font-size: 1rem;
+    }
+
 }
 
 // Quote icons
@@ -24,10 +32,19 @@
     &::before {
         position: absolute;
         font-family: 'codicon';
-        top: 10%;
-        right: -5%;
-        font-size: 200px;
+        top: -40%;
+        right: 5%;
+        font-size: 10em;
         color: rgba(0,0,0,0.1);
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        &::before {
+            top: -12%;
+            right: 0%;
+            font-size: 6em;
+        }
+
     }
 }
 
@@ -53,6 +70,7 @@
     
     @media (max-width: $breakpoint-mobile) {
         grid-template-columns: 1fr;
+        margin: 3rem 0 2rem 0;
     }
 }
 
@@ -114,6 +132,10 @@
         &:hover {
             transform: translateY(-0.25em);
         }
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        grid-template-columns: 1fr 1fr;
     }
 }
 

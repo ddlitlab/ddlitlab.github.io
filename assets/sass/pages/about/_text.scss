@@ -65,7 +65,14 @@
     }
 
     @media (max-width: $breakpoint-mobile) {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+
         &::before {
+            display: none;
+        }
+
+        hr {
             display: none;
         }
     }
