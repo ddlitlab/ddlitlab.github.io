@@ -1,32 +1,31 @@
 {{ define "main" }}
 
-<main>
-  <section>
-    <header class="hero-section">
-      <div class="hero-content">
-        <h1>{{ .Params.hero.title }}</h1>
-        <p>{{ .Params.hero.subtitle }}</p>
-      </div>
-      <figure class="hero-image">
-        <img src="illustrations/hero/hero_adobe_main-hero.png"  alt="Hero Image">
-      </figure>
-    </header>
-  </section>
-
-  <section id="home-navigation">
-    <header class="section-header">
-        <h1 class="section-title">{{ .Params.navigation.title }}</h1>
-        <p class="section-subtitle">{{ .Params.navigation.subtitle }}</p>
-    </header>
-    <div class="navigation-cards-grid">
-      {{ range .Params.navigation.items }}
-        <a class="navigation-cards-grid-item link-hover" href="/{{ .link }}">
-        <i class='codicon codicon-{{ .icon }}'></i>  
-        <p>{{ .title | markdownify }}</p>
-      </a>
-      {{ end }}
+<section>
+  <header class="hero-section">
+    <div class="hero-content">
+      <h1>{{ .Params.hero.title }}</h1>
+      <p>{{ .Params.hero.subtitle }}</p>
     </div>
-  </section>
+    <figure class="hero-image">
+      <img src="illustrations/hero/hero_adobe_main-hero.png"  alt="Hero Image showing a person working with a smartphone">
+    </figure>
+  </header>
+</section>
+
+<section id="home-navigation">
+  <header class="section-header">
+      <h1 class="section-title">{{ .Params.navigation.title }}</h1>
+      <p class="section-subtitle">{{ .Params.navigation.subtitle }}</p>
+  </header>
+  <div class="navigation-cards-grid">
+    {{ range .Params.navigation.items }}
+      <a class="navigation-cards-grid-item link-hover" href="/{{ .link }}">
+      <i class='codicon codicon-{{ .icon }}'></i>  
+      <p>{{ .title | markdownify }}</p>
+    </a>
+    {{ end }}
+  </div>
+</section>
 
 
 <section id="home-goals">
@@ -36,7 +35,7 @@
     </header>
     <div class="feature-highlight">
       <figure>
-        <img src="illustrations/hero/hero_adobe_ziele_vertikal.png" alt="An image showing project goals">
+        <img src="illustrations/hero/hero_adobe_ziele_vertikal.png" alt="Infographic showing DDLitLab project goals: digital literacy, research, and education">
         {{/*  <figcaption>put image credits here</figcaption>  */}}
       </figure>
       <div>
@@ -47,7 +46,7 @@
 
 <section id="home-lehre-navi">
     <header class="section-header">
-          <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank" alt="UHH Lehre-Navi">
+          <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank" title="UHH Lehre-Navi">
             <h1 class="section-title">{{ .Params.lehre_navi.title }}<i class='codicon codicon-arrow-right arrow-icon'></i></h1>
           </a>
           <p class="section-subtitle">{{ .Params.lehre_navi.subtitle }}</p>
@@ -55,7 +54,7 @@
     
     
     <figure class="image-area-horizontal">
-      <img src="illustrations/hero/hero_adobe_lehre-navi.png" alt="UHH Lehre-Navi">
+      <img src="illustrations/hero/hero_adobe_lehre-navi.png" alt="University of Hamburg Lehre-Navi platform illustration">
     </figure>
 
     <div class="grid-lehre-navi">
@@ -63,9 +62,9 @@
       <div class="grid-lehre-navi-item">
         <h2>{{ .title }}</h2>
         <p>{{ .text }}</p>
-        <a class="link-hover" href="{{ .link }}" target="_blank">
+        <a class="link-hover" href="{{ .link }}" target="_blank" rel="noopener noreferrer">
           {{ .link_text }}
-          <i class='codicon codicon-arrow-right arrow-icon--small'></i>
+          <i class='codicon codicon-arrow-right arrow-icon--small' aria-hidden="true"></i>
         </a>
       </div>
       {{ end }}
@@ -73,6 +72,5 @@
 
 </section>
 
-</main>
 
 {{ end }}

@@ -3,23 +3,23 @@
 {{ end -}}
 
 <header class="main-header">
-  <nav class="navbar">
+  <nav class="navbar" role="navigation" aria-label="Main navigation">
     <div class="nav-container">
 
       <a class="logo" href="{{ .Site.Home.RelPermalink }}">
-        <img src="{{ .Site.Params.mainMenuLogo | relURL }}" alt="logo">
+        <img src="{{ .Site.Params.mainMenuLogo | relURL }}" alt="DDLitLab logo">
         {{ .Site.Title }}
       </a>
       
-      <input type="checkbox" id="nav-toggle">
+      <input type="checkbox" id="nav-toggle" aria-hidden="true">
       
-      <label for="nav-toggle" class="hamburger">
+      <label for="nav-toggle" class="hamburger" aria-label="Toggle navigation menu">
         <div></div>
         <div></div>
         <div></div>
       </label>
       
-      <ul class="nav-links">
+      <ul class="nav-links" role="menubar" aria-label="Main navigation menu">
         {{- $current := . -}}
         {{- $section := $current.Section -}}
         {{ range .Site.Menus.main -}}
@@ -28,9 +28,9 @@
         {{- $active = or $active (and (eq .Name ($section | humanize)) (eq $current.Section $section)) -}}
         {{/*  {{- $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog" "contributors")) -}}  */}}
         
-        <li>
-          <a class="link-hover" href="{{ .URL | relLangURL }}" 
-            {{- if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer"{{ end -}}
+        <li role="none">
+          <a class="link-hover" href="{{ .URL | relLangURL }}" role="menuitem"
+            {{- if hasPrefix .URL "http" }} target="_blank" rel="noopener noreferrer" aria-label="{{ .Name }} (opens in new tab)"{{ else }} aria-label="{{ .Name }}"{{ end -}}
             {{ with .Title }} title='{{ . }}'{{ end }}>
             {{ .Name }} {{ .Pre }}
           </a>

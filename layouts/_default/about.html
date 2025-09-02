@@ -1,7 +1,6 @@
 {{ define "main" }}
-<main>
     <figure class="image-full-page image-full-page-about">
-            <img src="/images/team/_gruppenbild_cropped.jpg" alt="team picture">
+            <img src="/images/team/_gruppenbild_cropped.jpg" alt="Team picture of the DDLitLab">
         </figure>
     <section>
         <header class="section-header">
@@ -15,13 +14,13 @@
         </article>
         <div class="logo-grid logo-grid-ddlitlab">
             <a href="https://www.uni-hamburg.de/">
-            <img src="/images/logos-external/partner_uhh.svg" alt="UHH Logo">
+            <img src="/images/logos-external/partner_uhh.svg" alt="University of Hamburg logo">
             </a>
             <a href="https://stiftung-hochschullehre.de/">
-            <img src="/images/logos-external/partner_stil.svg" alt="Stil Logo">
+            <img src="/images/logos-external/partner_stil.svg" alt="Stiftung für Innovation in der Hochschullehre Logo">
             </a>
             <a href="https://www.uni-hamburg.de/exzellenz.html">
-            <img src="/images/logos-external/partner_exzellenz.png" alt="Exzellenz Logo">
+            <img src="/images/logos-external/partner_exzellenz.png" alt="Excellence Strategy of the Federal and State Governments logo">
             </a>
         </div>    
     
@@ -104,7 +103,7 @@
             <p class="section-subtitle">{{ .Params.publications.subtitle }}</p>
         </header>
         <figure class="image-area-horizontal">
-            <img src="/illustrations/hero/hero_adobe_publications.png" alt="Publications">
+            <img src="/illustrations/hero/hero_adobe_publications.png" alt="Illustration showing a laptop and hands">
         </figure>
         <div class="publication-grid">
         {{ range .Params.publications.items }}
@@ -125,5 +124,4 @@
     </section>
 
     {{ .Content }}
-</main>
 {{ end }}

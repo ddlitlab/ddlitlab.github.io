@@ -1,5 +1,4 @@
 {{ define "main" }}
-<main>
     <section>
     <header class="section-header">
         <h1 class="section-title">{{ .Params.hero.title }}</h1>
@@ -29,9 +28,9 @@
                 <p class="datenwelten-pretitle">{{ .Params.lecture.grid.winter.pretitle }}</p>
                 <h3>{{ .Params.lecture.grid.winter.title }}</h3>
                 <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.winter.text | markdownify }}</p>
-                <a class="link-hover" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank">
+                <a class="link-hover" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank" rel="noopener noreferrer">
                     {{ .Params.lecture.grid.link }}
-                    <i class='codicon codicon-arrow-right arrow-icon'></i>  
+                    <i class='codicon codicon-arrow-right arrow-icon' aria-hidden="true"></i>
                 </a>
             </div>
             <div class="grid-datenwelten-inhalte datenwelten-inhalte-winter-content">
@@ -45,9 +44,9 @@
                 <p class="datenwelten-pretitle">{{ .Params.lecture.grid.sommer.pretitle }}</p>
                 <h3>{{ .Params.lecture.grid.sommer.title }}</h3>
                 <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.sommer.text | markdownify }}</p>
-                <a class="link-hover" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank">
+                <a class="link-hover" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank" rel="noopener noreferrer">
                     {{ .Params.lecture.grid.link }}
-                    <i class='codicon codicon-arrow-right arrow-icon'></i>  
+                    <i class='codicon codicon-arrow-right arrow-icon' aria-hidden="true"></i>
                 </a>
             </div>
             <div class="grid-datenwelten-inhalte datenwelten-inhalte-sommer-content">
@@ -66,7 +65,7 @@
     
 
     <figure class="image-full-page datenwelten-background">
-        <img src="/images/projekt/dw-uebung.png" alt="team picture">
+        <img src="/images/projekt/dw-uebung.png" alt="Data science exercises in the Datenwelten course">
     </figure>
     
     <section id="exercise">
@@ -166,5 +165,4 @@
 
 {{ .Content }}
 
-</main>
 {{ end }}

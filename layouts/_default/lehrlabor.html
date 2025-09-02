@@ -1,42 +1,40 @@
 {{ define "main" }}
-    <main>
-    {{ .Content }}
+{{ .Content }}
 
-    <section>
-    <header class="section-header">
-        <h1 class="section-title">{{ .Title }}</h1>
-        <p class="section-subtitle">{{ .Params.subtitle }}</p>
-    </header>
+<section>
+<header class="section-header">
+    <h1 class="section-title">{{ .Title }}</h1>
+    <p class="section-subtitle">{{ .Params.subtitle }}</p>
+</header>
 
-    <div class="projekte-index-quote projekte-index-quote-lehrlabor">
-        <p>{{ .Params.text | markdownify }}</p>
-    </div>
+<div class="projekte-index-quote projekte-index-quote-lehrlabor">
+    <p>{{ .Params.text | markdownify }}</p>
+</div>
 
-    <input type="radio" id="ll-spotlights" name="filter" checked>
-    <input type="radio" id="ll-runde1" name="filter">
-    <input type="radio" id="ll-runde2" name="filter">
-    <input type="radio" id="ll-runde3" name="filter">
-    
-    <div class="projekte-filter">
-        <label for="ll-spotlights">{{ .Params.filter1 }}</label>
-        <label for="ll-runde1">{{ .Params.filter2 }}</label>
-        <label for="ll-runde2">{{ .Params.filter3 }}</label>
-        <label for="ll-runde3">{{ .Params.filter4 }}</label>
-    </div>
+<input type="radio" id="ll-spotlights" name="filter" checked>
+<input type="radio" id="ll-runde1" name="filter">
+<input type="radio" id="ll-runde2" name="filter">
+<input type="radio" id="ll-runde3" name="filter">
 
-    <div class="projekte-grid">
-        {{ range .Pages }}
-            <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-ll-{{ .Params.filter}}"
-            style="background-image: url('{{ .Params.image }}');"
-            >
-                <div>
-                    <h2>{{ .Params.title_short }}</h2>
-                    <p>{{ .Params.title }}</p>
-                </div>
-            </a>
-        {{ end }}
-    </div>
+<div class="projekte-filter">
+    <label for="ll-spotlights">{{ .Params.filter1 }}</label>
+    <label for="ll-runde1">{{ .Params.filter2 }}</label>
+    <label for="ll-runde2">{{ .Params.filter3 }}</label>
+    <label for="ll-runde3">{{ .Params.filter4 }}</label>
+</div>
 
-    </section>
-    </main>
+<div class="projekte-grid">
+    {{ range .Pages }}
+        <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-ll-{{ .Params.filter}}"
+        style="background-image: url('{{ .Params.image }}');"
+        >
+            <div>
+                <h2>{{ .Params.title_short }}</h2>
+                <p>{{ .Params.title }}</p>
+            </div>
+        </a>
+    {{ end }}
+</div>
+
+</section>
 {{ end }}

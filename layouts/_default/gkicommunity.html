@@ -1,38 +1,35 @@
 {{ define "main" }}
-<main>
-    <section>
-        <header class="section-header">
-            <h1 class="section-title">{{ .Params.hero.title }}</h1>
-            <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
-        </header>
-    
-    </section>
+<section>
+    <header class="section-header">
+        <h1 class="section-title">{{ .Params.hero.title }}</h1>
+        <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
+    </header>
 
-    <section>
-        <div class="accordion-wrapper">
-            <details class="accordion-simple">
-                <summary class="accordion-events">{{ .Params.events.title }}</summary>
-                <div class="grid-accordion-events">
-                    {{ range .Params.events.columns }}
-                    <div class="grid-accordion-events-column">
-                        <h2 class="datenwelten-pretitle">{{ .title }}</h2>
-                        {{ range $index, $item := .items }}
-                        <div>
-                            <h3>{{ $item.date }}</h3>
-                            <p>#{{ add $index 1 }} {{ $item.title }}</p>
-                        </div>
-                        {{ end }}
+</section>
+
+<section>
+    <div class="accordion-wrapper">
+        <details class="accordion-simple">
+            <summary class="accordion-events">{{ .Params.events.title }}</summary>
+            <div class="grid-accordion-events">
+                {{ range .Params.events.columns }}
+                <div class="grid-accordion-events-column">
+                    <h2 class="datenwelten-pretitle">{{ .title }}</h2>
+                    {{ range $index, $item := .items }}
+                    <div>
+                        <h3>{{ $item.date }}</h3>
+                        <p>#{{ add $index 1 }} {{ $item.title }}</p>
                     </div>
                     {{ end }}
                 </div>
-            </details>
-        </div>
-    </section>
+                {{ end }}
+            </div>
+        </details>
+    </div>
+</section>
 
-    <section>
-        {{ .Content }}
+<section>
+{{ .Content }}
+</section>
 
-    </section>
-
-</main>
 {{ end }}
