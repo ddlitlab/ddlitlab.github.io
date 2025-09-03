@@ -2,6 +2,7 @@
     list-style: none;
     width: 100%;
     hyphens: none;
+    margin-left: 0;
 }
 
 .timeline-item {
@@ -114,9 +115,20 @@
     }
 }
 
+@media (min-width: $breakpoint-mobile) {
+    .timeline {
+        margin-left: 4rem;
+    }
+}
+
 @media (min-width: $breakpoint-footer) {
     .timeline {
+        margin-left: 0;
         display: table;
+
+        .timeline-title {
+            font-size: 1.6rem;
+        }
         
         .timeline-item {
             display: table-row;
@@ -220,7 +232,7 @@
             }
             
             .timeline-marker:after {
-                height: 30px;
+                height: 24;
                 bottom: 0;
                 top: auto;
             }
@@ -229,5 +241,11 @@
                 left: auto;
             }
         }
+    }
+}
+
+@media (min-width: $breakpoint-tablet) {
+    .timeline-title {
+        font-size: 2rem;
     }
 }

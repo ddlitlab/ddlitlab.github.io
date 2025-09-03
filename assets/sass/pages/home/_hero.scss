@@ -38,12 +38,23 @@
     }
 }
 
-@media (max-width: $breakpoint-mobile) {
+@media (max-width: $breakpoint-tablet) {
     .hero-section {
         grid-template-columns: 1fr;
+        grid-template-areas: "content" "image";
         grid-template-areas: "image" "content";
-        margin-top: 2em;
+        margin-top: 2rem;
     }
+    .hero-content {
+        width: 90%;
+        text-align: center;
+    }
+    .hero-image {
+        width: 70%;
+    }
+}
+
+@media (max-width: $breakpoint-mobile) {
     .hero-content h1 {
         font-size: 2.5em;
         margin-bottom: 0.3em;

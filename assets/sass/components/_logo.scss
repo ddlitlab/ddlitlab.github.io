@@ -1,6 +1,5 @@
 .logo-grid {
     display: grid;
-    align-items: center;
     width: 80%;
     place-items: center;
 }
@@ -23,22 +22,19 @@
 
 .logo-grid-ddlitlab {
     grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
     
     img {
-        padding: 2rem 4rem;
-        height: 100px;
-        
-        @media (max-width: $breakpoint-tablet) {
-            padding: 2rem;
-        }
-        
+        height: 8rem;
+
         @media (max-width: $breakpoint-mobile) {
-            padding: 0;
+            height: 6rem;
+            gap: 2rem;
         }
     }
     
-    @media (max-width: $breakpoint-mobile) {
+    @media (max-width: $breakpoint-tablet) {
         grid-template-columns: 1fr;
-        gap: 2rem;
+        gap: 4rem;
     }
 }

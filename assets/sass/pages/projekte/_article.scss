@@ -1,5 +1,13 @@
 .article-project {
     gap: 2em;
+
+    .section-title {
+        font-size: clamp(1.2rem, 4vw, 2.5rem);
+    }
+
+    .section-subtitle {
+        font-size: clamp(1rem, 3vw, 1.8rem);
+    }
 }
 
 .article-text {
@@ -146,21 +154,8 @@
 
 @media (max-width: $breakpoint-mobile) {
     .article-project {
-        h1 {
-            font-size: 1.2rem;
-            margin-bottom: 1.6rem;
-
-            &::after {
-                bottom: -0.8em;
-            }
-        }
-
         h2 {
             font-size: 1.2rem;
-        }
-
-        .section-subtitle {
-            font-size: 1rem;
         }
 
         .section-header {

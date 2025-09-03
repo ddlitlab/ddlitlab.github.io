@@ -11,6 +11,10 @@
         height: 100%;
         background: url("/illustrations/background/background_video.svg") no-repeat center/contain;
         z-index: -1;
+
+        @media (max-width: $breakpoint-tablet) {
+            width: 130vw;
+        }
     }
 
     @media (max-width: $breakpoint-mobile) {
@@ -28,9 +32,13 @@
     aspect-ratio: 16/9;
     box-shadow: 2vw 2vw 0 -1vw var(--primary);
 
+    @media (max-width: $breakpoint-tablet) {
+        width: 80vw;
+        box-shadow: 1.5rem 1.5rem 0 -1rem var(--primary);
+    }
+
     @media (max-width: $breakpoint-mobile) {
         width: 90vw;
-        box-shadow: 1.5rem 1.5rem 0 -1rem var(--primary);
     }
 }
 

@@ -84,13 +84,20 @@
   .publication-grid {
     grid-template-columns: 1fr;
     font-size: 1.2rem;
+    width: 80%
+  }
+}
+
+@media (max-width: $breakpoint-footer) {
+  .publication-grid {
+    width: 100%;
+        gap: 1.5rem;
   }
 }
 
 @media (max-width: $breakpoint-mobile) {
   .publication-grid {
     font-size: 1rem;
-    gap: 1.5rem;
   }
 
   .publications-more {

@@ -2,11 +2,11 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     place-items: center;
-    gap: 2em;
+    gap: 2rem;
 
     p {
         text-align: left;
-        font-size: 1.5em;
+        font-size: 1.5rem;
         color: var(--black-light);
         margin-bottom: 0.5em;
         padding-left: 2em;
@@ -25,10 +25,27 @@
     }
 }
 
-@media (max-width: $breakpoint-mobile) {
+@media (max-width: $breakpoint-tablet) {
     .feature-highlight {
         grid-template-columns: 1fr;
         gap: 1rem;
+
+        figure {
+            width: 60%;
+        }
+
+        p {
+            font-size: 1.4rem;
+        }
+    }
+}
+
+@media (max-width: $breakpoint-mobile) {
+    .feature-highlight {
+
+        figure {
+            width: 100%;
+        }
 
         p {
             font-size: 1.2rem;

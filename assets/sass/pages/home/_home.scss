@@ -5,10 +5,6 @@
     img {
         width: 70%;
         margin: 0 auto;
-        
-        @media (max-width: $breakpoint-mobile) {
-            width: 100%;
-        }
     }
 }
 
@@ -17,12 +13,6 @@
     grid-template-columns: repeat(3, 1fr);
     column-gap: 3em;
     margin-bottom: 1em;
-    
-    @media (max-width: $breakpoint-mobile) {
-        grid-template-columns: 1fr;
-        column-gap: 0;
-        row-gap: 2em;
-    }
 }
 
 .grid-lehre-navi-item {
@@ -47,9 +37,22 @@
         margin-top: auto;
         font-size: 1.2rem;
         display: inline-block;
-        
-        @media (max-width: $breakpoint-mobile) {
-            margin: 0 auto;
-        }
+    }
+}
+
+// Media Queries
+@media (max-width: $breakpoint-footer) {
+    .image-area-horizontal img {
+        width: 100%;
+    }
+    
+    .grid-lehre-navi {
+        grid-template-columns: 1fr;
+        column-gap: 0;
+        row-gap: 2em;
+    }
+    
+    .grid-lehre-navi-item a {
+        margin: 0 auto;
     }
 }

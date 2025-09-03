@@ -34,7 +34,7 @@
     box-shadow: 0 4px 18px 0 rgba(255, 175, 0, 0.50); 
 }
 
-@media (max-width: $breakpoint-tablet) {
+@media (max-width: $breakpoint-navigation) {
     .navigation-cards-grid {
         grid-template-columns: 1fr 1fr;
     }
