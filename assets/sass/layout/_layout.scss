@@ -6,9 +6,16 @@ body {
 
 main {
   display: grid;
-  grid-template-columns: minmax(1.5rem, 1fr) minmax(0, var(--max-width)) minmax(1.5rem, 1fr);
+  grid-template-columns: minmax(4rem, 1fr) minmax(0, var(--max-width)) minmax(4rem, 1fr);
   row-gap: 2rem;
   overflow: hidden;
+
+  @media (max-width: $breakpoint-footer) {
+    grid-template-columns: 2rem auto 2rem;
+  }
+  @media (max-width: $breakpoint-mobile) {
+    grid-template-columns: 1.5rem auto 1.5rem;
+  }
 }
 
 main section,
