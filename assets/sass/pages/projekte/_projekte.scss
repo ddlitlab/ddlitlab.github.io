@@ -1,8 +1,12 @@
 // Quote section
 .projekte-index-quote {
-    padding: 2rem 4rem 6rem 4rem;
+    padding: 2rem 0;
     position: relative;
     font-size: 1.2rem;
+    // max-width: var(--max-width);
+    // display: grid;
+    // grid-template-columns: 1fr 1fr;
+    // gap: 2rem;
     
     p {
         text-align: justify;
@@ -20,7 +24,6 @@
     }
 
     @media (max-width: $breakpoint-mobile) {
-        padding: 2rem 0;
         font-size: 1rem;
     }
 
