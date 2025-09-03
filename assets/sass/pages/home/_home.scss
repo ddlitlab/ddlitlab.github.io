@@ -31,21 +31,21 @@
     flex-direction: column;
     
     h2 {
-        font-size: 1.6em;
+        font-size: 1.6rem;
         margin-bottom: 0.5em;
         padding-top: 0.5em;
         border-top: 0.3em solid var(--primary-light);
     }
     
     p {
-        font-size: 1.2em;
+        font-size: 1.2rem;
         color: var(--black-light);
         margin-bottom: 0.5em;
     }
     
     a {
         margin-top: auto;
-        font-size: 1.2em;
+        font-size: 1.2rem;
         display: inline-block;
         
         @media (max-width: $breakpoint-mobile) {
