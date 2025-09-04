@@ -51,14 +51,18 @@
         line-height: 130%;
     }
     
-    @media (max-width: $breakpoint-mobile) {
-        width: 100%;
+    @media (max-width: $breakpoint-footer) {
+        width: 80%;
         grid-template-columns: 1fr 1fr;
         grid-template-areas: 
             "coding coding"      
             "winter summer"      
             "tools tools"        
             "reflection reflection"; 
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        width: 100%;
     }
 }
 
@@ -115,7 +119,7 @@ $grid-items: (
     align-content: space-between;
     padding: 2rem;
     
-    @media (max-width: $breakpoint-mobile) {
+    @media (max-width: $breakpoint-footer) {
         grid-template-columns: 1fr;
         gap: 1em;
         padding: 1rem;

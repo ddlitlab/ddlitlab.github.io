@@ -10,7 +10,10 @@
 }
 
 section {
-    animation: appear linear;
-    animation-timeline: view();
-    animation-range: entry 20% cover 30%;
+    /* give the animation a duration and fill-mode so it actually runs */
+    animation: appear 600ms ease-out both;
+    /* remove experimental properties unless you explicitly want a scroll-linked animation */
+    /* animation-timeline: view();
+       animation-range: entry 20% cover 30%; */
 }
+// ...existing code...

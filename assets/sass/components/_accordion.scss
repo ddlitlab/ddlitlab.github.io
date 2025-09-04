@@ -95,14 +95,14 @@ details[class*="accordion"] {
         list-style: none;
     }
 
-  @media (max-width: $breakpoint-mobile) {
+  @media (max-width: $breakpoint-footer) {
         grid-template-columns: 1fr;
         padding: 0 1rem;
     }
 }
 
 
-@media (max-width: $breakpoint-mobile) {
+@media (max-width: $breakpoint-footer) {
   .datenwelten-events-pretitle {
     display: none;
   }

@@ -12,7 +12,7 @@
     img {
         height: 120px;
 
-        @media (max-width: $breakpoint-mobile) {
+        @media (max-width: $breakpoint-footer) {
             height: 80px;
         }
     }
