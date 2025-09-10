@@ -136,7 +136,7 @@ team:
             - "Veranstaltungsorganisation"
         - name: "David Jacobs" 
           title: "Wissenschaftlicher Mitarbeiter (DLE)"
-          image: "/images/team/david.png"
+          image: "/images/team/jacobs-david.jpg"
           description:
             - "Koordination Datenwelten & DLE-Koordination im Bereich Jupyter"
         - name: "Sören-Kristian Berger"
@@ -147,14 +147,14 @@ team:
 
         - name: "Mareike Bartels"
           title: "Wissenschaftliche Mitarbeiterin (DUTy)"
-          image: "/images/team/default-character.png"
+          image: "/images/team/bartels-mareike.jpg"
           description:
             - "Medientechnische LandingPage-Konzeption"
             - "Explikation von Erfahrungen und Wissen Lehrender aus der Lehrentwicklung"
             - "Netzwerkarbeit und Koordination der Zusammenarbeit mit Partner:innen"
         - name: "Julia Pawlowski"
           title: "Wissenschaftliche Mitarbeiterin (DUTy)"
-          image: "/images/team/pawlowski_julia.png"
+          image: "/images/team/pawlowski_julia.jpg"
           description:
             - "Visuelle Aufbereitung und Gestaltung von Lehrmaterialien"
             - "Visuelle (Wissenschafts-)Kommunikation in digitalen Angeboten"
