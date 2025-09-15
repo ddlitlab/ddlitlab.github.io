@@ -20,6 +20,66 @@ studierende:
       items:
         - 'Bias und Fairness: Wie beeinflussen Stereotype generative KI? mit Prof. Dr. Anne Lauscher'
         - '„Wie wird eigentlich zu generativer KI geforscht?“ mit Prof. Dr. Anne Lauscher'
+    podcast:
+      title: 'Podcast-Reihe: Generative KI an der Universität Hamburg'
+      text: |
+        In diesem Podcast sprechen wir mit *Expert:innen von der Universität Hamburg* über das Thema generative KI. Wir, das sind Mareike Bartels und Jennifer Preiß vom DUTy-Team des DDLitLab. In unseren Gesprächen versuchen wir offene Fragen zum Thema generative KI in Studium und Lehre zu beantworten: Wie *funktioniert* das? Was *darf* man? Welche *Limitationen* gibt es? Warum soll ich mich damit *beschäftigen*? 
+        
+        Diese und viele weitere Fragen werden in den verschiedenen Folgen mit unterschiedlichen Ansprechpartner:innen thematisiert. Und alle erzählen dabei auch ein bisschen über sich und ihre Aufgaben und Forschungsgebiete an der Universität Hamburg.
+    numbers:
+        - '<span>18</span> Informationsvideos<i class="codicon codicon-mortar-board"></i>'
+        - '<span>XX</span> durchgeführte Workshops<i class="codicon codicon-rocket"></i>'
+        - '<span>12</span> Podcast-Folgen mit Expert:innen der UHH<i class="codicon codicon-coffee"></i>'
+    workshops:
+      title: 'Workshops für Studierende der UHH'
+      text: |
+        Die Einführung von generativen KI-Tools wie ChatGPT hat im Hochschulkontext zu einer großen Verunsicherung geführt. Viele Studierende nutzen die Tools bislang gar nicht, manche sind unsicher, was erlaubt ist und andere nutzen sie womöglich bereits intensiv für das Studium, ohne genau über Funktionsweise und Grenzen informiert zu sein.
+        
+        In diesem Workshop sind die *Grundlagen* des Einsatzes von generativer KI im Studiumskontext das Thema. Gemeinsam betrachten wir verschiedene Tools hinsichtlich ihrer Funktionsweise, Möglichkeiten und Grenzen. Ziel ist es, dass die Teilnehmenden anschließend für sich geklärt haben, ob und wie sie generative KI in ihrem Studium einsetzen wollen – und dadurch auch *andere Studierende* in dieser Entscheidung begleiten können. Dafür basiert ein großer Teil des Workshops auf Austausch unter den Teilnehmenden, weshalb er sich an Anfänger:innen, aber auch an erfahrenere gKI-Nutzende richtet.
+      list_title: 'Workshopinhalte:'
+      list_items:
+        - Funktionsweise von generativer KI
+        - Verschiedene Tools fürs Studium
+        - (Rechtliche) Limitationen
+        - Möglichkeiten und Grenzen
+        - Persönliches Fazit
+    guide:
+      title: 'KI-Guide für Studierende: „You are the expert!“'
+      text: |
+        Außerdem haben wir entlang von ermittelnden Bedarfen der Studierenden eine Handreichung erstellt, in der auf nur zwei Seiten die *wichtigsten DO‘s and DON‘Ts*, aber auch wesentliche Funktionsweisen von KI und ihrem Einsatz im Studium zusammengefasst sind. Der Guide wurde im Herbst 2025 veröffentlicht. 
+        
+        Und in unserer Video-Reihe „KI Hands-On“ geben wir praktische Tipps zur *konkreten Nutzung* mit gKI-Tools im Studium und für die eigene Hausarbeit.
+
+lehrende:
+    title: 'Für eine zukunftsfähige Hochschullehre'
+    subtitle: 'Sich zu KI qualifizieren und vernetzen'
+    text: |
+      Unsere KI-Community für Lehrende bringt Menschen zusammen, die den digitalen Wandel aktiv mitgestalten. In Workshops und Netzwerktreffen stehen praktische Fragen, konkrete Tools und der offene Austausch im Mittelpunkt.
+
+      Generative KI-Tools wie ChatGPT und Co. werfen nicht nur an der Universität Hamburg viele Fragen auf – von grundlegenden Zielen der Hochschulbildung über *neue praktische Gestaltungsmöglichkeiten* der eigenen Lehre bis hin zu konkreten prüfungsrechtlichen Aspekten. Unsere Veranstaltungsreihe und *Community of Practice* „KI Hands-On“ nimmt genau solche Aspekte in den Blick. 
+      
+      Beim KI Hands-On waren stets Personen aller Fakultäten und Einrichtungen willkommen. Die Veranstaltung profitierte vom *interdisziplinärem Austausch* und erfreute sich stets über eine große Teilnehmendenzahlen. Entstanden ist auch eine *Mailingliste* mit über 185 eingetragenen, interessierten Lehrpersonen aus der UHH, die regelmäßig über Veranstaltungen informiert werden.
+
+publikationen:
+    title: 'Drei Jahre, drei Erhebungen –<br> über 1.500 Stimmen aus der UHH'
+    subtitle: 'Die Umfrage „ChatGPT & Me“'
+    text: |
+      Wie nutzen Studierende und Lehrende KI? Über 1.500 Mitglieder der UHH haben ihre Perspektive auf KI geteilt –die Grundlage für bedarfsgerechte Angebote. Wie verändert generative KI den Hochschulalltag?
+      
+      ## Eine Umfrage an Studierende und Lehrende
+
+      Seit dem Sommer 2023 haben wir mit jährlichen Umfragen erfasst, wie Studierende und Lehrende der Universität Hamburg generative KI im Studium und in der Lehre nutzen – und welche Herausforderungen ihnen dabei begegnen. Die Ergebnisse bilden eine *zentrale Grundlage* für die Entwicklung bedarfsgerechter Unterstützungsangebote an der UHH. 
+      
+      Was als spontane Reaktion auf den Hype um ChatGPT begann, hat sich zu einem *festen Baustein* unserer hochschulischen Beobachtungspraxis entwickelt:
+
+      - 2023 starteten wir mit einer <a href="https://www.fdr.uni-hamburg.de/record/13403" target="_blank">ersten explorativen Befragung</a> – die Resonanz war überwältigend.
+      - 2024 konnten wir auf Basis der <a href="https://www.fdr.uni-hamburg.de/record/15968" target="_blank">zweiten Erhebung</a> bereits Entwicklungstendenzen sichtbar machen und erste Vergleichszahlen zu anderen Hochschulen einordnen.
+      - 2025 setzten wir die Reihe fort und richten den Fokus unter anderem auf die Nutzung von UHHGPT, der datenschutzkonformen ChatGPT-Version für alle Uniangehörigen.
+      
+      Unsere Studien beleuchten nicht nur, wie KI-Tools konkret eingesetzt werden, sondern auch, welche *Fragen, Unsicherheiten und Haltungsdilemmata* damit einhergehen. Das Ziel: Ein datenbasierter Einblick in die Lebensrealität von Studierenden und Lehrenden – als Ausgangspunkt für Reflexion, Gestaltung und hochschuldidaktische Entwicklung. Die Ergebnisse der ersten beiden Erhebungen wurden in mehreren wissenschaftlichen Publikationen aufgearbeitet.
+
+
+
 
 
 events:
@@ -55,49 +115,3 @@ events:
           date: 'Mai 2025'
 
 ---
-
-
-## KI verstehen, nutzen, reflektieren – Studierende im Umgang mit KI stärken 
-
-Wie kann man KI sinnvoll im Studium nutzen? Eine interaktive Website, eine praxisnahe Handreichung und ein vielseitiges Workshopkonzept unterstützen Studierende dabei, KI-Technologien reflektiert zu nutzen. 
-
-## Für eine zukunftsfähige Hochschullehre – sich zu KI qualifizieren und vernetzen 
-
-Unsere KI-Community für Lehrende bringt Menschen zusammen, die den digitalen Wandel aktiv mitgestalten. In Workshops und Netzwerktreffen stehen praktische Fragen, konkrete Tools und der offene Austausch im Mittelpunkt. 
-
-## Vielseitige Perspektiven, große Resonanz  
-
-Die Beteiligung in Workshops und Netzwerktreffen zeigt: Der Bedarf an Austausch, Orientierung und Handlungsfähigkeit im Umgang mit KI ist groß. Mehr als 1.500 Rückmeldungen in unseren Umfragen zur Lebensrealität mit KI an der UHH spiegeln das breite Interesse und den Wunsch nach gemeinsamer Weiterentwicklung. 
-
-[für die Grafik: mehr als 240 Teilnehmende bei „KI Hands-on“, 12 Podcast-Folgen, 23 Videos] 
-
-- Forschung: Wie nutzen Studierende und Lehrende KI? 
-Über 1.500 Mitglieder der UHH haben ihre Perspektive auf KI geteilt –die Grundlage für bedarfsgerechte Angebote. 
-- Wie verändert generative KI den Hochschulalltag? 
-
-## Drei Jahre – drei Erhebungen – über 1.500 Stimmen aus der UHH. 
-
-Seit dem Sommer 2023 haben wir mit jährlichen Umfragen erfasst, wie Studierende und Lehrende der Universität Hamburg generative KI im Studium und in der Lehre nutzen – und welche Herausforderungen ihnen dabei begegnen. Die Ergebnisse bilden eine zentrale Grundlage für die Entwicklung bedarfsgerechter Unterstützungsangebote an der UHH. 
-
-Was als spontane Reaktion auf den Hype um ChatGPT begann, hat sich zu einem festen Baustein unserer hochschulischen Beobachtungspraxis entwickelt: 
-
-- 2023 starteten wir mit einer ersten explorativen Befragung – die Resonanz war überwältigend. 
-- 2024 konnten wir auf Basis der zweiten Erhebung bereits Entwicklungstendenzen sichtbar machen und erste Vergleichszahlen zu anderen Hochschulen einordnen. 
-- 2025 setzten wir die Reihe fort und richten den Fokus unter anderem auf die Nutzung von UHHGPT, der datenschutzkonformen ChatGPT-Version für alle Uniangehörigen.
-
-Unsere Studien beleuchten nicht nur, wie KI-Tools konkret eingesetzt werden, sondern auch, welche Fragen, Unsicherheiten und Haltungsdilemmata damit einhergehen. Das Ziel: Ein datenbasierter Einblick in die Lebensrealität von Studierenden und Lehrenden – als Ausgangspunkt für Reflexion, Gestaltung und hochschuldidaktische Entwicklung. 
-Die Ergebnisse der ersten beiden Erhebungen wurden in mehreren wissenschaftlichen Publikationen aufgearbeitet. 
-
-- KI in der Lehre? Gemeinsam gestalten. 
-Ob Workshop oder freier Austausch: Unsere Formate unterstützen Lehrende beim Entwickeln von Ideen. 
-- Materialien für die KI-orientierte Lehre  
-In unseren Handreichungen bündeln wir didaktische Impulse für eigene Lehrkonzepte. 
-- Ein Kompass für Studierende im KI-Dschungel 
-
-Von Tool-Übersichten bis Reflexionsfragen: Die KI-Website bietet Studierenden Orientierung und Impulse. 
-
-## Die Forschungsergebnisse [Spalte rechts:] 
-- ChatGPT & me (2023) 
-- https://www.fdr.uni-hamburg.de/record/13403 ChatGPT & me 2.0 (2024) 
-- https://www.fdr.uni-hamburg.de/record/15968 ChatGPT & me 3.0 (2025) [folgt] 
-

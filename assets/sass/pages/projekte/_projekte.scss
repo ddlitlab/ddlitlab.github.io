@@ -8,6 +8,11 @@
     // display: grid;
     // grid-template-columns: 1fr 1fr;
     // gap: 2rem;
+
+    h2 {
+        font-size: 1.5rem;
+        margin-bottom: 1em;
+    }
     
     p {
         text-align: justify;
@@ -17,6 +22,12 @@
         &::first-line {
                 font-weight: 700;
             }
+    }
+
+    ul {
+        list-style: disc;
+        margin-left: 2em;
+        margin-bottom: 1em;
     }
     
     // kann weg!

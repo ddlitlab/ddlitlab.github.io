@@ -39,12 +39,51 @@
       </details>
     </div>
 
+    <div class="projekte-index-quote">
+        <a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki.html" target="_blank"><h2>{{ .Params.studierende.podcast.title }}</h2></a>
+        <p>{{ .Params.studierende.podcast.text | markdownify }}</p>
+    </div>
 
+    <div>
+    - Alle Folgen der Podcast-Reihe?
+    </div>
+
+    <div class="big-numbers">
+    {{ range .Params.studierende.numbers }}
+        <p>{{ . | markdownify }}</p>
+    {{ end }}
+    </div>
+
+    <div class="projekte-index-quote">
+        <h2>{{ .Params.studierende.workshops.title }}</h2>
+        <p>{{ .Params.studierende.workshops.text | markdownify }}</p>
+        <p>{{ .Params.studierende.workshops.list_title }}</p>
+        <ul>
+            {{ range .Params.studierende.workshops.list_items }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+    </div>
+
+    <div class="projekte-index-quote">
+        <h2>{{ .Params.studierende.guide.title }}</h2>
+        <p>{{ .Params.studierende.guide.text | markdownify }}</p>
+    </div>
 </section>
 
 
-
 <section>
+    <header class="section-header">
+        <h1 class="section-title">{{ .Params.lehrende.title }}</h1>
+        <p class="section-subtitle">{{ .Params.lehrende.subtitle }}</p>
+    </header>
+
+    <div class="projekte-index-quote">
+        {{ .Params.lehrende.text | markdownify }}
+    </div>
+
+    <div>Bilder-Galerie (https://codepen.io/henriquebaldy/pen/VYYZqYa)</div>
+
     <div class="accordion-wrapper">
         <details class="accordion-simple">
             <summary class="accordion-events">{{ .Params.events.title }}</summary>
@@ -63,6 +102,20 @@
             </div>
         </details>
     </div>
+  
+</section>
+
+
+<section>
+    <header class="section-header">
+        <h1 class="section-title">{{ .Params.publikationen.title | markdownify }}</h1>
+        <p class="section-subtitle">{{ .Params.publikationen.subtitle }}</p>
+    </header>
+
+    <div class="projekte-index-quote">
+        {{ .Params.publikationen.text | markdownify }}
+    </div>
+  
 </section>
 
 <section>

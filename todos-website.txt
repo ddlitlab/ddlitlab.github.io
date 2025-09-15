@@ -14,6 +14,8 @@ allgemein: immer hilfreich, auch das mobile Design mitzudenken; insgesamt alle g
 gKI-Community:
 - warum neue, eigene Kacheln? Können wir da auch andere Kacheln recyclen? Wohin sollen die verlinken?
 - Studierende im Umgang mit KI stärken: was soll das für ein Link sein?
+- wollen wir wirklich überall Zahlen drin haben? mehr als xxx so und so
+- Präsens oder Präteritum?
 
 
 
