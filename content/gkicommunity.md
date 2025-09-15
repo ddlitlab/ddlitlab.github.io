@@ -2,8 +2,25 @@
 title: "GKI Community"
 layout: "gkicommunity"
 hero:
-    title: 'GKI Community'
-    subtitle: 'Text'
+    title: 'gKI Community'
+    subtitle: 'Viele Perspektiven, große Resonanz'
+    text: |
+      Generative KI ist ein Schlüsselthema in Studium und Lehre. Das DDLitLab hat ein vielseitiges Angebot für Studierende als auch Lehrende entwickelt, um von neuesten Entwicklungen zu berichten, zur Reflektion und zum Dialog auf Augenhöhe beizutragen. Dabei ist ein großes Netzwerk an der UHH entstanden. Auch an den Leitlinien zur Nutzung von generativer KI hat das Projekt-Team mitgewirkt. Auf dieser Übersichtseite finden Sie einen Überblick über unsere Angebote und Handreichungen. 
+      
+      Die Beteiligung in *Workshops und Netzwerktreffen* zeigt: Der Bedarf an Austausch, Orientierung und Handlungsfähigkeit im Umgang mit KI ist groß. Mehr als 1.500 Rückmeldungen in unseren Umfragen zur Lebensrealität mit KI an der UHH spiegeln das breite Interesse und den Wunsch nach gemeinsamer Weiterentwicklung.
+studierende:
+    title: 'Studierende im Umgang mit KI stärken'
+    subtitle: 'KI verstehen, nutzen, reflektieren'
+    text: |
+      Das DUTy-Team (Digital University Teaching Literacy) hat ein umfassendes Angebot ins Leben gerufen, um Studierende über verschiedene Kanäle über generative KI zu informieren und ihnen einen *Austausch* zu diesen Themen ermöglichen. Dazu gehörten ein *regelmäßiger Newsletter*, der auch nach Projektabschluss am <a href="https://www.hul.uni-hamburg.de/" target="_blank">Hamburger Zentrum für Universitäres Lehren und Lernen (HUL)</a> fortgeführt wird, aber auch Handreichungen und ein Workshopangebot. Zudem haben wir die Video-Reihe <a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/68767" target="_blank">„Generative KI an der Universität Hamburg“</a> veröffentlicht, in denen *Expert:innen der Universität* über vertiefende Themen zu gKI berichten. Die dazugehörige Podcast-Reihe geht noch einmal ausführlicher auf die verschiedenen Themen ein.
+    accordion:
+      summary: 'Informationen zur Video-Reihe'
+      title: 'Generative KI an der Universität Hamburg'
+      intro: 'In diesem Podcast sprechen wir mit Expert:innen von der Universität Hamburg über das Thema generative KI. Folgen der Interviewreihe:'
+      items:
+        - 'Bias und Fairness: Wie beeinflussen Stereotype generative KI? mit Prof. Dr. Anne Lauscher'
+        - '„Wie wird eigentlich zu generativer KI geforscht?“ mit Prof. Dr. Anne Lauscher'
+
 
 events:
   title: 'Vergangene Veranstaltungen'

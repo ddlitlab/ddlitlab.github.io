@@ -5,7 +5,44 @@
         <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
     </header>
 
+    <div class="projekte-index-quote projekte-index-quote-gkicommunity">
+        {{ .Params.hero.text | markdownify }}
+    </div>
 </section>
+
+<section>
+    <header class="section-header">
+        <h1 class="section-title">{{ .Params.studierende.title }}</h1>
+        <p class="section-subtitle">{{ .Params.studierende.subtitle }}</p>
+    </header>
+
+    <div class="projekte-index-quote">
+        <p>{{ .Params.studierende.text | markdownify }}</p>
+    </div>
+
+    <div class="wide-movie-container">
+        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=70983'  title='Video: &#34;Wie funktioniert eigentlich generative KI?&#34; mit Prof. Dr. Chris Biemann' frameborder='0' width='647' height='373' allowfullscreen></iframe>
+    </div>
+
+    <div class="accordion-wrapper">
+      <details class="accordion-simple accordion-spotlight">
+          <summary>{{ .Params.studierende.accordion.summary }}</summary>
+          <h3>{{ .Params.studierende.accordion.title }}</h3>
+          <p>{{ .Params.studierende.accordion.intro }}</p>
+          <ol>
+            {{ range .Params.studierende.accordion.items }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ol>
+          <p><span class="highlight">{{ i18n "concept_production" }}</span>: Mareike Bartels, Jennifer Preiß, Simon Steinhauser, Sven Rehder</p>
+          {{/*  Digital and Data Literacy in Teaching Lab, Februar 2024/25  */}}
+      </details>
+    </div>
+
+
+</section>
+
+
 
 <section>
     <div class="accordion-wrapper">

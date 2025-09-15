@@ -35,9 +35,14 @@ details[class*="accordion"] {
     padding: 1em;
   }
   
-  p {
+  p, ol {
     font-size: 0.8rem;
     padding: 0 1em 1.5em;
+  }
+
+  ol {
+    list-style-type: decimal;
+    padding-left: 2em;
   }
 }
 

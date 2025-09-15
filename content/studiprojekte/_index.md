@@ -1,6 +1,6 @@
 ---
 title: "Studi-Projekte"
-subtitle: "Auf einen Blick"
+subtitle: "Wissenschaftler:innen von morgen fördern"
 # text: "In einer digital geprägten Welt ist der kritische Umgang mit Daten – von Erhebung und Analyse bis zur Reflexion – eine zentrale Schlüsselkompetenz für Studierende aller Fächer. Das Programm fördert Kleingruppen der Universität Hamburg bei datengetriebenen Projekten, gern auch mit Praxispartner:innen und Themen zu KI oder generativer KI. Die Projekte werden finanziell und technisch unterstützt, können als Leistungspunkte im Studium angerechnet werden und durch eine wissenschaftliche Mentor:in begleitet."
 text: |
     Das DDLitLab-Projekt blickt stolz auf die erfolgreiche Etablierung studentischer Forschungsgruppen mit dem Schwerpunkt Data Literacy zurück. In Zeiten der digitalen Transformation und einer ständig wachsenden Datenflut war es unser Anliegen, *Studierende aller Fachrichtungen zu befähigen*, Datenkompetenz nicht nur im Umgang mit Datenerhebung, -speicherung, -analyse und -visualisierung zu entwickeln, sondern auch reflexiv *zeitgenössische Datenpraktiken* zu hinterfragen. Das Ziel war es, Data Literacy als zentrale Schlüsselqualifikation wissenschaftlicher Ausbildung zu verankern und Studierenden interdisziplinär die Möglichkeit zu geben, in einem geschützten, forschungsnahen Raum eigene Ideen zu erproben. 

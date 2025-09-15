@@ -11,6 +11,11 @@ allgemein: immer hilfreich, auch das mobile Design mitzudenken; insgesamt alle g
 - Folie 8: passt das so mit den Abständen?
 
 
+gKI-Community:
+- warum neue, eigene Kacheln? Können wir da auch andere Kacheln recyclen? Wohin sollen die verlinken?
+- Studierende im Umgang mit KI stärken: was soll das für ein Link sein?
+
+
 
 
 

@@ -12,7 +12,11 @@
     p {
         text-align: justify;
         hyphens: auto;
-        margin-bottom: 0.5em;
+        margin-bottom: 1em;
+
+        &::first-line {
+                font-weight: 700;
+            }
     }
     
     // kann weg!
@@ -37,7 +41,8 @@
 
 // Quote icons
 .projekte-index-quote-lehrlabor,
-.projekte-index-quote-studiprojekte {
+.projekte-index-quote-studiprojekte,
+.projekte-index-quote-gkicommunity {
     &::before {
         position: absolute;
         font-family: 'codicon';
@@ -63,6 +68,10 @@
 
 .projekte-index-quote-studiprojekte::before {
     content: "\eb44";
+}
+
+.projekte-index-quote-gkicommunity::before {
+    content: "\eac7";
 }
 
 // Grid layout
