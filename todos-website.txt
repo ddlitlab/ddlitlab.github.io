@@ -1,6 +1,6 @@
 Feedback Julia Powerpoint:
 
-allgemein: immer hilfreich, auch das mobile Design mitzudenken
+allgemein: immer hilfreich, auch das mobile Design mitzudenken; insgesamt alle gaps nochmal anschauen
 
 - Folie 2: main {row-gap: 8rem}; margins / paddings vermeiden
 - Folie 3: beides über grid-lehre-navi umgesetzt (_home:23)

@@ -23,13 +23,16 @@
 }
 
 .datenwelten-uebung-inhalte-header {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     font-weight: 700;
-    color: var(--black-lighter);
+    color: var(--black);
     margin: 2rem 0 1rem;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.08em;
     text-align: right;
+    border-top: 0.3em solid var(--primary-light);
+    padding-top: 0.5em;
+    width: 50%;
 }
 
 // ===== GRIDS =====
@@ -113,7 +116,7 @@ $grid-items: (
 .datenwelten-uebung-text-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 1.5rem;
+    gap: 1.5rem 3rem;
     text-align: left;
     justify-content: space-between;
     align-content: space-between;

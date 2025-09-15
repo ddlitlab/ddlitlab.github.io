@@ -4,10 +4,8 @@ layout: "datenwelten"
 hero:
     title: 'Ringvorlesung Datenwelten'
     subtitle: 'Daten verstehen, Zukunft gestalten'
-    left: 'Du bist neugierig, wie Daten unsere Gesellschaft formen? Dir brummt der Kopf bei der Geschwindigkeit der aktuellen Entwicklungen?'
-    right: 
-        first: 'Dann komm in die Ringvorlesung Datenwelten!'
-        second: 'Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus interdisziplinären Perspektiven beleuchtet.'
+    left: 'Du bist neugierig, wie Daten unsere Gesellschaft formen? Dir brummt der Kopf bei der Geschwindigkeit der aktuellen Entwicklungen? Dann komm in die Ringvorlesung Datenwelten!'
+    right: '<b>Die Ringvorlesung Datenwelten begleitet seit vier Jahren über 3100 Studierende</b>. Das Programm richtet sich an Studierende aller Fächer und vermittelt Grundlagen der Digital- und Datenkompetenz sowie Vertrautheit im Umgang mit datengetriebenen Methoden. Um Digitalisierung und Datafizierung zu verstehen, werden technisch-praktisches Wissen und kritische Reflexion eng miteinander verknüpft und aus interdisziplinären Perspektiven beleuchtet.'
 lecture:
     title: 'Inhalte der Datenwelten'
     subtitle: 'Interdisziplinäre Perspektiven'

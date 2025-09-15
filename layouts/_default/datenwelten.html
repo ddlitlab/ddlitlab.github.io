@@ -8,9 +8,11 @@
             <div class="datenwelten-hero-left">
                 <p>{{ .Params.hero.left }}</p>
             </div>
+            <figure>
+                <img src="/illustrations/hero/hero_adobe_datenwelten.png" alt="University of Hamburg Datenwelten illustration">
+            </figure>
             <div class="datenwelten-hero-right">
-                <p class="datenwelten-hero-answer">{{ .Params.hero.right.first }}</p>
-                <p>{{ .Params.hero.right.second }}</p>
+                <p>{{ .Params.hero.right | markdownify }}</p>
             </div>
         </div>
         <div class="wide-movie-container">
@@ -89,7 +91,7 @@
           <img src="/images/logos-external/dw_tidyverse.svg" alt="Tidyverse Logo">
         </a>
       </div>
-    <h2 class="datenwelten-uebung-inhalte-header datenwelten-pretitle">{{ .Params.exercise.illustration.title }}</h2>
+    <h2 class="datenwelten-uebung-inhalte-header">{{ .Params.exercise.illustration.title }}</h2>
     <div class="datenwelten-uebung-grid">
         <div class="datenwelten-uebung-grid-item-winter">
             <h3 class="datenwelten-uebung-header">{{ .Params.exercise.illustration.winter.title }}</h3>
