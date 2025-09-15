@@ -2,7 +2,7 @@
 id: "breakingbad-06-spotlight" # nochmal überlegen
 method: "Projektseminar"
 institution: "Hub of Computing and Data Science (HCDS), Fakultät für Mathematik, Informatik & Naturwissenschaften"
-title: "Berater:innen des Teufels – oder auch: Wie Studierende sich via „Ethical Hacking“ mit dem EU AI Act im Unternehmenskontext auseinandersetzen"
+title: 'Berater:innen des Teufels – oder auch: Wie Studierende sich via „Ethical Hacking“ mit dem EU AI Act im Unternehmenskontext auseinandersetzen'
 title_project:
 title_short: "BreAkIng Bad: Hacking the AI Act"
 period: "Apr 23 ­­- Mar 25 (24 months)"
@@ -15,11 +15,11 @@ contributors: "Sandra Timmermann, Lucas Memmert, Dr. Michaela Regneri, Fabian Bu
 quote:
 spotlight_interview: "Ja"
 text: |
-    KI ist in aller Munde. In zahllosen Unternehmen ist diese Technologie in unterschiedlichsten Varianten bereits ein integraler Bestandteil der Wertschöpfung. Der sogenannte AI Act der EU soll zwar schädliche Konsequenzen des Einsatzes von KI verhindern. Wie bei allen aufwändigen Regularien ergibt sich dadurch für Unternehmen aber ein Balance-Akt zwischen Wirtschaftlichkeit und Gesetzeskonformität. Das wiederum führt immer auch zum Ausnutzen von Lücken und Grauzonen, und zwar so, dass ethische Prinzipien nicht mehr greifen.
+    *KI ist in aller Munde.* In zahllosen Unternehmen ist diese Technologie in unterschiedlichsten Varianten bereits ein integraler Bestandteil der Wertschöpfung. Der sogenannte AI Act der EU soll zwar schädliche Konsequenzen des Einsatzes von KI verhindern. Wie bei allen aufwändigen Regularien ergibt sich dadurch für Unternehmen aber ein Balance-Akt zwischen Wirtschaftlichkeit und Gesetzeskonformität. Das wiederum führt immer auch zum Ausnutzen von Lücken und Grauzonen, und zwar so, dass ethische Prinzipien nicht mehr greifen.
 
     In der interdisziplinären Veranstaltung von Dr. Michaela Regnieri und Lucas Memmert lernen Studierende aller Fächer nicht nur den AI Act und ethische Perspektiven auf KI kennen. Mithilfe der Beraterfirma iDIGMA werden die Studierenden im Laufe eines Semesters buchstäblich zu Unternehmensberater:innen und loten dabei die Grenzen der KI-Regulierung bewusst aus.
 
-    Das Ziel: Schwachstellen im AI Act für den Unternehmenskontext mittels Ethical Hacking herauszufinden, Ideen für die Stärkung des AI Acts zu entwickeln und Studierende für die komplexen Entscheidungsprozesse über den Einsatz von KI in Unternehmen zu sensibilisieren.
+    *Das Ziel: Schwachstellen im AI Act für den Unternehmenskontext mittels Ethical Hacking herauszufinden, Ideen für die Stärkung des AI Acts zu entwickeln und Studierende für die komplexen Entscheidungsprozesse über den Einsatz von KI in Unternehmen zu sensibilisieren.*
 
     Dabei erarbeiten Studierende ihre eigene, kritische Haltung und erfahren direkt, was das Spannungsfeld von Wirtschaftlichkeit und ethischem Handeln bedeutet, und dass es aus den naheliegenden Grauzonen immer Win-Win-Wege zum Guten hin geben kann.
 

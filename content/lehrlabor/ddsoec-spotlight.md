@@ -15,11 +15,11 @@ contributors: "Victoria Hünewaldt, Prof. Dr. Ulrich Fritsche, Lisa Wegner, Junb
 quote:
 spotlight_interview: "Ja"
 text: |
-    Daten werden fast überall erhoben und gelten als wichtige Währung und Entscheidungsgrundlage in der Politik und Wirtschaft. Doch aus den bereits erhobenen, hochkomplexen Datensätzen sinnvolle Erkenntnisse zu ziehen, ist gar nicht so einfach.
+    Daten werden fast überall erhoben und gelten als wichtige Währung und Entscheidungsgrundlage in der Politik und Wirtschaft. *Doch aus den bereits erhobenen, hochkomplexen Datensätzen sinnvolle Erkenntnisse zu ziehen, ist gar nicht so einfach.*
 
     Studierende der Soziologie, Ökonomie und Betriebswirtschaft an der Universität Hamburg haben in der Vorlesung und Übung die Chance, wichtige Kenntnisse auf dem Gebiet der Data Science zu erlangen. Dafür haben sich Prof. Ulrich Fritsche , Lisa Wegner und Victoria Hünewaldt ein Konzept überlegt, das es Studierenden ermöglicht, die Themen in ihrem eigenen Tempo und in begleitenden Übungen zu erarbeiten und dabei von Null auf Programmieren zu lernen.  
 
-    Das Ziel: Studierende mit alltagsnahen Beispielen und im eigenen Tempo an das Thema Data Science heranführen und dabei den Grundstein für ihre weitere berufliche Qualifikation zu legen.  
+    *Das Ziel: Studierende mit alltagsnahen Beispielen und im eigenen Tempo an das Thema Data Science heranführen und dabei den Grundstein für ihre weitere berufliche Qualifikation zu legen.*
 
     Das interdisziplinäre Lehrprojekt „Data Science for Social Scientists and Economists“ wurde erfolgreich im Jahr 2023 und 2024 durchgeführt und seither stetig weiterentwickelt. Es wird vom Digital and Data Literacy in Teaching Lab (kurz: DDLitLab) gefördert und für verschiedene Studiengänge der WiSo-Fakultät der Universität Hamburg angeboten. 
 

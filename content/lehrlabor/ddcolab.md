@@ -20,21 +20,21 @@ text: |
 
     Die Zusammenarbeit mit externen Partner:innen aus der Industrie, wie Encoway GmbH, Inovex GmbH und LichtBlick SE, ermöglichte praxisnahe Lerninhalte durch reale Herausforderungen und Daten, was den Studierenden Einblicke in aktuelle Branchentrends bot. Das Design-basierte Lernen (DBL) wurde als zentrale Lehrmethode gewählt, um den Lernprozess zu erleichtern und die Kreativität sowie Innovationsfähigkeit der Studierenden zu fördern.
 
-    Datenkompetenz als interdisziplinäre Fähigkeit war ein weiterer Kernaspekt des DDCo-Lab, unterstützt durch ein multidisziplinäres Lehrteam, das interdisziplinäre Studierendengruppen begleitet.
+    *Datenkompetenz als interdisziplinäre Fähigkeit war ein weiterer Kernaspekt des DDCo-Lab, unterstützt durch ein multidisziplinäres Lehrteam, das interdisziplinäre Studierendengruppen begleitet.*
 
     ## Rückblick und Ergebnisse
 
     Das DDCo-Lab hat eine Vielzahl von zentralen Ergebnissen erzielt, die das Lehrprojekt zu einem Erfolg gemacht haben. Hier sind einige davon:
 
-    Interdisziplinäres Lernen: Das DDCo-Lab hat eine Plattform geschaffen, auf der Studierende verschiedener Fachrichtungen zusammenarbeiten können, um reale Datenherausforderungen anzugehen. Dies förderte nicht nur das Verständnis für Daten aus verschiedenen Perspektiven, sondern auch die interdisziplinäre Zusammenarbeit und den Austausch von Wissen.
+    *Interdisziplinäres Lernen:* Das DDCo-Lab hat eine Plattform geschaffen, auf der Studierende verschiedener Fachrichtungen zusammenarbeiten können, um reale Datenherausforderungen anzugehen. Dies förderte nicht nur das Verständnis für Daten aus verschiedenen Perspektiven, sondern auch die interdisziplinäre Zusammenarbeit und den Austausch von Wissen.
 
-    Praxisnahe Erfahrungen: Durch die Partnerschaft mit externen Unternehmen erhielten die Studierenden die Möglichkeit, praxisnahe Erfahrungen zu sammeln und ihr theoretisches Wissen in realen Situationen anzuwenden. Dies stärkte ihre Fähigkeiten und ihr Selbstvertrauen im Umgang mit Daten und bereitete sie besser auf den Arbeitsmarkt vor.
+    *Praxisnahe Erfahrungen:* Durch die Partnerschaft mit externen Unternehmen erhielten die Studierenden die Möglichkeit, praxisnahe Erfahrungen zu sammeln und ihr theoretisches Wissen in realen Situationen anzuwenden. Dies stärkte ihre Fähigkeiten und ihr Selbstvertrauen im Umgang mit Daten und bereitete sie besser auf den Arbeitsmarkt vor.
 
-    Entwicklung von Lösungen: Das DDCo-Lab ermöglichte es den Studierenden, datenbasierte Lösungen für reale Herausforderungen zu entwickeln. Dies führte nicht nur zur Entwicklung innovativer Ideen, sondern auch zur praktischen Umsetzung von Konzepten, die einen positiven Einfluss auf die Partnerunternehmen hatten.
+    *Entwicklung von Lösungen:* Das DDCo-Lab ermöglichte es den Studierenden, datenbasierte Lösungen für reale Herausforderungen zu entwickeln. Dies führte nicht nur zur Entwicklung innovativer Ideen, sondern auch zur praktischen Umsetzung von Konzepten, die einen positiven Einfluss auf die Partnerunternehmen hatten.
 
-    Förderung von Design-basiertem Lernen: Die Verwendung von Design-basiertem Lernen (DBL) als zentrale Lehrmethode ermöglichte es den Studierenden, kreative und innovative Lösungen für komplexe Probleme zu entwickeln. Dies förderte ihr kritisches Denken, ihre Problemlösungsfähigkeiten und ihre Fähigkeit, in multidisziplinären Teams zu arbeiten.
+    *Förderung von Design-basiertem Lernen:* Die Verwendung von Design-basiertem Lernen (DBL) als zentrale Lehrmethode ermöglichte es den Studierenden, kreative und innovative Lösungen für komplexe Probleme zu entwickeln. Dies förderte ihr kritisches Denken, ihre Problemlösungsfähigkeiten und ihre Fähigkeit, in multidisziplinären Teams zu arbeiten.
 
-    Stärkung der Zusammenarbeit: Durch die Zusammenarbeit mit externen Partnern und die Arbeit in multidisziplinären Teams wurden die Studierenden ermutigt, effektiv zusammenzuarbeiten und ihre Kommunikations- und Teamfähigkeiten zu verbessern. Dies stärkte ihre Fähigkeit, in dynamischen und interdisziplinären Umgebungen erfolgreich zu sein.
+    *Stärkung der Zusammenarbeit:* Durch die Zusammenarbeit mit externen Partnern und die Arbeit in multidisziplinären Teams wurden die Studierenden ermutigt, effektiv zusammenzuarbeiten und ihre Kommunikations- und Teamfähigkeiten zu verbessern. Dies stärkte ihre Fähigkeit, in dynamischen und interdisziplinären Umgebungen erfolgreich zu sein.
 
     Insgesamt hat das DDCo-Lab dazu beigetragen, das Verständnis für Datenkompetenz zu vertiefen, praktische Fähigkeiten zu entwickeln und die Zusammenarbeit zwischen Studierenden, Lehrkräften und externen Partnern zu stärken. Es hat einen wertvollen Beitrag zur Ausbildung zukünftiger Fachkräfte geleistet und gleichzeitig innovative Lösungen für reale Herausforderungen entwickelt.
 

@@ -16,9 +16,9 @@ quote:
 text: |
     ## Ausrichtung des Digital Causality Labs
 
-    In einer von Daten geprägten Welt wird es immer wichtiger, Ursache-Wirkung-Beziehungen angemessen zu beurteilen. Methoden und Werkzeuge aus dem Gebiet der kausalen Inferenz helfen dabei, empirische Zusammenhänge im Hinblick auf deren Kausalität zu überprüfen. Angesichts der zunehmenden Menge an (Falsch-)Informationen, ist es elementar, kausale Datenkompetenzen zu vermitteln: Mit dem richtigen Wissen können Studien eingeordnet und kritisch betrachtet werden. Studierende sollen in die Lage versetzt werden, systematische Verzerrungen, beispielsweise aufgrund von Hintergrundvariablen ("Confounder") oder Stichprobenselektion, zu erkennen und deren Implikationen für die Datenauswertung und -interpretation einzuschätzen.
+    In einer von Daten geprägten Welt wird es immer wichtiger, Ursache-Wirkung-Beziehungen angemessen zu beurteilen. Methoden und Werkzeuge aus dem Gebiet der kausalen Inferenz helfen dabei, empirische Zusammenhänge im Hinblick auf deren Kausalität zu überprüfen. Angesichts der zunehmenden Menge an (Falsch-)Informationen, ist es elementar, kausale Datenkompetenzen zu vermitteln: Mit dem richtigen Wissen können Studien eingeordnet und kritisch betrachtet werden. *Studierende sollen in die Lage versetzt werden, systematische Verzerrungen, beispielsweise aufgrund von Hintergrundvariablen ("Confounder") oder Stichprobenselektion, zu erkennen und deren Implikationen für die Datenauswertung und -interpretation einzuschätzen.*
 
-    Die Beurteilung kausaler Zusammenhänge ist ein wesentlicher Schritt, um angemessene und zielgerichtete Entscheidungen zu treffen - nicht nur im privaten oder beruflichen Kontext, sondern auch im Hinblick auf eine gesellschaftliche Expertise. Im Rahmen dieser zweiten Förderphase des Projekts, wurde die Vermittlung kausaler Kenntnisse für eine breite Zuhörerschaft geöffnet.
+    *Die Beurteilung kausaler Zusammenhänge ist ein wesentlicher Schritt, um angemessene und zielgerichtete Entscheidungen zu treffen* - nicht nur im privaten oder beruflichen Kontext, sondern auch im Hinblick auf eine gesellschaftliche Expertise. Im Rahmen dieser zweiten Förderphase des Projekts, wurde die Vermittlung kausaler Kenntnisse für eine breite Zuhörerschaft geöffnet.
 
     ## Rückblick und Ergebnisse
 

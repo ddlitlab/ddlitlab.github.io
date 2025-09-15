@@ -26,6 +26,18 @@
     }
 }
 
+.wide-movie-container-studiprojekte {
+    margin: 8rem 0;
+
+    @media (max-width: $breakpoint-tablet) {
+        margin: 4rem 0;
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        margin: 2rem 0;
+    }
+}
+
 .wide-movie {
     width: 60vw;
     height: auto;

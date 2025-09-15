@@ -19,7 +19,7 @@ text: |
 
     Moritz Kreinsen erzählt uns in diesem Interview über sein Lehrprojekt „Teacher AID Lab - Interdisciplinary AI + Data Lab in Teacher Education“, das im Jahr 2023 und 2024 vom Digital and Data Literacy in Teaching Lab (kurz: DDLitLab) gefördert und an der Fakultät für Erziehungswissenschaften der Universität Hamburg und dem Schülerforschungszentrum Hamburg durchgeführt wurden.
 
-    Das Ziel: Master-Lehramtsstudierenden aller Fächer einen schnellen Einstieg in Grundlagen zu KI zu ermöglichen und dabei zusätzlich das Sammeln von Praxiserfahrungen bei der Arbeit mit Schüler:innen jenseits der üblichen Praktika zu fördern.
+    *Das Ziel: Master-Lehramtsstudierenden aller Fächer einen schnellen Einstieg in Grundlagen zu KI zu ermöglichen und dabei zusätzlich das Sammeln von Praxiserfahrungen bei der Arbeit mit Schüler:innen jenseits der üblichen Praktika zu fördern.*
 
 image: "https://assets.rrz.uni-hamburg.de/instance_assets/zentrale/20784969/spotlight-data-literacy-lehrlabor--02--moitz-kreinsen--733x414px-f0dd2117219b47ac2aa48410da994dd0eafc087d.png"
 image_credit: "UHH / Pawlowski"

@@ -28,11 +28,11 @@ text: |
 
     ## Seminar: Digital + Data + ‚KI‘ Literacy und die Transformation des Lernens
 
-    Teil des Projekts ist außerdem ein Seminar. Ziel ist die Förderung von Digital-, Daten- und ‚KI‘-Kompetenz bei Studierenden der Erziehungswissenschaften und Lehrkräften, sowie Austausch und Reflexion über die Auswirkungen auf die Transformation des Lernens in der Schule.
+    *Teil des Projekts ist außerdem ein Seminar. Ziel ist die Förderung von Digital-, Daten- und ‚KI‘-Kompetenz bei Studierenden der Erziehungswissenschaften und Lehrkräften, sowie Austausch und Reflexion über die Auswirkungen auf die Transformation des Lernens in der Schule.*
 
     Das Seminar ist eine Kooperation zwischen der EW-Fakultät der Universität Hamburg und dem Landesinstitut für Lehrerbildung und Schulqualität (LI), in Absprache mit Vertreter:innen der Schüler:innenkammer, Hamburg (SKH). Das Seminar findet wöchentlich statt und wird auch als Fortbildung für Lehrkräfte geöffnet. Studierende der Erziehungswissenschaften lernen gemeinsam mit Lehrkräften die Grundlagen der Digital-, Daten- und ‚KI‘-Kompetenzen und diskutieren und reflektieren gemeinsam die daraus folgende Transformation des Lernens in Schule. Gemeinsam entwickeln sie Open Educational Resources (OER) für „entsprechende Leistungen mit digitalen Anteilen“.
 
-    Die OER werden auf der Plattform digital.learning.lab veröffentlicht.
+    *Die OER werden auf der Plattform digital.learning.lab veröffentlicht.*
 
 image: "https://www.hcl.uni-hamburg.de/16953492/ddle-schule-digital-literature-in-school-733x414-b75c3d92e580050d8295d6042eb10bce3d386e5d.jpg"
 image_credit: "Stablediffusion"

@@ -1,3 +1,23 @@
+Feedback Julia Powerpoint:
+
+allgemein: immer hilfreich, auch das mobile Design mitzudenken
+
+- Folie 2: main {row-gap: 8rem}; margins / paddings vermeiden
+- Folie 3: beides über grid-lehre-navi umgesetzt (_home:23)
+- Folie 4: habe ich umgesetzt, ich persönlich finde das padding wirkt jetzt etwas komisch (ist nicht mehr bündig mit dem grid) (_projekte:3)
+- Folie 5: die Schrift wirkt sehr groß, eher umständlich alles noch zu ändern, erstmal klären, wie groß die Schrift soll und ob es wirklich so sein soll (_big-numbers)
+- Folie 6: lightbulb-empty gibt es nicht; soll die Rakete so umgesetzt werden, dass nur ein Teil zu sehen ist?; hast du da auch was am Text weggenommen?
+- Folie 7: was ist mit dem Text gemeint? hast du daran was geändert?
+- Folie 8: passt das so mit den Abständen?
+
+
+
+
+
+
+
+
+
 Unsortiert
 
 - Timeline richtig anpassen

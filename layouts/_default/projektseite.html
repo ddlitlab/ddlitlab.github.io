@@ -42,8 +42,7 @@
         {{ else }}
             <p><b>{{ i18n "students" }}: {{ .Params.students }}</b></p>
         {{ end }}
-            <p>{{ i18n "round" }} {{ .Params.round }}</p>
-            <p>{{ .Params.period }}</p>
+            <p>{{ .Params.period }} &nbsp | &nbsp {{ i18n "round" }} {{ .Params.round }}</p>
         {{ with .Params.institution }}
             <p>{{ . }}</p>
         {{ end }}

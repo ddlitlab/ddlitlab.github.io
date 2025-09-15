@@ -18,7 +18,7 @@ text: |
 
     Der Einfluss von KI auf das Leben vieler Menschen nimmt stetig zu. Wenngleich sich hierdurch große Chancen ergeben, entstehen auch erhebliche Risiken und ethische Herausforderungen. Die neue EU-KI-Regulierung (EU AI Act) versucht, diese Chancen und Risiken in Einklang zu bringen. Die Idee des Seminars ist es, Studierende über alle Fakultäten hinweg für die Gefahren im Umgang mit KI zu sensibilisieren und gleichzeitig ein erstes Gespür für unternehmerische Praxis im Kontext potentiell gewinngefährdender Gesetze zu bekommen. Hierbei sollen die Studierenden selbst Gestaltungsspielräume entlang des Gesetzesentwurfs anhand konkreter KI-Anwendungsfälle ausloten.
 
-    Dies soll die Studierenden befähigen, KI kritisch und verantwortungsbewusst einzusetzen. Explizites Ziel war es, auch Studierende außerhalb der Informatik anzusprechen, da es sich um eine gesamtgesellschaftliche Herausforderung handelt und u.a. ethische, juristische, technische und betriebswirtschaftliche Aspekte vereint.
+    *Dies soll die Studierenden befähigen, KI kritisch und verantwortungsbewusst einzusetzen. Explizites Ziel war es, auch Studierende außerhalb der Informatik anzusprechen, da es sich um eine gesamtgesellschaftliche Herausforderung handelt und u.a. ethische, juristische, technische und betriebswirtschaftliche Aspekte vereint.*
 
     ## Rückblick und Ergebnisse
 
@@ -32,7 +32,7 @@ text: |
 
     Im Rahmen des Lehrprojekts konnte die Einbindung und Zusammenarbeit mit unterschiedlichen Fachbereichen und außeruniversitären Akteuren erprobt werden, was als Bereicherung empfunden wird. Gerade für vielschichtige Phänomene wie „Digitalisierung“ oder „Data Literacy“ scheint dieser übergreifende Ansatz sinnvoll. Das Projekt vereint eine Vielzahl von fachlichen Perspektiven (u.a. rechtlich, betriebswirtschaftlich, technisch, ethisch). Neben der interdisziplinären Besetzung des Projektteams wurde daher im Rahmen des projektbasierten Lehransatzes die Rolle eines internen rechtlichen Experten (einer wissenschaftlichen Hilfskraft) erprobt, welcher die Lehrpersonen und insbesondere die Studierenden durch punktuelle fachliche Beratung unterstützt hat.
 
-    Dieser Ansatz wurde als bereichernd empfunden und als potenzieller Weg zu mehr themenübergreifenden Lehrveranstaltungen. Innerhalb des Projektteams gab es sehr unterschiedliche Vorerfahrungen zu Lehrveranstaltungen und allgemeinen Gruppenarbeitsformaten, was viele wertvolle Impulse für anpassbare, teilweise hybride Veranstaltungsformate gab.
+    *Dieser Ansatz wurde als bereichernd empfunden und als potenzieller Weg zu mehr themenübergreifenden Lehrveranstaltungen. Innerhalb des Projektteams gab es sehr unterschiedliche Vorerfahrungen zu Lehrveranstaltungen und allgemeinen Gruppenarbeitsformaten, was viele wertvolle Impulse für anpassbare, teilweise hybride Veranstaltungsformate gab.*
 
 image: "https://www.hcl.uni-hamburg.de/16955045/deepmind-x-jiptoms98-unsplash-733x414-27ecf6033a57f20346cbcf59d28c803277196de6.jpg"
 image_credit: "deepmind x / unsplash"

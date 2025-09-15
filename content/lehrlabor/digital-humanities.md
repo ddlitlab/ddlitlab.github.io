@@ -20,9 +20,9 @@ text: |
 
     ## Rückblick und Ergebnisse
 
-    Ein zentrales Ergebnis zeigt, dass im Wissenstransfer zwischen Bibliothek und Universität erheblicher Handlungsbedarf besteht. Besonders Vorträge zu Normdaten und Datenvisualisierung sowie Themen wie Mehrsprachige Digital Literacy und OCR wurden als äußerst relevant empfunden. Kritisch bewertet wurde die fehlende Kapazität und Raum für extracurriculare Bildung in Digital Literacy an Universitäten. Zudem sind Norm- und Metadaten essenziell für DL, erreichen jedoch kaum die Forschungspraxis außerhalb spezialisierter Projekte in den Digital Humanities.
+    *Ein zentrales Ergebnis zeigt, dass im Wissenstransfer zwischen Bibliothek und Universität erheblicher Handlungsbedarf besteht.* Besonders Vorträge zu Normdaten und Datenvisualisierung sowie Themen wie Mehrsprachige Digital Literacy und OCR wurden als äußerst relevant empfunden. *Kritisch bewertet wurde die fehlende Kapazität und Raum für extracurriculare Bildung in Digital Literacy an Universitäten. Zudem sind Norm- und Metadaten essenziell für DL, erreichen jedoch kaum die Forschungspraxis außerhalb spezialisierter Projekte in den Digital Humanities.*
 
-    Ein weiteres wichtiges Thema war der Umgang mit Kulturgut, besonders bezüglich der automatischen Texterkennung und der Visualisierung von Kulturgütern. Trotz großem Interesse von Forschung und Bibliothek fanden Studierende diese Themen weniger ansprechend, was auf eine marginalisierte DL im Studienkontext hinweist.
+    *Ein weiteres wichtiges Thema war der Umgang mit Kulturgut, besonders bezüglich der automatischen Texterkennung und der Visualisierung von Kulturgütern. Trotz großem Interesse von Forschung und Bibliothek fanden Studierende diese Themen weniger ansprechend, was auf eine marginalisierte DL im Studienkontext hinweist.*
 
     Das Ergebnis ist, dass die Veranstaltungsformate der Reihe verstetigt und besser in Studiengänge integriert werden müssen. Ein möglicher Ansatz wäre ein DH-Zertifikat in Zusammenarbeit mit relevanten Professuren, das extracurriculare Teile enthält, aber auch im Curriculum anerkannt wird. Das Themenfeld Digital Humanities bietet eine breite Basis für zukünftige Kooperationen zwischen SUB und UHH in Lehre und Weiterbildung.
 

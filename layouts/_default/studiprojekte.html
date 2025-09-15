@@ -2,39 +2,49 @@
 {{ .Content }}
 
 <section>
-<header class="section-header">
-    <h1 class="section-title">{{ .Title }}</h1>
-    <p class="section-subtitle">{{ .Params.subtitle }}</p>
-</header>
+    <header class="section-header">
+        <h1 class="section-title">{{ .Title }}</h1>
+        <p class="section-subtitle">{{ .Params.subtitle }}</p>
+    </header>
 
-<div class="projekte-index-quote projekte-index-quote-studiprojekte">
-    <p>{{ .Params.text | markdownify }}</p>
-</div>
+    <div class="projekte-index-quote projekte-index-quote-studiprojekte">
+        <p>{{ .Params.text | markdownify }}</p>
+    </div>
 
-<input type="radio" id="sf-runde1" name="filter" checked>
-<input type="radio" id="sf-runde2" name="filter">
-<input type="radio" id="sf-runde3" name="filter">
-<input type="radio" id="sf-runde4" name="filter">
+    <div class="wide-movie-container wide-movie-container-studiprojekte">
+        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71927'  title='Video: Inside: Studentische Forschungsgruppen - Next Generation Scientists' frameborder='0' width='647' height='373' allowfullscreen></iframe>
+    </div>
 
-<div class="projekte-filter">
-    <label for="sf-runde1">{{ .Params.filter1 }}</label>
-    <label for="sf-runde2">{{ .Params.filter2 }}</label>
-    <label for="sf-runde3">{{ .Params.filter3 }}</label>
-    <label for="sf-runde4">{{ .Params.filter4 }}</label>
-</div>
+    <div class="big-numbers projekte-big-numbers">
+        {{ range .Params.numbers }}
+            <p>{{ . | markdownify }}</p>
+        {{ end }}
+    </div>
 
-<div class="projekte-grid">
-    {{ range .Pages }}
-        <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-sf-{{ .Params.round}}"
-        style="background-image: url('{{ .Params.image }}');"
-        >
-            <div>
-                <h2>{{ .Params.title_short }}</h2>
-                <p>{{ .Params.title }}</p>
-            </div>
-        </a>
-    {{ end }}
-</div>
+    <input type="radio" id="sf-runde1" name="filter" checked>
+    <input type="radio" id="sf-runde2" name="filter">
+    <input type="radio" id="sf-runde3" name="filter">
+    <input type="radio" id="sf-runde4" name="filter">
+
+    <div class="projekte-filter">
+        <label for="sf-runde1">{{ .Params.filter1 }}</label>
+        <label for="sf-runde2">{{ .Params.filter2 }}</label>
+        <label for="sf-runde3">{{ .Params.filter3 }}</label>
+        <label for="sf-runde4">{{ .Params.filter4 }}</label>
+    </div>
+
+    <div class="projekte-grid">
+        {{ range .Pages }}
+            <a href="{{ .Permalink }}" class="projekte-grid-item projekte-filter-sf-{{ .Params.round}}"
+            style="background-image: url('{{ .Params.image }}');"
+            >
+                <div>
+                    <h2>{{ .Params.title_short }}</h2>
+                    <p>{{ .Params.title }}</p>
+                </div>
+            </a>
+        {{ end }}
+    </div>
 
 </section>
 {{ end }}

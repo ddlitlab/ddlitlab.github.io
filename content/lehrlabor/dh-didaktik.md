@@ -22,7 +22,7 @@ text: |
     2. Es im Deutschunterricht Unsicherheiten beim Einsatz statistischer Verfahren zur Textanalyse gibt.
     3. In bildungspolitischen Diskursen betont wird, dass Medienpädagogik und Informatik gemeinsam verantwortet und digitale Bildung aus gesellschaftlich-kultureller, technologischer und pädagogischer Sicht betrachtet werden muss.
 
-    Dies führt zu der Frage, wie ein Transfer digitaler Textanalyseverfahren in den Schulunterricht gestaltet sein könnte. Die verantwortungsvolle Teilhabe zukünftiger Schüler:innen an einer digitalisierten Gesellschaft ist nur möglich, wenn Lehrer:innen die entsprechenden Kompetenzen erwerben. Das Seminar verknüpft daher zwei Bereiche: Schule (Literaturunterricht) und den literaturwissenschaftlichen Teilbereich der Digital Humanities.
+    Dies führt zu der Frage, wie ein Transfer digitaler Textanalyseverfahren in den Schulunterricht gestaltet sein könnte. Die verantwortungsvolle Teilhabe zukünftiger Schüler:innen an einer digitalisierten Gesellschaft ist nur möglich, wenn Lehrer:innen die entsprechenden Kompetenzen erwerben. *Das Seminar verknüpft daher zwei Bereiche: Schule (Literaturunterricht) und den literaturwissenschaftlichen Teilbereich der Digital Humanities.*
 
     ## Rückblick und Ergebnisse
 
@@ -35,7 +35,7 @@ text: |
 
     Zudem setzten sie sich mit bildungspolitischen Rahmenbedingungen und Vorschlägen für eine „Bildung in der digitalen Welt“ auseinander. Sie lernten Plattformen für Open Educational Resources kennen, beschäftigten sich mit Modellen für den Einsatz digitaler Medien im Deutschunterricht und mit Faktoren für wirksamen Unterricht mit digitaler Komponente. In der ISE-Werkstatt sahen sie, wie Pädagogik und Technik ineinandergreifen können.
 
-    Eine zentrale Frage in allen Sitzungen war, welche Handlungsmöglichkeiten der Literaturunterricht durch digitale Textanalyse bietet und wie sinnvolle Unterrichtskonzepte und Strategien aussehen können. Der kritische Blick auf computergestützt erzeugte Daten und ihr Abgleich mit dem schulischen Alltag war ebenfalls von Bedeutung. Die Diskussion und der Transfer in den schulischen Bereich werden in Blogbeiträgen und Hausarbeiten schriftlich festgehalten.
+    *Eine zentrale Frage in allen Sitzungen war, welche Handlungsmöglichkeiten der Literaturunterricht durch digitale Textanalyse bietet und wie sinnvolle Unterrichtskonzepte und Strategien aussehen können. Der kritische Blick auf computergestützt erzeugte Daten und ihr Abgleich mit dem schulischen Alltag war ebenfalls von Bedeutung.* Die Diskussion und der Transfer in den schulischen Bereich werden in Blogbeiträgen und Hausarbeiten schriftlich festgehalten.
 
     ## Tipps von Lehrenden für Lehrende
 

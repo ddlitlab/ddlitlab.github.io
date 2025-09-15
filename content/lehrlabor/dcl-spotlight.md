@@ -15,11 +15,11 @@ contributors: "Gangli Tan, Dr. Philipp Bach, Prof. Dr. Martin Spindler, Prof. Dr
 quote:
 spotlight_interview: "Ja"
 text: |
-    Ob während der Corona-Pandemie, im Marketing, oder auch in klassischen Onlinebewertungen – statistische Auswertungen spielen in unserem Alltag eine große Rolle, denn sie haben direkt oder indirekt Einfluss auf private, wirtschaftliche oder auch politische Entscheidungen. Umso wichtiger ist es, sich mit den Verfahren der kausalen Inferenz auseinanderzusetzen, um Ursache-Wirkung-Beziehungen im Kern zu verstehen.
+    Ob während der Corona-Pandemie, im Marketing, oder auch in klassischen Onlinebewertungen – *statistische Auswertungen spielen in unserem Alltag eine große Rolle, denn sie haben direkt oder indirekt Einfluss auf private, wirtschaftliche oder auch politische Entscheidungen.* Umso wichtiger ist es, sich mit den Verfahren der kausalen Inferenz auseinanderzusetzen, um Ursache-Wirkung-Beziehungen im Kern zu verstehen.
 
     Dr. Philipp Bach hat deshalb gemeinsam mit Prof. Dr. Martin Spindler eine Bachelor-Vorlesung und Übung zum Thema Kausalität der University of Hamburg Business School grundlegend überarbeitet und mit frischen Beispielen und praktischen Aufgaben unterfüttert. Nach einer erfolgreichen Pilotphase, die zunächst nur für Studierende der Betriebswirtschaftslehre geöffnet war, hat er die Vorlesung nun auch für Studierende aller anderen Fächer der UHH geöffnet. Das Motto: „Kausale Inferenz für Alle!“
 
-    Das Ziel: Ein Grundlegendes Verständnis von Kausaler Inferenz aufzubauen, indem Studierende sämtlicher Fächer das gelernte Wissen mit eigenen statistischen Auswertungen und der Erstellung eigener, möglichst anschaulicher „Data Products“ selbst erproben.
+    *Das Ziel: Ein Grundlegendes Verständnis von Kausaler Inferenz aufzubauen, indem Studierende sämtlicher Fächer das gelernte Wissen mit eigenen statistischen Auswertungen und der Erstellung eigener, möglichst anschaulicher „Data Products“ selbst erproben.*
 
     Das interdisziplinäre Lehrprojekt „Kausale Inferenz für alle!“ wird bereits in der dritten Runde durch das Digital and Data Literacy in Teaching Lab (kurz: DDLitLab) gefördert und hat sich von einer fachspezifischen zu einer interdisziplinären Veranstaltung weiterentwickelt. Im kommenden Semester wird die Veranstaltung um das Themenfeld KI und Machine Learning erweitert und bleibt für alle Studierende der UHH offen.  
 

@@ -20,11 +20,11 @@ text: |
 
     ## Rückblick und Ergebnisse
 
-    Im Kern wurde eine Lernumgebung entwickelt, die in der interdisziplinären Zusammenarbeit von Wirtschaftsinformatiker:innen und Jurist:innen entstanden ist. Diese Lernumgebung führt Studierende und interdisziplinäre Forschungsteams schrittweise durch den Prozess der Erkundung von Medienökosystemen und soll dazu beitragen, dass interdisziplinäre Teams eine gemeinsame Sprache entwickeln.
+    *Im Kern wurde eine Lernumgebung entwickelt, die in der interdisziplinären Zusammenarbeit von Wirtschaftsinformatiker:innen und Jurist:innen entstanden ist. Diese Lernumgebung führt Studierende und interdisziplinäre Forschungsteams schrittweise durch den Prozess der Erkundung von Medienökosystemen und soll dazu beitragen, dass interdisziplinäre Teams eine gemeinsame Sprache entwickeln.*
 
     Zu diesem Zweck werden die Personen zunächst in den Google News Case eingeführt. Basierend auf dieser Grundlage wird das Modellierungsvorgehen vorgestellt. Insbesondere sollen Model Stories den Personen dabei helfen, erste Schritte in der Modellierung von Medienökosystemen zu beschreiten und beispielsweise juristische Ausdrücke oder auch Alltagsbegriffe in architektonische Begrifflichkeiten zu übersetzen. Ausgehend von den Model Stories werden die Personen dann angeleitet, sich je nach Informationsbedürfnis angemessene Quellen zu suchen und schrittweise die Architekturmodelle zu entwickeln und zu reflektieren.
 
-    Dieses Vorgehen soll dazu anregen, verflochtene Ökosysteme näher zu analysieren und die Zusammenhänge zwischen Akteuren, Daten und Systemen im Kontext medienregulatorischer Fragestellungen zu verstehen.
+    *Dieses Vorgehen soll dazu anregen, verflochtene Ökosysteme näher zu analysieren und die Zusammenhänge zwischen Akteuren, Daten und Systemen im Kontext medienregulatorischer Fragestellungen zu verstehen.*
 
     ## Tipps von Lehrenden für Lehrende
 

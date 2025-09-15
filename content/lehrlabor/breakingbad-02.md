@@ -16,7 +16,7 @@ quote:
 text: |
     ## Ausrichtung des Projekts
 
-    Ziel des Seminars „BreAkIng Bad – Hacking the AI Act“ war es, für die Gefahren im Umgang mit (generativer) KI zu sensibilisieren und praxisnah einen kritischen Umgang mit KI im Hinblick auf Chancen und Risiken vor dem Hintergrund der aktuellen Gesetzeslage (EU AI Act) zu vermitteln. Im Rahmen der Fortsetzung erfolgt die Modularisierung der im Rahmen des Projektseminars erarbeiteten Inhalte und die Integration in bestehende Lehrveranstaltungen.
+    Ziel des Seminars „BreAkIng Bad – Hacking the AI Act“ war es, für die Gefahren im Umgang mit (generativer) KI zu sensibilisieren und praxisnah einen kritischen Umgang mit KI im Hinblick auf Chancen und Risiken vor dem Hintergrund der aktuellen Gesetzeslage (EU AI Act) zu vermitteln. *Im Rahmen der Fortsetzung erfolgt die Modularisierung der im Rahmen des Projektseminars erarbeiteten Inhalte und die Integration in bestehende Lehrveranstaltungen.*
 
     ## Projektumsetzung
 

@@ -1,21 +1,21 @@
 {{ define "main" }}
     <section>
-    <header class="section-header">
-        <h1 class="section-title">{{ .Params.hero.title }}</h1>
-        <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
-    </header>
-    <div class="datenwelten-hero">
-        <div class="datenwelten-hero-left">
-            <p>{{ .Params.hero.left }}</p>
+        <header class="section-header">
+            <h1 class="section-title">{{ .Params.hero.title }}</h1>
+            <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
+        </header>
+        <div class="datenwelten-hero">
+            <div class="datenwelten-hero-left">
+                <p>{{ .Params.hero.left }}</p>
+            </div>
+            <div class="datenwelten-hero-right">
+                <p class="datenwelten-hero-answer">{{ .Params.hero.right.first }}</p>
+                <p>{{ .Params.hero.right.second }}</p>
+            </div>
         </div>
-        <div class="datenwelten-hero-right">
-            <p class="datenwelten-hero-answer">{{ .Params.hero.right.first }}</p>
-            <p>{{ .Params.hero.right.second }}</p>
+        <div class="wide-movie-container">
+            <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
         </div>
-    </div>
-    <div class="wide-movie-container">
-        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
-    </div>
     </section>
 
     <section class="background-pattern" id="lecture">

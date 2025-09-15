@@ -8,6 +8,7 @@ main {
   display: grid;
   grid-template-columns: minmax(4rem, 1fr) minmax(0, var(--max-width)) minmax(4rem, 1fr);
   row-gap: 2rem;
+  row-gap: 8rem;
   overflow: hidden;
 
   @media (max-width: $breakpoint-footer) {
