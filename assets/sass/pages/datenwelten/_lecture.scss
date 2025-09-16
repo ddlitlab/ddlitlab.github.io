@@ -12,7 +12,7 @@
     grid-template-areas: 
         "winter-meta winter winter"
         "divider divider divider"
-        "sommer sommer sommer-meta";
+        "sommer-meta sommer sommer";
     place-items: center;
     gap: 4rem 4rem;
     padding: 2rem 4rem;
@@ -28,7 +28,9 @@
     }
 
     a {
-        font-size: 1.3rem;
+        font-size: 1rem;
+        padding-left: 0;
+        padding-top: 3em;
     }
 
     &-text {
@@ -39,7 +41,7 @@
             font-family: "codicon";
             position: absolute;
             left: -1em;
-            font-size: 3em;
+            font-size: 1.5em;
             line-height: 1;
             @include highlight-icon;
         }

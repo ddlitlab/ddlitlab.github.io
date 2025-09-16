@@ -23,7 +23,7 @@ studierende:
     podcast:
       title: 'Podcast-Reihe: Generative KI an der Universität Hamburg'
       text: |
-        In diesem Podcast sprechen wir mit *Expert:innen von der Universität Hamburg* über das Thema generative KI. Wir, das sind Mareike Bartels und Jennifer Preiß vom DUTy-Team des DDLitLab. In unseren Gesprächen versuchen wir offene Fragen zum Thema generative KI in Studium und Lehre zu beantworten: Wie *funktioniert* das? Was *darf* man? Welche *Limitationen* gibt es? Warum soll ich mich damit *beschäftigen*? 
+        In diesem <a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki.html" target="_blank">Podcast</a> sprechen wir mit *Expert:innen von der Universität Hamburg* über das Thema generative KI. Wir, das sind Mareike Bartels und Jennifer Preiß vom DUTy-Team des DDLitLab. In unseren Gesprächen versuchen wir offene Fragen zum Thema generative KI in Studium und Lehre zu beantworten: Wie *funktioniert* das? Was *darf* man? Welche *Limitationen* gibt es? Warum soll ich mich damit *beschäftigen*? 
         
         Diese und viele weitere Fragen werden in den verschiedenen Folgen mit unterschiedlichen Ansprechpartner:innen thematisiert. Und alle erzählen dabei auch ein bisschen über sich und ihre Aufgaben und Forschungsgebiete an der Universität Hamburg.
     numbers:

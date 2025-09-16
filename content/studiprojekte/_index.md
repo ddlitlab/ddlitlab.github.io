@@ -9,8 +9,8 @@ text: |
     
     Über die vier Förderrunden hinweg entstanden so nicht nur datengetriebene Projekte, sondern auch intensive Lern- und Entwicklungserlebnisse: Zahlreiche Studierende profitierten unmittelbar in ihrem Studienfortschritt, einige erreichten *wichtige Meilensteine* im Bachelor- oder Masterstudium, andere traten dank ihrer erworbenen Expertise den Weg in zukunftsweisende Karrieren als Nachwuchswissenschaftler:innen an. Dank der Finanzierung – von der ersten Runde mit acht Projekten (Oktober 2022 bis September 2023), über sechs Projekte in der zweiten Runde (April 2023 bis März 2024), zehn in der dritten (Oktober 2023 bis März 2024) bis zu sieben finalen Projekten (Oktober 2024 bis September 2025) – konnten wir ein vielfältiges Portfolio datenorientierter studentischer Forschungsprojekte aufbauen.
 numbers:
-    - '<i class="codicon codicon-lightbulb"></i> <span>Data Literacy</span> als Schlüsselkompetenz in'
-    - '<span>31</span> studentischen Forschungsgruppen<i class="codicon codicon-search-fuzzy"></i>'
+    - '<i class="codicon codicon-key"></i> &nbsp; <span>Data Literacy</span> als Schlüsselkompetenz in'
+    - '<span>31</span> studentischen Forschungsgruppen<i class="codicon codicon-rocket"></i>'
     - 'mit <span>77</span> beteiligten Studierenden<i class="codicon codicon-account"></i> <i class="codicon codicon-account"></i>'
 filter1: "Runde 1"
 filter2: "Runde 2"

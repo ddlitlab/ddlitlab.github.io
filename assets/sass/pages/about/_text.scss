@@ -10,11 +10,11 @@
     &::before {
         content: "\eb33";
         position: absolute;
-        left: -25%;
+        left: -20%;
         top: 15%;
         font-family: 'codicon';
-        font-size: 200px;
-        color: rgba(0, 0, 0, 0.1);
+        font-size: 10rem;
+        color: rgba(0, 0, 0, 0.05);
     }
 
     hr {
@@ -35,7 +35,7 @@
                 font-size: 5em;
                 line-height: 0.7;
                 text-transform: uppercase;
-                text-shadow: 0.05em 0.05em var(--primary-light);
+                // text-shadow: 0.05em 0.05em var(--primary-light);
             }
 
             &::first-line {
@@ -44,7 +44,7 @@
         }
     }
 
-    @media (max-width: $breakpoint-tablet) {
+    @media (max-width: $breakpoint-navigation) {
         width: 85%;
 
         &::before {
