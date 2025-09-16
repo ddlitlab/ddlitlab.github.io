@@ -130,3 +130,32 @@
         }
     }
 }
+
+
+.breadcrumb-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+    place-content: center;
+    gap: 2rem;
+    color: var(--black-light);
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.breadcrumb-grid-item {
+    border: var(--primary) 0.15rem solid;
+    padding: 0.5em 1em;
+}
+
+@media (max-width: $breakpoint-tablet) {
+    .breadcrumb-grid {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: $breakpoint-footer) {
+    .breadcrumb-grid {
+        grid-template-columns: 1fr;
+    }
+}

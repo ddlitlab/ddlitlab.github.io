@@ -1,21 +1,12 @@
-
-
-
-gKI-Community:
-
+- in Channel posten
 - Präsens oder Präteritum?
 
-
-
-- Studi-Projekte Text wie Julia kürzen
 - big-numbers 85% von der navbar
-- Lesezeichen Jumper auf gKI-Community / About / Datenwelten
-- Podcast / Video Accordion umsetzen
 - Big Numbers wie in der PDF umsetzen
-- 2. Video (mit Link von Julia von Lecture2Go)
-- Studierende im Umgang mit KI stärken: Studieren in Zeiten von Generativer KI als Link einfügen
-- Fellow Workshops rausnehmen
-- Publications Grid Layout
+
+- Lesezeichen Jumper auf gKI-Community / About / Datenwelten
+
+- Publications von Mareike einbauen
 
 
 Responsive:
@@ -33,7 +24,7 @@ Unsortiert
 - Vergangene Veranstaltungen GKI-Community Grid richtig machen
 - Timeline-Texte nochmal durchgehen
 - datenwelten-event grids überarbeiten, list elemente statt divs
-
+- Impressum
 
 
 Roadmap:
@@ -110,16 +101,3 @@ Loading Optimization:
 
 Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen
-
-
-
-
-Font-Sizes Index:
-
-hero-title 3rem
-hero-subtitle 1.3rem
-section-title 2rem
-section-subtitle 1.3rem
-navigation-cards 1.5rem
-goals-section 1.3rem
-text 1rem

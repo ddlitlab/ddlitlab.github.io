@@ -106,6 +106,10 @@ details[class*="accordion"] {
     }
 }
 
+.accordion-wrapper-gkicommunity {
+  width: 80%;
+}
+
 
 @media (max-width: $breakpoint-footer) {
   .datenwelten-events-pretitle {
@@ -116,3 +120,4 @@ details[class*="accordion"] {
     margin-top: 0;
   }
 }
+

@@ -8,11 +8,20 @@
     <div class="projekte-index-quote projekte-index-quote-gkicommunity">
         {{ .Params.hero.text | markdownify }}
     </div>
+
+
+    <div class="breadcrumb-grid">
+        {{ range .Params.breadcrumb }}
+        <a class="breadcrumb-grid-item" href="{{ .url }}">{{ .title }}</a>
+        {{ end }}
+    </div>
 </section>
 
-<section>
+<section id="studierende">
     <header class="section-header">
-        <h1 class="section-title">{{ .Params.studierende.title }}</h1>
+        <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki/gki-landing-page.html" target="_blank" title="UHH gKI-Guide für Studis">
+        <h1 class="section-title">{{ .Params.studierende.title }}<i class='codicon codicon-arrow-right arrow-icon'></i></h1>
+        </a>
         <p class="section-subtitle">{{ .Params.studierende.subtitle }}</p>
     </header>
 
@@ -24,14 +33,14 @@
         <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=70983'  title='Video: &#34;Wie funktioniert eigentlich generative KI?&#34; mit Prof. Dr. Chris Biemann' frameborder='0' width='647' height='373' allowfullscreen></iframe>
     </div>
 
-    <div class="accordion-wrapper">
+    <div class="accordion-wrapper accordion-wrapper-gkicommunity">
       <details class="accordion-simple accordion-spotlight">
           <summary>{{ .Params.studierende.accordion.summary }}</summary>
           <h3>{{ .Params.studierende.accordion.title }}</h3>
           <p>{{ .Params.studierende.accordion.intro }}</p>
           <ol>
             {{ range .Params.studierende.accordion.items }}
-            <li>{{ . }}</li>
+            <li>{{ . | markdownify }}</li>
             {{ end }}
           </ol>
           <p><span class="highlight">{{ i18n "concept_production" }}</span>: Mareike Bartels, Jennifer Preiß, Simon Steinhauser, Sven Rehder</p>
@@ -40,11 +49,21 @@
 
     <div class="projekte-index-quote">
         <h2>{{ .Params.studierende.podcast.title }}</h2>
-        <p>{{ .Params.studierende.podcast.text | markdownify }}</p>
+        {{ .Params.studierende.podcast.text | markdownify }}
     </div>
 
-    <div>
-    - Alle Folgen der Podcast-Reihe?
+    <div class="accordion-wrapper accordion-wrapper-gkicommunity">
+      <details class="accordion-simple accordion-spotlight">
+          <summary>{{ .Params.studierende.podcast.accordion.summary }}</summary>
+          <h3>{{ .Params.studierende.podcast.accordion.title }}</h3>
+          <p>{{ .Params.studierende.podcast.accordion.intro }}</p>
+          <ol>
+            {{ range .Params.studierende.podcast.accordion.items }}
+            <li>{{ . | markdownify }}</li>
+            {{ end }}
+          </ol>
+          <p><span class="highlight">{{ i18n "concept_production" }}</span>: Mareike Bartels, Jennifer Preiß</p>
+      </details>
     </div>
 
     {{/*  <div class="big-numbers">
@@ -55,7 +74,7 @@
 
     <div class="projekte-index-quote">
         <h2>{{ .Params.studierende.workshops.title }}</h2>
-        <p>{{ .Params.studierende.workshops.text | markdownify }}</p>
+        {{ .Params.studierende.workshops.text | markdownify }}
         <p>{{ .Params.studierende.workshops.list_title }}</p>
         <ul>
             {{ range .Params.studierende.workshops.list_items }}
@@ -68,10 +87,28 @@
         <h2>{{ .Params.studierende.guide.title }}</h2>
         <p>{{ .Params.studierende.guide.text | markdownify }}</p>
     </div>
+
+    <div class="wide-movie-container">
+        <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=70992'  title='Video: Mit KI zur Hausarbeit III &#8211; Überarbeitungsphase mit DeepL Write' frameborder='0' width='647' height='373' allowfullscreen></iframe>
+    </div>
+
+    <div class="accordion-wrapper accordion-wrapper-gkicommunity">
+      <details class="accordion-simple accordion-spotlight">
+          <summary>{{ .Params.studierende.studi_videos_gki.accordion.summary }}</summary>
+          <h3>{{ .Params.studierende.studi_videos_gki.accordion.title }}</h3>
+          {{ .Params.studierende.studi_videos_gki.accordion.intro | markdownify }}
+          <ol>
+            {{ range .Params.studierende.studi_videos_gki.accordion.items }}
+            <li>{{ . | markdownify }}</li>
+            {{ end }}
+          </ol>
+          <p><span class="highlight">{{ i18n "concept_production" }}</span>: Mareike Bartels, Julia Pawlowski</p>
+      </details>
+    </div>
 </section>
 
 
-<section>
+<section id="lehrende">
     <header class="section-header">
         <h1 class="section-title">{{ .Params.lehrende.title }}</h1>
         <p class="section-subtitle">{{ .Params.lehrende.subtitle }}</p>
@@ -83,17 +120,16 @@
 
     <div>Bilder-Galerie (https://codepen.io/henriquebaldy/pen/VYYZqYa)</div>
 
-    <div class="accordion-wrapper">
+    <div class="accordion-wrapper accordion-wrapper-gkicommunity">
         <details class="accordion-simple">
             <summary class="accordion-events">{{ .Params.events.title }}</summary>
             <div class="grid-accordion-events">
                 {{ range .Params.events.columns }}
                 <div class="grid-accordion-events-column">
-                    <h2 class="datenwelten-pretitle">{{ .title }}</h2>
-                    {{ range $index, $item := .items }}
+                    {{ range .items }}
                     <div>
-                        <h3>{{ $item.date }}</h3>
-                        <p>#{{ add $index 1 }} {{ $item.title }}</p>
+                        <h3>{{ .date }}</h3>
+                        <p>{{ .title }}</p>
                     </div>
                     {{ end }}
                 </div>
@@ -105,7 +141,7 @@
 </section>
 
 
-<section>
+<section id="chatgptme">
     <header class="section-header">
         <h1 class="section-title">{{ .Params.publikationen.title | markdownify }}</h1>
         <p class="section-subtitle">{{ .Params.publikationen.subtitle }}</p>
@@ -114,6 +150,23 @@
     <div class="projekte-index-quote">
         {{ .Params.publikationen.text | markdownify }}
     </div>
+
+    <div class="publication-grid">
+        {{ range .Params.publications.items }}
+            <a class="publication-card glass" href='{{ .link }}' target="_blank">
+                <h2 class="publication-title">{{ .title }}</h2>
+                <p class="publication-subtitle">{{ .subtitle }}</p>
+                <p class="publication-date">{{ .date }}</p>
+                <p class="publication-authors">{{ .authors }}</p>
+            </a>
+        {{ end }}
+        </div>
+        <div class="publications-more">      
+            <a class="link-hover publications-more" href="https://www.fis.uni-hamburg.de/publikationen.html?q=DDLitLab&order=publicationYear&orderBy=descending&treffer=10&publishedAfterDate=&publishedBeforeDate=" target="_blank">
+            {{ .Params.publications.button }}
+            <i class='codicon codicon-arrow-right arrow-icon--large'></i>    
+            </a>
+        </div>
 </section>
 
 <section>
