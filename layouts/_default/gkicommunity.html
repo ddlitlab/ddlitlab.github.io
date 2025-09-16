@@ -35,7 +35,6 @@
             {{ end }}
           </ol>
           <p><span class="highlight">{{ i18n "concept_production" }}</span>: Mareike Bartels, Jennifer Preiß, Simon Steinhauser, Sven Rehder</p>
-          {{/*  Digital and Data Literacy in Teaching Lab, Februar 2024/25  */}}
       </details>
     </div>
 
@@ -48,11 +47,11 @@
     - Alle Folgen der Podcast-Reihe?
     </div>
 
-    <div class="big-numbers">
+    {{/*  <div class="big-numbers">
     {{ range .Params.studierende.numbers }}
         <p>{{ . | markdownify }}</p>
     {{ end }}
-    </div>
+    </div>  */}}
 
     <div class="projekte-index-quote">
         <h2>{{ .Params.studierende.workshops.title }}</h2>
@@ -115,7 +114,6 @@
     <div class="projekte-index-quote">
         {{ .Params.publikationen.text | markdownify }}
     </div>
-  
 </section>
 
 <section>

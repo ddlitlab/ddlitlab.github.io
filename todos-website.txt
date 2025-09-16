@@ -18,6 +18,10 @@ gKI-Community:
 - Publications Grid Layout
 
 
+Responsive:
+- 3 Balken Navbar kleiner / dünner
+
+
 
 
 Unsortiert

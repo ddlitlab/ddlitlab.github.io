@@ -18,7 +18,7 @@ navigation:
           icon: 'rocket'
         - title: 'GKI<br>Community'
           link: 'gkicommunity'
-          icon: 'coffee'
+          icon: 'comment-discussion'
 goals:
     title: 'Unsere Ziele'
     subtitle: 'Werdet fit für eine Welt voller Daten in überfachlichen Lernräumen und fachspezifischen Diskussionen'
