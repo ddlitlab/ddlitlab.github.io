@@ -2,55 +2,43 @@
   display: flex;
   width: 100%;
   position: relative;
-  height: 30vh;
-}
-
-.gallery-item {
-  position: relative;
+  height: 50vh;
   overflow: hidden;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
 }
 
 .gallery-image {
     height: 100%;
     overflow: hidden;
+    flex: 1;
     display: flex;
-    
-    figure {
-        width: 100%;
-        height: 100%;
-        margin: 0;
-        display: flex;
-        
-        img {
-            width: 100%;
-            height: 100%;
-            display: block;
-            object-fit: cover;
-        }
+    position: relative;
+    transition: all 0.5s ease-in-out; 
+
+    img {
+        object-fit: cover;
+    }
+}
+
+.gallery-image:hover {
+    flex-grow: 3;  
+
+    .gallery-figcaption {
+        transform: translateY(0);
     }
 }
 
 .gallery-figcaption {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  transform: translateY(100%);
-  background-color: rgba(0, 0, 0, 0.8);
-  border-top: 2px solid var(--primary);
-  color: var(--white-darker);
-  padding: 0.5rem;
-  transition: transform 0.45s ease-in-out;
-  will-change: transform;
-
-  p {
-    font-size: 1rem;
-  }
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    transform: translateY(100%);
+    background-color: rgba(0, 0, 0, 0.8);
+    //   border-top: 2px solid var(--primary);
+    color: var(--white-darker);
+    padding: 0.5rem;
+    transition: transform 0.5s ease-in-out;
+    will-change: transform;
+    font-size: 0.8rem;
 }
 
-.gallery-item:hover .gallery-figcaption {
-  transform: translateY(0);
-}

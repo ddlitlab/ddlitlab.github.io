@@ -1,12 +1,8 @@
 <div class="gallery">
     {{ range . }}
-    <div class="gallery-item">
-        <figure class="gallery-image">
-            <img src="{{ .image }}"  alt="{{ .title }}" loading="lazy">
-        </figure>
-        <figcaption class="gallery-figcaption".>
-            <p>{{ .title }}</p>
-        </figcaption>
-    </div>
+    <figure class="gallery-image">
+        <img src="{{ .image }}" alt="{{ .title }}" loading="lazy">
+        <figcaption class="gallery-figcaption">{{ .title }}</figcaption>
+    </figure>
     {{ end }}
 </div>
