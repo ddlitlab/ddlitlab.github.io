@@ -1,7 +1,6 @@
 .about-text-wide {
     position: relative;
     width: 70%;
-    margin-bottom: 2rem;
     font-size: 1.2rem;
     text-align: justify;
     color: var(--black-light);
@@ -22,11 +21,11 @@
         width: 40%;
         height: 4px;
         background-color: var(--black-lightest);
-        margin-bottom: 1em;
     }
 
     p {
-        margin-bottom: 1em;
+        margin-bottom: 0.5em;
+        line-height: 1.5;
 
         &:first-of-type {
             &::first-letter {

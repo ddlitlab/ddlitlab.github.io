@@ -10,6 +10,13 @@ hero:
         Im Mittelpunkt steht, Studierende zu befähigen, digitale Technologien reflektiert zu nutzen und datenbasierte Prozesse kritisch zu bewerten. Lehrende werden darin unterstützt, *digitale und hybride Formate* didaktisch sinnvoll in ihre Curricula zu integrieren. Zentrale Angebote sind das interdisziplinäre Grundlagenprogramm <a href="/datenwelten">Datenwelten</a>, das <a href="/lehrlabor">Data Literacy Lehrlabor</a>, <a href="/studiprojekte">Studi-Projekte</a> sowie die <a href="/gkicommunity">gKI Community</a>. Ergänzt wird das Portfolio durch das <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html">Lehre-Navi</a>, das Qualifizierung und Beratung zur digitalen und hybriden Hochschullehre bündelt.
 
         Mit dem Abschluss des Projekts Ende 2025 stehen die hier entwickelten Materialien und Konzepte als Ressource für die Weiterentwicklung der digitalen und datenbezogenen Hochschullehre an der Universität Hamburg und darüber hinaus zur Verfügung. Die Erfahrungen des DDLitLab sollen langfristig zur *Verankerung und Förderung von Data Literacy als Schlüsselkompetenz* an der Universität beitragen.
+breadcrumb:
+  - title: 'Zum Zeitstrahl'
+    url: '#timeline'
+  - title: 'Zum Team'
+    url: '#team'
+  - title: 'Zu den Publikationen'
+    url: '#publications'
 timeline:
     title: 'Zeitstrahl'
     subtitle: 'Unsere Geschichte'

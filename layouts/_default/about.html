@@ -3,15 +3,20 @@
             <img src="/images/team/_gruppenbild_cropped.jpg" alt="Team picture of the DDLitLab">
         </figure>
     <section>
+
         <header class="section-header">
             <h1 class="section-title">{{ .Params.hero.title }}</h1>
             <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
         </header>
+        
         <article class="about-text-wide">
             <hr>
             {{ .Params.hero.text | markdownify }}
             <hr>
         </article>
+
+        {{ partial "breadcrumb.html" .Params.breadcrumb }}
+
         <div class="logo-grid logo-grid-ddlitlab">
             <a href="https://www.uni-hamburg.de/">
             <img src="/images/logos-external/partner_uhh.svg" alt="University of Hamburg logo">

@@ -1,5 +1,5 @@
 {{ define "main" }}
-    <section>
+    <section id="hero">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.hero.title }}</h1>
             <p class="section-subtitle">{{ .Params.hero.subtitle }}</p>
@@ -15,12 +15,15 @@
                 <p>{{ .Params.hero.right | markdownify }}</p>
             </div>
         </div>
+
+        {{ partial "breadcrumb.html" .Params.breadcrumb }}
+
         <div class="wide-movie-container">
             <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=71206'  title='Video: Warum DATENWELTEN eine Vorlesung für Dich ist!' frameborder='0' allowfullscreen></iframe>
         </div>
     </section>
 
-    <section class="background-pattern" id="lecture">
+    <section class="background-pattern" id="ringvorlesung">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.lecture.title }}</h1>
             <p class="section-subtitle">{{ .Params.lecture.subtitle }}</p>
@@ -70,7 +73,7 @@
         <img src="/images/projekt/dw-uebung.png" alt="Data science exercises in the Datenwelten course">
     </figure>
     
-    <section id="exercise">
+    <section id="übung">
         <header class="section-header">
             <h1 class="section-title">{{ .Params.exercise.title }}</h1>
             <p class="section-subtitle">{{ .Params.exercise.subtitle }}</p>
@@ -140,7 +143,7 @@
     <a class="link-hover datenwelten-uebung-link-external" href="" target="_blank"><i class="codicon codicon-github"></i> {{ .Params.exercise.repo }}</a>
     </section>
 
-    <section id="datenwelten-events">
+    <section id="events">
         <div class="accordion-wrapper datenwelten-accordion">
             <details class="accordion-simple">
                 <summary class="accordion-events">{{ .Params.events.title }}</summary>

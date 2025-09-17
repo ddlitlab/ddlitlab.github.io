@@ -9,12 +9,8 @@
         {{ .Params.hero.text | markdownify }}
     </div>
 
+    {{ partial "breadcrumb.html" .Params.breadcrumb }}
 
-    <div class="breadcrumb-grid">
-        {{ range .Params.breadcrumb }}
-        <a class="breadcrumb-grid-item" href="{{ .url }}">{{ .title }}</a>
-        {{ end }}
-    </div>
 </section>
 
 <section id="studierende">

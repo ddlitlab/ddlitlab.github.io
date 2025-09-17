@@ -134,18 +134,27 @@
 
 .breadcrumb-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    
+    grid-template-columns: repeat(2, 1fr);
     place-content: center;
     gap: 2rem;
     color: var(--black-light);
     font-size: 1.2rem;
     font-weight: 500;
+    margin: 4rem auto;
+
+    &:has(:nth-child(3)) {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    &:has(:nth-child(4)) {
+        grid-template-columns: repeat(4, 1fr);
+    }
 }
 
 .breadcrumb-grid-item {
     border: var(--primary) 0.15rem solid;
     padding: 0.5em 1em;
+    text-align: center;
 }
 
 @media (max-width: $breakpoint-tablet) {
