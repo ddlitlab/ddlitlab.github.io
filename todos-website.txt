@@ -4,17 +4,11 @@
 - Publications von Mareike einbauen
 
 
-Responsive:
-- 3 Balken Navbar kleiner / dünner
-
-
 
 
 Unsortiert
 - Timeline richtig anpassen
-- Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)
-- Vergangene Veranstaltungen GKI-Community Grid richtig machen
-- Timeline-Texte nochmal durchgehen
+- Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)- . - - Timeline-Texte nochmal durchgehen
 - datenwelten-event grids überarbeiten, list elemente statt divs
 - Impressum
 
