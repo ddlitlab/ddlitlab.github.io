@@ -6,19 +6,31 @@
 {{ with $.Params.images }}
   {{ with $image := $.Resources.GetMatch (index (.) 0) -}}
     {{ if ne $image.MediaType.SubType "svg" }}
-      {{ $image = $image.Resize "960x" }}
+      {{ $image = $image.Resize "1200x630" }}
     {{ end }}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{{ $image.Permalink }}">
+    <meta name="twitter:image:alt" content="{{ $.Title }}">
+  {{ else }}
+    <!-- Fallback for static images -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ absURL (index (.) 0) }}">
+    <meta name="twitter:image:alt" content="{{ $.Title }}">
   {{ end -}}
 {{ else -}}
   {{ with $.Site.Params.images }}
     {{ with $image := resources.GetMatch (index (.) 0) }}
       {{ if ne $image.MediaType.SubType "svg" }}
-        {{ $image = $image.Resize "960x" }}
+        {{ $image = $image.Resize "1200x630" }}
       {{ end }}
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:image" content="{{ $image.Permalink }}">
+      <meta name="twitter:image:alt" content="{{ $.Site.Title }}">
+    {{ else }}
+      <!-- Fallback for static images -->
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:image" content="{{ absURL (index (.) 0) }}">
+      <meta name="twitter:image:alt" content="{{ $.Site.Title }}">
     {{ end -}}
   {{ else -}}
     <meta name="twitter:card" content="summary">

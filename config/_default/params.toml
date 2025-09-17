@@ -1,6 +1,6 @@
 # Site Params
 description = "DDLitLab – Digital and Data Literacy in Teaching Lab"
-# images = ['images/logo.svg','images/site-feature-image.png']
+images = ['illustrations/hero/hero_adobe_main-hero.png']
 mainMenuLogo = "illustrations/logo-site/favicon.png"
 
 # For favicons
@@ -22,3 +22,7 @@ footerAboutText = "We protect your website so you can provide a safe environment
   breadCrumb = false
   listCategoryFilter = false
   listTagFilter = false
+
+# Social Media Configuration
+[Social]
+  # twitter = "your_twitter_handle"  # Optional: Add your Twitter handle if you have one

@@ -10,14 +10,24 @@
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
 
 {{- with $.Params.images -}}
   {{- range first 6 . }}
     {{ with $image := $.Resources.GetMatch . }}
       {{ if ne $image.MediaType.SubType "svg" }}
-        {{ $image = $image.Resize "960x" }}
+        {{ $image = $image.Resize "1200x630" }}
       {{ end }}
       <meta property="og:image" content="{{ $image.Permalink }}">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="630">
+      <meta property="og:image:alt" content="{{ $.Title }}">
+    {{ else }}
+      <!-- Fallback for static images -->
+      <meta property="og:image" content="{{ absURL . }}">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="630">
+      <meta property="og:image:alt" content="{{ $.Title }}">
     {{ end -}}
   {{- end -}}
 {{- end -}}
@@ -25,9 +35,18 @@
   {{- range first 6 . }}
     {{ with $image := resources.GetMatch . }}
       {{ if ne $image.MediaType.SubType "svg" }}
-        {{ $image = $image.Resize "960x" }}
+        {{ $image = $image.Resize "1200x630" }}
       {{ end }}
         <meta property="og:image" content="{{ $image.Permalink }}">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="630">
+        <meta property="og:image:alt" content="{{ $.Site.Title }}">
+    {{ else }}
+      <!-- Fallback for static images -->
+      <meta property="og:image" content="{{ absURL . }}">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="630">
+      <meta property="og:image:alt" content="{{ $.Site.Title }}">
     {{ end -}}
   {{- end -}}
 {{- end -}}
