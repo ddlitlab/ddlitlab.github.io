@@ -62,11 +62,11 @@
       </details>
     </div>
 
-    {{/*  <div class="big-numbers">
+    <div class="big-numbers gkicommunity-big-numbers">
     {{ range .Params.studierende.numbers }}
         <p>{{ . | markdownify }}</p>
     {{ end }}
-    </div>  */}}
+    </div>
 
     <div class="projekte-index-quote">
         <h2>{{ .Params.studierende.workshops.title }}</h2>
@@ -115,6 +115,12 @@
     </div>
 
     <div>Bilder-Galerie (https://codepen.io/henriquebaldy/pen/VYYZqYa)</div>
+
+    <div class="big-numbers gkicommunity-big-numbers">
+    {{ range .Params.lehrende.numbers }}
+        <p>{{ . | markdownify }}</p>
+    {{ end }}
+    </div>
 
     <div class="accordion-wrapper accordion-wrapper-gkicommunity">
         <details class="accordion-simple">

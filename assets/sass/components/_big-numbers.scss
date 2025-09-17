@@ -2,25 +2,25 @@
 .big-numbers {
     display: grid;
     grid-template-columns: 1fr;
-    width: 60vw;
-    margin: 0 20vw;
+    width: 100%;
     color: var(--black);
     font-weight: 1000;
     gap: 0;
 
     p {
         text-transform: uppercase;
-        font-size: clamp(1.2rem, 2.5vw, 3rem);
+        font-size: clamp(1.2rem, 2.5vw, 2rem);
         margin: 0;
         letter-spacing: 0.1vw;
 
         &:nth-child(1) { justify-self: start; }
         &:nth-child(2) { justify-self: end; }
         &:nth-child(3) { justify-self: center; }
+        &:nth-child(4) { justify-self: end; }
     }
 
     span {
-        font-size: clamp(2rem, 5vw, 6rem);
+        font-size: clamp(2rem, 5vw, 4rem);
     }
 
     i {
@@ -29,13 +29,25 @@
         display: inline-block;
         color: var(--primary);
     }
-
-    @media (max-width: $breakpoint-mobile) {
-        width: 90vw;
-        margin: 0 5vw;
-    }
 }
 
 .projekte-big-numbers {
     margin: 3rem 0 6rem 0;
+}
+
+.gkicommunity-big-numbers {
+    margin: 4rem 0;
+}
+
+.datenwelten-big-numbers {
+    margin: 4rem 0;
+    padding: 0 6rem;
+
+    @media (max-width: $breakpoint-footer) {
+        padding: 0 3rem;
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        padding: 0 2rem;
+    }
 }

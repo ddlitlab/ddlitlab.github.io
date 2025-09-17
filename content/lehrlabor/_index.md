@@ -7,8 +7,8 @@ text: |
  
     Mit der dritten Förderrunde wurde die Maßnahme zum Wintersemester 2024/2025 in enger Verbindung mit dem <a href="https://www.hcds.uni-hamburg.de/" target="_blank">Hub of Computing & Data Science (HCDS)</a> weiterentwickelt: Der Data Literacy Lehrlabor‑Ansatz wurde zum *Cross‑Disciplinary Teaching Lab (CDTL)*, im Rahmen derer 10 Initiativen gefördert wurden. Diese Verbindung ermöglicht eine noch stärkere interdisziplinäre Kooperation und technikdidaktische Weiterentwicklung durch die Integration in das Studienökosystem „Data Literacy Education“. Über alle drei Förderrunden hinweg – mit 14 Lehrlaborprojekten in der ersten Runde, 21 in der zweiten sowie 10 CDTLs in der dritten – entstand so eine beeindruckende Vielfalt an *45 innovativen Lehrinitiativen*, die Data Literacy sowohl fachspezifisch als auch interdisziplinär in der Lehre verankern.
 numbers:
-    - '<i class="codicon codicon-search-fuzzy"></i> <span>Data Literacy</span> als Schlüsselkompetenz in'
-    - '<span>35</span> innovativen Lehrprojekten<i class="codicon codicon-rocket"></i>'
+    - '<i class="codicon codicon-search-fuzzy"></i> &nbsp; <span>Data Literacy</span> als Schlüsselkompetenz'
+    - 'in <span>35</span> Lehrprojekten<i class="codicon codicon-rocket"></i>'
     - 'in allen <span>8</span> Fakultäten<i class="codicon codicon-coffee"></i>'
 filter1: "Spotlights"
 filter2: "Runde 1"

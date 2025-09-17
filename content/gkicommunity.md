@@ -67,9 +67,10 @@ studierende:
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-robinius.html" target="_blank">#2: Rechtliche Fragen mit Martin Robinius</a>: Wir sprechen mit Martin Robinius über alles, was man beim Umgang mit generativer KI aus rechtlicher Perspektive beachten muss. (39 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-simon.html" target="_blank">#1: Ethik und GKI mit Prof. Dr. Judith Simon</a>: Wir sprechen mit Judith Simon, Professorin für Ethics in IT, über ethische Fragen, die sich bei der Nutzung von generativer KI stellen.'
     numbers:
-        - '<span>18</span> Informationsvideos<i class="codicon codicon-mortar-board"></i>'
-        - '<span>XX</span> durchgeführte Workshops<i class="codicon codicon-rocket"></i>'
-        - '<span>12</span> Podcast-Folgen mit Expert:innen der UHH<i class="codicon codicon-coffee"></i>'
+        - '<span>18</span> Informationsvideos<i class="codicon codicon-device-camera-video"></i>'
+        - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>XX</span> durchgeführte Workshops'
+        - '<i class="codicon codicon-mortar-board"></i> &nbsp; <span>12</span> Podcast-Folgen mit Expert:innen der <span>UHH</span>'
+        - 'zu <span>GKI</span> im Studium<i class="codicon codicon-pin"></i>'
     workshops:
       title: 'Workshops für Studierende der UHH'
       text: |
@@ -115,6 +116,10 @@ lehrende:
       Generative KI-Tools wie ChatGPT und Co. werfen nicht nur an der Universität Hamburg viele Fragen auf – von grundlegenden Zielen der Hochschulbildung über *neue praktische Gestaltungsmöglichkeiten* der eigenen Lehre bis hin zu konkreten prüfungsrechtlichen Aspekten. Unsere Veranstaltungsreihe und *Community of Practice* „KI Hands-On“ nimmt genau solche Aspekte in den Blick. 
       
       Beim KI Hands-On waren stets Personen aller Fakultäten und Einrichtungen willkommen. Die Veranstaltung profitierte vom *interdisziplinärem Austausch* und erfreute sich stets über eine große Teilnehmendenzahlen. Entstanden ist auch eine *Mailingliste* mit über 185 eingetragenen, interessierten Lehrpersonen aus der UHH, die regelmäßig über Veranstaltungen informiert werden.
+    numbers:
+        - '<span>8</span> Veranstaltungen<i class="codicon codicon-location"></i>'
+        - '<span>XX</span> Teilnehmende Hochschullehrende<i class="codicon codicon-mortar-board"></i>'
+        - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>Interdisziplinärer</span> Austausch'
 
 publikationen:
     title: 'Drei Jahre, drei Erhebungen –<br> über 1.500 Stimmen aus der UHH'
