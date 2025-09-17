@@ -153,6 +153,10 @@ publikationen:
       - 2025 setzten wir die Reihe fort und richten den Fokus unter anderem auf die Nutzung von UHHGPT, der datenschutzkonformen ChatGPT-Version für alle Uniangehörigen.
       
       Unsere Studien beleuchten nicht nur, wie KI-Tools konkret eingesetzt werden, sondern auch, welche *Fragen, Unsicherheiten und Haltungsdilemmata* damit einhergehen. Das Ziel: Ein datenbasierter Einblick in die Lebensrealität von Studierenden und Lehrenden – als Ausgangspunkt für Reflexion, Gestaltung und hochschuldidaktische Entwicklung. Die Ergebnisse der ersten beiden Erhebungen wurden in mehreren wissenschaftlichen Publikationen aufgearbeitet.
+    numbers:
+        - '<span>XX</span> teilgenommene Studierende<i class="codicon codicon-mortar-board"></i>'
+        - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>XX</span> teilgenommene Lehrende'
+        - '<i class="codicon codicon-repo"></i> &nbsp; <span>XX</span> enstandene Publikationen'
 
 
 

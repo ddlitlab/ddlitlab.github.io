@@ -152,6 +152,12 @@
         {{ .Params.publikationen.text | markdownify }}
     </div>
 
+    <div class="big-numbers gkicommunity-big-numbers">
+    {{ range .Params.publikationen.numbers }}
+        <p>{{ . | markdownify }}</p>
+    {{ end }}
+    </div>
+
     <div class="publication-grid">
         {{ range .Params.publications.items }}
             <a class="publication-card glass" href='{{ .link }}' target="_blank">
