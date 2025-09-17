@@ -1,4 +1,5 @@
 timeZone = 'Europe/London'
+baseURL = "https://ddlitlab.github.io"
 
 # Multilingual
 defaultContentLanguage = "de"

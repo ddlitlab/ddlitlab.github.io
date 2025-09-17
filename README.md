@@ -1,22 +1,6 @@
-# scss folder structure
-- `abstract`:
-- `base`:
-- `components`: 
-- `layout`:
-- `pages`: 
-- `vendors`: 
-
-
-
-
-
-
-- auf FIS verlinken (https://www.fis.uni-hamburg.de/publikationen.html?q=DDLitLab&order=publicationYear&orderBy=descending&treffer=10&publishedAfterDate=&publishedBeforeDate=)
-
-
 # DDLitab Webseite
 
-Link: https://softiceee.github.io/ddlit-prototype/
+Link: https://ddlitlab.github.io/
 
 ## Notes
 
@@ -24,7 +8,6 @@ Link: https://softiceee.github.io/ddlit-prototype/
 - simple.css: https://github.com/kevquirk/simple.css/blob/main/simple.css
 - modern-normalize.css: https://github.com/sindresorhus/modern-normalize/blob/main/modern-normalize.css
 
-## Colors
 
 ## Getting Started
 
@@ -70,11 +53,11 @@ Switch to a directory where you want to store your code (e.g. `~/code`)
 
 Clone this repository:
 
-```git clone https://github.com/softiceee/softiceee.github.io.git```
+```git clone https://github.com/ddlitlab/ddlitlab.github.io.git```
 
 Now you have a local copy of the repository. You can switch to the directory:
 
-```cd softiceee.github.io.git```
+```cd ddlitlab.github.io.git```
 
 ## Running the website locally
 
