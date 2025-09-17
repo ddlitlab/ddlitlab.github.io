@@ -120,6 +120,21 @@ lehrende:
         - '<span>8</span> Veranstaltungen<i class="codicon codicon-location"></i>'
         - '<span>XX</span> Teilnehmende Hochschullehrende<i class="codicon codicon-mortar-board"></i>'
         - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>Interdisziplinärer</span> Austausch'
+    gallery:
+      - title: '#1: Lehrbeispiele zu generativer KI im Juli 2023'
+        image: '/images/projekt/ki-hands-on/test.png'
+      - title: '#2: Diskussion zu Rahmenempfehlungen zum Umgang mit gKI-Systemen im November 2023'
+        image: '/images/projekt/ki-hands-on/test.png'
+      - title: '#3 Workshop Use Cases im Februar 2024'
+        image: '/images/projekt/ki-hands-on/test.png'
+      - title: '#4 Barcamp-Edition im Mai 2024'
+        image: '/images/projekt/ki-hands-on/test.png'
+      - title: '#5 Custom GPTs und Prompting im Oktober 2024'
+        image: '/images/projekt/ki-hands-on/test.png'
+      - title: '#6 Was müssen Studierende in Zeiten von gKI Neues fürs Studium lernen? im Januar 2025'
+        image: '/images/projekt/ki-hands-on/test.png'
+      - title: '#7 KI-Handreichung für Studierende im Mai 2025'
+        image: '/images/projekt/ki-hands-on/test.png'
 
 publikationen:
     title: 'Drei Jahre, drei Erhebungen –<br> über 1.500 Stimmen aus der UHH'

@@ -25,6 +25,12 @@ main article {
   position: relative;
 }
 
+main .gallery {
+  grid-column: 1 / -1;
+  place-items: center;
+  position: relative;
+}
+
 main figure.image-full-page {
   grid-column: 1 / -1;
   place-items: center;

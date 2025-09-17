@@ -1,9 +1,6 @@
 - in Channel posten
 - Präsens oder Präteritum?
 
-- big-numbers 85% von der navbar
-- Big Numbers wie in der PDF umsetzen
-
 - Publications von Mareike einbauen
 
 
