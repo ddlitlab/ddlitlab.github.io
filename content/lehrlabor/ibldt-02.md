@@ -20,13 +20,13 @@ text: |
 
     ## Projektumsetzung
     
-    Im Zeitraum von August bis Oktober 2024 befindet sich das Projekt in der Vorbereitungsphase, in der grundlegende Entscheidungen zur Ausgründung, wie die Wahl der Rechtsform und die Analyse von Fördermöglichkeiten, getroffen werden. Parallel dazu erfolgt der Ausbau des Netzwerks und administrative Vorbereitungen sowie die Einführung von Seminaren im Wintersemester.
+    Im Zeitraum von August bis Oktober 2024 befindet sich das Projekt in der Vorbereitungsphase, in der grundlegende Entscheidungen zur Ausgründung, wie die *Wahl der Rechtsform und die Analyse von Fördermöglichkeiten*, getroffen werden. Parallel dazu erfolgt der Ausbau des Netzwerks und administrative Vorbereitungen sowie die Einführung von Seminaren im Wintersemester.
 
-    In der Durchführungs- und Weiterentwicklungsphase von November 2024 bis Februar 2025 werden die didaktischen Szenarien angepasst und weiterentwickelt. Der Gründungsprozess wird durch rechtliche Klarstellungen und verstärkte Akquise von Fördermitteln vorangetrieben.
+    In der Durchführungs- und Weiterentwicklungsphase von November 2024 bis Februar 2025 werden die *didaktischen Szenarien* angepasst und weiterentwickelt. Der Gründungsprozess wird durch rechtliche Klarstellungen und verstärkte Akquise von Fördermitteln vorangetrieben.
 
     Die Gründung erfolgt im März 2025, begleitet von der Erledigung aller Gründungsformalitäten und der Antragstellung für Fördermittel sowie der Vorbereitung der Sommersemester-Seminare.
 
-    Von April bis Juli 2025 liegt der Fokus auf der Lehr- und Geschäftsentwicklung. Dies umfasst die Optimierung der Lehrkonzepte, die Unternehmensentwicklung, die Sicherung von Fördermitteln und den Ausbau des Netzwerks.
+    Von April bis Juli 2025 liegt der Fokus auf der *Lehr- und Geschäftsentwicklung*. Dies umfasst die Optimierung der Lehrkonzepte, die Unternehmensentwicklung, die Sicherung von Fördermitteln und den Ausbau des Netzwerks.
 
     Abschließend findet im Juli 2025 die Evaluierung und Zukunftsplanung statt. Dies beinhaltet die Erstellung eines Rechenschaftsberichts, strategische Planungen für das kommende Jahr und den Aufbau einer Grundlage zur Eigenfinanzierung.
 

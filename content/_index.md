@@ -25,7 +25,7 @@ goals:
     title: 'Unsere Ziele'
     subtitle: 'Werdet fit für eine Welt voller Daten in überfachlichen Lernräumen und fachspezifischen Diskussionen'
     text: |
-        Im DDLitLab erarbeitet Ihr Euch Kenntnisse und Fähigkeiten für einen *selbstbestimmten Umgang mit Daten und digitalen Formaten* in einer Welt, aus der Daten nicht mehr wegzudenken sind.
+        Im DDLitLab, kurz für *Digital and Data Literacy in Teaching Lab*, erarbeitet Ihr Euch Kenntnisse und Fähigkeiten für einen *selbstbestimmten Umgang mit Daten und digitalen Formaten* in einer Welt, aus der Daten nicht mehr wegzudenken sind.
 
         Dazu entwickeln wir *überfachliche Lehrräume, in denen verschiedene Perspektiven* und Fragestellung diskutiert werden, die die Orientierung in datenreichen Berufs- und Lebenswelten erleichtern.
 

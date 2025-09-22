@@ -23,7 +23,6 @@ timeline:
     items:
         - date: 'August 2021'
           title: 'Kick-Off DDLitLab'
-          # content: 'Das DDLitLab startet offiziell mit einem Kick-Off-Event, bei dem die Ziele und Visionen des Projekts vorgestellt werden. Das Team trifft sich, um die nächsten Schritte zu planen und die Zusammenarbeit zu koordinieren.'
           type: 'event'
         - date: 'Oktober 2021'
           title: 'Start Datenwelten I'
@@ -42,59 +41,59 @@ timeline:
           type: 'event'
         - date: 'Oktober 2022'
           title: 'Studi-Projekte Runde 1'
-          content: 'In der ersten Ausschreibungsrunde der <a href="/studiprojekte/">studentischen Forschungsgruppen</a> mit Schwerpunkt Data Literacy werden acht Projekte aus verschiedenen Fakultäten gefördert. Damit unterstützt das DDLitLab Studierende aller Fächer, ihre Digital- und Datenkompetenzen im Rahmen eigenständiger Projekte aufzubauen und sich zusätzliche Fertigkeiten im wissenschaftlichen Arbeiten und forschenden Lernen anzueignen.'
+          content: 'In der ersten Ausschreibungsrunde der <a href="/studiprojekte/">studentischen Forschungsgruppen</a> mit Schwerpunkt Data Literacy werden acht Projekte aus verschiedenen Fakultäten gefördert. Damit unterstützt das DDLitLab *Studierende aller Fächer*, ihre Digital- und Datenkompetenzen im Rahmen eigenständiger Projekte aufzubauen und sich zusätzliche Fertigkeiten im wissenschaftlichen Arbeiten und forschenden Lernen anzueignen.'
           type: 'event'
         - date: 'Dezember 2022'
           title: 'Launch Lehre-Navi'
-          content: 'Das <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank">Lehre-Navi</a> enthält Selbstlernmaterialen, Veranstaltungen und andere Angebote für (digitale) Lehre und richtet sich an alle Lehrenden der Universität Hamburg.'
+          content: 'Das <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank">Lehre-Navi</a> enthält Selbstlernmaterialen, Veranstaltungen und andere Angebote für (digitale) Lehre und richtet sich an *alle Lehrenden* der Universität Hamburg.'
           type: 'event'
         - date: '2023'
           title: '2023'
           type: 'period'
         - date: 'April 2023'
           title: 'Lehrlabor + Studi-Projekte Runde 2'
-          content: 'In der zweiten Förderungsrunde werden im <a href="/lehrlabor/">Lehrlabor</a> 21 Lehrprojekte und sechs <a href="/studiprojekte/">Studi-Projekte</a> gefördert.'
+          content: 'In der *zweiten Förderrunde* werden im <a href="/lehrlabor/">Lehrlabor</a> 21 Lehrprojekte und sechs <a href="/studiprojekte/">Studi-Projekte</a> gefördert.'
           type: 'event'
         - date: 'Juli 2023'
           title: 'Auftakt KI Hands-On'
-          content: 'Generative KI-Tools wie ChatGPT und Co. werfen nicht nur an der Universität Hamburg viele Fragen auf – von grundlegenden Zielen der Hochschulbildung über neue praktische Gestaltungsmöglichkeiten der eigenen Lehre bis hin zu konkreten prüfungsrechtlichen Aspekten. Unsere Veranstaltungsreihe und Community of Practice „KI Hands-On" nimmt genau diese Aspekte in den Blick.'
+          content: '*Generative KI-Tools wie ChatGPT und Co.* werfen nicht nur an der Universität Hamburg viele Fragen auf – von grundlegenden Zielen der Hochschulbildung über neue praktische Gestaltungsmöglichkeiten der eigenen Lehre bis hin zu konkreten prüfungsrechtlichen Aspekten. Unsere <a href="/gkicommunity/#lehrende">Veranstaltungsreihe</a> und Community of Practice *KI Hands-On* nimmt genau diese Aspekte in den Blick.'
           type: 'event'
         - date: 'September 2023'
           title: 'Publikation ChatGPT and Me'
-          content: 'Im Juli 2023 wird eine Online-Umfrage zum Einsatz generativer KI an der Universität Hamburg durchgeführt. Über 1.500 Mitglieder der Universität Hamburg beteiligen sich und ermöglichen dadurch erste Einblicke in die neue Lebensrealität mit generativer KI an der Hochschule.'
+          content: 'Im Juli 2023 wird eine <a href="/gkicommunity/#chatgptme">Online-Umfrage</a> zum Einsatz generativer KI an der Universität Hamburg durchgeführt. *Über 1.500 Mitglieder* der Universität Hamburg beteiligen sich und ermöglichen dadurch erste Einblicke in die neue Lebensrealität mit generativer KI an der Hochschule.'
           type: 'event'
         - date: 'Oktober 2023'
           title: 'Studi-Projekte Runde 3 + Start Datenwelten Übung'
-          content: 'In der 3. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2023/24 werden 10 Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert. In der vorlesungsbegleiteten Übung der „Datenwelten" lernen Studierende die Grundlagen der Statistiksoftware R für die Datenanalyse kennen. Dabei arbeiten sie mit öffentlichen oder persönlichen Daten und führen ein eigenes kritisches Datenprojekt durch.'
+          content: 'In der 3. Ausschreibungsrunde der <a href="/studiprojekte/">studentischen Forschungsgruppen</a> werden zehn Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert. In der vorlesungsbegleiteten <a href="/datenwelten/#übung/">Übung</a> der Datenwelten lernen Studierende Grundlagen in R für die *Datenanalyse* kennen.'
           type: 'event'
         - date: '2024'
           title: '2024'
           type: 'period'
         - date: 'August 2024'
           title: 'Fortführung des Lehrlabors als CDTL'
-          content: 'Mit der dritten Förderrunde des Data Literacy Lehrlabors 2024/25 wird die Zusammenführung und Verstetigung eines der Kernvorhaben des DDLitLab mit dem Hub of Computing and Data Science (HCDS) in den Blick genommen.'
+          content: 'Mit der dritten Förderrunde des <a href="/lehrlabor/">Lehrlabors</a> wird die Zusammenführung und Verstetigung eines der Kernvorhaben des DDLitLab mit dem <a href="https://www.hcds.uni-hamburg.de/">Hub of Computing and Data Science</a> (HCDS) in den Blick genommen. Das Lehrlabor heißt zukünftig *Cross-Disciplinary Teaching Lab*.'
           type: 'event'
         - date: 'Oktober 2024'
           title: 'Studi-Projekte Runde 4 + ChatGPT and me 2.0'
-          content: 'Im Juli 2024 haben wir die Erhebung zu „ChatGPT & me 2.0" über die Lebensrealität mit generativer KI an der Uni Hamburg durchgeführt. Diese wurde dann im Oktober als Forschungsbericht veröffentlicht. In der 4. Ausschreibungsrunde der studentischen Forschungsgruppen mit Schwerpunkt Data Literacy 2024/25 werden sieben Studierendenprojekte aus unterschiedlichen Fakultäten und Studiengängen gefördert.'
+          content: 'Im Juli 2024 haben wir die <a href="/gkicommunity/#chatgptme">Erhebung</a> zu *ChatGPT & me 2.0* über die Lebensrealität mit generativer KI an der Uni Hamburg durchgeführt. Diese wurde dann im Oktober als Forschungsbericht veröffentlicht. In der 4. Ausschreibungsrunde der <a href="/studiprojekte/">studentischen Forschungsgruppen</a> werden *sieben Studierendenprojekte* aus unterschiedlichen Fakultäten und Studiengängen gefördert.'
           type: 'event'
         - date: '2025'
           title: '2025'
           type: 'period'
         - date: 'September 2025'
           title: 'Publikation ChatGPT and Me 3.0'
-          content: 'Im Juli 2025 haben wir die Erhebung zu „ChatGPT & me 3.0" über die Lebensrealität mit generativer KI an der Uni Hamburg durchgeführt. Diese wird dann im September als Forschungsbericht veröffentlicht.'
+          content: 'Im Juli 2025 haben wir die <a href="/gkicommunity/#chatgptme">Erhebung</a> zu *ChatGPT & me 3.0* über die Lebensrealität mit *generativer KI* an der Uni Hamburg durchgeführt. Diese wird im September als Forschungsbericht veröffentlicht.'
           type: 'event'
         - date: 'November 2025'
           title: 'Feierliche Abschlussveranstaltung'
-          content: 'Nach viereinhalb Jahren DDLitLab feiern wir gemeinsam mit zahlreichen Gästen den erfolgreichen Abschluss unseres Projekts. Zusammen mit allen, die uns während der Projektlaufzeit begleitet haben, blicken wir auf die erreichten Meilensteine und Erfolge zurück.'
+          content: 'Nach viereinhalb Jahren DDLitLab feiern wir gemeinsam mit zahlreichen Gästen den *erfolgreichen Abschluss* unseres Projekts. Zusammen mit allen, die uns während der Projektlaufzeit begleitet haben, blicken wir auf die erreichten Meilensteine und Erfolge zurück.'
           type: 'event'
         - date: 'Dezember 2025'
           title: 'Projekt-Ende'
           type: 'event'
 team:
     title: 'Unser Team'
-    subtitle: 'Hier muss ein anderer Text hin'
+    subtitle: 'Die Menschen hinter dem DDLitLab'
     items:
         - name: "Prof. Dr. Katharina Kleinen-von Königslöw" 
           title: "Projektleitung"
@@ -163,8 +162,9 @@ team:
           title: "Wissenschaftliche Mitarbeiterin (DUTy)"
           image: "/images/team/pawlowski_julia.jpg"
           description:
-            - "Visuelle Aufbereitung und Gestaltung von Lehrmaterialien"
-            - "Visuelle (Wissenschafts-)Kommunikation in digitalen Angeboten"
+            - Öffentlichkeitsarbeit, visuelle Kommunikation und Koordination von Impact Stories
+            - Konzept und Design des Lehre-Navi und von Projektwebseiten
+            - Erfahrungsdokumentation von Data Literacy Lehrprojekten
         - name: "Jennifer Preiß"
           title: "Wissenschaftliche Mitarbeiterin (DUTy)"
           image: "/images/team/preiss_jennifer.jpg"

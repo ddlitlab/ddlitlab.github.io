@@ -4,7 +4,7 @@ method: "Vorlesung und Übung"
 institution: "Fakultät für Betriebswirtschaftslehre"
 title: "Data Literacy for Algorithmic Decision Support"
 title_project: "Data Driven Decision Making for Sustainable Mobility"
-title_short: 
+title_short: "DLitAlgoDS"
 period: "Apr 23 ­­- Mar 24 (12 months)"
 foerderlinie: "Fachspezifische Data Literacy"
 round: "2"

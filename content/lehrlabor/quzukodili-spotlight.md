@@ -17,11 +17,11 @@ spotlight_interview: "Ja"
 text: |
     Was macht es eigentlich mit uns, wenn wir einen Text über den Christopher Street Day lesen, der mit dem Wort „Make-up“ beginnt – und was, wenn stattdessen von einer Demo die Rede ist? Und warum gibt es eigentlich mehr Berichte über vermeintlich schwule Pinguine, aber weniger über lesbische?
 
-    Diese und andere Fragen stellt sich die Queerlinguistik und erforscht dabei Mittels Analysen großer Textsammlungen, also Korpora, welche Worte rund um Geschlecht und Sexualität in welchen Kontexten häufig vorkommen – oder auch weggelassen werden, und ergänzt diese durch qualitative Zugriffe auf die Daten.
+    Diese und andere Fragen stellt sich die Queerlinguistik und erforscht dabei Mittels Analysen *großer Textsammlungen*, also Korpora, welche Worte rund um Geschlecht und Sexualität in welchen Kontexten häufig vorkommen – oder auch weggelassen werden, und ergänzt diese durch qualitative Zugriffe auf die Daten.
     
-    Studierende der Linguistik brauchen für solche Analysen Fähigkeiten aus dem Bereich der Data Literacy und Computerlinguistik. Und genau hier setzt das Lehrprojekt von Prof. Dr. Lars Sörries-Vorberger und Carla Sökefeld an. In einer kombinierten Veranstaltung aus Seminar und Übung werden die Studierenden Schritt für Schritt in das Feld der Digital Humanities eingeführt und erarbeiten dabei eigene Forschungsfragen aus der Queer- und Diskurslinguistik. 
+    Studierende der Linguistik brauchen für solche Analysen Fähigkeiten aus dem Bereich der *Data Literacy und Computerlinguistik*. Und genau hier setzt das Lehrprojekt von Prof. Dr. Lars Sörries-Vorberger und Carla Sökefeld an. In einer kombinierten Veranstaltung aus Seminar und Übung werden die Studierenden Schritt für Schritt in das Feld der Digital Humanities eingeführt und erarbeiten dabei eigene Forschungsfragen aus der *Queer- und Diskurslinguistik*. 
 
-    Das Ziel: Ein niedrigschwelliger Zugang in Verfahren der Computer-, Korpus- und Diskurslinguistik und die Entwicklung einer kritischen Data Literacy in der Queerlinguistik 
+    Das Ziel: Ein niedrigschwelliger Zugang in Verfahren der Computer-, Korpus- und Diskurslinguistik und die Entwicklung einer kritischen Data Literacy in der Queerlinguistik.
 
     Das fachspezifische Lehrprojekt „Queere Zugänge zur Korpus- und Diskurslinguistik“ wird durch das Digital and Data Literacy in Teaching Lab (kurz: DDLitLab) gefördert und wurde vergangenes Semester erfolgreich an der Fakultät für Geisteswissenschaften der Universität Hamburg durchgeführt. In diesem Interview geben Lars und Carla Einblicke in das didaktische Konzept und die Lerninhalte der Veranstaltung. 
 

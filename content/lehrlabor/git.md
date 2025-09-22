@@ -16,21 +16,21 @@ quote: "Versionskontrolle ist das Notizbuch für eine digitale Welt und Git das 
 text: |
     ## Ausrichtung des Projekts
 
-    Digitale Objekte auf unseren Computern, besonders in der Wissenschaft, befinden sich im ständigen Wandel. Manuskripte, Programmiercode und Forschungsdaten werden kontinuierlich und kollaborativ verändert. Die systematische Dokumentation dieser Veränderungen ist essenziell für reproduzierbare und transparente Wissenschaft sowie effektive Zusammenarbeit.
+    Digitale Objekte auf unseren Computern, besonders in der Wissenschaft, befinden sich im ständigen Wandel. Manuskripte, Programmiercode und Forschungsdaten werden kontinuierlich und kollaborativ verändert. Die systematische *Dokumentation dieser Veränderungen* ist essenziell für reproduzierbare und transparente Wissenschaft sowie effektive Zusammenarbeit.
 
     Trotz der Wichtigkeit von Daten und Code gehen Forschende oft chaotisch mit digitalen Objekten um. Fragen wie „Welche Version habe ich benutzt?“ oder „Was habe ich geändert?“ sind üblich, was Reproduzierbarkeit und Vertrauenswürdigkeit beeinträchtigt und zu Frustration und Zeitverlust führt.
 
-    Forschende können von Praktiken der Softwareentwicklung lernen, insbesondere durch das Versionskontrollsystem Git. Git ermöglicht die Nachverfolgung und Organisation der Entwicklung digitaler Objekte und deren Teilen über Plattformen wie GitHub.
+    Forschende können von Praktiken der Softwareentwicklung lernen, insbesondere durch das *Versionskontrollsystem* Git. Git ermöglicht die Nachverfolgung und Organisation der Entwicklung digitaler Objekte und deren Teilen über Plattformen wie GitHub.
 
     ## Rückblick und Ergebnisse
 
     Vor dem Hintergrund der Replikationskrise bestehen große Anforderungen an Methoden zur Verbesserung der wissenschaftlichen Praxis. Ein Hauptergebnis des Lehrprojekts war, Kursteilnehmenden Versionskontrolle im wissenschaftlichen Kontext durch praktische Anwendung von Git und Nutzung von Plattformen wie GitHub zu vermitteln.
 
-    Eine bedeutende Errungenschaft ist die Schaffung einer Open-Source-Lernressource für die effektive Nutzung von Git im wissenschaftlichen Umfeld. Diese Ressource fördert die Verbreitung von Wissen über Versionskontrolle und unterstützt eine transparente wissenschaftliche Praxis.
+    Eine bedeutende Errungenschaft ist die Schaffung einer Open-Source-Lernressource für die effektive Nutzung von Git im wissenschaftlichen Umfeld. Diese Ressource fördert die Verbreitung von Wissen über Versionskontrolle und unterstützt eine *transparente wissenschaftliche Praxis*.
 
     Ein weiteres Ergebnis war die transparente Entwicklung von Lehrmaterialien auf GitHub, was offene und reproduzierbare Wissenschaft fördert und eine kollaborative Weiterentwicklung ermöglicht. Die Kursteilnehmenden nutzten diese Transparenz, um auf notwendige Ergänzungen hinzuweisen.
 
-    Insgesamt haben die erzielten Ergebnisse das Verständnis für Versionskontrolle vertieft und wertvolle Ressourcen für die Gemeinschaft geschaffen, was zur Data Literacy der Teilnehmenden beiträgt und die Prinzipien von Offenheit und Zusammenarbeit im wissenschaftlichen Umfeld fördert.
+    Insgesamt haben die erzielten Ergebnisse das Verständnis für Versionskontrolle vertieft und wertvolle Ressourcen für die Gemeinschaft geschaffen, was zur Data Literacy der Teilnehmenden beiträgt und die Prinzipien von *Offenheit und Zusammenarbeit* im wissenschaftlichen Umfeld fördert.
 
     ## Tipps von Lehrenden für Lehrende
 

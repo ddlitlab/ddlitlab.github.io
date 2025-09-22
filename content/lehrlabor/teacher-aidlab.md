@@ -16,17 +16,17 @@ quote: "Im Lehr-Lern-Labor treffen die Studierenden auf einen außerschulischen 
 text: |
     ## Das Projekt Teacher AID Lab
 
-    Die Entwicklung des Lehrprojekts wurde durch mehrere Schlüsselfaktoren vorangetrieben. Ein zentraler Grund ist der dringende Bedarf, (angehenden) Lehrkräften während ihrer gesamten Ausbildung Daten- und KI-Kompetenz zu vermitteln. Trotz der wachsenden Bedeutung von Daten und KI in der Gesellschaft fehlen bisher Programme in der Lehrkräftebildung, die diesen Themen gerecht werden. Oft liegt der Fokus nur auf der Nutzung (z.B. „Prompting“) und nicht auf dem Verständnis der technologischen Perspektive von KI.
+    Die Entwicklung des Lehrprojekts wurde durch mehrere Schlüsselfaktoren vorangetrieben. Ein zentraler Grund ist der dringende Bedarf, (angehenden) Lehrkräften während ihrer gesamten Ausbildung Daten- und KI-Kompetenz zu vermitteln. Trotz der wachsenden Bedeutung von Daten und KI in der Gesellschaft fehlen bisher *Programme in der Lehrkräftebildung*, die diesen Themen gerecht werden. Oft liegt der Fokus nur auf der Nutzung (z.B. „Prompting“) und nicht auf dem Verständnis der technologischen Perspektive von KI.
 
-    Ein weiterer Faktor war das Feedback der Studierenden, die mehr praxisbezogene Inhalte über die üblichen Schulpraktika hinaus wünschen. Dies machte den Bedarf an einer engeren Verbindung zur realen Berufspraxis deutlich und führte zur Entscheidung für einen außerschulischen Lernort als Kooperationspartner.
+    Ein weiterer Faktor war das Feedback der Studierenden, die mehr *praxisbezogene Inhalte* über die üblichen Schulpraktika hinaus wünschen. Dies machte den Bedarf an einer engeren Verbindung zur realen Berufspraxis deutlich und führte zur Entscheidung für einen außerschulischen Lernort als Kooperationspartner.
 
     Das übergeordnete Ziel bleibt die feste Integration niedrigschwelliger, praxisorientierter Programme in das Lehramtscurriculum. Der Zugang zu diesen Inhalten muss erleichtert und fest verankert werden, damit angehende Lehrkräfte die notwendigen Kompetenzen erwerben, um den Anforderungen des modernen Bildungssystems gerecht zu werden.
 
     ## Rückblick und Ergebnisse
 
-    Das Lehrprojekt hat wichtige Ergebnisse für die Lehrkräfteausbildung und die Förderung der KI-Kompetenz von (angehenden) Lehrkräften erzielt. Es ist eines der ersten Angebote im Bereich „AI Literacy“ in der Lehramtsausbildung an der Universität Hamburg und ein wesentlicher Schritt zur zeitgemäßen Ausbildung zukünftiger Lehrkräfte. Das Projekt fördert die Professionalisierung von Lehrkräften in der digitalen Transformation von Schule und Unterricht unter den Bedingungen von KI.
+    Das Lehrprojekt hat wichtige Ergebnisse für die Lehrkräfteausbildung und die Förderung der KI-Kompetenz von (angehenden) Lehrkräften erzielt. Es ist eines der ersten Angebote im Bereich „AI Literacy“ in der Lehramtsausbildung an der Universität Hamburg und ein wesentlicher Schritt zur *zeitgemäßen Ausbildung zukünftiger Lehrkräfte*. Das Projekt fördert die Professionalisierung von Lehrkräften in der digitalen Transformation von Schule und Unterricht unter den Bedingungen von KI.
 
-    Studierende können nun technologische und gesellschaftliche Aspekte von KI und Datenpraktiken verstehen und didaktische Ansätze entwickeln, um diese Inhalte zu vermitteln. Der praxisnahe Zugang ermöglicht durch die direkte Arbeit mit Schülerinnen und Schülern ein besseres Verständnis und erleichtert den Umgang mit KI-Systemen.
+    Studierende können nun technologische und gesellschaftliche Aspekte von KI und Datenpraktiken verstehen und didaktische Ansätze entwickeln, um diese Inhalte zu vermitteln. Der praxisnahe Zugang ermöglicht durch die *direkte Arbeit mit Schülerinnen und Schülern* ein besseres Verständnis und erleichtert den Umgang mit KI-Systemen.
 
     Das Projekt bietet ein nachnutzbares, wahlpflichtiges Angebot zur Daten- und KI-Kompetenz im Lehramtsstudium, was nachhaltig die Data/AI Literacy Education an der Universität Hamburg stärkt. Es wirkt sich positiv auf die Studierenden und zukünftige Generationen von Schüler:innen aus. Die Veranstaltung adressierte zentrale Kompetenzen des "AI4K12" Frameworks, darunter:
 

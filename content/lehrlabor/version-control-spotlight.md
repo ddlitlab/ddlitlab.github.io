@@ -15,7 +15,7 @@ contributors: "Dr. Lennart Wittkuhn, Prof. Dr. Nicolas Schuck"
 quote:
 spotlight_interview: "Ja"
 text: |
-    Einstieg in Git für Studierende der Psychologie und Neurowissenschaften: Viele kennen sie: die berühmten „Final-Final“- und „Wirklich-Final“-Dateien begegnen uns überall dort, wo kollaborativ an Texten oder Analysen gearbeitet wird. Da dieser Umgang mit Dateien schnell chaotisch werden kann und damit fehleranfällig ist, lohnt sich ein Blick auf das Prinzip der „Versionskontrolle“. Warum diese nicht nur im studentischen Alltag sehr nützlich ist und was Kochrezepte in Git damit zu tun haben, erzählt uns heute Dr. Lennart Wittkuhn.
+    Einstieg in Git für Studierende der Psychologie und Neurowissenschaften: Viele kennen sie: die berühmten „Final-Final“- und „Wirklich-Final“-Dateien begegnen uns überall dort, wo *kollaborativ an Texten oder Analysen gearbeitet* wird. Da dieser Umgang mit Dateien schnell chaotisch werden kann und damit fehleranfällig ist, lohnt sich ein Blick auf das Prinzip der *„Versionskontrolle“*. Warum diese nicht nur im studentischen Alltag sehr nützlich ist und was Kochrezepte in Git damit zu tun haben, erzählt uns heute Dr. Lennart Wittkuhn.
 
     Dr. Lennart Wittkuhns Lehrprojekt "Versionskontrolle mit Git" wurde im Jahr 2023 und 2024 vom Digital and Data Literacy in Teaching Lab (kurz: DDLitLab) gefördert und bereits zweimal erfolgreich an Fakultät für Psychologie und Bewegungswissenschaften der Universität Hamburg mit Studierenden durchgeführt.
 

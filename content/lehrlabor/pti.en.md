@@ -1,28 +1,28 @@
 ---
 id: "pti" # nochmal überlegen
-method: "Projektseminare"
-institution: "Fakultät für Mathematik, Informatik und Naturwissenschaften, Fakultät für Pychologie und Bewegungswissenschaft"
-title: "Psychologie trifft Informatik – Von der Erhebung bis zur Auswertung komplexer Daten"
+method: "Project seminars"
+institution: "Faculty of Mathematics, Informatics and Natural Sciences, Faculty of Pychology and Human Movement Science"
+title: "Psychology meets computer science - from the collection to the analysis of complex data"
 title_project:
 title_short: "PTI"
 period: "Apr 23 ­­- Mar 24 (12 months)"
-foerderlinie: "Fachspezifische Data Literacy"
+foerderlinie: "Subject-specific projects"
 round: "2"
 filter: "2"
 lecture2go: "71037"
 uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/zweite-foerderrunde/08-psychologie-trifft-informatik.html"
 contributors: "Habiba Schiller, Larissa Gebken, Dr. Matthias Pillny"
-quote: "Die Definition von Data Literacy kann in direkten Zusammenhang mit dem Ziehen kausaler Schlüsse aus Daten gesetzt werden: Nur auf Basis einer validen, nachvollziehbaren und kritischen kausalen Analyse können zielgerichtete Handlungsempfehlungen abgeleitet werden."
+quote: "The definition of data literacy can be directly linked to drawing causal conclusions from data: Targeted recommendations for action can only be derived on the basis of a valid, comprehensible, and critical causal analysis."
 text: |
-    ## Ein interdisziplinäres Projektseminar zur Datenauswertung mittels Python und Machine Learning
+    ## An interdisciplinary project seminar on data analysis using Python and machine learning
 
-    Die aktuelle empirisch-psychologische Forschung erfordert zunehmend anspruchsvolle Experimentalaufbauten und multimethodale Untersuchungsmethoden. Bei der Auswertung dieser Forschungsergebnisse bedarf es vor allem eines kompetenten Umgangs mit *komplexen Datenstrukturen* wie beispielsweise der Kombination aus psychometrischen, elektrophysiologischen und psychophysiologischen Daten.
+    Current empirical-psychological research requires increasingly sophisticated experimental setups and multi-method research methods. The evaluation of these research results requires above all a competent handling of *complex data structures* such as the combination of psychometric, electrophysiological and psychophysiological data.
 
-    ## Rückblick und Ergebnisse
+    ## Review and results
 
-    Das interdisziplinäre Projektseminar für Studierende der Informatik und der Psychologie begann bereits im Sommersemester 2023. Ziel war es, den Herausforderungen um „Machine Learning“ in der Psychologie zu begegnen. Zu diesem Zweck wurde die breit einsetzbare Programmiersprache Python mit Anwendungsbezug zu einer psychologischen Fragestellung gelehrt: Die Studierenden untersuchten den Zusammenhang zwischen *Musiknutzungsverhalten und psychischer Gesundheit*. Die Teilnehmenden lernten, eigene Hypothesen aufzustellen, komplexe Daten zu erheben und unterschiedliche Datentypen für die Auswertung aufzubereiten. Sie erfassten dazu ihr eigenes Musiknutzungsverhalten und weitere relevante Daten mit Smartwatches. Dadurch wurden sie auch für Fragen der Datenqualität und des datenschutzkonformen sowie ethisch-sensitiven Umgangs mit personenbezogenen Daten sensibilisiert. Nach der Auswertung der Daten mit geeigneten Machine Learning-Verfahren wurden die Ergebnisse visualisiert und reflektiert, um sie in einer Abschlussveranstaltung öffentlich zu präsentieren.
+    The interdisciplinary project seminar for students of computer science and psychology began in the summer semester of 2023 with the aim of addressing the challenges of machine learning in psychology. To this end, the widely applicable programming language Python was taught with an application reference to a psychological question: the students investigated the relationship between *music consumption behaviour and mental health*. The participants learnt how to formulate their own hypotheses, collect complex data and prepare different types of data for analysis. They recorded their own music consumption behaviour and other relevant data using smartwatches. This also sensitised them to issues of data quality and the data protection-compliant and ethically sensitive handling of personal data. After evaluating the data using suitable machine learning methods, the results were visualised and reflected upon in order to present them publicly at a final event.
 
-    Die Studierenden lernten die nötigen Grundlagen der Programmiersprache Python mit Hilfe von *Online-Kursen und Flipped Classroom-Sitzungen*. Die Datenanalyse wurde mit Jupyter Notebooks durchgeführt. Es entstand so eine Vorlage, die langfristig genutzt und für eigene Forschungsprojekte angepasst werden konnte.
+    The students learnt the necessary basics of the Python programming language with the help of *online courses and flipped classroom sessions*. The data was analysed using Jupyter notebooks. This resulted in a template that could be used in the long term and adapted for the students' own research projects.
 
 image: "https://www.hcl.uni-hamburg.de/16932834/devon-divine-tgmyo9lwll4-unsplash-733x414-07f22f7564a16a555cb6ab9e6484b0f1888572de.jpg"
 image_credit: "Devon Divine / Unsplash"
