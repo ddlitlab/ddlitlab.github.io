@@ -68,8 +68,20 @@ You can run the site locally:
 This starts a local webserver which you can access in your browser at `http://localhost:1313`.
 
 
-## Making changes
+# Changing the content
 
-You can make changes to the website in the `content` directory. This is where all the content of the website is stored. You can try to change something in the file `content/about.md`. This is the "About" page of the website. You add some text in this file and save it. The local webserver will automatically reload the page in your browser.
+You can make changes to the website in the `content` directory. This is where all the content of the website is stored. 
 
-> Edit the file in VS Code. You can open the file by clicking on it in the Explorer view (left sidebar). After editing, save the file by pressing `cmd + s` (macOS) or `ctrl + s` (Windows/Linux). The local webserver will automatically reload the page in your browser.
+E.g. the content of the lehrlabor pages are in the `content/lehrlabor` directory. There are english and german versions of the pages. The english pages have the suffix `.en` after the file name.
+
+Best way to edit pages is inside Visual Studio Code. First you go to a terminal and clone the git repository with `git clone https://github.com/ddlitlab/ddlitlab.github.io.git`. Then you open the folder `ddlitlab.github.io` in VS Code. You can then see the files on the left side in the File Explorer.
+
+Before changing files, create a new branch for your changes in the terminal with `git checkout -b changes-yourname`.
+
+Then make your changes. You can check which files you have edit by typing `git status`.
+
+To upload your changes, you need to add your changes to staging with `git add .` and then commit your changes with `git commit -m "Brief description of your changes"`.
+
+Then you push your changes to the remote repository with `git push origin changes-yourname`, where `changes-yourname` is the name you gave to your branch.
+
+I will then integrate the changes into the main branch of the directory.
