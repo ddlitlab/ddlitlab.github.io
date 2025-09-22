@@ -1,7 +1,14 @@
 {{ define "main" }}
     <figure class="image-full-page image-full-page-about">
-            <img src="/images/team/_gruppenbild_cropped.jpg" alt="Team picture of the DDLitLab">
-        </figure>
+        <img src="/images/projekt/ddlitlab-gruppenbild-2600x600.jpg" 
+             srcset="/images/projekt/ddlitlab-gruppenbild-2600x1200.jpg 600w,
+                     /images/projekt/ddlitlab-gruppenbild-2600x900.jpg 1200w,
+                     /images/projekt/ddlitlab-gruppenbild-2600x600.jpg 1201w"
+             sizes="(max-width: 600px) 600px,
+                    (max-width: 1200px) 1200px,
+                    100vw"
+             alt="Team picture of the DDLitLab">
+    </figure>
     <section>
 
         <header class="section-header">
