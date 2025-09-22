@@ -4,7 +4,7 @@
 echo "🚀 DDLitLab Website Performance Audit"
 echo "====================================="
 
-SITE_DIR="/Users/dave/Desktop/code/ddlit-website"
+SITE_DIR="."
 PUBLIC_DIR="$SITE_DIR/public"
 
 # Check if site is built
