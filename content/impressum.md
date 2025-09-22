@@ -9,6 +9,14 @@ description: "Impressum"
 
 &copy; DDLitLab 2021-2025 All Rights Reserved
 
+Name
+Postalische Adresse
+<i class="codicon codicon-mail">E-Mail-Adresse</i>
+
+https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement
+
+
+
 We use <a href="https://gohugo.io/" target="_blank">Hugo</a> as static site builder. Hugo is open source and licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License 2.0</a>.
 
 We use code from the <a href="https://github.com/filipecarneiro/hugo-bootstrap-theme" target="_blank">Hugo Bootstrap Theme</a> by Filipe Carneiro. The theme is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.

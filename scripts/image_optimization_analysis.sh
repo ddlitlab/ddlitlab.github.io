@@ -6,7 +6,7 @@
 echo "🖼️  Image Optimization Analysis"
 echo "==============================="
 
-SITE_DIR="/Users/dave/Desktop/code/ddlit-website"
+SITE_DIR="."
 STATIC_DIR="$SITE_DIR/static"
 CONTENT_DIR="$SITE_DIR/content"
 

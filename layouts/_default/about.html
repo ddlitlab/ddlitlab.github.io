@@ -1,9 +1,9 @@
 {{ define "main" }}
     <figure class="image-full-page image-full-page-about">
-        <img src="/images/projekt/ddlitlab-gruppenbild-2600x600.jpg" 
-             srcset="/images/projekt/ddlitlab-gruppenbild-2600x1200.jpg 600w,
-                     /images/projekt/ddlitlab-gruppenbild-2600x900.jpg 1200w,
-                     /images/projekt/ddlitlab-gruppenbild-2600x600.jpg 1201w"
+        <img src="/images/projekt/ddlitlab-gruppenbild-2600x600.webp" 
+             srcset="/images/projekt/ddlitlab-gruppenfoto/ddlitlab-gruppenbild-2600x1200.webp 600w,
+                     /images/projekt/ddlitlab-gruppenfoto/ddlitlab-gruppenbild-2600x900.webp 1200w,
+                     /images/projekt/ddlitlab-gruppenfoto/ddlitlab-gruppenbild-2600x600.webp 1201w"
              sizes="(max-width: 600px) 600px,
                     (max-width: 1200px) 1200px,
                     100vw"
@@ -26,13 +26,13 @@
 
         <div class="logo-grid logo-grid-ddlitlab">
             <a href="https://www.uni-hamburg.de/">
-            <img src="/images/logos-external/partner_uhh.svg" alt="University of Hamburg logo">
+            <img src="/images/logos-external/partner_uhh.svg" alt="University of Hamburg logo" loading="lazy">
             </a>
             <a href="https://stiftung-hochschullehre.de/">
-            <img src="/images/logos-external/partner_stil.svg" alt="Stiftung für Innovation in der Hochschullehre Logo">
+            <img src="/images/logos-external/partner_stil.svg" alt="Stiftung für Innovation in der Hochschullehre Logo" loading="lazy">
             </a>
             <a href="https://www.uni-hamburg.de/exzellenz.html">
-            <img src="/images/logos-external/partner_exzellenz.png" alt="Excellence Strategy of the Federal and State Governments logo">
+            <img src="/images/logos-external/partner_exzellenz.webp" alt="Excellence Strategy of the Federal and State Governments logo" loading="lazy">
             </a>
         </div>    
     
@@ -92,7 +92,7 @@
             <div class="team-card glass">
             {{ if isset . "image" }}
                 <figure class="team-card-image">
-                    <img src="{{ .image }}" alt="{{ .name }}">
+                    <img src="{{ .image }}" alt="{{ .name }}" loading="lazy">
                 </figure>
             {{ end }}
                 <div class="team-card-content">
@@ -115,7 +115,7 @@
             <p class="section-subtitle">{{ .Params.publications.subtitle }}</p>
         </header>
         <figure class="image-area-horizontal">
-            <img src="/illustrations/hero/hero_adobe_publications.png" alt="Illustration showing a laptop and hands">
+            <img src="/illustrations/hero/hero_adobe_publications.webp" alt="Illustration showing a laptop and hands" loading="lazy">
         </figure>
         <div class="publication-grid">
         {{ range .Params.publications.items }}

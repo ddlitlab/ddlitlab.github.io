@@ -3,7 +3,3 @@ node_modules
 resources
 .hugo_build.lock
 .DS_Store
-
-static/images/datenwelten/chris.png
-static/images/datenwelten/lehre_david_01.png
-static/images/datenwelten/lehre_david_02.png

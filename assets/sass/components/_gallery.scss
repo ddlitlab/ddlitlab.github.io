@@ -27,6 +27,18 @@
     }
 }
 
+@media (max-width: $breakpoint-tablet) {
+    .gallery-image:hover {
+        flex-grow: 7;
+    }
+}
+
+@media (max-width: $breakpoint-mobile) {
+    .gallery-image:hover {
+        flex-grow: 11;
+    }
+}
+
 .gallery-figcaption {
     position: absolute;
     bottom: 0;
