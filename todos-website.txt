@@ -62,28 +62,8 @@ Loading Optimization:
    • Use appropriate formats and sizes
    • Consider CSS background-image for hero sections
 
-🛠️  Hugo Image Processing Example:
---------------------------------
-<!-- Example of optimized image usage in Hugo templates -->
-{{ $image := resources.Get "images/hero.jpg" }}
-{{ $small := $image.Resize "320x" }}
-{{ $medium := $image.Resize "768x" }}
-{{ $large := $image.Resize "1024x" }}
-{{ $webp := $image.Resize "1024x webp" }}
-
-<picture>
-  <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-  <img src="{{ $large.RelPermalink }}"
-       srcset="{{ $small.RelPermalink }} 320w,
-               {{ $medium.RelPermalink }} 768w,
-               {{ $large.RelPermalink }} 1024w"
-       sizes="(max-width: 768px) 100vw, 
-              (max-width: 1024px) 50vw, 
-              33vw"
-       alt="Description"
-       loading="lazy">
-</picture>
 
 
 Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen
+
