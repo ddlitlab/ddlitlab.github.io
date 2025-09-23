@@ -9,7 +9,12 @@
                 <p>{{ .Params.hero.left }}</p>
             </div>
             <figure>
-                <img src="/illustrations/hero/hero_adobe_datenwelten.webp" alt="University of Hamburg Datenwelten illustration" fetchpriority="high">
+                <picture>
+                <source media="(max-width: 480px)" srcset="/illustrations/hero/hero_adobe_datenwelten-mobile.webp">
+                <img src="/illustrations/hero/hero_adobe_datenwelten-desktop.webp"
+                    alt="University of Hamburg Datenwelten illustration"
+                    loading="lazy">
+                </picture>
             </figure>
             <div class="datenwelten-hero-right">
                 <p>{{ .Params.hero.right | markdownify }}</p>
@@ -31,7 +36,7 @@
         <div class="glass datenwelten-inhalte">
             <div class="datenwelten-inhalte-winter-meta">
                 <p class="datenwelten-pretitle">{{ .Params.lecture.grid.winter.pretitle }}</p>
-                <h3>{{ .Params.lecture.grid.winter.title }}</h3>
+                <h2>{{ .Params.lecture.grid.winter.title }}</h2>
                 <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.winter.text | markdownify }}</p>
                 <a class="link-hover" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7566" target="_blank" rel="noopener noreferrer">
                     {{ .Params.lecture.grid.link }}
@@ -47,7 +52,7 @@
             <hr class="datenwelten-inhalte-divider">
             <div class="datenwelten-inhalte-sommer-meta">
                 <p class="datenwelten-pretitle">{{ .Params.lecture.grid.sommer.pretitle }}</p>
-                <h3>{{ .Params.lecture.grid.sommer.title }}</h3>
+                <h2>{{ .Params.lecture.grid.sommer.title }}</h2>
                 <p class="datenwelten-inhalte-text">{{ .Params.lecture.grid.sommer.text | markdownify }}</p>
                 <a class="link-hover" href="https://lecture2go.uni-hamburg.de/l2go/-/get/l/7659" target="_blank" rel="noopener noreferrer">
                     {{ .Params.lecture.grid.link }}

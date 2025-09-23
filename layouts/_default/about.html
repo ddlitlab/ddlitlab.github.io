@@ -1,14 +1,12 @@
 {{ define "main" }}
     <figure class="image-full-page image-full-page-about">
-        <img src="/images/projekt/ddlitlab-gruppenbild-2600x600.webp" 
-             srcset="/images/projekt/ddlitlab-gruppenfoto/ddlitlab-gruppenbild-2600x1200.webp 600w,
-                     /images/projekt/ddlitlab-gruppenfoto/ddlitlab-gruppenbild-2600x900.webp 1200w,
-                     /images/projekt/ddlitlab-gruppenfoto/ddlitlab-gruppenbild-2600x600.webp 1201w"
-             sizes="(max-width: 600px) 600px,
-                    (max-width: 1200px) 1200px,
-                    100vw"
-             alt="Team picture of the DDLitLab"
-             fetchpriority="high">
+        <picture>
+            <source media="(max-width: 600px)" srcset="/images/projekt/ddlitlab-gruppenfoto/ddlitlab-gruppenbild-2600x1200.webp">
+            <source media="(max-width: 1200px)" srcset="/images/projekt/ddlitlab-gruppenfoto/ddlitlab-gruppenbild-2600x900.webp">
+            <img src="/images/projekt/ddlitlab-gruppenfoto/ddlitlab-gruppenbild-2600x600.webp"
+                 alt="Team picture of the DDLitLab"
+                 fetchpriority="high">
+        </picture>
     </figure>
     <section>
 
@@ -115,9 +113,17 @@
             <h1 class="section-title">{{ .Params.publications.title }}</h1>
             <p class="section-subtitle">{{ .Params.publications.subtitle }}</p>
         </header>
-        <figure class="image-area-horizontal">
-            <img src="/illustrations/hero/hero_adobe_publications.webp" alt="Illustration showing a laptop and hands" loading="lazy">
+
+        <figure class="image-area-horiontal">
+            <picture>
+            <source media="(max-width: 480px)" srcset="/illustrations/hero/hero_adobe_publications-mobile.webp">
+            <img src="/illustrations/hero/hero_adobe_publications-desktop.webp"
+                alt="Illustration showing a laptop and hands"
+                loading="lazy">
+            </picture>
         </figure>
+
+
         <div class="publication-grid">
         {{ range .Params.publications.items }}
             <a class="publication-card glass" href='{{ .link }}' target="_blank">

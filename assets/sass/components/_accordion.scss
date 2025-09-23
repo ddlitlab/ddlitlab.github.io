@@ -9,7 +9,7 @@ details[class*="accordion"] {
   summary::marker,
   ::-webkit-details-marker {
     content: "+ ";
-    font-weight: 200;
+    font-weight: 400;
     font-size: 1.2em;
     line-height: 1em;
   }
@@ -91,7 +91,7 @@ details[class*="accordion"] {
 
     a {
         text-decoration: none;
-        font-weight: 200;
+        font-weight: 400;
         padding-left: 0;
         padding-right: 0;
     }

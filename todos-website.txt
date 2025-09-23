@@ -1,25 +1,13 @@
-- in Channel posten
 - Präsens oder Präteritum?
-
-- Publications von Mareike einbauen
-
-
-
-
-Unsortiert
-- Timeline richtig anpassen
-- Projekttitel vereinheitlichen (title_project ist der Projekt-Name, das andere eher der Titel der Präsentation)- . - - Timeline-Texte nochmal durchgehen
-- datenwelten-event grids überarbeiten, list elemente statt divs
+- Mail-Adresse für Github Account
+- SEO
 - Impressum
+- Team-Kacheln Text brechen
+- Translations
 
 
-Roadmap:
-- page layouts 
-- All Translations
-- animations desktop view
-- responsiveness: tablet view - mobile view
-
-
+Nach Abschluss der Webseite
+- Gaetano auf die studentischen Forschungsgruppen hinweisen
 
 
 Loading Optimization:
@@ -37,33 +25,9 @@ Loading Optimization:
 ✅ Optimized font loading (removed unused weights)
 ✅ CSS async loading implementation
 ✅ Lazy loading for images
-✅ JavaScript optimization with modern techniques
 
 
-
-💡 Optimization Strategies:
--------------------------
-1. Format Optimization:
-   • Convert large PNGs to JPEGs (if no transparency needed)
-   • Use WebP format for modern browsers
-   • Keep SVGs for icons and simple graphics
-
-2. Responsive Images:
-   • Implement srcset for different screen sizes
-   • Use Hugo's image processing features
-   • Create multiple sizes: 320w, 768w, 1024w, 1920w
-
-3. Lazy Loading:
-   • Add loading='lazy' to below-the-fold images
-   • Implement intersection observer for advanced lazy loading
 
 4. Hero Image Optimization:
    • Preload critical hero images
-   • Use appropriate formats and sizes
    • Consider CSS background-image for hero sections
-
-
-
-Nach Abschluss der Webseite
-- Gaetano auf die studentischen Forschungsgruppen hinweisen
-

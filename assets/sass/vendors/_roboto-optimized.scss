@@ -1,16 +1,16 @@
 /* Optimized Roboto Font Loading - Only Load Actually Used Weights */
-/* Based on analysis of website CSS usage: 200, 400, 500, 600, 700, 800 + italics */
+/* Based on analysis of website CSS usage: 400, 500, 600, 700, 800 + italics */
 
-/* roboto-200 - latin (Extra Light) */
-@font-face {
-  font-display: swap;
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 200;
-  src: local('Roboto ExtraLight'),
-       local('Roboto-ExtraLight'),
-       url('/fonts/roboto-v48-latin/roboto-v48-latin-200.woff2') format('woff2');
-}
+// /* roboto-200 - latin (Extra Light) */
+// @font-face {
+//   font-display: swap;
+//   font-family: 'Roboto';
+//   font-style: normal;
+//   font-weight: 200;
+//   src: local('Roboto ExtraLight'),
+//        local('Roboto-ExtraLight'),
+//        url('/fonts/roboto-v48-latin/roboto-v48-latin-200.woff2') format('woff2');
+// }
 
 /* roboto-regular - latin (400) */
 @font-face {
