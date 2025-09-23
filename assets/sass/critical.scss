@@ -1,6 +1,39 @@
 // Critical CSS - Above-the-fold styles for faster rendering
 // This file contains only essential styles needed for initial page render
 
+// Font face declarations with font-display: swap for better performance
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/roboto-v48-latin/roboto-v48-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/fonts/roboto-v48-latin/roboto-v48-latin-600.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/roboto-v48-latin/roboto-v48-latin-700.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('/fonts/roboto-v48-latin/roboto-v48-latin-800.woff2') format('woff2');
+}
+
 // CSS Reset (critical parts)
 * {
   margin: 0;
@@ -126,4 +159,46 @@ img, picture, svg {
   .hero-content p {
     font-size: 1.25rem;
   }
+}
+
+// Critical above-the-fold navigation elements
+.section-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  color: var(--black);
+}
+
+.section-subtitle {
+  font-size: 1.25rem;
+  color: var(--black-light);
+  font-weight: 400;
+}
+
+// Critical navigation cards (above-the-fold)
+.navigation-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.navigation-cards-grid-item {
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: #fff;
+}
+
+.navigation-cards-grid-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }

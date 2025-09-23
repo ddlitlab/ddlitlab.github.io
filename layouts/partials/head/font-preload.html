@@ -2,8 +2,11 @@
 {{- /* Preload regular weight (400) - most frequently used */ -}}
 <link rel="preload" href="/fonts/roboto-v48-latin/roboto-v48-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
 
+{{- /* Preload semi-bold weight (600) - used in critical path */ -}}
+<link rel="preload" href="/fonts/roboto-v48-latin/roboto-v48-latin-600.woff2" as="font" type="font/woff2" crossorigin>
+
 {{- /* Preload bold weight (700) - commonly used for headings */ -}}
 <link rel="preload" href="/fonts/roboto-v48-latin/roboto-v48-latin-700.woff2" as="font" type="font/woff2" crossorigin>
 
-{{- /* Preload medium weight (500) if it's being used for important UI elements */ -}}
-<link rel="preload" href="/fonts/roboto-v48-latin/roboto-v48-latin-500.woff2" as="font" type="font/woff2" crossorigin>
+{{- /* Preload extra-bold weight (800) - used in critical path */ -}}
+<link rel="preload" href="/fonts/roboto-v48-latin/roboto-v48-latin-800.woff2" as="font" type="font/woff2" crossorigin>
