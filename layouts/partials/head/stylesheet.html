@@ -10,9 +10,7 @@
   <link rel="stylesheet" href="{{ $css.RelPermalink | relURL }}" media="screen">
 {{ else -}}
   {{ $css := $css | minify | fingerprint "sha512" -}}
-  {{/* Async CSS loading for optimal PageSpeed Insights - non-render-blocking */}}
-  <link rel="preload" href="{{ $css.RelPermalink }}" as="style" onload="this.onload=null;this.rel='stylesheet'" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
-  {{/* Fallback for browsers that don't support preload */}}
-  <noscript><link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous"></noscript>
+  {{/* Synchronous CSS loading for reliability - works with CSP */}}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
 {{ end -}}
 
