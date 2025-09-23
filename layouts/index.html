@@ -7,7 +7,13 @@
       <p>{{ .Params.hero.subtitle }}</p>
     </div>
     <figure class="hero-image">
-      <img src="illustrations/hero/hero_adobe_main-hero.webp"  alt="Hero Image showing a person working with a smartphone">
+      {{/*  <img src="/illustrations/hero/hero_adobe_main-hero-desktop.webp"  */}}
+      <img src="/illustrations/hero/hero_adobe_main-hero-desktop.webp"
+        srcset="/illustrations/hero/hero_adobe_main-hero-mobile.webp 546w,
+                /illustrations/hero/hero_adobe_main-hero-desktop.webp 1092w"
+        sizes="(max-width: 480px) 546px, 1092px"
+        alt="Hero Image showing a person working with a smartphone"
+        fetchpriority="high">
     </figure>
   </header>
 </section>
@@ -35,7 +41,12 @@
     </header>
     <div class="feature-highlight">
       <figure>
-        <img src="illustrations/hero/hero_adobe_ziele_vertikal.webp" alt="Infographic showing DDLitLab project goals: digital literacy, research, and education">
+        <img src="illustrations/hero/hero_adobe_ziele_vertikal-desktop.webp" 
+          srcset="illustrations/hero/hero_adobe_ziele_vertikal-mobile.webp 448w,
+                  illustrations/hero/hero_adobe_ziele_vertikal-desktop.webp 584w"
+          sizes="(max-width: 480px) 448px, 584px"
+          alt="Infographic showing DDLitLab project goals: digital literacy, research, and education"
+          loading="lazy">
         {{/*  <figcaption>put image credits here</figcaption>  */}}
       </figure>
       <div>
@@ -54,7 +65,12 @@
     
     
     <figure class="image-area-horizontal">
-      <img src="illustrations/hero/hero_adobe_lehre-navi.webp" alt="University of Hamburg Lehre-Navi platform illustration">
+      <img src="illustrations/hero/hero_adobe_lehre-navi-desktop.webp" 
+          srcset="illustrations/hero/hero_adobe_lehre-navi-mobile.webp 448w,
+                  illustrations/hero/hero_adobe_lehre-navi-desktop.webp 840w"
+          sizes="(max-width: 480px) 448px, 840px"
+          alt="University of Hamburg Lehre-Navi platform illustration"
+          loading="lazy">
     </figure>
 
     <div class="grid-lehre-navi">

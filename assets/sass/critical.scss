@@ -1,0 +1,129 @@
+// Critical CSS - Above-the-fold styles for faster rendering
+// This file contains only essential styles needed for initial page render
+
+// CSS Reset (critical parts)
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// Essential variables (critical colors and sizes)
+:root {
+  --max-width: 1200px;
+  --black: #333;
+  --black-light: #666;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  hyphens: none;
+  font-family: Roboto,BlinkMacSystemFont,-apple-system,segoe ui,oxygen,ubuntu,cantarell,fira sans,droid sans,helvetica neue,helvetica,arial,sans-serif;
+  line-height: 1.5;
+  color: var(--black);
+}
+
+body {
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+
+// Main layout (above-the-fold)
+main {
+  display: grid;
+  grid-template-columns: minmax(4rem, 1fr) minmax(0, var(--max-width)) minmax(4rem, 1fr);
+  row-gap: 8rem;
+  overflow: hidden;
+}
+
+main section {
+  grid-column: 2;
+  place-items: center;
+  position: relative;
+}
+
+// Hero section (above-the-fold)
+.hero-section {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  grid-template-areas: "content image";
+  justify-items: center;
+  align-items: center;
+  margin: 5em auto 1em;
+  gap: 2em;
+}
+
+.hero-content {
+  grid-area: content;
+}
+
+.hero-image {
+  grid-area: image;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  position: relative;
+  display: inline-block;
+  line-height: 1.5;
+}
+
+.hero-content p {
+  font-size: 1.5rem;
+  color: var(--black-light);
+  font-weight: 400;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+}
+
+// Basic image styles
+img, picture, svg {
+  max-width: 100%;
+  display: block;
+}
+
+// Essential responsive breakpoints for hero
+@media (max-width: 1000px) {
+  main {
+    grid-template-columns: 2rem auto 2rem;
+  }
+  
+  .hero-section {
+    grid-template-columns: 1fr;
+    grid-template-areas: "image" "content";
+    margin-top: 2rem;
+  }
+  
+  .hero-content {
+    width: 90%;
+    text-align: center;
+  }
+  
+  .hero-content h1 {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  main {
+    grid-template-columns: 1rem auto 1rem;
+  }
+  
+  .hero-content h1 {
+    font-size: 2rem;
+  }
+  
+  .hero-content p {
+    font-size: 1.25rem;
+  }
+}

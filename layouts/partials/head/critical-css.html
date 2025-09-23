@@ -1,0 +1,5 @@
+{{/* Critical CSS for above-the-fold content - inline for faster rendering */}}
+{{- $criticalCSS := resources.Get "sass/critical.scss" | toCSS (dict "outputStyle" "compressed") | minify -}}
+<style>
+{{ $criticalCSS.Content | safeCSS }}
+</style>
