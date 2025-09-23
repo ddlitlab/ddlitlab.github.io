@@ -144,13 +144,14 @@ team:
           title: "Wissenschaftlicher Mitarbeiter (DLE)"
           image: "/images/team/jacobs-david.webp"
           description:
-            - "Koordination Datenwelten & DLE-Koordination im Bereich Jupyter"
+            - "Konzeption und Umsetzung von Lehrinhalten"
+            - "Koordination der Datenwelten"
+            - "Öffentlichkeitsarbeit und Webdesign"
         - name: "Sören-Kristian Berger"
           title: "Wissenschaftlicher Mitarbeiter (DLE)"
           image: "/images/team/kristian-berger_soeren.webp"
           description:
             - "Koordination der fachspezifischen Data Literacy Education"
-
         - name: "Mareike Bartels"
           title: "Wissenschaftliche Mitarbeiterin (DUTy)"
           image: "/images/team/bartels-mareike.webp"

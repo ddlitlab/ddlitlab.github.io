@@ -25,6 +25,6 @@ weight = 60
 pre = "<i class='codicon codicon-arrow-right' style='font-size: 1rem; transform: rotate(-45deg); display: inline-block; font-weight: 800'></i>"
 
 [[main]]
-name = "Über Uns"
+name = "Über uns"
 url = "about"
 weight = 70

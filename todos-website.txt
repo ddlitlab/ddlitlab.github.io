@@ -27,7 +27,6 @@ Loading Optimization:
 ✅ Lazy loading for images
 
 
-
 4. Hero Image Optimization:
    • Preload critical hero images
    • Consider CSS background-image for hero sections

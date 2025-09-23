@@ -29,7 +29,7 @@ goals:
 
         Dazu entwickeln wir *überfachliche Lehrräume, in denen verschiedene Perspektiven* und Fragestellung diskutiert werden, die die Orientierung in datenreichen Berufs- und Lebenswelten erleichtern.
 
-        In fachspezifischen Diskussionsräumen entwickelt Ihr *ergänzend spezifische Fähigkeiten und Fertigkeiten*, die spezielle (Probleme …).
+        In fachspezifischen Diskussionsräumen entwickelt Ihr *ergänzend spezifische Fähigkeiten und Fertigkeiten*, die Euch helfen, Daten in Eurem Fachgebiet zu kritisch zu hinterfragen und zu nutzen.
 lehre_navi:
     title: 'Lehre-Navi'
     subtitle: 'Gute Lehre durch passende Angebote stärken'
