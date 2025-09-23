@@ -1,20 +1,22 @@
 // Critical CSS - Above-the-fold styles for faster rendering
 // This file contains only essential styles needed for initial page render
 
-// Font face declarations with font-display: swap for better performance
+// Font face declarations with optimized font-display for minimal layout shift
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  font-display: swap;
+  font-display: swap; /* Critical font - allow swap */
   src: url('/fonts/roboto-v48-latin/roboto-v48-latin-regular.woff2') format('woff2');
+  /* Fallback metrics to match system fonts */
+  size-adjust: 100%;
 }
 
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 600;
-  font-display: swap;
+  font-display: optional; /* Non-critical - prevent layout shift */
   src: url('/fonts/roboto-v48-latin/roboto-v48-latin-600.woff2') format('woff2');
 }
 
@@ -22,7 +24,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
-  font-display: swap;
+  font-display: optional; /* Non-critical - prevent layout shift */
   src: url('/fonts/roboto-v48-latin/roboto-v48-latin-700.woff2') format('woff2');
 }
 
@@ -30,7 +32,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 800;
-  font-display: swap;
+  font-display: swap; /* Critical for hero - allow swap */
   src: url('/fonts/roboto-v48-latin/roboto-v48-latin-800.woff2') format('woff2');
 }
 
@@ -119,10 +121,25 @@ main section {
   height: auto;
 }
 
-// Basic image styles
+// Basic image styles with aspect ratio preservation
 img, picture, svg {
   max-width: 100%;
   display: block;
+  height: auto; /* Maintain aspect ratio */
+}
+
+// Critical hero image sizing to prevent CLS
+.hero-image img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1092 / 773; /* Explicit aspect ratio prevents layout shift */
+}
+
+// Logo sizing to prevent CLS  
+.logo img {
+  width: auto;
+  height: 40px; /* Fixed height for navbar */
+  aspect-ratio: 1; /* Square logo */
 }
 
 // Essential responsive breakpoints for hero
