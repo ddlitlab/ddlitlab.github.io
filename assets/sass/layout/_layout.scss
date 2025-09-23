@@ -12,6 +12,7 @@ main {
 
   @media (max-width: $breakpoint-footer) {
     grid-template-columns: 2rem auto 2rem;
+    row-gap: 4rem;
   }
   @media (max-width: $breakpoint-mobile) {
     grid-template-columns: 1rem auto 1rem;
