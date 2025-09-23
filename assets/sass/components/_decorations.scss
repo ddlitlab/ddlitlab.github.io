@@ -40,7 +40,8 @@ i.icon-bullet {
 .article-text a,
 .about-text-wide a,
 .projekte-index-quote a,
-.accordion-wrapper-gkicommunity a {
+.accordion-wrapper-gkicommunity a,
+.impressum a {
     @include highlight;
     color: var(--black);
     text-decoration-color: var(--secondary-light);
@@ -59,7 +60,8 @@ i.icon-bullet {
 .article-text a::after,
 .about-text-wide a::after,
 .projekte-index-quote a::after,
-.accordion-wrapper-gkicommunity a::after {
+.accordion-wrapper-gkicommunity a::after,
+.impressum a::after {
     content: "\ea9c";
     font-family: 'codicon';
     transform: rotate(-45deg);

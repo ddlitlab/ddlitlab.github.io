@@ -4,6 +4,7 @@
 - Impressum
 - Team-Kacheln Text brechen
 - Translations
+- HTML head verstehen
 
 
 Nach Abschluss der Webseite

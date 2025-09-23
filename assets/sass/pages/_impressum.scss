@@ -1,0 +1,21 @@
+.impressum {
+  text-align: left;
+  place-items: start;
+  gap: 0.5rem;
+
+  margin-top: 4rem;
+
+  address {
+    font-style: normal;
+    font-weight: 600;
+    margin: 1rem 0;
+  }
+
+  h1 {
+    margin-bottom: 2rem;
+  }
+
+  h2 {
+    margin: 1rem 0;
+  }
+}

@@ -1,6 +1,6 @@
 # Site Params
 description = "DDLitLab – Digital and Data Literacy in Teaching Lab"
-images = ['illustrations/hero/hero_adobe_main-hero.webp']
+images = ['illustrations/hero/hero_adobe_main-hero-desktop.webp']
 mainMenuLogo = "illustrations/logo-site/favicon.webp"
 
 # For favicons
