@@ -6,7 +6,7 @@
       <h1>{{ .Params.hero.title }}</h1>
       <p>{{ .Params.hero.subtitle }}</p>
     </div>
-    <figure class="hero-image">
+    <figure class="hero-image illustration-adobe">
       {{/*  <img src="/illustrations/hero/hero_adobe_main-hero-desktop.webp"  */}}
       <picture>
         <source media="(max-width: 480px)" srcset="/illustrations/hero/hero_adobe_main-hero-mobile.webp">
@@ -15,6 +15,7 @@
           alt="Hero Image showing a person working with a smartphone"
           fetchpriority="high">
       </picture>
+      <figcaption class="image-credit-tooltip">Bild: Adobe Stock, bearbeitet</figcaption>
     </figure>
   </header>
 </section>
@@ -41,14 +42,14 @@
         <p class="section-subtitle">{{ .Params.goals.subtitle }}</p>
     </header>
     <div class="feature-highlight">
-      <figure>
+      <figure class="illustration-adobe">
         <picture>
           <source media="(max-width: 480px)" srcset="illustrations/hero/hero_adobe_ziele_vertikal-mobile.webp">
           <img src="illustrations/hero/hero_adobe_ziele_vertikal-desktop.webp"
             alt="Infographic showing DDLitLab project goals: digital literacy, research, and education"
             loading="lazy">
         </picture>
-        {{/*  <figcaption>put image credits here</figcaption>  */}}
+        <figcaption class="image-credit-tooltip">Bild: Adobe Stock, bearbeitet</figcaption>
       </figure>
       <div>
         {{ .Params.goals.text | markdownify }}
@@ -65,13 +66,14 @@
       </header>
     
     
-    <figure class="image-area-horizontal">
+    <figure class="image-area-horizontal illustration-adobe">
       <picture>
         <source media="(max-width: 480px)" srcset="illustrations/hero/hero_adobe_lehre-navi-mobile.webp">
         <img src="illustrations/hero/hero_adobe_lehre-navi-desktop.webp"
           alt="University of Hamburg Lehre-Navi platform illustration"
           loading="lazy">
       </picture>
+      <figcaption class="image-credit-tooltip">Bild: Adobe Stock, bearbeitet</figcaption>
     </figure>
 
     <div class="grid-lehre-navi">

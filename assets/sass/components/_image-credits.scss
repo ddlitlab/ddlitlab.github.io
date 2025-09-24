@@ -1,0 +1,28 @@
+.image-credit-tooltip {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-color: var(--primary);
+    color: var(--black);
+    padding: 0.1rem 0.2rem;
+    font-size: 0.6rem;
+    border-radius: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    white-space: nowrap;
+    z-index: 10;
+}
+
+.illustration-adobe {
+    position: relative;
+}
+
+.illustration-adobe:hover .image-credit-tooltip,
+.image-full-page:hover .image-credit-tooltip,
+.projekte-grid-item:hover .image-credit-tooltip,
+.team-card-image:hover .image-credit-tooltip {
+    opacity: 0.9;
+    visibility: visible;
+}

@@ -1,11 +1,9 @@
 - Präsens oder Präteritum?
-- Mail-Adresse für Github Account
 - SEO
-- Impressum
+- Bild-Rechte
 - Team-Kacheln Text brechen
 - Translations
 - HTML head verstehen
-
 
 Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen

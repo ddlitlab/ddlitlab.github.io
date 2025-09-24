@@ -7,6 +7,7 @@
                  alt="Team picture of the DDLitLab"
                  fetchpriority="high">
         </picture>
+        <figcaption class="image-credit-tooltip">Foto: DDLitLab</figcaption>
     </figure>
     
     <section>
@@ -93,6 +94,9 @@
             {{ if isset . "image" }}
                 <figure class="team-card-image">
                     <img src="{{ .image }}" alt="{{ .name }}" loading="lazy">
+                    {{ if .credit }}
+                    <figcaption class="image-credit-tooltip">Bild: {{ .credit }}</figcaption>
+                    {{ end }}
                 </figure>
             {{ end }}
                 <div class="team-card-content">
@@ -115,13 +119,14 @@
             <p class="section-subtitle">{{ .Params.publications.subtitle }}</p>
         </header>
 
-        <figure class="image-area-horiontal">
+        <figure class="image-area-horiontal illustration-adobe">
             <picture>
             <source media="(max-width: 480px)" srcset="/illustrations/hero/hero_adobe_publications-mobile.webp">
             <img src="/illustrations/hero/hero_adobe_publications-desktop.webp"
                 alt="Illustration showing a laptop and hands"
                 loading="lazy">
             </picture>
+            <figcaption class="image-credit-tooltip">Bild: Adobe Stock, bearbeitet</figcaption>
         </figure>
 
 

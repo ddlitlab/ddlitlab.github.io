@@ -8,13 +8,14 @@
             <div class="datenwelten-hero-left">
                 <p>{{ .Params.hero.left }}</p>
             </div>
-            <figure>
+            <figure class="illustration-adobe">
                 <picture>
                 <source media="(max-width: 480px)" srcset="/illustrations/hero/hero_adobe_datenwelten-mobile.webp">
                 <img src="/illustrations/hero/hero_adobe_datenwelten-desktop.webp"
                     alt="University of Hamburg Datenwelten illustration"
                     loading="lazy">
                 </picture>
+                <figcaption class="image-credit-tooltip">Bild: Adobe Stock, bearbeitet</figcaption>
             </figure>
             <div class="datenwelten-hero-right">
                 <p>{{ .Params.hero.right | markdownify }}</p>
@@ -81,6 +82,7 @@
                  alt="Data science exercises in the Datenwelten course"
                  fetchpriority="high">
         </picture>
+        <figcaption class="image-credit-tooltip">Foto: DDLitLab/Rehder</figcaption>
     </figure>
     
     <section id="übung">

@@ -42,6 +42,9 @@
                     <h2>{{ .Params.title_short }}</h2>
                     <p>{{ .Params.title }}</p>
                 </div>
+                {{ if .Params.image_credit }}
+                <figcaption class="image-credit-tooltip">Bild: {{ .Params.image_credit }}</figcaption>
+                {{ end }}
             </a>
         {{ end }}
     </div>

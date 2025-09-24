@@ -65,6 +65,7 @@
 .image-full-page {
     border-top: 0.5rem solid var(--primary-light);
     border-bottom: 0.5rem solid var(--primary-light);
+    position: relative;
 
     &-about {
         margin-top: 4rem;

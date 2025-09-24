@@ -119,6 +119,7 @@
     box-shadow: 0.5rem 0.5rem 0 0 var(--primary);
     transition: all var(--transition-speed) ease;
     overflow: hidden;
+    position: relative;
     
     background-size: cover; 
     background-position: center; 
