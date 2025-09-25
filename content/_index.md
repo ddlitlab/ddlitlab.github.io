@@ -1,9 +1,9 @@
 ---
 title: "DDLitLab"
-description: "Data Literacy für alle an der UHH - Wir stärken die Digital and Data Literacy an der Universität Hamburg durch Projekte für mehr Datenkompetenz."
+description: "Digital und Data Literacy für alle an der UHH - Wir stärken die Digital and Data Literacy an der Universität Hamburg durch Projekte für mehr Datenkompetenz."
 images: ['illustrations/hero/hero_adobe_main-hero-desktop.webp']
 hero:
-    title: 'Data Literacy für alle an der UHH'
+    title: 'Digital und Data Literacy für alle an der UHH'
     subtitle: 'Wir stärken die Digital and Data Literacy an der Universität Hamburg – Projekte für mehr Datenkompetenz für Studierende und Lehrende an der Universität Hamburg.'
 navigation:
     title: 'Unsere Schwerpunkte'

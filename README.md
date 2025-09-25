@@ -2,13 +2,6 @@
 
 Link: https://ddlitlab.github.io/
 
-## Notes
-
-- icons: https://microsoft.github.io/vscode-codicons/dist/codicon.html
-- simple.css: https://github.com/kevquirk/simple.css/blob/main/simple.css
-- modern-normalize.css: https://github.com/sindresorhus/modern-normalize/blob/main/modern-normalize.css
-
-
 ## Getting Started
 
 To run this project locally, you need to have Hugo and Git installed on your machine. Additionally, you can use Visual Studio Code as your code editor.
@@ -67,8 +60,7 @@ You can run the site locally:
 
 This starts a local webserver which you can access in your browser at `http://localhost:1313`.
 
-
-# Changing the content
+# Changing content
 
 You can make changes to the website in the `content` directory. This is where all the content of the website is stored. 
 

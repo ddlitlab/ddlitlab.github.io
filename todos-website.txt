@@ -1,9 +1,8 @@
 - Präsens oder Präteritum?
 - SEO
-- Bild-Rechte
 - Team-Kacheln Text brechen
 - Translations
-- HTML head verstehen
+- HTML head verstehen / Critical CSS Preload?
 
 Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen
