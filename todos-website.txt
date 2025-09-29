@@ -8,6 +8,17 @@ Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen
 
 
+
+
+GKI-Community
+- Audio Icon bei Podcasts
+- KI-Handreichung als Poster einbinden?
+- 2. Big Numbers sieht komisch aus
+
+
+
+
+
 Loading Optimization:
 ===============================
 1. 🔤 Implement font preloading for critical fonts

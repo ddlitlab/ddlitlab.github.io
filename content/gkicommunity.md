@@ -3,11 +3,11 @@ title: "GKI Community"
 layout: "gkicommunity"
 hero:
     title: 'gKI Community'
-    subtitle: 'Viele Perspektiven, große Resonanz'
+    subtitle: 'Große Herausforderungen, viel Resonanz'
     text: |
-      Generative KI ist ein Schlüsselthema in Studium und Lehre. Das DDLitLab hat ein vielseitiges Angebot für Studierende als auch Lehrende entwickelt, um von neuesten Entwicklungen zu berichten, zur Reflektion und zum Dialog auf Augenhöhe beizutragen. Dabei ist ein großes Netzwerk an der UHH entstanden. Auch an den Leitlinien zur Nutzung von generativer KI hat das Projekt-Team mitgewirkt. Auf dieser Übersichtseite finden Sie einen Überblick über unsere Angebote und Handreichungen. 
+      Generative KI ist ein Schlüsselthema in Studium und Lehre. Das DDLitLab hat ein vielseitiges Angebot für Studierende und Lehrende entwickelt, um von neuesten Entwicklungen zu berichten, zur Reflektion und zum Dialog auf Augenhöhe beizutragen. Dabei ist ein großes Netzwerk an der UHH entstanden. Auch an den Leitlinien zur Nutzung von generativer KI hat das Projekt-Team mitgewirkt.
       
-      Die Beteiligung in *Workshops und Netzwerktreffen* zeigt: Der Bedarf an Austausch, Orientierung und Handlungsfähigkeit im Umgang mit KI ist groß. Mehr als 1.500 Rückmeldungen in unseren Umfragen zur Lebensrealität mit KI an der UHH spiegeln das breite Interesse und den Wunsch nach gemeinsamer Weiterentwicklung.
+      Die Beteiligung in *Workshops und Netzwerktreffen* zeigt: Der Bedarf an Austausch, Orientierung und Handlungsfähigkeit im Umgang mit KI ist groß. Fast 3000 Rückmeldungen in unseren Umfragen zur Lebensrealität mit KI an der UHH spiegeln das breite Interesse und den Wunsch nach gemeinsamer Weiterentwicklung. Auf dieser Übersichtsseite finden Sie einen Überblick über unsere Angebote und Handreichungen. 
 breadcrumb:
   - title: 'Für Studierende'
     url: '#studierende'
@@ -19,7 +19,7 @@ studierende:
     title: 'Studierende im Umgang mit KI stärken'
     subtitle: 'KI verstehen, nutzen, reflektieren'
     text: |
-      Das DUTy-Team (Digital University Teaching Literacy) hat ein umfassendes Angebot ins Leben gerufen, um Studierende über verschiedene Kanäle über generative KI zu informieren und ihnen einen *Austausch* zu diesen Themen ermöglichen. Dazu gehörten ein *regelmäßiger Newsletter*, der auch nach Projektabschluss am <a href="https://www.hul.uni-hamburg.de/" target="_blank">Hamburger Zentrum für Universitäres Lehren und Lernen (HUL)</a> fortgeführt wird, aber auch Handreichungen und ein Workshopangebot. Zudem haben wir die Video-Reihe <a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/68767" target="_blank">„Generative KI an der Universität Hamburg“</a> veröffentlicht, in denen *Expert:innen der Universität* über vertiefende Themen zu gKI berichten. Die dazugehörige Podcast-Reihe geht noch einmal ausführlicher auf die verschiedenen Themen ein.
+      Das DDLitLab-Team hat ein umfassendes Angebot ins Leben gerufen, um Studierende über verschiedene Kanäle über generative KI zu informieren und ihnen einen *Austausch* zu diesen Themen ermöglichen. Dazu gehörten ein <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki.html#21689328" target="_blank">regelmäßiger Newsletter</a>, der auch nach Projektabschluss am <a href="https://www.hul.uni-hamburg.de/" target="_blank">Hamburger Zentrum für Universitäres Lehren und Lernen (HUL)</a> fortgeführt wird, aber auch Handreichungen und ein Workshopangebot. Zudem haben wir die Video-Reihe <a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/68767" target="_blank">„Generative KI an der Universität Hamburg“</a> veröffentlicht, in denen *Expert:innen der Universität* über vertiefende Themen zu gKI berichten. Die dazugehörige Podcast-Reihe geht noch einmal ausführlicher auf die verschiedenen Themen ein.
     accordion:
       summary: 'Alle Folgen der Interview-Reihe'
       title: 'Generative KI an der Universität Hamburg'
@@ -68,7 +68,7 @@ studierende:
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-simon.html" target="_blank">#1: Ethik und GKI mit Prof. Dr. Judith Simon</a>: Wir sprechen mit Judith Simon, Professorin für Ethics in IT, über ethische Fragen, die sich bei der Nutzung von generativer KI stellen.'
     numbers:
         - '<span>18</span> Informationsvideos<i class="codicon codicon-device-camera-video"></i>'
-        - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>XX</span> durchgeführte Workshops'
+        - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>9</span> durchgeführte Workshops'
         - '<i class="codicon codicon-mortar-board"></i> &nbsp; <span>12</span> Podcast-Folgen mit Expert:innen der <span>UHH</span>'
         - 'zu <span>GKI</span> im Studium<i class="codicon codicon-pin"></i>'
     workshops:
@@ -87,7 +87,7 @@ studierende:
     guide:
       title: 'KI-Guide für Studierende: „You are the expert!“'
       text: |
-        Außerdem haben wir entlang von ermittelnden Bedarfen der Studierenden eine Handreichung erstellt, in der auf nur zwei Seiten die *wichtigsten DO‘s and DON‘Ts*, aber auch wesentliche Funktionsweisen von KI und ihrem Einsatz im Studium zusammengefasst sind. Der Guide wurde im Herbst 2025 veröffentlicht. 
+        Außerdem haben wir entlang von ermittelnden Bedarfen der Studierenden eine <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki/gki-landing-page/studi-guide" target="_blank">Handreichung</a> erstellt, in der auf nur zwei Seiten die *wichtigsten DO‘s and DON‘Ts*, aber auch wesentliche Funktionsweisen von KI und ihrem Einsatz im Studium zusammengefasst sind. Der Guide wurde im Herbst 2025 veröffentlicht. 
         
         Und in unserer Video-Reihe „KI Hands-On“ geben wir praktische Tipps zur *konkreten Nutzung* mit gKI-Tools im Studium und für die eigene Hausarbeit.
     studi_videos_gki:
@@ -113,12 +113,14 @@ lehrende:
     text: |
       Unsere KI-Community für Lehrende bringt Menschen zusammen, die den digitalen Wandel aktiv mitgestalten. In Workshops und Netzwerktreffen stehen praktische Fragen, konkrete Tools und der offene Austausch im Mittelpunkt.
 
-      Generative KI-Tools wie ChatGPT und Co. werfen nicht nur an der Universität Hamburg viele Fragen auf – von grundlegenden Zielen der Hochschulbildung über *neue praktische Gestaltungsmöglichkeiten* der eigenen Lehre bis hin zu konkreten prüfungsrechtlichen Aspekten. Unsere Veranstaltungsreihe und *Community of Practice* „KI Hands-On“ nimmt genau solche Aspekte in den Blick. 
+      Generative KI-Tools wie ChatGPT und Co. werfen nicht nur an der Universität Hamburg viele Fragen auf – von grundlegenden Zielen der Hochschulbildung über *neue praktische Gestaltungsmöglichkeiten* der eigenen Lehre bis hin zu konkreten prüfungsrechtlichen Aspekten. Unsere Veranstaltungsreihe und <a href="https://www.hcl.uni-hamburg.de/ddlitlab/veranstaltungen/gki-hands-on.html" target="_blank">Community of Practice</a> „KI Hands-On“ nimmt genau solche Aspekte in den Blick. 
       
-      Beim KI Hands-On waren stets Personen aller Fakultäten und Einrichtungen willkommen. Die Veranstaltung profitierte vom *interdisziplinärem Austausch* und erfreute sich stets über eine große Teilnehmendenzahlen. Entstanden ist auch eine *Mailingliste* mit über 185 eingetragenen, interessierten Lehrpersonen aus der UHH, die regelmäßig über Veranstaltungen informiert werden.
+      Beim KI Hands-On waren stets Personen aller Fakultäten und Einrichtungen willkommen. Die Veranstaltung profitierte vom *interdisziplinärem Austausch* und erfreute sich stets über eine große Teilnehmendenzahlen. Entstanden ist auch eine <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki.html#21689386" target="_blank">Mailingliste</a> mit über 185 eingetragenen, interessierten Lehrpersonen aus der UHH, die regelmäßig über Veranstaltungen und aktuelle Entwicklungen informiert werden.
+
+      Was uns besonders freut: Die Veranstaltungsreihe KI Hands-on wird über das Projektende des DDLitLab hinaus vom HUL fortgeführt – der Raum für Austausch bleibt also bestehen!
     numbers:
-        - '<span>8</span> Veranstaltungen<i class="codicon codicon-location"></i>'
-        - '<span>XX</span> Teilnehmende Hochschullehrende<i class="codicon codicon-mortar-board"></i>'
+        - '<span>8</span> Events<i class="codicon codicon-location"></i>'
+        - '<span>300</span> Teilnehmende Hochschullehrende<i class="codicon codicon-mortar-board"></i>'
         - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>Interdisziplinärer</span> Austausch'
     gallery:
       # - title: '#1: Lehrbeispiele zu generativer KI im Juli 2023'
@@ -137,10 +139,10 @@ lehrende:
         image: '/images/projekt/ki-hands-on/ki-hands-on-07.webp'
 
 publikationen:
-    title: 'Drei Jahre, drei Erhebungen –<br> über 1.500 Stimmen aus der UHH'
-    subtitle: 'Die Umfrage „ChatGPT & Me“'
+    title: 'Drei Jahre KI, drei Erhebungen –<br> fast 3.000 Stimmen aus der UHH'
+    subtitle: 'Die Studienreihe „ChatGPT & Me“'
     text: |
-      Wie nutzen Studierende und Lehrende KI? Über 1.500 Mitglieder der UHH haben ihre Perspektive auf KI geteilt –die Grundlage für bedarfsgerechte Angebote. Wie verändert generative KI den Hochschulalltag?
+      Wie nutzen Studierende und Lehrende KI? Fast 3.000 Mitgleider der UHH haben ihre Perspektive auf KI geteilt – die Grundlage für bedarfsgerechte Angebote. Wie verändert generative KI den Hochschulalltag?
       
       ## Eine Umfrage an Studierende und Lehrende
 
@@ -150,13 +152,13 @@ publikationen:
 
       - 2023 starteten wir mit einer <a href="https://www.fdr.uni-hamburg.de/record/13403" target="_blank">ersten explorativen Befragung</a> – die Resonanz war überwältigend.
       - 2024 konnten wir auf Basis der <a href="https://www.fdr.uni-hamburg.de/record/15968" target="_blank">zweiten Erhebung</a> bereits Entwicklungstendenzen sichtbar machen und erste Vergleichszahlen zu anderen Hochschulen einordnen.
-      - 2025 setzten wir die Reihe fort und richten den Fokus unter anderem auf die Nutzung von UHHGPT, der datenschutzkonformen ChatGPT-Version für alle Uniangehörigen.
+      - 2025 setzten wir die Reihe fort und richten den Fokus unter anderem auf die Nutzung von <a href="https://uhhgpt.uni-hamburg.de/login.php" target="_blank">UHHGPT</a>, der datenschutzkonformen ChatGPT-Version für alle Uni-Angehörigen. Zudem konnten wir nun die Entwicklungen im zeitlichen Verlauf noch genauer untersuchen.
       
       Unsere Studien beleuchten nicht nur, wie KI-Tools konkret eingesetzt werden, sondern auch, welche *Fragen, Unsicherheiten und Haltungsdilemmata* damit einhergehen. Das Ziel: Ein datenbasierter Einblick in die Lebensrealität von Studierenden und Lehrenden – als Ausgangspunkt für Reflexion, Gestaltung und hochschuldidaktische Entwicklung. Die Ergebnisse der ersten beiden Erhebungen wurden in mehreren wissenschaftlichen Publikationen aufgearbeitet.
     numbers:
-        - '<span>XX</span> teilgenommene Studierende<i class="codicon codicon-mortar-board"></i>'
-        - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>XX</span> teilgenommene Lehrende'
-        - '<i class="codicon codicon-repo"></i> &nbsp; <span>XX</span> enstandene Publikationen'
+        - 'Über <span>2400</span> teilgenommene Studierende<i class="codicon codicon-rocket"></i>'
+        - '<i class="codicon codicon-mortar-board"></i> &nbsp; Über <span>400</span> teilgenommene Lehrende'
+        - '<i class="codicon codicon-repo"></i> &nbsp; <span>3</span> enstandene Publikationen'
 
 
 
