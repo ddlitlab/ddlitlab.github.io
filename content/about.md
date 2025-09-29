@@ -84,6 +84,10 @@ timeline:
           title: 'Publikation ChatGPT and Me 3.0'
           content: 'Im Juli 2025 haben wir die <a href="/gkicommunity/#chatgptme">Erhebung</a> zu *ChatGPT & me 3.0* über die Lebensrealität mit *generativer KI* an der Uni Hamburg durchgeführt. Diese wird im September als Forschungsbericht veröffentlicht.'
           type: 'event'
+        - date: 'September 2025'
+          title: 'Publikation ChatGPT and Me 3.0'
+          content: 'Im Oktober 2025 wird eine <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki/gki-landing-page/studi-guide" target="_blank">KI-Handreichung</a> für Studierende veröffentlicht. Der Guide fasst auf nur zwei Seiten die wichtigsten DO‘s and DON‘Ts, aber auch wesentliche Funktionsweisen von KI und ihrem Einsatz im Studium zusammen.'
+          type: 'event'
         - date: 'November 2025'
           title: 'Feierliche Abschlussveranstaltung'
           content: 'Nach viereinhalb Jahren DDLitLab feiern wir gemeinsam mit zahlreichen Gästen den *erfolgreichen Abschluss* unseres Projekts. Zusammen mit allen, die uns während der Projektlaufzeit begleitet haben, blicken wir auf die erreichten Meilensteine und Erfolge zurück.'
@@ -101,30 +105,37 @@ team:
           credit: "UHH/Sommer"
           description: 
             - "Co-Sprecherin"
+            - "Professorin für Journalistik und Kommunikationswissenschaft, insb. digitalisierte Kommunikation und Nachhaltigkeit"
         - name: "Prof. Dr. Kai-Uwe Schnapp"
           title: "Projektleitung"
           image: "/images/team/schnapp_kai-uwe.webp"
           credit: "UHH/Feuerböther"
           description:
             - "Co-Sprecher"
+            - "Professor für Politikwissenschaft, insb. Methoden"
+            - "Dekan der Fakultät für Wirtschafts- und Sozialwissenschaften"
         - name: "Prof. Dr. Gabi Reinmann"
           title: "Lenkungskreis"
           image: "/images/team/reinmann_gabi.webp"
           credit: "Privat"
           description:
             - "Leitung Digital University Teaching Literacy (DUTy)"
+            - "Professorin für Lehren und Lehren an der Hochschule"
+            - "Leitung des Hamburger Zentrum für Universitäres Lehren und Lernen (HUL)"
         - name: "Prof. Dr. Sandra Sprenger"
           title: "Lenkungskreis"
           image: "/images/team/sprenger_sandra.webp"
           credit: "Privat"
           description: 
             - "Leitung Data Literacy Education im Bereich Fachspezifik"
+            - "Leiterin des Arbeitsbereichs Geographiedidaktik und beratendes Mitglied des Dekanats für Nachhaltigkeit"
         - name: "Prof. Dr. Chris Biemann"
           title: "Lenkungskreis"
           image: "/images/team/biemann_chris.webp"
           credit: "UHH/Biemann"
           description:
             - "Wissenschaftliche Leitung des Hub of Computing and Data Science (HCDS)"
+            - "Professor for Language Technology"
         - name: "Dr. Martin Semmann"
           title: "Lenkungskreis"
           image: "/images/team/semmann_martin.webp"
@@ -167,9 +178,9 @@ team:
           image: "/images/team/bartels-mareike.webp"
           credit: "UHH/Yzer"
           description:
-            - "Medientechnische LandingPage-Konzeption"
-            - "Explikation von Erfahrungen und Wissen Lehrender aus der Lehrentwicklung"
-            - "Netzwerkarbeit und Koordination der Zusammenarbeit mit Partner:innen"
+            - "Konzeption und redaktionelle Betreuung zentraler Websites zu KI und digitaler Lehre"
+            - "Netzwerkarbeit und Koordination im Bereich generative KI an der UHH"
+            - "Entwicklung von Workshops, Schulungen und Austauschformaten zur KI-Nutzung in Studium und Lehre"
         - name: "Julia Pawlowski"
           title: "Wissenschaftliche Mitarbeiterin (DUTy)"
           image: "/images/team/pawlowski_julia.webp"
@@ -207,19 +218,21 @@ team:
           image: "/images/team/witte_mathilda.webp"
           credit: "UHH/Yzer"
           description:
-            - "DUTy-Team"
+            - "Redaktionelle Arbeiten (u.a. in FIONA)"
+            - "Unterstützung bei der Erstellung von KI-Angeboten"
         - name: "Laura Aguilera Galeas"
           title: "Studentische Hilfskraft" 
           image: "/images/team/aguilera_laura.webp"
           credit: "Privat"
           description:
-            - "DUTy-Team"
+            - "Redaktionelle Arbeiten (u.a. in FIONA)"
+            - "Unterstützung bei der Datenanalyse"
         - name: "Julian Wichert"
           title: "Wissenschaftliche Hilfskraft" 
           image: "/images/team/default-character.webp"
           credit: "UHH/Pawlowski"
           description:
-            - "Koordination Datenwelten"
+            - "Koordination der Datenwelten"
         - name: "Prof. Dr. Ingrid Schirmer"
           title: "Lenkungskreis"
           image: "/images/team/schirmer_ingrid.webp"
@@ -249,7 +262,9 @@ team:
           image: "/images/team/bluethmann_nadia.webp"
           credit: "UHH/DUTy-Team"
           description:
-            - "DUTy-Team"
+            - "Hochschuldidaktische Beratung"
+            - "Erstellung hochschuldidaktischer Selbstlernmaterialien"
+            - "Forschung zu studentischer AI Literacy"
         - name: "Sven Rehder" 
           title: "Technischer Mitarbeiter"
           image: "/images/team/rehder_sven.webp"
