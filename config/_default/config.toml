@@ -26,7 +26,8 @@ enableEmoji = true
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
-  disableKinds = []
+  
+disableKinds = []
 
 [permalinks]
 #  post = "/post/:title/"
