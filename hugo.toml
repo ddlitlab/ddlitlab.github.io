@@ -1,16 +1,9 @@
-languageCode = 'en-us'
-title = 'DDLitLab'
-# theme = 'ddlitlab'
-# themesdir = 'themes/'
+title = 'Digital and Data Literacy in Teaching Lab – DDLitLab'
 
 author = "David Jacobs"
-copyright = "Open-source, what licence?"
-
-license = "MIT"
-licenselink = "https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE"
 
 tags = ["bootstrap","minimal","responsive","modern","blog","landing page"]
-features = ["security aware","fast by default","seo-ready","bootstrap framework","bootstrap 5","bootstrap 5.3"]
+features = ["DDLitLab","Digitalisierung","Lehre","Hochschuldidaktik","Forschung", "Data Literacy", "Digital Skills", "Open Educational Resources", "OER", "Open Science", "Open Access", "E-Learning", "Blended Learning", "Online Learning", "Hybride Lehre", "Hochschule"]
 
 min_version = "0.123.0"
 
