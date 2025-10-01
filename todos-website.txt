@@ -1,10 +1,10 @@
 - Präsens oder Präteritum?
 - team kacheln in team 2025 und ehemalige?
 
-- KI-Handreichung als Poster einbinden?
 - big-numbers responsive
 - Team-Grid responsive
 - 3. ChatGPT & ME Publikation ergänzen
+- White Space on Mobile?
 
 - HTML head verstehen / Critical CSS Preload?
 - SEO
