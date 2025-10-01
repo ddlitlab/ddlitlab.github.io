@@ -29,6 +29,14 @@ enableEmoji = true
   
 disableKinds = ["sitemap"]
 
+[outputs]
+  home = ["HTML", "RSS", "SITEMAP"]
+
+[outputFormats.SITEMAP]
+  mediaType = "application/xml"
+  baseName = "sitemap"
+  isPlainText = false
+
 [permalinks]
 #  post = "/post/:title/"
 
