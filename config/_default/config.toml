@@ -27,7 +27,7 @@ enableEmoji = true
   filename = "sitemap.xml"
   priority = 0.5
   
-disableKinds = []
+disableKinds = ["sitemap"]
 
 [permalinks]
 #  post = "/post/:title/"
