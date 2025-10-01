@@ -1,4 +1,3 @@
-baseURL = 'https://ddlitlab.github.io'
 languageCode = 'en-us'
 title = 'DDLitLab'
 # theme = 'ddlitlab'
