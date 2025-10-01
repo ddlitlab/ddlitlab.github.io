@@ -84,6 +84,23 @@
         <p>{{ .Params.studierende.guide.text | markdownify }}</p>
     </div>
 
+    <div class="accordion-wrapper accordion-wrapper-gkicommunity">
+      <details class="accordion-simple accordion-spotlight">
+          <summary>{{ .Params.studierende.guide.accordion.summary }}</summary>
+          <iframe class="accordion-wrapper-gkicommunity-pdf"
+                src="/pdf/ki-guide-final-pdf.pdf"
+                width="100%" 
+                height="600px" 
+                style="border: none;">
+            <p>{{ .Params.studierende.guide.accordion.text }}</p>
+        </iframe>
+      </details>
+    </div>
+
+    <div class="projekte-index-quote">
+        <p>{{ .Params.studierende.studi_videos_gki.text | markdownify }}</p>
+    </div>
+
     <div class="wide-movie-container">
         <iframe class="wide-movie" src='https://lecture2go.uni-hamburg.de/o/iframe/?obj=70992'  title='Video: Mit KI zur Hausarbeit III &#8211; Überarbeitungsphase mit DeepL Write' frameborder='0' width='647' height='373' allowfullscreen></iframe>
     </div>

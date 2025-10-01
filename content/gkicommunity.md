@@ -69,7 +69,7 @@ studierende:
     numbers:
         - '<span>18</span> Informationsvideos<i class="codicon codicon-device-camera-video"></i>'
         - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>9</span> durchgeführte Workshops'
-        - '<i class="codicon codicon-mortar-board"></i> &nbsp; <span>12</span> Podcast-Folgen mit Expert:innen der <span>UHH</span>'
+        - '<i class="codicon codicon-mic"></i> &nbsp; <span>12</span> Podcast-Folgen'
         - 'zu <span>GKI</span> im Studium<i class="codicon codicon-pin"></i>'
     workshops:
       title: 'Workshops für Studierende der UHH'
@@ -87,10 +87,14 @@ studierende:
     guide:
       title: 'KI-Guide für Studierende: „You are the expert!“'
       text: |
-        Außerdem haben wir entlang von ermittelnden Bedarfen der Studierenden eine <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki/gki-landing-page/studi-guide" target="_blank">Handreichung</a> erstellt, in der auf nur zwei Seiten die *wichtigsten DO‘s and DON‘Ts*, aber auch wesentliche Funktionsweisen von KI und ihrem Einsatz im Studium zusammengefasst sind. Der Guide wurde im Herbst 2025 veröffentlicht. 
+        Außerdem haben wir entlang von ermittelnden Bedarfen der Studierenden eine <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki/gki-landing-page/studi-guide" target="_blank">Handreichung</a> erstellt, in der auf nur zwei Seiten die *wichtigsten DO‘s and DON‘Ts*, aber auch wesentliche Funktionsweisen von KI und ihrem Einsatz im Studium zusammengefasst sind. Der Guide wurde im Herbst 2025 veröffentlicht. Er steht als *PDF* zum Download bereit und kann auch als *Poster* in den Fachbereichen und Einrichtungen der UHH ausgehängt werden.
+      accordion:
+        summary: 'KI-Handreichung für Studierende als PDF'
+        text: 'Dieser Browser unterstützt keine PDFs.'
         
-        Und in unserer Video-Reihe „KI Hands-On“ geben wir praktische Tipps zur *konkreten Nutzung* mit gKI-Tools im Studium und für die eigene Hausarbeit.
     studi_videos_gki:
+      text: |
+        Und in unserer Video-Reihe „KI Hands-On“ geben wir praktische Tipps zur *konkreten Nutzung* mit gKI-Tools im Studium und für die eigene Hausarbeit.
       accordion:
         summary: 'Alle Folgen der Video-Reihe'
         title: 'Generative KI an der Universität Hamburg'
@@ -119,9 +123,9 @@ lehrende:
 
       Was uns besonders freut: Die Veranstaltungsreihe KI Hands-on wird über das Projektende des DDLitLab hinaus vom HUL fortgeführt – der Raum für Austausch bleibt also bestehen!
     numbers:
-        - '<span>8</span> Events<i class="codicon codicon-location"></i>'
-        - '<span>300</span> Teilnehmende Hochschullehrende<i class="codicon codicon-mortar-board"></i>'
-        - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>Interdisziplinärer</span> Austausch'
+        - '<i class="codicon codicon-location"></i> &nbsp; <span>8</span> KI Hands-On Events'
+        - '<span>300</span> teilnehmende Hochschullehrende<i class="codicon codicon-mortar-board"></i>'
+        - '<i class="codicon codicon-comment-discussion"></i> &nbsp; Interdisziplinärer Austausch'
     gallery:
       # - title: '#1: Lehrbeispiele zu generativer KI im Juli 2023'
       #   image: '/images/projekt/ki-hands-on/ki-hands-on-01.webp'

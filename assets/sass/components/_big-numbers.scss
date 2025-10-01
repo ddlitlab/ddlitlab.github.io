@@ -37,6 +37,15 @@
 
 .gkicommunity-big-numbers {
     margin: 4rem 0;
+    padding: 0 6rem;
+
+    @media (max-width: $breakpoint-footer) {
+        padding: 0 3rem;
+    }
+
+    @media (max-width: $breakpoint-mobile) {
+        padding: 0 2rem;
+    }
 }
 
 .datenwelten-big-numbers {
