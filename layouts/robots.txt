@@ -1,6 +1,4 @@
-User-agent: *
 {{- if eq hugo.Environment "production" }}
-Disallow: /404.html
 Sitemap: {{ "sitemap.xml" | absURL }}
 {{- range .Site.Languages }}
 Sitemap: {{ printf "%s/sitemap.xml" .Lang | absURL }}
@@ -8,3 +6,4 @@ Sitemap: {{ printf "%s/sitemap.xml" .Lang | absURL }}
 {{- else }}
 Disallow: /
 {{- end }}
+User-agent: *
