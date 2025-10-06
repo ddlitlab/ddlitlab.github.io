@@ -2,8 +2,8 @@ title = 'DDLitLab – Digital and Data Literacy in Teaching Lab'
 
 author = "David Jacobs"
 
-tags = ["bootstrap","minimal","responsive","modern","blog","landing page"]
-features = ["DDLitLab","Digitalisierung","Lehre","Hochschuldidaktik","Forschung", "Data Literacy", "Digital Skills", "Open Educational Resources", "OER", "Open Science", "Open Access", "E-Learning", "Blended Learning", "Online Learning", "Hybride Lehre", "Hochschule"]
+# tags = ["bootstrap","minimal","responsive","modern","blog","landing page"]
+# features = ["DDLitLab","Digitalisierung","Lehre","Hochschuldidaktik","Forschung", "Data Literacy", "Digital Skills", "Open Educational Resources", "OER", "Open Science", "Open Access", "E-Learning", "Blended Learning", "Online Learning", "Hybride Lehre", "Hochschule"]
 
 min_version = "0.123.0"
 
