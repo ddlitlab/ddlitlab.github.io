@@ -1,5 +1,5 @@
 ---
-title: "Digital and Data Literacy in Teaching Lab (DDLitLab)"
+title: "DDLitLab – Digital and Data Literacy in Teaching Lab"
 description: "Digital und Data Literacy für alle an der UHH - Wir stärken die Digital and Data Literacy an der Universität Hamburg durch Projekte für mehr Datenkompetenz."
 images: ['illustrations/hero/hero_adobe_main-hero-desktop.webp']
 hero:
