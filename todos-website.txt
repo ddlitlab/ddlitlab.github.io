@@ -1,10 +1,11 @@
-- Präsens oder Präteritum?
-- team kacheln in team 2025 und ehemalige?
+- Präsens oder Präteritum? Mischen: Präteritum bei den Projekten -> Rest Präsens (was weitergeführt wird)
+- team kacheln in team 2025 und ehemalige? -> Badges mit Jahreszahlen
 
 - big-numbers responsive
 - Team-Grid responsive
 - 3. ChatGPT & ME Publikation ergänzen
 - White Space on Mobile?
+- Moritz Vorschlag zu GKI-Community aus der Präsentation zur Abschlussveranstaltung
 
 - HTML head verstehen / Critical CSS Preload?
 - SEO
