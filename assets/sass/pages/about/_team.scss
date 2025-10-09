@@ -33,6 +33,26 @@
             transform: scale(1.05);
         }
     }
+    
+}
+
+.team-card-period {
+    position: absolute;
+    width: 80%;
+    text-align: center;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: var(--primary);
+    color: var(--black);
+    padding: 0.2rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    // white-space: nowrap;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 .team-card-image {
@@ -133,4 +153,3 @@
 }
 
 
-    

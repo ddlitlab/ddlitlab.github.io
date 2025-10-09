@@ -97,6 +97,9 @@
                     {{ if .credit }}
                     <figcaption class="image-credit-tooltip">Bild: {{ .credit }}</figcaption>
                     {{ end }}
+                    {{ if .period }}
+                    <div class="team-card-period">{{ .period }}</div>
+                    {{ end }}
                 </figure>
             {{ end }}
                 <div class="team-card-content">

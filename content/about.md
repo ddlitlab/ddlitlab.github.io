@@ -103,6 +103,7 @@ team:
           title: "Projektleitung"
           image: "/images/team/kvk.webp"
           credit: "UHH/Sommer"
+          period: "Sep 2021 - Dec 2025"
           description: 
             - "Co-Sprecherin"
             - "Professorin für Journalistik und Kommunikationswissenschaft, insb. digitalisierte Kommunikation und Nachhaltigkeit (UHH)"
