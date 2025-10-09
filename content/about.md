@@ -85,7 +85,7 @@ timeline:
           content: 'Im Juli 2025 haben wir die <a href="/gkicommunity/#chatgptme">Erhebung</a> zu *ChatGPT & me 3.0* über die Lebensrealität mit *generativer KI* an der Uni Hamburg durchgeführt. Diese wird im September als Forschungsbericht veröffentlicht.'
           type: 'event'
         - date: 'September 2025'
-          title: 'Publikation ChatGPT and Me 3.0'
+          title: 'KI-Handreichung für Studierende'
           content: 'Im Oktober 2025 wird eine <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki/gki-landing-page/studi-guide" target="_blank">KI-Handreichung</a> für Studierende veröffentlicht. Der Guide fasst auf nur zwei Seiten die wichtigsten DO‘s and DON‘Ts, aber auch wesentliche Funktionsweisen von KI und ihrem Einsatz im Studium zusammen.'
           type: 'event'
         - date: 'November 2025'

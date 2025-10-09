@@ -19,7 +19,7 @@ studierende:
     title: 'Studierende im Umgang mit KI stärken'
     subtitle: 'KI verstehen, nutzen, reflektieren'
     text: |
-      Das DDLitLab-Team hat ein umfassendes Angebot ins Leben gerufen, um Studierende über verschiedene Kanäle über generative KI zu informieren und ihnen einen *Austausch* zu diesen Themen ermöglichen. Dazu gehörten ein <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki.html#21689328" target="_blank">regelmäßiger Newsletter</a>, der auch nach Projektabschluss am <a href="https://www.hul.uni-hamburg.de/" target="_blank">Hamburger Zentrum für Universitäres Lehren und Lernen (HUL)</a> fortgeführt wird, aber auch Handreichungen und ein Workshopangebot. Zudem haben wir die Video-Reihe <a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/68767" target="_blank">„Generative KI an der Universität Hamburg“</a> veröffentlicht, in denen *Expert:innen der Universität* über vertiefende Themen zu gKI berichten. Die dazugehörige Podcast-Reihe geht noch einmal ausführlicher auf die verschiedenen Themen ein.
+      Das DDLitLab-Team hat ein umfassendes Angebot ins Leben gerufen, um Studierende über verschiedene Kanäle über generative KI zu informieren und ihnen einen *Austausch* zu diesen Themen zu ermöglichen. Dazu gehörten ein <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki.html#21689328" target="_blank">regelmäßiger Newsletter</a>, der auch nach Projektabschluss am <a href="https://www.hul.uni-hamburg.de/" target="_blank">Hamburger Zentrum für Universitäres Lehren und Lernen (HUL)</a> fortgeführt wird, aber auch Handreichungen und ein Workshopangebot. Zudem haben wir die Video-Reihe <a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/68767" target="_blank">„Generative KI an der Universität Hamburg“</a> veröffentlicht, in denen *Expert:innen der Universität* über vertiefende Themen zu gKI berichten. Die dazugehörige Podcast-Reihe geht noch einmal ausführlicher auf die verschiedenen Themen ein.
     accordion:
       summary: 'Alle Folgen der Interview-Reihe'
       title: 'Generative KI an der Universität Hamburg'
@@ -87,14 +87,14 @@ studierende:
     guide:
       title: 'KI-Guide für Studierende: „You are the expert!“'
       text: |
-        Außerdem haben wir entlang von ermittelnden Bedarfen der Studierenden eine <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki/gki-landing-page/studi-guide" target="_blank">Handreichung</a> erstellt, in der auf nur zwei Seiten die *wichtigsten DO‘s and DON‘Ts*, aber auch wesentliche Funktionsweisen von KI und ihrem Einsatz im Studium zusammengefasst sind. Der Guide wurde im Herbst 2025 veröffentlicht. Er steht als *PDF* zum Download bereit und kann auch als *Poster* in den Fachbereichen und Einrichtungen der UHH ausgehängt werden.
+        Außerdem haben wir entlang von ermittelten Bedarfen der Studierenden eine <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki/gki-landing-page/studi-guide" target="_blank">Handreichung</a> erstellt, in der auf nur zwei Seiten die *wichtigsten DO‘s and DON‘Ts*, aber auch wesentliche Funktionsweisen von KI und ihrem Einsatz im Studium zusammengefasst sind. Der Guide wurde im Herbst 2025 veröffentlicht. Er steht als *PDF* zum Download bereit und kann auch als *Poster* in den Fachbereichen und Einrichtungen der UHH ausgehängt werden.
       accordion:
         summary: 'KI-Handreichung für Studierende als PDF'
         text: 'Dieser Browser unterstützt keine PDFs.'
         
     studi_videos_gki:
       text: |
-        Und in unserer Video-Reihe „KI Hands-On“ geben wir praktische Tipps zur *konkreten Nutzung* mit gKI-Tools im Studium und für die eigene Hausarbeit.
+        Und in unserer Video-Reihe „KI Hands-On“ geben wir praktische Tipps zur *konkreten Nutzung* von gKI-Tools im Studium und für die eigene Hausarbeit.
       accordion:
         summary: 'Alle Folgen der Video-Reihe'
         title: 'Generative KI an der Universität Hamburg'

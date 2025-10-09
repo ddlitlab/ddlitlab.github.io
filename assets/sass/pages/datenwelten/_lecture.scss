@@ -35,13 +35,16 @@
 
     &-text {
         position: relative;
+        padding-top: 0.5em;
 
         &::before {
             content: "\eb70";
             font-family: "codicon";
             position: absolute;
-            left: -1em;
+            left: -1.2em;
             font-size: 1.5em;
+            top: 50%;
+            transform: translateY(-50%);
             line-height: 1;
             @include highlight-icon;
         }
