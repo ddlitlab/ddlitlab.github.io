@@ -119,7 +119,7 @@ lehrende:
 
       Generative KI-Tools wie ChatGPT und Co. werfen nicht nur an der Universität Hamburg viele Fragen auf – von grundlegenden Zielen der Hochschulbildung über *neue praktische Gestaltungsmöglichkeiten* der eigenen Lehre bis hin zu konkreten prüfungsrechtlichen Aspekten. Unsere Veranstaltungsreihe und <a href="https://www.hcl.uni-hamburg.de/ddlitlab/veranstaltungen/gki-hands-on.html" target="_blank">Community of Practice</a> „KI Hands-On“ nimmt genau solche Aspekte in den Blick. 
       
-      Beim KI Hands-On waren stets Personen aller Fakultäten und Einrichtungen willkommen. Die Veranstaltung profitierte vom *interdisziplinärem Austausch* und erfreute sich stets über eine große Teilnehmendenzahlen. Entstanden ist auch eine <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki.html#21689386" target="_blank">Mailingliste</a> mit über 185 eingetragenen, interessierten Lehrpersonen aus der UHH, die regelmäßig über Veranstaltungen und aktuelle Entwicklungen informiert werden.
+      Beim KI Hands-On sind stets Personen aller Fakultäten und Einrichtungen willkommen. Die Veranstaltung profitiert vom *interdisziplinärem Austausch* und erfreut sich über eine große Teilnehmendenschaft. Entstanden ist auch eine <a href="https://www.hcl.uni-hamburg.de/ddlitlab/gki.html#21689386" target="_blank">Mailingliste</a> mit über 185 eingetragenen, interessierten Lehrpersonen aus der UHH, die regelmäßig über Veranstaltungen und aktuelle Entwicklungen informiert werden.
 
       Was uns besonders freut: Die Veranstaltungsreihe KI Hands-on wird über das Projektende des DDLitLab hinaus vom HUL fortgeführt – der Raum für Austausch bleibt also bestehen!
     numbers:
