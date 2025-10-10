@@ -22,10 +22,10 @@ enableEmoji = true
   series = 'series'
   author = "authors"
 
-[sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
+# [sitemap]
+#   changefreq = "weekly"
+#   filename = "sitemap.xml"
+#   priority = 0.5
 
 
 [permalinks]
