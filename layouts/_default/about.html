@@ -110,6 +110,10 @@
                         <li>{{ . | markdownify }}</li>
                     {{ end }}
                     </ul>
+                    {{ if and .period (not (isset . "image")) }}
+                    {{/*  <div class="team-card-period-without-image"></div>  */}}
+                    <div class="team-card-period team-card-period-without-image">{{ .period }}</div>
+                    {{ end }}
                 </div>
             </div>
         {{ end }}

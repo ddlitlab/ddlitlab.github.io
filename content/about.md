@@ -103,7 +103,7 @@ team:
           title: "Projektleitung"
           image: "/images/team/kvk.webp"
           credit: "UHH/Sommer"
-          # period: "Sep 2021 - Dec 2025"
+          period: "Aug 2021 - Dez 2025"
           description: 
             - "Co-Sprecherin"
             - "Professorin für Journalistik und Kommunikationswissenschaft, insb. digitalisierte Kommunikation und Nachhaltigkeit (UHH)"
@@ -111,6 +111,7 @@ team:
           title: "Projektleitung"
           image: "/images/team/schnapp_kai-uwe.webp"
           credit: "UHH/Feuerböther"
+          period: "Aug 2021 - Dez 2025"
           description:
             - "Co-Sprecher"
             - "Professor für Politikwissenschaft, insb. Methoden (UHH)"
@@ -119,14 +120,16 @@ team:
           title: "Lenkungskreis"
           image: "/images/team/reinmann_gabi.webp"
           credit: "Privat"
+          period: "Aug 2021 - Dez 2025"
           description:
             - "Leitung Digital University Teaching Literacy (DUTy)"
             - "Professorin für Lehren und Lehren an der Hochschule (UHH)"
-            - "Leitung des Hamburgers Zentrum für Universitäres Lehren und Lernen (HUL)"
+            - "Leitung des Hamburger Zentrums für Universitäres Lehren und Lernen (HUL)"
         - name: "Prof. Dr. Sandra Sprenger"
           title: "Lenkungskreis"
           image: "/images/team/sprenger_sandra.webp"
           credit: "Privat"
+          period: "Aug 2021 - Dez 2025"
           description: 
             - "Leitung Data Literacy Education im Bereich Fachspezifik (UHH)"
             - "Leiterin des Arbeitsbereichs Geographiedidaktik und beratendes Mitglied des Dekanats für Nachhaltigkeit"
@@ -134,6 +137,7 @@ team:
           title: "Lenkungskreis"
           image: "/images/team/biemann_chris.webp"
           credit: "UHH/Biemann"
+          period: "Aug 2024 - Dez 2025"
           description:
             - "Wissenschaftliche Leitung des Hub of Computing and Data Science (HCDS)"
             - "Professor for Language Technology (UHH)"
@@ -141,12 +145,14 @@ team:
           title: "Lenkungskreis"
           image: "/images/team/semmann_martin.webp"
           credit: "UHH/Semmann"
+          period: "Aug 2024 - Dez 2025"
           description:
             - "Geschäftsführende Leitung des HCDS (UHH)" 
         - name: "Stephan Leible"
           title: "Wissenschaftlicher Mitarbeiter (DLE)"
           image: "/images/team/leible_stephan.webp"
           credit: "UHH/DLE-Team"
+          period: "Nov 2021 - Dez 2025"
           description:
             - "Innovations- und Portfoliomanagement"
             - "Entwicklung und Auswahl von Methoden und Tools"
@@ -155,6 +161,7 @@ team:
           title: "Wissenschaftlicher Mitarbeiter (DLE)"
           image: "/images/team/kreinsen_moritz.webp"
           credit: "UHH/Yzer"
+          period: "Dez 2021 - Dez 2025"
           description:
             - "Koordination der fachspezifischen Data Literacy Education"
             - "Kommunikation"
@@ -164,6 +171,7 @@ team:
           title: "Wissenschaftlicher Mitarbeiter (DLE)"
           image: "/images/team/jacobs-david.webp"
           credit: "UHH/Yzer"
+          period: "Jun 2023 - Dez 2025"
           description:
             - "Konzeption und Umsetzung von Lehrinhalten"
             - "Koordination der Datenwelten"
@@ -172,12 +180,14 @@ team:
           title: "Wissenschaftlicher Mitarbeiter (DLE)"
           image: "/images/team/kristian-berger_soeren.webp"
           credit: "UHH/DLE-Team"
+          period: "Okt 2021 - Dez 2025"
           description:
             - "Koordination der fachspezifischen Data Literacy Education"
         - name: "Mareike Bartels"
           title: "Wissenschaftliche Mitarbeiterin (DUTy)"
           image: "/images/team/bartels-mareike.webp"
           credit: "UHH/Yzer"
+          period: "Sep 2021 - Sep 2025"
           description:
             - "Konzeption und redaktionelle Betreuung zentraler Websites zu KI und digitaler Lehre"
             - "Netzwerkarbeit und Koordination im Bereich generative KI an der UHH"
@@ -186,6 +196,7 @@ team:
           title: "Wissenschaftliche Mitarbeiterin (DUTy)"
           image: "/images/team/pawlowski_julia.webp"
           credit: "UHH/Yzer"
+          period: "Sep 2021 - Dez 2025"
           description:
             - Öffentlichkeitsarbeit, visuelle Kommunikation und Koordination von Impact Stories
             - Konzept und Design des Lehre-Navi und von Projektwebseiten
@@ -194,30 +205,28 @@ team:
           title: "Wissenschaftliche Mitarbeiterin (DUTy)"
           image: "/images/team/preiss_jennifer.webp"
           credit: "Privat"
+          period: "Jun 2023 - Dez 2025"
           description:
             - "Didaktische Beratung" 
         - name: "Fridrun Freise"
           title: "Wissenschaftliche Mitarbeiterin (DUTy)"
           image: "/images/team/freise_fridrun.webp"
           credit: "Privat"
+          period: "Jan 2025 - Dez 2025"
           description: 
             - "Qualifizierung von Lehrenden und Studierenden im Bereich Künstliche Intelligenz"
-        - name: "Carolin Reichert"
-          title: "Wissenschaftliche Hilfskraft"
-          image: "/images/team/default-character.webp"
-          credit: "UHH/Pawlowski"
-          description: 
-            - "Gesamtkoordination"
         - name: "Felix Hartel"
           title: "Wissenschaftliche Hilfskraft" 
           image: "/images/team/hartel_felix.webp"
           credit: "UHH/Yzer"
+          period: "Nov 2023 - Dez 2025"
           description:
             - "Gesamtkoordination"
         - name: "Mathilda Witte"
           title: "Studentische Hilfskraft" 
           image: "/images/team/witte_mathilda.webp"
           credit: "UHH/Yzer"
+          period: "Okt 2024 - Dez 2025"
           description:
             - "Redaktionelle Arbeiten (u.a. in FIONA)"
             - "Unterstützung bei der Erstellung von KI-Angeboten"
@@ -225,37 +234,50 @@ team:
           title: "Studentische Hilfskraft" 
           image: "/images/team/aguilera_laura.webp"
           credit: "Privat"
+          period: "Okt 2024 - Dez 2025"
           description:
             - "Redaktionelle Arbeiten (u.a. in FIONA)"
             - "Unterstützung bei der Datenanalyse"
+        - name: "Carolin Reichert"
+          title: "Wissenschaftliche Hilfskraft"
+          # image: "/images/team/default-character.webp"
+          credit: "UHH/Pawlowski"
+          period: "Feb 2022 - Dez 2025"
+          description: 
+            - "Gesamtkoordination"
         - name: "Julian Wichert"
           title: "Wissenschaftliche Hilfskraft" 
-          image: "/images/team/default-character.webp"
+          # image: "/images/team/default-character.webp"
           credit: "UHH/Pawlowski"
+          period: "Jun 2024 - Dez 2025"
           description:
             - "Koordination der Datenwelten"
         - name: "Prof. Dr. Ingrid Schirmer"
           title: "Lenkungskreis"
           image: "/images/team/schirmer_ingrid.webp"
           credit: "Privat"
+          period: "Aug 2021 - Dez 2025"
           description:
             - "Ehemalige Arbeitsgruppenleiterin (Informationstechnikgestaltung und Genderperspektive), weiterhin aktiv in diversen Projekten"
         - name: "Prof. Dr. Eva Bittner"
           title: "Lenkungskreis"
           image: "/images/team/bittner_eva.webp"
           credit: "Privat"
+          period: "Aug 2021 - Dez 2025"
           description:
             - "Leiterin der Arbeitsgruppe Wirtschaftsinformatik, Sozio-Technische Systemgestaltung (UHH)"
         - name: "Prof. Dr. Mathias Fischer"
           title: "Lenkungskreis"
           image: "/images/team/fischer_mathias.webp"
           credit: "Privat"
+          period: "Aug 2021 - Dez 2025"
           description:
             - "Professor for Computer Networks (UHH)"
         - name: "Carolin Scharfenberg" 
           title: "Wissenschaftliche Mitarbeiterin"
           image: "/images/team/scharfenberg_carolin.webp"
           credit: "Privat"
+          period: "Sep 2021 - Mär 2024"
           description:
             - "Gesamtkoordination des Projekts"
             - "Referentin in der Abteilung Universitätsstrategie (UHH)"
@@ -263,6 +285,7 @@ team:
           title: "Wissenschaftliche Mitarbeiterin"
           image: "/images/team/niemann-lenz_julia.webp"
           credit: "UHH/Sommer"
+          period: "Okt 2021 - Jun 2024"
           description:
             - "Gesamtkoordination & Koordination des fachübergreifenden DLE-Studienangebots"
             - "Abteilung Infrastruktur und Methoden am Deutschen Zentrum für Hochschul- und Wissenschaftsforschung (DZHW)"
@@ -270,6 +293,7 @@ team:
           title: "Wissenschaftliche Mitarbeiterin"
           image: "/images/team/bluethmann_nadia.webp"
           credit: "UHH/DUTy-Team"
+          period: "Sep 2021 - Apr 2023"
           description:
             - "Hochschuldidaktische Beratung"
             - "Erstellung hochschuldidaktischer Selbstlernmaterialien"
@@ -278,30 +302,41 @@ team:
           title: "Technischer Mitarbeiter"
           image: "/images/team/rehder_sven.webp"
           credit: "Privat"
+          period: "Jul 2024 - Apr 2025"
           description:
             - "Medienproduktion"
         - name: "Eylem Tas" 
           title: "Wissenschaftliche Mitarbeiterin"
           image: "/images/team/tas_eylem.webp"
           credit: "UHH/DLE-Team"
+          period: "Dez 2021 - Jul 2024"
           description:
             - "Koordination der DLE im Bereich Transfer"
         - name: "Güler Kocaman" 
           title: "Wissenschaftliche Hilfskraft"
+          period: "Apr 2022 - Jul 2024"
         - name: "Max Ludzay" 
           title: "Studentische Hilfskraft"
+          period: "Dez 2021 - Jun 2023"
         - name: "Hannes Klingler" 
           title: "Studentische Hilfskraft"
+          period: "Okt 2023 - Mär 2024"
         - name: "Verena Beissel" 
           title: "Studentische Hilfskraft"
-        - name: "Elisa Paepcke" 
+          period: "Feb 2022 - Sep 2023"
+        - name: "Elisa Marie Paepcke" 
           title: "Wissenschaftliche Hilfskraft"
+          period: "Jun 2022 - Okt 2022"
         - name: "Jan Newiger"
           title: "Studentische Hilfskraft"
+          period: "Feb 2023 - Jul 2024"
         - name: "Fabian Braun" 
           title: "Technischer Support"
+          period: "Sep 2022 - Jul 2024"
         - name: "Meron Yemane" 
           title: "Technischer Support"
+          period: "Nov 2021 - Jul 2024"
+
 publications:
     title: 'Publikationen'
     subtitle: 'Unsere Veröffentlichungen'
