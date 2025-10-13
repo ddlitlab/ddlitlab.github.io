@@ -1,7 +1,6 @@
 ---
 title: "Lehrlabor"
 subtitle: "Innovative Lehre fördern"
-# text: "Das Data Literacy Lehrlabor, später Cross-Disciplinary Teaching Lab (CDTL), unterstützt innovative Lehrprojekte für bis zu zwölf Monate – sowohl fachübergreifend als auch fachspezifisch oder transferorientiert. Ziel ist es, Freiräume für die Weiterentwicklung von Lehrideen zu schaffen, Data Literacy als Schlüsselkompetenz in Curricula zu verankern und durch Erfahrungsaustausch eine lebendige Community of Practice aufzubauen."
 text: |
     Am Ende seiner Förderung kann das DDLitLab auf die erfolgreiche Realisierung einer wegweisenden Maßnahme zurückblicken: In den ersten beiden jeweils einjährigen Förderrunden wurden insgesamt *35 innovative Lehrprojekte* unterstützt, die sich auf alle Fakultäten der Universität verteilten. In diesen Projekten wurden digitale und hybride Lehrinnovationen mit einem starken Fokus auf Data Literacy entwickelt, sei es in *fachübergreifenden Kursen*, fachspezifischen Modulen oder transferorientierten Formaten. Die Maßnahme verfolgte das Ziel, *Data Literacy als eine Schlüsselkompetenz* nachhaltig in die Curricula zu integrieren und Lehrenden Freiraum zu schaffen, ihre kreativen Lehrideen methodisch fundiert umzusetzen.
  
@@ -14,6 +13,5 @@ filter1: "Spotlights"
 filter2: "Runde 1"
 filter3: "Runde 2"
 filter4: "Runde 3 (CDTL)"
-# layout: list
 layout: "lehrlabor"
 ---
