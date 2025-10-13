@@ -122,7 +122,7 @@ team:
           description:
             - "Leitung Digital University Teaching Literacy (DUTy)"
             - "Professorin für Lehren und Lehren an der Hochschule (UHH)"
-            - "Leitung des Hamburger Zentrum für Universitäres Lehren und Lernen (HUL)"
+            - "Leitung des Hamburgers Zentrum für Universitäres Lehren und Lernen (HUL)"
         - name: "Prof. Dr. Sandra Sprenger"
           title: "Lenkungskreis"
           image: "/images/team/sprenger_sandra.webp"
