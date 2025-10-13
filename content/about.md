@@ -222,6 +222,7 @@ team:
           period: "Nov 2023 - Dez 2025"
           description:
             - "Gesamtkoordination"
+            - "Redaktionelle Arbeiten (Webseite)"
         - name: "Mathilda Witte"
           title: "Studentische Hilfskraft" 
           image: "/images/team/witte_mathilda.webp"
