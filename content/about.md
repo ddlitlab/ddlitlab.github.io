@@ -337,6 +337,9 @@ team:
         - name: "Meron Yemane" 
           title: "Technischer Support"
           period: "Nov 2021 - Jul 2024"
+        - name: "Sofia Moret"
+          title: "Wissenschaftliche Hilfskraft"
+          period: "Mai 2022 - Mär 2023"
 
 publications:
     title: 'Publikationen'
