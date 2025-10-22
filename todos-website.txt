@@ -10,7 +10,6 @@ Rückmeldungen:
 Technische ToDos:
 - HTML head verstehen / Critical CSS Preload?
 - SEO
-- Team-Grid responsive
 
 
 Nach Abschluss der Webseite
