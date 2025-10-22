@@ -11,10 +11,13 @@ hero:
 breadcrumb:
   - title: 'Für Studierende'
     url: '#studierende'
+    # icon: 'mortar-board'
   - title: 'Für Lehrende'
     url: '#lehrende'
+    # icon: 'mortar-board'
   - title: 'ChatGPT & Me'
     url: '#chatgptme'
+    # icon: 'mortar-board'
 studierende:
     title: 'Studierende im Umgang mit KI stärken'
     subtitle: 'KI verstehen, nutzen, reflektieren'
@@ -62,7 +65,7 @@ studierende:
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-beek.html" target="_blank">#7: Bildungswissenschaftliche Perspektiven mit Eric van der Beek</a>: Wir sprechen mit Eric van der Beek über bildungswissenschaftliche Perspektiven auf GKI sowie mögliche Auswirkungen auf Lehre und Forschung. (49 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-moeller.html" target="_blank">#6: Philosophische Perspektiven und GKI-Studium an der GW-Fakultät mit Ralf Möller</a>: Wir sprechen mit Ralf Möller über KI aus philosophisch-technischer Perspektive und den neuen Studiengang "Intellectics: The Science of AI". (97 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-lauscher.html" target="_blank">#5: Bias, Fairness und GKI mit Prof. Dr. Anne Lauscher</a>: Wir sprechen mit Anne Lauscher (Prof. für Data Science) über ihre Forschung zu effektiver und inklusiver Kommunikation mit Chatbots. (26 Min.)'
-          - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-boehmann.html" target="_blank">#4: GKI an der UHH mit Prof. Dr. Tilo Böhmann</a>: Wir sprechen mit Tilo Böhmann (Vizepräsident für Forschung) über die seine Erwartungen von der Zukunft mit GKI an der Universität. (42 Min.)'
+          - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-boehmann.html" target="_blank">#4: GKI an der UHH mit Prof. Dr. Tilo Böhmann</a>: Wir sprechen mit Tilo Böhmann (Vizepräsident für Forschung) über seine Erwartungen von der Zukunft mit GKI an der Universität. (42 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-thiemann.html" target="_blank">#3: UHHGPT mit Dr. Stefan Thiemann</a>: Wir sprechen mit Stefan Thiemann über UHHGPT: Was steckt dahinter, wie funktioniert es und welche Vorteile bietet es? (78 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-robinius.html" target="_blank">#2: Rechtliche Fragen mit Martin Robinius</a>: Wir sprechen mit Martin Robinius über alles, was man beim Umgang mit generativer KI aus rechtlicher Perspektive beachten muss. (39 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-simon.html" target="_blank">#1: Ethik und GKI mit Prof. Dr. Judith Simon</a>: Wir sprechen mit Judith Simon, Professorin für Ethics in IT, über ethische Fragen, die sich bei der Nutzung von generativer KI stellen.'
@@ -160,13 +163,9 @@ publikationen:
       
       Unsere Studien beleuchten nicht nur, wie KI-Tools konkret eingesetzt werden, sondern auch, welche *Fragen, Unsicherheiten und Haltungsdilemmata* damit einhergehen. Das Ziel: Ein datenbasierter Einblick in die Lebensrealität von Studierenden und Lehrenden – als Ausgangspunkt für Reflexion, Gestaltung und hochschuldidaktische Entwicklung. Die Ergebnisse der ersten beiden Erhebungen wurden in mehreren wissenschaftlichen Publikationen aufgearbeitet.
     numbers:
-        - 'Über <span>2400</span> teilgenommene Studierende<i class="codicon codicon-rocket"></i>'
-        - '<i class="codicon codicon-mortar-board"></i> &nbsp; Über <span>400</span> teilgenommene Lehrende'
+        - 'Über <span>2400</span> Studierende<i class="codicon codicon-rocket"></i>'
+        - '<i class="codicon codicon-mortar-board"></i> &nbsp; Über <span>400</span> Lehrende'
         - '<i class="codicon codicon-repo"></i> &nbsp; <span>3</span> enstandene Publikationen'
-
-
-
-
 
 events:
   title: 'Vergangene Veranstaltungen von KI-Hands On'

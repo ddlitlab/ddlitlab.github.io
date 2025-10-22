@@ -4,10 +4,6 @@
     padding: 2rem 0;
     position: relative;
     font-size: 1.2rem;
-    // max-width: var(--max-width);
-    // display: grid;
-    // grid-template-columns: 1fr 1fr;
-    // gap: 2rem;
 
     h2 {
         font-size: 1.5rem;
@@ -29,19 +25,10 @@
         margin-left: 2em;
         margin-bottom: 1em;
     }
-    
-    // kann weg!
-    // &::after {
-    //     content: "";
-    //     position: absolute;
-    //     top: 0;
-    //     left: 25%;
-    //     width: 50%;
-    //     border-bottom: 0.5rem solid var(--primary);
-    // }
 
     @media (max-width: $breakpoint-tablet) {
         width: 100%;
+        padding: 1rem 0;
     }
 
     @media (max-width: $breakpoint-mobile) {
@@ -69,6 +56,8 @@
             right: 0%;
             font-size: 6em;
         }
+
+        padding-bottom: 0;
 
     }
 }
@@ -100,6 +89,7 @@
     @media (max-width: $breakpoint-footer) {
         grid-template-columns: 1fr;
         width: 80%;
+        margin: 1rem 0;
     }
 
     @media (max-width: $breakpoint-mobile) {

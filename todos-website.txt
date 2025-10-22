@@ -1,19 +1,34 @@
 - Präsens oder Präteritum? Mischen: Präteritum bei den Projekten -> Rest Präsens (was weitergeführt wird)
+- Änderungen Moritz Fellow-Netzwerk
 
-- big-numbers responsive
-- Team-Grid responsive
-- 3. ChatGPT & ME Publikation ergänzen
-- White Space on Mobile?
+Rückmeldungen:
 - Moritz Vorschlag zu GKI-Community aus der Präsentation zur Abschlussveranstaltung
 - Felix Änderungen einbauen
+- Translations Julian
+- Mareike 3. ChatGPT & ME Publikation ergänzen
 
+Technische ToDos:
 - HTML head verstehen / Critical CSS Preload?
 - SEO
+- Team-Grid responsive
 
-- Translations
 
 Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen
+
+
+
+Von Moritz:
+DDLitLab Fellow-Netzwerk:
+Ausgangslage DLE-Netzwerk (Webseite mittlerweile offline, hatte ich aber in Teams gesichert)
+Gemeinsamer Nenner vieler Fächer/Fachbereiche/Disziplinen der UHH: Lehre unter den Bedingungen der digitalen Transformation als Chance zur Weiterentwicklung und Herausforderung qua Strukturen
+Besonderheit des DDLitLab-Netzwerks hier: Voraussetzung für Freiräume für innovative, unkonventionelle Lehre durch Lehrlabor-Förderung gegeben
+Austausch, Peer-Coaching und Didaktische Begleitung (Improvement der digital-didaktischen Skills) durch Netzwerk-Formate (Fellow-Workshops u.a. Lehrkonzeptwerkstatt, Nachhaltigkeit/Verstetigung der Lehrformate/-materialien/-angebote, Ergebnisaustausch/“Abschlusspräsentationen im Gallery-Walk“; zusammenbringen verschiedener Generationen von Fellows bzw. Erfahrungsaustausch)
+So habt sich mit der Projektzeit ein Netzwerk an Lehrenden gebildet, welches digital- und datenbezogene Lehrinhalte und digital-didaktische Formate im Fokus hat 
+
+
+
+
 
 
 

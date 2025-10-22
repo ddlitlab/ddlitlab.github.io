@@ -33,7 +33,17 @@ footer {
   }
 }
 
+@media (max-width: $breakpoint-tablet) {
+  footer {
+    margin-top: 6rem;
+  }
+}
+
 @media (max-width: $breakpoint-footer) {
+  footer {
+    margin-top: 4rem;
+  }
+
   .footer-container {
     flex-direction: column;
     text-align: center;

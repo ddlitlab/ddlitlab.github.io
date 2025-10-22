@@ -155,6 +155,12 @@
     border: var(--primary) 0.15rem solid;
     padding: 0.5em 1em;
     text-align: center;
+
+    i {
+        font-size: 1.5em !important;
+        float: left;
+        margin: 0 0.2em;
+    }
 }
 
 @media (max-width: $breakpoint-tablet) {

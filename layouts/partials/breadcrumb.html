@@ -1,5 +1,10 @@
 <div class="breadcrumb-grid">
     {{ range . }}
-    <a class="breadcrumb-grid-item" href="{{ .url }}">{{ .title }}</a>
+    <a class="breadcrumb-grid-item" href="{{ .url }}">
+        {{ with .icon }}
+        <i class='codicon codicon-{{ . }}' aria-hidden="true"></i>
+        {{ end }}
+        {{ .title | markdownify }}
+    </a>
     {{ end }}
 </div>
