@@ -1,6 +1,5 @@
 Rückmeldungen:
 - Moritz Vorschlag zu GKI-Community aus der Präsentation zur Abschlussveranstaltung
-- Felix Änderungen einbauen
 - Translations Julian
 - Mareike 3. ChatGPT & ME Publikation ergänzen
 
