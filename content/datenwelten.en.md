@@ -9,7 +9,7 @@ hero:
 breadcrumb:
   - title: 'Go to the lecture'
     url: '#ringvorlesung'
-  - title: 'Go to the tutorial'
+  - title: 'Go to the exercise'
     url: '#übung'
 lecture:
     title: 'Contents of Data Worlds'
@@ -51,7 +51,7 @@ lecture:
         - 'From <span>213</span> subjects<i class="codicon codicon-rocket"></i>'
         - 'From <span>34</span> lecturers<i class="codicon codicon-coffee"></i>'
 exercise:
-    title: 'Accompanying tutorials'
+    title: 'Accompanying exercises'
     subtitle: 'Between code and context'
     grid:
         - 'The exercises accompanying the lectures offer practical reinforcement of the lecture content and an introduction to *data analysis with R*. They are aimed at *all students* at the University of Hamburg and are designed to be accessible to students with and without prior programming knowledge.'
@@ -59,7 +59,7 @@ exercise:
         - 'We use *literate programming*, which combines code and text. This allows students not only to write code, but also to understand, modify, and document it. The exercises promote independent skill acquisition and teach the technical basics of data analysis and machine learning. We program with the <a href="https://www.tidyverse.org/" target="_blank"><code>tidyverse</code></a> package collection, which follows a consistent design philosophy, grammar, and data structure.' 
         - In addition to technical aspects, social issues are also addressed in order to develop a comprehensive understanding of the effects of digitization and datafication. The exercises are designed to be *interdisciplinary* and take into account various perspectives from computer science, social sciences, and other disciplines. With the end of project funding, the exercises will conclude at the end of the 2025/2026 winter semester.'
     illustration:
-        title: 'Contents of the tutorials'
+        title: 'Contents of the exercises'
         winter:
             title: 'Focus: Winter'
             items:
