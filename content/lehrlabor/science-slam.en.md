@@ -16,7 +16,7 @@ quote:
 text: |
     ## Project focus
 
-    The idea for the project arose from the desire to get people excited about research into sustainability, data, and digitalization in times of pressing social challenges. Young people in particular should be able to access these topics in an enjoyable and accessible way. The Science Slam format was chosen as an approach to make science exciting, captivating, and humorous. The Science Slam provides a stage on which young scientists can present their current research projects in a clear and understandable way. This has created a lively dialogue between researchers and society, making complex topics such as sustainable technologies, data innovations, and social transformation processes tangible.
+    *The idea for the project arose from the desire to get people excited about research into sustainability, data, and digitalization in times of pressing social challenges.* Young people in particular should be able to access these topics in an enjoyable and accessible way. The Science Slam format was chosen as an approach to make science exciting, captivating, and humorous. The Science Slam provides a stage on which young scientists can present their current research projects in a clear and understandable way. This has created a lively dialogue between researchers and society, making complex topics such as sustainable technologies, data innovations, and social transformation processes tangible.
 
     ## Review and results
     
@@ -35,7 +35,7 @@ text: |
 
     ## Data Literacy Education and the Science Slam
 
-    The project enabled participants to learn about a wide variety of topics from different fields of research in which data literacy education plays a central role. This always took place in relation to issues of sustainability. The Science Slam not only imparted knowledge, but above all sparked enthusiasm for the topics and encouraged participants to engage more intensively with the underlying research work afterwards. At the same time, the creative and innovative format opened up new perspectives on how science can be communicated in an exciting, accessible, and effective way, while also reinforcing the urgent need to inspire potential future professionals to engage with the future-oriented topics of the Twin Transformation. This showed students how they can communicate their own projects later on.
+    *The project enabled participants to learn about a wide variety of topics from different fields of research in which data literacy education plays a central role. This always took place in relation to issues of sustainability. The Science Slam not only imparted knowledge, but above all sparked enthusiasm for the topics and encouraged participants to engage more intensively with the underlying research work afterwards. At the same time, the creative and innovative format opened up new perspectives on how science can be communicated in an exciting, accessible, and effective way, while also reinforcing the urgent need to inspire potential future professionals to engage with the future-oriented topics of the Twin Transformation.* This showed students how they can communicate their own projects later on.
 
 image: "https://www.hcl.uni-hamburg.de/16954393/alexander-sinn-kgltfcgfc28-unsplash-733x414-b3579c0bf0dbc8eb96973d5799eec2683cf31ced.jpg"
 image_credit: "Alexander Sinn / unsplash"

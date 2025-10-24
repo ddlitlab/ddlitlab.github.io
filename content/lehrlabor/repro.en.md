@@ -22,7 +22,7 @@ text: |
 
     Reproducing the same results on a different computer is often not a trivial problem. For example, not only must all code and data be available in an accessible format, but the same software (or computing environment) must also be replicable. In general, managing research results reproducibly and transparently throughout their entire lifecycle—from initial idea to publication and beyond—represents a significant challenge. Fortunately, researchers can learn from practices and tools from other disciplines, particularly software engineering, that have significantly professionalized collaborative work on digital objects such as code and data. These include, among others, tracking changes to digital objects using version control systems such as Git, best practices for code and data management, and creating stable and transportable computing environments using software containers such as Docker.
 
-    This course provided an introduction to the tools and procedures that enable young scientists to make their research reproducible.
+    *This course provided an introduction to the tools and procedures that enable young scientists to make their research reproducible.*
 
     ## Review and results
 
@@ -34,7 +34,7 @@ text: |
 
     A central element of digital skills development was ensuring the transparent, public, and collaborative development of teaching and learning resources using Git and GitHub, as well as the Open Science Framework, within the available time. Individual teaching content was applied to the creation of the teaching content. This approach follows sound scientific principles of transparency, openness, and reproducibility.
 
-    The teaching project also contributed to the development of lecturers' skills in the area of ​​didactic skills. Various didactic methods were tested within the teaching project: from pair work and individual work, to quizzes, demonstrations, and exercises. A conscious focus was always to create plenty of time and space for implementation, where participants could apply what they had learned using concrete exercises and examples.
+    The teaching project also contributed to the development of lecturers' skills in the area of ​​didactic skills. *Various didactic methods were tested within the teaching project: from pair work and individual work, to quizzes, demonstrations, and exercises. A conscious focus was always to create plenty of time and space for implementation, where participants could apply what they had learned using concrete exercises and examples.*
 
 image: "https://www.hcl.uni-hamburg.de/20488143/scott-graham-unsplash-e658f7c582423b337255416c68be9108539f2f00.jpg"
 image_credit: "Scott Graham / unsplash"

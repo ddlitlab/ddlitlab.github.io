@@ -22,7 +22,7 @@ text: |
 
     Dieselben Ergebnisse auf einem anderen Computer zu reproduzieren, ist oft kein triviales Problem. So müssen beispielsweise nicht nur der gesamte Code und alle Daten in einem zugänglichen Format verfügbar sein, sondern es muss auch die gleiche Software (oder Rechenumgebung) nachgebildet werden können. Generell stellt die reproduzierbare und transparente Verwaltung von Forschungsergebnissen über den gesamten Lebenszyklus hinweg - von der ersten Idee bis zur Veröffentlichung und darüber hinaus - eine große Herausforderung dar. Glücklicherweise können Wissenschaftler:innen von Praktiken und Werkzeugen aus anderen Disziplinen lernen, insbesondere aus der Softwaretechnik, die die gemeinsame Arbeit an digitalen Objekten wie Code und Daten erheblich professionalisiert haben. Dazu gehören unter anderem die Nachverfolgung von Änderungen an digitalen Objekten mithilfe von Versionskontrollsystemen wie Git, bewährte Verfahren für die Code- und Datenverwaltung sowie die Schaffung stabiler und transportabler Berechnungsumgebungen mithilfe von Softwarecontainern wie Docker.
 
-    Dieser Kurs bot eine Einführung in die Tools und Vorgehensweisen die junge Wissenschaftler:innen dazu befähigt ihre Forschung reproduzierbar zu gestalten.
+    *Dieser Kurs bot eine Einführung in die Tools und Vorgehensweisen die junge Wissenschaftler:innen dazu befähigt ihre Forschung reproduzierbar zu gestalten.*
 
     ## Rückblick und Ergebnisse
 
@@ -34,7 +34,7 @@ text: |
 
     Zentrales Element der digitalen Kompetenzentwickung war die größtmögliche transparente, öffentliche und kollaborative Entwicklung von Lehr- und Lernresourcen mit Git und GitHub sowie mit dem Open Science Framework im Kontext der verfügbaren Zeit. Dabei wurden einzelne Lehrinhalte auf die Erstellung der Lehrinhalte angewendet. Dieser Ansatz verfolgt gute wissenschaftliche Prinzipien von Transparenz, Offenheit und Reproduzierbarkeit.
 
-    Auch im Bereich didaktischer Fähigkeiten konnte das Lehrprojekt zu der Kompetenzentwicklung der Lehrperson beitragen. Im Rahmen des Lehrprojekts wurden verschiedene didaktische Methoden erprobt: von Partner- und Einzelarbeiten, über Quizzes bis zu Demonstrationen und Übungen. Ein bewusster Fokus war dabei stets, viel Zeit und Raum für Implementierung zu schaffen, bei der die Teilnehmenden anhand konkreter Übungen und Beispiele das Gelernte zur Anwendung bringen konnten.
+    Auch im Bereich didaktischer Fähigkeiten konnte das Lehrprojekt zu der Kompetenzentwicklung der Lehrperson beitragen. *Im Rahmen des Lehrprojekts wurden verschiedene didaktische Methoden erprobt: von Partner- und Einzelarbeiten, über Quizzes bis zu Demonstrationen und Übungen. Ein bewusster Fokus war dabei stets, viel Zeit und Raum für Implementierung zu schaffen, bei der die Teilnehmenden anhand konkreter Übungen und Beispiele das Gelernte zur Anwendung bringen konnten.*
 
 image: "https://www.hcl.uni-hamburg.de/20488143/scott-graham-unsplash-e658f7c582423b337255416c68be9108539f2f00.jpg"
 image_credit: "Scott Graham / unsplash"

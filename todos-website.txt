@@ -8,6 +8,5 @@ Technische ToDos:
 - HTML head verstehen / Critical CSS Preload?
 - SEO
 
-
 Nach Abschluss der Webseite
 - Gaetano auf die studentischen Forschungsgruppen hinweisen

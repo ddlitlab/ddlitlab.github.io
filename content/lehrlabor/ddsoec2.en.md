@@ -30,7 +30,7 @@ text: |
 
     ## Tips from lecturers for lecturers
 
-    The lecture resulted in increased use of Quarto (slides) with the integration of code snippets and experience with using Quarto as a didactic tool. Quarto was also used in the tutorial. However, in the second round, Quarto documents were used instead of slides, as these did not pose an overflow problem and longer examples could be presented coherently rather than spread across multiple slides. The teaching concept with small group work enabled the development of didactic skills in supporting small groups. The present-based framework, new to this course format, enabled closer contact with participants and better identification of problems. At the same time, however, it also required more motivation and frustration management from the instructors.
+    The lecture resulted in increased use of Quarto (slides) with the integration of code snippets and experience with using Quarto as a didactic tool. Quarto was also used in the tutorial. However, in the second round, Quarto documents were used instead of slides, as these did not pose an overflow problem and longer examples could be presented coherently rather than spread across multiple slides. The teaching concept with small group work enabled the development of didactic skills in supporting small groups. *The present-based framework, new to this course format, enabled closer contact with participants and better identification of problems. At the same time, however, it also required more motivation and frustration management from the instructors.*
 
 image: "https://www.hcl.uni-hamburg.de/16954251/stable-diffusion-data-visualisation-94e896d544a778c9df6da1c6d6aa5efeb3de405f.jpg"
 image_credit: "Scott Graham / unsplash"
