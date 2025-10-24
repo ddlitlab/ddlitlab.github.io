@@ -1,34 +1,36 @@
 ---
-id: "ddsoec2-eng" # nochmal überlegen
-method: "Lecture and exercise"
-institution: "Faculty of Business, Economics and Social Sciences"
+id: "ddsoec2" # nochmal überlegen
+method: "Lecture and tutorial"
+institution: "Faculty of Economics and Social Sciences"
 title: "Data Science for Socioeconomists 2.0"
 title_project:
 title_short: "DDSOEC2"
 period: "Sep 24 ­­- July 25 (11 months)"
-foerderlinie: "Disciplinary Data Literacy Education"
+foerderlinie: "Subject-specific data literacy"
 round: "3"
 filter: "3"
 lecture2go: "68603"
-uhh_url: "https://www.hcl.uni-hamburg.de/en/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/01-ddsoec2.html"
+uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/erste-foerderrunde/04-dcl.html"
 contributors: "Victoria Hünewaldt, Prof. Dr. Ulrich Fritsche, Lisa Wegner, Junbo Huang"
 quote:
 text: |
-    ## Orientation of the project
+    ## Project focus
 
-    *The aim of the project is to familiarise students of social economics with data science. In the course, they will learn theoretical and practical knowledge about regression and classification methods.* The lecture is supplemented by code examples so that "hands-on" knowledge is already imparted here. In the exercise, the acquired knowledge is applied in practice through small exercises. Students work collaboratively in small groups with JupyterHub and document their results in Quarto, learn project documentation and acquire knowledge via pair programming.
+    *The aim of the project was to introduce social economics students to data science.* In a hybrid course, they acquired theoretical and practical knowledge of regression and classification methods. The lectures were supplemented by code examples, thus providing hands-on experience. In the tutorial, the acquired knowledge was applied through small exercises. The students worked collaboratively in small groups using JupyterHub and documented their results in Quarto, learned project documentation, and acquired knowledge through pair programming.
 
-    Two trainers prepare the material and give an introduction. They also support the students in the group work phase, encouraging them to help each other and solve problems together. At the end of a practice session, various solutions are discussed in plenary.
+    Instructors prepared the materials and provided an introduction. They also supported the students during the group work phase, encouraging them to help each other and solve problems together. At the end of a practice session, various solution approaches were discussed in plenary.
 
-    *The aim of the course is to reduce uncertainties in dealing with data and to teach programming with R using specialised examples. After completing the course, students should be able to carry out data analyses for their own research projects independently. The course also prepares students for collaborative work and encourages them to solve problems together.*
+    *The aim of the course was to reduce uncertainty in dealing with data and to teach programming with R using relevant examples. Upon completion, the students were able to independently conduct data analyses for their own research projects. In addition, the course prepared students for collaborative work and encouraged joint problem-solving.*
 
-    ## Project realisation
+    ## Review and results
 
-    The following key results were to be achieved: An introduction to the practical significance of data, statistical/machine learning methods and "big data" for economic and social science issues. This is followed by a basic introduction to programming with R, which enables students to independently create smaller research projects and understand the code of other researchers. They learn a range of data science methods, including data transformations, visualisation and simple methods of statistical learning, with a focus on supervised learning.
+    In the second edition of the course, students were successfully taught the fundamentals they need to work independently with data. Overall, the students are now more familiar with various aspects of data science methods and their practical implementation in R. They are able to reflect on different methods and weigh the advantages and disadvantages of various machine learning techniques. This prepares them for the demands of the professional world, as well as for empirical theses and further studies. Furthermore, the students were introduced to collaborative work tools such as JupyterHub. With Quarto, they also learned a way to combine code, documentation, and results reports in a notebook format – an important contribution to the reproducibility of scientific findings.
 
-    Basic ideas on in-sample/out-of-sample prediction and classification performance as well as the problem of dimension reduction (e.g. in lasso and ridge models or pruning of regression trees) are covered. Practical programming experience are taught using concrete examples from the social and economic sciences. Quarto presentations in the lecture explain the implementation of theoretical concepts with code snippets, which serve as the basis for the students' own analyses in the exercises.
+    They gained practical experience in creating graphics. Furthermore, through collaborative work, they learned skills in project work and project documentation. Furthermore, group work enabled them to leverage experiences in dealing with strong heterogeneity in students' prior knowledge. The use of code in the lecture and the use of group work in the tutorial proved successful. Furthermore, students emphasized in their feedback that the course was very application-oriented and prepared them for future careers in economics, sociology, and business administration. The integration of two practical presentations – one from the field of an NGO and the other from an IT consultancy – delivered by former students of the Department of Social Economics was perceived as very enriching and provided the students with excellent orientation to their careers.
 
-    The creation of graphics and the theoretical knowledge of design principles for data visualisations are learned both practically and theoretically, which is important for the use of empirical data in student research projects and theses. Students are also sensitised to the principles of open science and reproducibility. Two practical presentations by graduates of the Department of Socioeconomics, which are planned towards the end of the semester, are intended to provide insights into career development opportunities in the field of data science and contribute to career orientation.
+    ## Tips from lecturers for lecturers
+
+    The lecture resulted in increased use of Quarto (slides) with the integration of code snippets and experience with using Quarto as a didactic tool. Quarto was also used in the tutorial. However, in the second round, Quarto documents were used instead of slides, as these did not pose an overflow problem and longer examples could be presented coherently rather than spread across multiple slides. The teaching concept with small group work enabled the development of didactic skills in supporting small groups. The present-based framework, new to this course format, enabled closer contact with participants and better identification of problems. At the same time, however, it also required more motivation and frustration management from the instructors.
 
 image: "https://www.hcl.uni-hamburg.de/16954251/stable-diffusion-data-visualisation-94e896d544a778c9df6da1c6d6aa5efeb3de405f.jpg"
 image_credit: "Scott Graham / unsplash"

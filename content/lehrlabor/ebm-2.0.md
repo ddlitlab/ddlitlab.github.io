@@ -16,22 +16,23 @@ quote:
 text: |
     ## Das Projekt EBM 2.0
 
-    Das Projekt hat das Ziel, das EpiBioManual (aus dem vorigen Lehrlaborprojekt) um die weitere Modalität von Videos zu Grundkonzepten der Biostatistik zu erweitern und das im EpiBioManual vermittelte konzeptuelle Wissen um *prozedurales Wissen im Umgang mit statistischer Software* zu erweitern. Konkret bestehen die folgenden Ziele:
+    Das Projekt hatte das Ziel, das EpiBioManual (aus dem vorigen Lehrlaborprojekt) um die weitere Modalität von Videos zu Grundkonzepten der Biostatistik zu erweitern und das im EpiBioManual vermittelte konzeptuelle Wissen um *prozedurales Wissen im Umgang mit statistischer Software* zu erweitern. Konkret wurden folgenden Ziele erreicht:
 
     - Erstellung von 5 bis 10 Videos zu grundlegenden Konzepten der Biostatistik
+    - Einbeziehung von statistischer Software in das EpiBioManual. Zu den bereits dargestellten statistischen Inhalten erhielten die Studierenden eine Anleitung, wie die Methoden in Software angewandt werden. Dieses erfolgte in der von Medizinstudierenden am häufigsten genutzten Software SPSS
+    - Studierende hatten die Möglichkeit, Grundlagen der Programmierung in R zu erlernen. Hierzu wurden Code-Snippets für grundlegende Statistikmethoden erklärt und anhand von Beispielen veranschaulicht
 
-    - Einbeziehung von statistischer Software in das EpiBioManual. Zu den bereits dargestellten statistischen Inhalten sollen die Studierenden eine Anleitung erhalten, wie die Methoden in Software angewandt werden. Dieses soll in der von Medizinstudierenden am häufigsten genutzten Software SPSS erfolgen
-
-    - Studierende sollen die Möglichkeit erhalten Grundlagen der Programmierung in R zu erlernen. Hierzu werden Code-Snippets für grundlegende Statistikmethoden erklärt und anhand von Beispielen veranschaulicht
     ## Rückblick und Ergebnisse
 
-    Im Zuge des Projektes wurde eine moderne und innovative Lehrveranstaltung im Kontext von Kausalität geschaffen. Die Vorlesung wurde durch *interaktive Lernmaterialien* (Lern-Apps) ergänzt, die zum besseren Verständnis der theoretischen Inhalte beigetragen haben. Mit dem Digital Causality Lab, das die vorherige frontal-unterrichtete Übung ersetzt, wurde zudem ein innovativer Lernraum mit einem didaktischen Schwerpunkt auf *forschendem Lernen* etabliert. Einerseits werden im Digital Causality Lab wichtige praktische Werkzeuge und Fähigkeiten der Data Literacy vermittelt, sowie die theoretischen Konzepte aus der Vorlesung praktisch angewandt. Andererseits vertiefen die Studierende diese Kenntnisse im Zuge von kausalen Fallstudien, in denen sie eigenständig ein Data Product entwickeln.
+    Durch das EpiBioManual wurde eine Lernplattform geschaffen, die Studierende der Human- und Zahnmedizin für ihre Auseinandersetzung mit den Themen Biostatistik und Epidemiologie gerne nutzen. Hierfür sprechen sowohl die Nutzungsstatistiken während der Unterrichtszeit als auch die Evaluationen am Ende des Semesters. Als besonders hilfreich empfunden werden die Möglichkeit, anhand von Übungsaufgaben den eigenen Kenntnisstand zu überprüfen und die Verlinkungen von den Fachbegriffen in den Erklärungstexten, die so nur digital möglich sind. Aufgrund der Komplexität der Konzepte sollen zusätzliche Videos den Studierenden eine weitere Möglichkeit bieten, die Inhalte zu lernen.
 
-    ## Projektumsetzung
+    In Zukunft soll diese Möglichkeit weiter beworben werden, damit dieses asynchrone Unterstützungsangebot weitere Studierende und Promovierende am UKE erreicht. Neben den eigenen Studierenden des UKEs ist das Projekt auch auf Fachtagungen vorgestellt worden, so dass eine Nutzung des EpiBioManuals auch an anderen Standorten erfolgt. Hierbei wurde die Lernplattform auch von Kollegen anderer Standorte interessiert aufgenommen. Durch die digitale Form haben wir zudem das Ziel erreicht diese Inhalte langfristig verfügbar zu haben.
 
-    Videos: In der Planungsphase werden zunächst die grundlegenden Konzepte innerhalb der Biostatistik identifiziert und ein Grundkonzept für die Videos erstellt. Anschließend werden Skripte und Visualisierungen für die Videos erstellt, bevor diese dann eingesprochen werden. Die Videos werden mit Camtasia erstellt.
+    ## Data Literacy Education und das EpiBioManual
 
-    Software: In der Planungsphase wird die Integrierung von Software in das EpiBioManual konzipiert. Für die Umsetzung werden die Beispiele innerhalb des EpiBioManuals genutzt. Hierzu wird es eine Beschreibung der Vorgehensweise in statistischer Software geben und die Anforderungen an die Datenkonstellation sowie die Annahmen der jeweiligen statistischen Methode diskutiert.
+    Die Inhalte des EpiBioManuals beginnen mit der Diagnose von Erkrankungen und den Aspekten, die bei der Interpretation der entsprechenden Wahrscheinlichkeiten berücksichtigt werden müssen. Anschließend werden Themen behandelt, die in therapeutischen Interventionsstudien und Beobachtungsstudien relevant sind, wobei ein besonderer Fokus auf möglichen Verzerrungsquellen sowie den Grundprinzipien der evidenzbasierten Medizin liegt. Der Schwerpunkt wurde gewählt, da es für Mediziner essenziell ist, sich als lebenslang Lernende zu begreifen, um die raschen Fortschritte der medizinischen Forschung in die Patientenversorgung integrieren zu können.
+
+    Neben den eher theoretischen Inhalten werden die Studierenden zudem gezielt im kompetenten Umgang mit Daten geschult. In zugehörigen Präsenzveranstaltungen wurde dazu unter anderem eine eigene Datenerhebung durchgeführt, anhand derer von den Studierenden selbst entwickelte Fragestellungen beantwortet wurden. Das EpiBioManual soll die Studierenden dabei unterstützen, die Inhalte aus den Präsenzveranstaltungen zu festigen und zusätzliche Übungsmöglichkeiten zu bieten. Mit der Erweiterung um einen Software-Teilabschnitt zu SPSS werden die Studierenden außerdem dabei unterstützt, einen fundierten Einstieg in eigenständige Datenauswertungen mithilfe statistischer Software zu erhalten. Ein besonderer Fokus in diesem Abschnitt liegt auf den Annahmen der unterschiedlichen Methoden und deren kritischer Überprüfung.
 
 image: "https://www.hcl.uni-hamburg.de/18800243/national-institute-unsplash-a3fc9120939d99f1050947ab82b1cac7318ef563.jpg"
 image_credit: "National Cancer Institute / unsplash"

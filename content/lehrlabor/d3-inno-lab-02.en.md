@@ -1,7 +1,7 @@
 ---
-id: "d3-inno-lab-02-eng" # nochmal überlegen
+id: "d3-inno-lab-02" # nochmal überlegen
 method: "Hands-on workshops"
-institution: "Faculty of Mathematics, Informatics and Natural Sciences"
+institution: "Faculty of Mathematics, Computer Science and Natural Sciences"
 title: "Data-Driven Digital Innovation Lab"
 title_project:
 title_short: "D3 Innovation Lab"
@@ -10,31 +10,31 @@ foerderlinie: "Interdisciplinary Data Literacy Education"
 round: "3"
 filter: "3"
 lecture2go:
-uhh_url: "https://www.hcl.uni-hamburg.de/en/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/10-d3-inno-lab.html"
+uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/10-d3-inno-lab.html"
 contributors: "Stephan Leible, Constantin von Brackel-Schmidt, Prof. Dr. Thilo Böhmann"
 text: |
-    ## Orientation of the D3 Innovation Lab
+    ## Focus of the D3 Innovation Lab
 
-    Language models in relation to generative AI are a central part of the digital landscape today and are used in many areas of natural language processing, such as text generation, revision, or translation. General-purpose models such as GPT (Generative Pre-trained Transformer) and BERT (Bidirectional Encoder Representations from Transformers) are particularly versatile and can be used for a variety of tasks without adjustments. However, they do not always perform best for specific use cases. By using customization methods such as fine-tuning, prompt engineering, or integrating new knowledge sources, these models can be tailored to specific requirements to increase their performance for certain use cases.
+    Language models related to generative AI are a central part of the digital landscape today and are used in many areas of natural language processing, such as text generation, revision, and translation. General-purpose models such as GPT (Generative Pre-trained Transformer) and BERT (Bidirectional Encoder Representations from Transformers) are particularly versatile and can be used for a wide variety of tasks without adaptation. However, they do not always offer optimal performance for specific use cases. Through adaptation methods such as fine-tuning, prompt engineering, or the integration of new knowledge sources, these models can be specifically optimized for specific requirements to increase their performance for specific use cases.
 
-    Such customized instances make it possible to use the versatility of general-purpose models even more effectively. By fine-tuning them to specific data or tasks, better results can be achieved, and the models can be adapted to particular needs. *The objective of this project is to develop a guideline to help users select the language model that best suits their individual requirements and to customize it.* This should help to maximize the potential of generative AI systems.
+    *Such adapted instances enable the versatility of general-purpose models to be used even more effectively. By fine-tuning them for specific data or tasks, better results can be achieved and the models can be adapted to specific needs.* This project aims to develop a guide to help users select the language model best suited to their individual requirements and fine-tune it accordingly. In this way, the potential of generative AI systems is to be exploited to the best possible extent.
 
-    ## Project realisation
+    ## Review and results
 
-    The project comprises five consecutive phases:
+    The project achieved several key results that have a lasting impact both in terms of content and methodology. Of particular note is the fact that 105 students were reached over the course of six workshops, who intensively explored the functionality, possibilities, and limitations of generative language models. This not only imparted technical knowledge but also promoted a reflective approach to tools supported by generative AI.
 
-    1. *Exploration and analysis of the language model landscape:* In the first phase of the project, different types of language models will be explored, identified, and described. The focus will be on properties such as size, application areas, and fine-tuning options. A snapshot of the generative AI landscape will be created, which will serve as a guide but will not be complete.
+    *The students acquired numerous skills:* They learned to recognize differences, for example, in performance, between general and fine-tuned language models and to critically evaluate their potential applications. Practical exercises introduced them to topics such as data preparation, model training, data-driven decision-making for language models, as well as fine-tuning approaches and evaluation of results. Furthermore, important interdisciplinary skills were also developed, including critical reflection on ethical issues (bias, fairness, data protection) and the ability to assess the potential and risks of AI-supported applications in different application areas.
 
-    2. *Developing a guideline for selecting and fine-tuning language models:* Based on the findings from the first phase, a conceptual guide will be developed in the second phase. This should describe the selection and fine-tuning of language models for different requirements, also taking into account the necessary skill levels.
+    Another key outcome was the development and piloting of a guide for selecting and adapting language models. Although this guide has not yet been made publicly available due to necessary quality assurance, it has already been tested and iterated in the workshops. Students provided valuable feedback: They emphasized that the guide provides orientation in an otherwise confusing model landscape and helped them make informed decisions about *a) the choice of a base language model, b) whether fine-tuning is necessary, and c) the most suitable fine-tuning approach for an underlying use case.*
 
-    3. *Workshop to evaluate general-purpose and customized models:* In the third phase, a workshop will be prepared and conducted in which participants will test general-purpose and customized models for specific use cases. The use cases will be aligned with the use of generative AI in teaching or for teaching. The aim of the workshop is to compare the use and quality of the results of the two model types and to understand through practical experience in which use case customization is worthwhile.
+    ## Tips from lecturers for lecturers
 
-    4. *Workshop on applying the guideline:* In the fourth phase, the participants apply the developed guidelines to select language models for specific use cases and to customize them. This practical testing serves to check the comprehensibility and practical suitability of the guideline.
+    New didactic formats were tested, particularly workshop-based approaches with a strong practical focus (hands-on learning). One practical experience demonstrated the importance of engaging heterogeneous groups from students with prior technical knowledge to those outside the field equally – ideally based on a common starting point – through differentiated tasks, clear structuring, and accompanying reflection phases. This helped sharpen skills in moderating interdisciplinary discussions and dealing with diverse learning requirements. This led to particularly engaging conversations with and among the students, who contributed and shared their perspectives.
 
-    5. *Finalization of the guideline:* Based on the data and experiences from the workshops, the guideline will be revised and finalized in the fifth phase. The final guideline will be made freely available and is intended to serve as a reference and support for users when selecting and customizing language models. The goal is to provide a practical, easy-to-understand guide suitable for both beginners and advanced users.
+    Furthermore, the project raised awareness of the importance of continuous feedback loops, even in ongoing workshop series: The direct integration of student feedback into the further development of the concept proved particularly valuable.
 
 image: "https://www.hcl.uni-hamburg.de/20550283/d3-innolab-9af64365f1cb354d5d91318189858be977e47482.jpg"
-image_credit: "Group"
+image_credit: "Projektgruppe"
 link_external:
 stine:
 ---

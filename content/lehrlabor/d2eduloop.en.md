@@ -1,38 +1,51 @@
 ---
-id: "d2eduloop-eng" # nochmal überlegen
+id: "d2eduloop" # nochmal überlegen
 method: "Seminar"
-institution: "Faculty of Educational Science"
-title: "'Put Digital and Data Literacy in the Loop!': Strategic integration of digital and data literacy education in educational science"
+institution: "Faculty of Education"
+title: "'Put Digital and Data Literacy in the Loop!': Strategic Integration of Digital and Data Literacy Education in Educational Science"
 title_project:
 title_short: "D2EduLoop"
 period: "Sep 24 ­­- Sep 25 (12 months)"
-foerderlinie: "Subject-specific data literacy education"
+foerderlinie: "Subject-specific data literacy"
 round: "3"
 filter: "3"
 lecture2go:
-uhh_url: "https://www.hcl.uni-hamburg.de/en/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/07-d2eduloop.html"
+uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte-foerderrunde/07-d2eduloop.html"
 contributors: "Bjarne Techert, Christina Schwalbe, Sören-Kristian Berger, Moritz Kreinsen, Regina Schulz"
 quote:
 text: |
-    ## Orientation of the project
+    ## Project focus
 
-    The goal of the project ist the development of concrete measures for the implementation of a coordinated, systematically structured DDLE courses, in accordance with the Digital Strategy for Studies & Teaching of the Faculty of Education, and coordination with relevant DDLE stakeholders within the Faculty of Education. The project will be realised as follows:
+    The project arose from the consideration of how the goals formulated in the "Digital Strategy for Study & Teaching of the Faculty of Education" could be implemented in practice. The strategy stipulates that digital and data literacy (DDLE) should be systematically embedded in the curriculum – as key competencies for study, career, and society. The faculty already has numerous projects, courses, and individual measures that address aspects of digital and data literacy, as well as AI literacy. This diversity demonstrates the faculty's potential to create contemporary teaching and learning opportunities. A central impetus for the measure was therefore the question: How can this diversity be bundled and integrated into everyday study life in such a way that it is understandable, usable, and connectable for students? To sustainably embed the topic in the curriculum, it is not enough to initiate individual projects – it requires networking and visibility. This is precisely where the D²EduLoop project came in.
 
-    - Survey and categorization of existing DDLE courses and identification of key stakeholders within the Faculty of Education who have developed and conducted DDLE courses.
+    The aim of the project was to develop concrete measures for the implementation of a coordinated, systematically structured DDLE offering, in line with the EW Faculty's digital strategy for studies and teaching and in coordination with relevant DDLE stakeholders within the Faculty of Education. The project was implemented as follows:
 
-    - Support for the establishment of cooperation and communication structures for the long-term coordination of DDLE courses within the Faculty of Education.
+    - Survey and categorize existing DDLE offerings and identify stakeholders within the faculty who have developed and implemented DDLE offerings.
+    - Support the development of cooperation and communication structures for the long-term coordination of DDLE offerings within the Faculty of Education.
+    - Identify relevant stakeholders for transfer-oriented activities in cross-phase teacher training.
+    - Further develop a coordinated, systematically structured DDLE offering for the Faculty of Education.
 
-    - Identification of relevant stakeholders for transfer-oriented activities in the cross-phase teacher education.
+    ## Review and results
 
-    - Further development of a coordinated, systematically structured DDLE courses for the Faculty of Education.
+    * From the outset, it was clear that the measure should not only aim for short-term effects. By establishing cooperation and communication structures, a foundation was laid on which the faculty can continue to work in the future.* These structures are crucial for establishing DDLE as a cross-cutting topic in educational science and, at the same time, for creating synergies – both within the faculty and with regard to cross-phase teacher training.
 
-    ## Seminar: Digital + Data + 'AI' Literacy and the Transformation of Learning
+    To achieve the D²EduLoop project goals, various measures were implemented, including both an assessment of the status quo and concrete innovations:
 
-    *A seminar is also part of the project. The aim is to promote digital, data and ‘AI’ literacy among students of educational science and teachers, as well as to exchange and reflect on the impact on the transformation of learning in schools.*
+    - Faculty-wide survey (DigCompEdu + AI Literacy): The survey of all faculty members recorded which digital and AI competencies are addressed in teaching and at what level students achieve these. The survey covered thematic focuses, levels, and extent of integration.
 
-    The seminar is a cooperation between the EW Faculty of the University of Hamburg and the State Institute for Teacher Training and School Development (LI), in consultation with representatives of the Hamburg Student Council (SKH). The seminar takes place weekly and is also open to teachers as an in-service training programme. Students of educational sciences learn the basics of digital, data and ‘AI’ skills together with teachers and discuss and reflect together on the resulting transformation of learning in schools. Together, they develop Open Educational Resources (OER) for ‘corresponding services with digital components’.
+    *Result:* A very diverse picture emerged within the faculty, which, on the one hand, highlighted existing potential and, on the other, clearly identified needs. The survey results will be used further within the faculty to advance both content coordination and systematic curricular integration. They were particularly useful during the project to identify relevant stakeholders within the faculty who will be involved, for example, in the development of the "AI Pilot" certificate program (see below).
 
-    *The OER are published on the digital.learning.lab platform.*
+    - Dialogue formats in departmental councils and working groups: In addition to the survey, the project management conducted discussions in departmental councils and working groups to discuss the use of AI in teaching and examinations, as well as existing good practices and uncertainties. The need for outreach and exchange activities became clear, as engagement with the topic is often neglected due to the heavy workload of the lecturers. They welcomed the combination of input and joint discussion within existing committees.
+
+    *Result and sustainable implementation:* This format will be consolidated and further developed in line with needs in the future.
+
+    - Pilot project for multiplier training: Building on the dialogue with the instructors, a pilot project was launched to test whether the integration of tutors can successfully establish the promotion of basic AI skills that all students need. To this end, the tutors of a major required lecture for teacher training students will be trained as multipliers in the winter semester to specifically integrate the topic of "Reflective Use of AI in Studies" into their tutorials. Further multiplier training sessions are planned after the winter semester.
+
+    The training is planned as a flipped classroom, with a three-hour in-person session focused on reflection, discussion, and practical exercises. The DDLitLab AI Guide, along with supplementary exercises and reflection tasks, will serve as the basis for the multiplier training. All materials have been made available as Open Er resources and are reusable over the long term.
+
+    - Development of the "AI Pilot" certificate: In close collaboration with the Vice Dean for Studies and Teaching and the BSB, the development of a certificate was initiated that teaches teacher training students profession-specific AI literacy. Existing subject-specific didactic offerings can be credited, and new formats are being developed to complement them. The goal is to provide clear added value for the future professional practice of prospective teachers.
+
+    *The OER will be published on the digital.learning.lab platform.*
 
 image: "https://www.hcl.uni-hamburg.de/16953492/ddle-schule-digital-literature-in-school-733x414-b75c3d92e580050d8295d6042eb10bce3d386e5d.jpg"
 image_credit: "Stablediffusion"

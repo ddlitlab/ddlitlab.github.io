@@ -6,7 +6,7 @@ title: "EpiBioManual 2.0"
 title_project:
 title_short: "EBM 2.0"
 period: "Sep 24 ­­- Sep 25 (12 months)"
-foerderlinie: "Subject-specific projects"
+foerderlinie: "Subject-specific data literacy"
 round: "3"
 filter: "3"
 lecture2go:
@@ -14,24 +14,25 @@ uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte
 contributors: "Lisa Holstein, Prof. Dr. Antonia Zapf, Christian Wiessner"
 quote:
 text: |
-    ## The EBM 2.0 project
+    ## The project EBM 2.0
 
-    The aim of the project is to expand the EpiBioManual with the additional modality of videos on basic concepts of biostatistics and to extend the conceptual knowledge conveyed in the EpiBioManual with *procedural knowledge in dealing with statistical software*. Specifically, the following goals exist:
+    The project aimed to expand the EpiBioManual (from the previous teaching lab project) to include videos on basic concepts of biostatistics and to expand the conceptual knowledge imparted in the EpiBioManual to include *procedural knowledge in the use of statistical software*. Specifically, the following goals were achieved:
 
     - Creation of 5 to 10 videos on basic concepts of biostatistics
+    - Incorporation of statistical software into the EpiBioManual. In addition to the statistical content already presented, students received instructions on how to apply the methods in software. This was done using SPSS, the software most commonly used by medical students.
+    - Students had the opportunity to learn the basics of programming in R. Code snippets for basic statistical methods were explained and illustrated with examples.
 
-    - Inclusion of statistical software in the EpiBioManual. In addition to the statistical content already presented, students should receive instructions on how to apply the methods in software. This should be done in the SPSS software most frequently used by medical students
+    ## Review and results
 
-    - Students should be given the opportunity to learn the basics of programming in R. For this purpose, code snippets for basic statistical methods are explained and illustrated using examples
+    The EpiBioManual has created a learning platform that students of human medicine and dentistry enjoy using to explore biostatistics and epidemiology. This is supported by both usage statistics during class time and end-of-semester evaluations. The opportunity to test one's own knowledge using exercises and the links to technical terms in the explanatory texts, which are only available digitally, are particularly helpful. Due to the complexity of the concepts, additional videos provide students with another way to learn the content.
 
-    In the course of the project a modern and innovative course on causality was created. The lecture was supplemented by *interactive learning materials* (learning apps), which contributed to a better understanding of the theoretical content. With the Digital Causality Lab, which replaces the previous frontal teaching exercise, an innovative learning space with a didactic focus on *research-based learning* was also established. On the one hand, the Digital Causality Lab teaches important practical tools and skills in data literacy and applies the theoretical concepts from the lecture in a practical way. On the other hand, students deepen this knowledge in the course of causal case studies in which they independently develop a data product.
+    This option will be further promoted in the future so that this asynchronous support service reaches more students and doctoral candidates at the UKE. In addition to the UKE's own students, the project has also been presented at specialist conferences, ensuring that the EpiBioManual is also being used at other locations. The learning platform has also been well received by colleagues at other locations. The digital format also allows us to achieve our goal of ensuring long-term availability of this content.
 
+    ## Data Literacy Education and the EpiBioManual
 
-    ## Project implementation
+    The contents of the EpiBioManual begin with the diagnosis of diseases and the aspects that must be considered when interpreting the corresponding probabilities. It then addresses topics relevant to therapeutic intervention studies and observational studies, with a particular focus on potential sources of bias and the basic principles of evidence-based medicine. This focus was chosen because it is essential for physicians to consider themselves lifelong learners in order to be able to integrate the rapid advances in medical research into patient care.
 
-    Videos: In the planning phase, the basic concepts within biostatistics are first identified and a basic concept for the videos is created. Scripts and visualizations are then created for the videos before they are recorded. The videos are created using Camtasia.
-
-    Software: In the planning phase, the integration of software into the EpiBioManual is designed. The examples within the EpiBioManual are used for implementation. For this purpose, there will be a description of the procedure in statistical software and the requirements for the data constellation as well as the assumptions of the respective statistical method will be discussed.
+    In addition to the more theoretical content, students also receive targeted training in competent data handling. In associated face-to-face sessions, students conducted their own data collection, which they used to answer questions they developed themselves. The EpiBioManual is designed to help students consolidate the content of the face-to-face sessions and provide additional practice opportunities. With the addition of a software section on SPSS, students are also supported in gaining a solid foundation for independent data analysis using statistical software. A special focus in this section is on the assumptions of the various methods and their critical review.
 
 image: "https://www.hcl.uni-hamburg.de/18800243/national-institute-unsplash-a3fc9120939d99f1050947ab82b1cac7318ef563.jpg"
 image_credit: "National Cancer Institute / unsplash"

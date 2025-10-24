@@ -1,12 +1,12 @@
 ---
 id: "ibldt" # nochmal überlegen
-method: "Seminar with exercises - ‘hands-on’ seminar"
-institution: " Faculty of Law, MIN Faculty, HUL , ISA Centre, Refuge Law Clinic of the UHH, Transfer Agency UHH, Auxiliary AI GmbH"
+method: "Seminar with practical elements - 'Hands-On' seminar"
+institution: "Faculty of Law, MIN Faculty, HUL, ISA Center, Refuge Law Clinic of the UHH, Transfer Agency UHH, Auxiliary AI GmbH"
 title: "Innovation by Legal Design Thinking (IbLDT)"
 title_project:
 title_short: "IbLDT"
 period: "Aug 24 ­­- Sep 25 (13 months)"
-foerderlinie: "Interdisciplinary projects and knowledge-exchange-oriented projects"
+foerderlinie: "Interdisciplinary Data Literacy Education and Transfer-Oriented DLE"
 round: "3"
 filter: "3"
 lecture2go:
@@ -14,21 +14,23 @@ uhh_url: "https://www.hcl.uni-hamburg.de/ddlitlab/data-literacy-lehrlabor/dritte
 contributors: "Anton Sefkow, Lukas Musumeci, Marten Borchers"
 quote:
 text: |
-    ## Orientation of the project
+    ## Project orientation
 
-    In the project, the existing didactic scenario from the previous rounds is being continuously developed and implemented. In addition, a spin-off of the project is being prepared and implemented. Various financing and funding options are being examined for this purpose. An essential part of this is the preparation of sustainable and long-term financial planning.
+    Interdisciplinary transfer courses are very rare. Especially in the legal field, there is a tendency to be isolated from other disciplines. However, the complexity of the world requires integrative innovations, which are often the result of interdisciplinary collaboration. The course aims, among other things, to provide unique experiences that allow for a realistic perspective on future professional life. By incorporating content from various disciplines, such as computer science and economics, students learn to think outside the box. This not only promotes an understanding of complex interrelationships but also strengthens problem-solving skills. Such interdisciplinary approaches are essential for effectively addressing the diverse challenges of modern society. Furthermore, these courses promote teamwork and communication skills, which are essential in professional practice. Overall, the integration of diverse perspectives contributes significantly to the training of well-prepared, versatile professionals capable of developing and implementing innovative solutions to complex issues.
 
-    ## Project realisation
+    The existing didactic scenario from previous rounds was continuously developed and implemented within the project. In addition, a spin-off of the project was discussed and prepared. Various financing and funding options were examined for this purpose. A key aspect of this is the establishment of a sustainable, long-term financial plan.
+
+    ## Review and results
     
-    In the period from August to October 2024, the project is in the preparatory phase, in which fundamental decisions on the spin-off, such as the *choice of legal form and the analysis of funding opportunities*, are made. At the same time, the network is being expanded, administrative preparations are being made and seminars are being introduced in the winter semester.
+    The teaching project aimed to provide students with practical experience in the digitalization of legal processes while simultaneously promoting innovative collaboration methods. During the seminar, participants developed a digital prototype, which was completed at the end of the course. This prototype was designed to be directly used by a practice partner and implemented in existing work processes. This gave students the opportunity to transfer their theoretical knowledge to a concrete application and implement it productively. During the seminar, the students took on all phases of prototype development, from needs analysis to final implementation. They systematically adopted a practice-oriented approach, which strengthened their independence and problem-solving skills.
 
-    In the implementation and further development phase from November 2024 to February 2025, the *didactic scenarios* will be adapted and further developed. The founding process will be driven forward by legal clarifications and increased acquisition of funding.
+    The teaching project vividly illustrates how interdisciplinary collaboration and innovative teaching methods can advance the digitalization of legal processes. It demonstrates that practical project work creates direct added value for both partners and students – both in terms of acquired skills and concrete applications in everyday professional life. Overall, the project demonstrates how legal education can be modernized through interdisciplinary cooperation and innovative teaching approaches in order to meet the challenges of the digital society. 
 
-    The foundation takes place in March 2025, accompanied by the completion of all founding formalities and the application for funding as well as the preparation of the summer semester seminars.
+    Students from the fields of law and computer science worked together on real-world processes, which were analyzed, digitized, and implemented into functional prototypes. In doing so, they developed skills in data-based problem-solving, collaborative development of digital solutions, and legal-methodological reflection. Particularly innovative was the close connection between legal tech, data literacy, and practice-oriented teamwork, thus bridging an important interface between law and computer science. The project promoted innovative ways of thinking, technical skills, and interdisciplinary collaboration.
 
-    From April to July 2025, the focus will be on *teaching and business development*. This includes optimising teaching concepts, business development, securing funding and expanding the network.
+    ## Tips from lecturers to lecturers
 
-    Finally, the evaluation and future planning will take place in July 2025. This includes the preparation of an accountability report, strategic planning for the coming year and the establishment of a basis for self-financing.
+    The creation of another concrete prototype further expanded the lecturers' wealth of experience in the practical implementation of digital tools and methods. The continuous, close exchange with the students throughout all phases of the project proved to be a particularly valuable learning opportunity: This collaboration not only contributed to the reflection and further development of didactic approaches but also enabled them to respond flexibly to students' needs and feedback.
 
 image: "https://www.hcl.uni-hamburg.de/17622225/studdigilab-patrick-perkins-unsplash-811f0918afdba72f827a0322117f6cd13850a44d.jpg"
 image_credit: "Patrick Perkins / unsplash"
