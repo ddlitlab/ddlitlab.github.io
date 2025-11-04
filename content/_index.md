@@ -17,7 +17,7 @@ navigation:
         - title: 'Studentische<br>Forschungsprojekte'
           link: 'studiprojekte'
           icon: 'rocket'
-        - title: 'GKI<br>Community'
+        - title: 'gKI<br>Community'
           link: 'gkicommunity'
           icon: 'comment-discussion'
 goals:
