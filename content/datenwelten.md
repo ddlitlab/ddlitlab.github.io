@@ -47,8 +47,8 @@ lecture:
                 - icon: 'law'
                   text: 'Möglichkeiten und Grenzen der rechtlichen (Datenschutz) und technischen (IT-Sicherheit) *Regulierung* von Datennutzung und deren Konsequenzen'
     numbers:
-        - 'Über <span>3100</span> Studierende<i class="codicon codicon-mortar-board"></i>'
-        - 'Aus <span>213</span> Fächern<i class="codicon codicon-rocket"></i>'
+        - '<span>3900</span> Studierende<i class="codicon codicon-mortar-board"></i>'
+        - 'Aus <span>92</span> Fächern<i class="codicon codicon-rocket"></i>'
         - 'Von <span>34</span> Dozierenden<i class="codicon codicon-coffee"></i>'
 exercise:
     title: 'Begleitende Übungen'

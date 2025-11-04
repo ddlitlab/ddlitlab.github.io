@@ -47,8 +47,8 @@ lecture:
                 - icon: 'law'
                   text: 'Possibilities and limitations of legal (data protection) and technical (IT security) *regulation* of data use and its consequences'
     numbers:
-        - 'Over <span>3100</span> students<i class="codicon codicon-mortar-board"></i>'
-        - 'From <span>213</span> subjects<i class="codicon codicon-rocket"></i>'
+        - '<span>3100</span> students<i class="codicon codicon-mortar-board"></i>'
+        - 'From <span>92</span> subjects<i class="codicon codicon-rocket"></i>'
         - 'From <span>34</span> lecturers<i class="codicon codicon-coffee"></i>'
 exercise:
     title: 'Accompanying exercises'
