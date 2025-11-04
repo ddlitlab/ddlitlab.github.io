@@ -14,7 +14,7 @@ url = "studiprojekte"
 weight = 40
 
 [[main]]
-name = "GKI Community"
+name = "gKI Community"
 url = "gkicommunity"
 weight = 50
 

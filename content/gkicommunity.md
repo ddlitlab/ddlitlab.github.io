@@ -1,5 +1,5 @@
 ---
-title: "GKI Community"
+title: "gKI Community"
 layout: "gkicommunity"
 hero:
     title: 'gKI Community'
@@ -29,18 +29,18 @@ studierende:
       intro: 'In dieser Interview-Reihe sprechen wir mit Expert:innen von der Universität Hamburg über das Thema generative KI. Folgen der Interview-Reihe:'
       items:
         - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70761" target="_blank">Wissenschaftliches Schreiben als Schlüsselkompetenz</a> mit Dr. Jens J. Rogmann'
-        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70760" target="_blank">Sinn und Zweck des Studiums in Zeiten von GKI</a> mit Dr. Jens J. Rogmann'
-        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70759" target="_blank">Abkürzungen durch GKI - zu welchem Preis?</a> mit Dr. Jens J. Rogmann'
+        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70760" target="_blank">Sinn und Zweck des Studiums in Zeiten von gKI</a> mit Dr. Jens J. Rogmann'
+        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70759" target="_blank">Abkürzungen durch gKI - zu welchem Preis?</a> mit Dr. Jens J. Rogmann'
         - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70983" target="_blank">"Wie funktioniert eigentlich generative KI?"</a> mit Prof. Dr. Chris Biemann'
         - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70519" target="_blank">Lehrende und KI: Anpassungsprozesse im Bildungswesen</a> mit Eric van der Beek'
         - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70442" target="_blank">Reflexionsverlust durch KI?</a> mit Eric van der Beek'
         - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70437" target="_blank">Das Bildungsverständnis in Zeiten von KI</a> mit Eric van der Beek'
         - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70434" target="_blank">Sozialwissenschaftliche Forschung: Geht das auch mit KI?</a> mit Eric van der Beek'
         - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/69894" target="_blank">UHHGPT - Ein Überblick</a> mit Dr. Stefan Thiemann'
-        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/69920" target="_blank">Der ethische Umgang mit GKI-Systemen</a> mit Prof. Dr. Judith Simon'
-        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/69020" target="_blank">Warum es sich lohnt, mit GKI umgehen zu lernen</a> mit Prof. Dr. Tilo Böhmann'
-        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/69896" target="_blank">GKI-Forschung im Kontext soziotechnischer Systeme</a> mit Prof. Dr. Tilo Böhmann'
-        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/69250" target="_blank">Orientierungsrahmen GKI an der UHH</a> mit Prof. Dr. Kai-Uwe Schnapp'
+        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/69920" target="_blank">Der ethische Umgang mit gKI-Systemen</a> mit Prof. Dr. Judith Simon'
+        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/69020" target="_blank">Warum es sich lohnt, mit gKI umgehen zu lernen</a> mit Prof. Dr. Tilo Böhmann'
+        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/69896" target="_blank">gKI-Forschung im Kontext soziotechnischer Systeme</a> mit Prof. Dr. Tilo Böhmann'
+        - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/69250" target="_blank">Orientierungsrahmen gKI an der UHH</a> mit Prof. Dr. Kai-Uwe Schnapp'
         - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/68767" target="_blank">Studieren in Zeiten von generativer KI</a> mit Prof. Dr. Kai-Uwe Schnapp'
         - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/70369" target="_blank">"Intellectics: The Science of AI" - Einführung eines neuen M.A. in den Geisteswissenschaften</a> mit Prof. Dr. Ralf Möller'
         - '<a href="https://lecture2go.uni-hamburg.de/l2go/-/get/v/69189" target="_blank">Datenschutz und Urheberrecht bei der Nutzung generativer KI</a> mit Martin Robinius'
@@ -60,20 +60,20 @@ studierende:
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-12-gw-studis-notebooklm.html" target="_blank">&#35;12: KI-generierte Podcasts und die Zukunft geisteswissenschaftlicher Berufe &#35;StudiSpecial</a>: Hedi, Pui und Tanja testen, wie gut NotebookLM darin ist, eine Podcast-Folge aus Forschungsergebnissen zu generieren und diskutieren das Ergebnis (35...)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-11-literaturwissenschaft-studis.html" target="_blank">&#35;11: KI in der Literaturwissenschaft &#35;StudiSpecial</a>: Pia, Nadia, Gerrit und Helen untersuchen, wie Tools wie ChatGPT und ChatPDF das Studium der Literaturwissenschaft unterstützen können (28 Min.).'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-reinmann.html" target="_blank">&#35;10: Lehren und Lernen im KI-Zeitalter mit Gabi Reinmann</a>: Wir sprechen mit Gabi Reinmann über den bewussten Umgang mit KI und die Bedeutung von Werten und Kompetenzen (22 Min).'
-          - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-rogmann.html" target="_blank">#9: KI, Studium und kritisches Denken mit Jens Rogmann</a>: Wir sprechen mit Jens Rogmann über den sinnvollen Einsatz von GKI und ihre Rolle in der Hochschulbildung. (40 Min.)'
+          - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-rogmann.html" target="_blank">#9: KI, Studium und kritisches Denken mit Jens Rogmann</a>: Wir sprechen mit Jens Rogmann über den sinnvollen Einsatz von gKI und ihre Rolle in der Hochschulbildung. (40 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-biemann.html" target="_blank">#8: Funktionsweise generativer KI-Tools mit Chris Biemann</a>: Wir sprechen mit Chris Biemann über die technische Funktionsweise generativer KI – und wofür man sie besser nicht nutzen sollte. (33 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-beek.html" target="_blank">#7: Bildungswissenschaftliche Perspektiven mit Eric van der Beek</a>: Wir sprechen mit Eric van der Beek über bildungswissenschaftliche Perspektiven auf GKI sowie mögliche Auswirkungen auf Lehre und Forschung. (49 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-moeller.html" target="_blank">#6: Philosophische Perspektiven und GKI-Studium an der GW-Fakultät mit Ralf Möller</a>: Wir sprechen mit Ralf Möller über KI aus philosophisch-technischer Perspektive und den neuen Studiengang "Intellectics: The Science of AI". (97 Min.)'
-          - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-lauscher.html" target="_blank">#5: Bias, Fairness und GKI mit Prof. Dr. Anne Lauscher</a>: Wir sprechen mit Anne Lauscher (Prof. für Data Science) über ihre Forschung zu effektiver und inklusiver Kommunikation mit Chatbots. (26 Min.)'
-          - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-boehmann.html" target="_blank">#4: GKI an der UHH mit Prof. Dr. Tilo Böhmann</a>: Wir sprechen mit Tilo Böhmann (Vizepräsident für Forschung) über seine Erwartungen von der Zukunft mit GKI an der Universität. (42 Min.)'
+          - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-lauscher.html" target="_blank">#5: Bias, Fairness und gKI mit Prof. Dr. Anne Lauscher</a>: Wir sprechen mit Anne Lauscher (Prof. für Data Science) über ihre Forschung zu effektiver und inklusiver Kommunikation mit Chatbots. (26 Min.)'
+          - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-boehmann.html" target="_blank">#4: gKI an der UHH mit Prof. Dr. Tilo Böhmann</a>: Wir sprechen mit Tilo Böhmann (Vizepräsident für Forschung) über seine Erwartungen von der Zukunft mit gKI an der Universität. (42 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-thiemann.html" target="_blank">#3: UHHGPT mit Dr. Stefan Thiemann</a>: Wir sprechen mit Stefan Thiemann über UHHGPT: Was steckt dahinter, wie funktioniert es und welche Vorteile bietet es? (78 Min.)'
           - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-robinius.html" target="_blank">#2: Rechtliche Fragen mit Martin Robinius</a>: Wir sprechen mit Martin Robinius über alles, was man beim Umgang mit generativer KI aus rechtlicher Perspektive beachten muss. (39 Min.)'
-          - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-simon.html" target="_blank">#1: Ethik und GKI mit Prof. Dr. Judith Simon</a>: Wir sprechen mit Judith Simon, Professorin für Ethics in IT, über ethische Fragen, die sich bei der Nutzung von generativer KI stellen.'
+          - '<a href="https://www.uni-hamburg.de/lehre-navi/lehrende/podcast-gki/episode-simon.html" target="_blank">#1: Ethik und gKI mit Prof. Dr. Judith Simon</a>: Wir sprechen mit Judith Simon, Professorin für Ethics in IT, über ethische Fragen, die sich bei der Nutzung von generativer KI stellen.'
     numbers:
         - '<span>18</span> Informationsvideos<i class="codicon codicon-device-camera-video"></i>'
         - '<i class="codicon codicon-comment-discussion"></i> &nbsp; <span>9</span> durchgeführte Workshops'
         - '<i class="codicon codicon-mic"></i> &nbsp; <span>12</span> Podcast-Folgen'
-        - 'zu <span>GKI</span> im Studium<i class="codicon codicon-pin"></i>'
+        - 'zu <span>gKI</span> im Studium<i class="codicon codicon-pin"></i>'
     workshops:
       title: 'Workshops für Studierende der UHH'
       text: |

@@ -1,8 +1,8 @@
 ---
-title: "GenAI community"
+title: "genAI community"
 layout: "gkicommunity"
 hero:
-    title: 'GenAI community'
+    title: 'genAI community'
     subtitle: 'Major challenges, great response'
     text: |
       Generative AI is a key topic in study and teaching. The DDLitLab has developed a wide range of offerings for students and lecturers to report on the latest developments and contribute to reflection and dialogue on an equal footing. This has resulted in the creation of a large network at the UHH. The project team also contributed to the guidelines for the use of generative AI.

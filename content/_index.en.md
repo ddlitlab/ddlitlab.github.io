@@ -18,7 +18,7 @@ navigation:
         - title: 'Student<br>Research Projects'
           link: 'studiprojekte'
           icon: 'rocket'
-        - title: 'gen AI<br>Community'
+        - title: 'genAI<br>Community'
           link: 'gkicommunity'
           icon: 'comment-discussion'
 goals:
