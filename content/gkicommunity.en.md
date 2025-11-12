@@ -159,7 +159,7 @@ publikationen:
 
       - In 2023, we launched our <a href="https://www.fdr.uni-hamburg.de/record/13403" target="_blank">first exploratory survey</a> – the response was overwhelming.
       - In 2024, based on the <a href="https://www.fdr.uni-hamburg.de/record/15968" target="_blank">second survey</a>, we were already able to identify trends and classify initial comparative figures with other universities.
-      - In 2025, we will continue the series and focus, among other things, on the use of <a href="https://uhhgpt.uni-hamburg.de/login.php" target="_blank">UHHGPT</a>, the data protection-compliant ChatGPT version for all university members. In addition, we have now been able to examine developments over time in even greater detail.
+      - In 2025, we will continue the <a href="https://www.fdr.uni-hamburg.de/record/18047" target="_blank">series</a> and focus, among other things, on the use of <a href="https://uhhgpt.uni-hamburg.de/login.php" target="_blank">UHHGPT</a>, the data protection-compliant ChatGPT version for all university members. In addition, we have now been able to examine developments over time in even greater detail.
       
       Our studies not only shed light on how AI tools are used in practice, but also on the *questions, uncertainties, and attitudinal dilemmas* associated with them. The goal: to provide data-based insight into the everyday reality of students and teachers — as a starting point for reflection, design, and the development of university teaching methods. The results of the first two surveys have been published in several scientific publications.
     numbers:
@@ -196,6 +196,11 @@ publications:
     subtitle: 'Our publications'
     button: 'Further publications from the DDLitLab'
     items:
+        - title: 'ChatGPT & me 3.0' 
+          subtitle: 'Three years of generative AI at the University of Hamburg' 
+          authors: " Preiß, Freise, Bartels, Hartel" 
+          link: "https://www.fis.uni-hamburg.de/publikationen/detail.html?id=cebc3621-e027-441d-b80a-c1cf9e705c26" 
+          date: "2025"
         - title: 'ChatGPT & me 2.0' 
           subtitle: 'A Review of the Second Year with Generative AI at the University of Hamburg' 
           authors: "Bartels, Freise, Hartel, Preiß" 

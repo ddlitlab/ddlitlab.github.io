@@ -159,7 +159,7 @@ publikationen:
 
       - 2023 starteten wir mit einer <a href="https://www.fdr.uni-hamburg.de/record/13403" target="_blank">ersten explorativen Befragung</a> – die Resonanz war überwältigend.
       - 2024 konnten wir auf Basis der <a href="https://www.fdr.uni-hamburg.de/record/15968" target="_blank">zweiten Erhebung</a> bereits Entwicklungstendenzen sichtbar machen und erste Vergleichszahlen zu anderen Hochschulen einordnen.
-      - 2025 setzten wir die Reihe fort und richten den Fokus unter anderem auf die Nutzung von <a href="https://uhhgpt.uni-hamburg.de/login.php" target="_blank">UHHGPT</a>, der datenschutzkonformen ChatGPT-Version für alle Uni-Angehörigen. Zudem konnten wir nun die Entwicklungen im zeitlichen Verlauf noch genauer untersuchen.
+      - 2025 setzten wir die <a href="https://www.fdr.uni-hamburg.de/record/18047" target="_blank">Reihe</a> fort und richten den Fokus unter anderem auf die Nutzung von <a href="https://uhhgpt.uni-hamburg.de/login.php" target="_blank">UHHGPT</a>, der datenschutzkonformen ChatGPT-Version für alle Uni-Angehörigen. Zudem konnten wir nun die Entwicklungen im zeitlichen Verlauf noch genauer untersuchen.
       
       Unsere Studien beleuchten nicht nur, wie KI-Tools konkret eingesetzt werden, sondern auch, welche *Fragen, Unsicherheiten und Haltungsdilemmata* damit einhergehen. Das Ziel: Ein datenbasierter Einblick in die Lebensrealität von Studierenden und Lehrenden – als Ausgangspunkt für Reflexion, Gestaltung und hochschuldidaktische Entwicklung. Die Ergebnisse der ersten beiden Erhebungen wurden in mehreren wissenschaftlichen Publikationen aufgearbeitet.
     numbers:
@@ -192,6 +192,11 @@ publications:
     subtitle: 'Unsere Veröffentlichungen'
     button: 'Weitere Publikationen aus dem DDLitLab'
     items:
+        - title: 'ChatGPT & me 3.0' 
+          subtitle: 'Drei Jahre generative KI an der Universität Hamburg' 
+          authors: " Preiß, Freise, Bartels, Hartel" 
+          link: "https://www.fis.uni-hamburg.de/publikationen/detail.html?id=cebc3621-e027-441d-b80a-c1cf9e705c26" 
+          date: "2025"
         - title: 'ChatGPT & me 2.0' 
           subtitle: 'Eine Bestandsaufnahme im zweiten Jahr mit generativer KI an der Uni Hamburg' 
           authors: "Bartels, Freise, Hartel, Preiß" 

@@ -346,6 +346,11 @@ publications:
     subtitle: 'Our publications'
     button: 'Further publications from the DDLitLab'
     items:
+        - title: 'ChatGPT & me 3.0' 
+          subtitle: 'Three years of generative AI at the University of Hamburg' 
+          authors: " Preiß, Freise, Bartels, Hartel" 
+          link: "https://www.fis.uni-hamburg.de/publikationen/detail.html?id=cebc3621-e027-441d-b80a-c1cf9e705c26" 
+          date: "2025"
         - title: 'ChatGPT & me 2.0' 
           subtitle: 'A Review of the Second Year with Generative AI at the University of Hamburg' 
           authors: "Bartels, Freise, Hartel, Preiß" 
