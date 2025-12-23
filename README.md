@@ -21,7 +21,8 @@ Open a Terminal.
 
 ### Windows
 
-* Install [Git](https://git-scm.com/download/win)
+* Install [Install VS Code](https://code.visualstudio.com/download) (gibt es auch in der RRZ Softwareverwaltung)
+* Install [Git](https://git-scm.com/download/win) (Use all the recommended selections during installation process. Exception: during installation you are asked to choose the default editor for Git. Here you can pick `Visual Studio Code as default editor`)  
 * Install Hugo. Follow these instructions: https://gohugo.io/installation/windows/#prebuilt-binaries
     * Download the latest version of Hugo Extended for Windows from the [Release page](https://github.com/gohugoio/hugo/releases/latest). The file should be named something like `hugo_extended_version-number_windows-amd64.zip`.
     * Unzip the downloaded file and move the `hugo.exe` file to a directory that is in your system's PATH. For example, you can create a new folder inside your home directory called `code` (this is where you will store your code repositories and hugo). Inside this new folder, create another folder called `bin` and move the `hugo.exe` file there. The full path to the file should look like this: `C:\Users\<YourUsername>\code\bin\hugo.exe`.
@@ -61,7 +62,10 @@ You can run the site locally:
 
 This starts a local webserver which you can access in your browser at `http://localhost:1313`.
 
-# Preparation for changing content
+
+# Changing content
+
+## Preparation for changing content
 
 Open the ddlitlab.github.io-folder in VS Code following these steps:
 
@@ -71,8 +75,7 @@ Open the ddlitlab.github.io-folder in VS Code following these steps:
 
 Now VS studio shows you the complete folder structure from the ddlitlab git website in the "explorer"-field. There you can find directories like "content", "assets" etc.
 
-# Changing content
-
+## Changing content
 You can make changes to the website in the `content` directory. This is where all the content of the website is stored. 
 
 E.g. the content of the lehrlabor pages are in the `content/lehrlabor` directory. There are english and german versions of the pages. The english pages have the suffix `.en` after the file name.
