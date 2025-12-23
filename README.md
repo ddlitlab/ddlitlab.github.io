@@ -8,9 +8,9 @@ To run this project locally, you need to have Hugo and Git installed on your mac
 
 ## Installations
 
-* [Install Hugo](https://gohugo.io/installation/) (got to the "latest release"-link in the text and then pick out the version you need (Windows, Mac, etc) from the git list)
-* [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Install VS Code](https://code.visualstudio.com/download) (gibt es auch in der RRZ Softwareverwaltung)
+* [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (please follow the detailed instructions down below in this Read-Me file)
+* [Install Hugo](https://gohugo.io/installation/) (go to the "latest release"-link in the text and then pick out the version you need (Windows, Mac, etc) from the list - then follow detailed instructions down below in this Read-Me file)
 
 ### macOS
 
