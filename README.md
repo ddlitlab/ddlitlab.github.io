@@ -52,6 +52,7 @@ Now you have a local copy of the repository. You can switch to the directory:
 
 ```cd ddlitlab.github.io.git```
 
+
 ## Running the website locally
 
 You can run the site locally:
@@ -60,13 +61,21 @@ You can run the site locally:
 
 This starts a local webserver which you can access in your browser at `http://localhost:1313`.
 
+# Preparation for changing content
+
+Open the ddlitlab.github.io-folder in VS Code following these steps:
+
+* Go to "File" in VS studio
+* Go to "Open Folder..."
+* Select now the folder "ddlitlab.github.io" which is now stored in your code (e.g. `~/code/ddlitlab.github.io`)
+
+Now VS studio shows you the complete folder structure from the ddlitlab git website in the "explorer"-field. There you can find directories like "content", "assets" etc.
+
 # Changing content
 
 You can make changes to the website in the `content` directory. This is where all the content of the website is stored. 
 
 E.g. the content of the lehrlabor pages are in the `content/lehrlabor` directory. There are english and german versions of the pages. The english pages have the suffix `.en` after the file name.
-
-Best way to edit pages is inside Visual Studio Code. First you go to a terminal and clone the git repository with `git clone https://github.com/ddlitlab/ddlitlab.github.io.git`. Then you open the folder `ddlitlab.github.io` in VS Code. You can then see the files on the left side in the File Explorer.
 
 Before changing files, create a new branch for your changes in the terminal with `git checkout -b changes-yourname`.
 
