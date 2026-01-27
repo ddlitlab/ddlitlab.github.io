@@ -1,3 +1,21 @@
+.partner-logo-section {
+    margin: 2em auto 0;
+    place-items: flex-start;
+    width: 100%;
+}
+
+.partner-logo-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4rem 0;
+    width: 100%;
+}
+
+.partner-logo {
+    height: 100px;
+    display: block;
+}
+
 .hero-section {
     display: grid;
     grid-template-columns: 1fr 1.3fr;
@@ -51,6 +69,10 @@
     }
     .hero-image {
         width: 70%;
+    }
+    .partner-logo-container {
+        display: flex;
+        justify-content: center;
     }
 }
 
