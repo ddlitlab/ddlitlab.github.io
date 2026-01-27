@@ -18,7 +18,7 @@
     text-decoration: none;
     font-family: 'TheSansUHH', sans-serif;
     font-size: 1rem;
-    padding: 0.2rem 1rem;
+    padding: 0.2rem 0rem;
     text-transform: uppercase;
     transition: opacity var(--transition-speed);
 
@@ -27,7 +27,25 @@
         text-decoration: underline;
     }
 }
+.partner-logo-header {
+    width: 100%;
+}
 
+.partner-logo-container-nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 0.5rem;
+}
+
+.partner-logo-link {
+    display: inline-flex;
+    align-items: center;
+}
+
+.partner-logo-nav {
+    height: 100px;
+    display: block;
+}
 .navbar {
     color: var(--black);
     position: relative;
