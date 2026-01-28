@@ -246,3 +246,26 @@
         }
     }
 }
+
+@media (max-width: $breakpoint-mobile) {
+    .top-bar {
+        height: 25px;
+    }
+    
+    .top-bar-right {
+        gap: 0.2rem;
+    }
+    
+    .top-bar-link {
+        font-size: 0.75rem;
+        padding: 0.2rem 0.2rem;
+    }
+    
+    .partner-logo-nav {
+        height: 60px;
+    }
+    
+    .nav-container {
+        padding-top: 0;
+    }
+}
