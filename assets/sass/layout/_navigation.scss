@@ -37,6 +37,8 @@
 .partner-logo-link {
     display: inline-flex;
     align-items: center;
+    // padding-bottom: 1.2rem;
+    padding-top: 1rem;
 }
 
 .partner-logo-nav {
@@ -70,14 +72,14 @@
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
     background-color: inherit;
     padding: 2rem 0.5rem;
 }
 
 .nav-right {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     gap: 1rem;
 }
 
@@ -140,9 +142,15 @@
 }
 
 .nav-links {
+    display: flex;
+    align-items: flex-end;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
     li {
         display: inline-block;
-        padding: 1rem 0.2rem;
+        padding: 0 0.2rem;
     }
 
     a {
@@ -152,7 +160,7 @@
         font-weight: 600;
         display: inline-block;
         padding: 0.7rem;
-        font-size: 1.3rem;
+        font-size: 1.5rem;
     }
 }
 

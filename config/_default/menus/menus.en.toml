@@ -1,4 +1,9 @@
 [[main]]
+name = "Start"
+url = "/"
+weight = 10
+
+[[main]]
 name = "Data Worlds"
 url = "datenwelten"
 weight = 20
