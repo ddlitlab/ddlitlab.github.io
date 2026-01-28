@@ -23,8 +23,7 @@
 .top-bar-link {
     color: var(--white);
     text-decoration: none;
-    font-family: 'TheSansUHH', sans-serif;
-    font-size: 1rem;
+    font-family: 'TheSansUHH', sans-serif;    font-weight: 300;    font-size: 1rem;
     padding: 0.2rem 0rem;
     text-transform: uppercase;
     transition: opacity var(--transition-speed);
@@ -33,15 +32,6 @@
         // opacity: 0.8;
         text-decoration: underline;
     }
-}
-.partner-logo-header {
-    width: 100%;
-}
-
-.partner-logo-container-nav {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 2rem 0.5rem;
 }
 
 .partner-logo-link {
@@ -53,6 +43,7 @@
     height: 100px;
     display: block;
 }
+
 .navbar {
     color: var(--black);
     position: relative;
@@ -81,6 +72,13 @@
     justify-content: space-between;
     align-items: center;
     background-color: inherit;
+    padding: 2rem 0.5rem;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
 }
 
 .logo {

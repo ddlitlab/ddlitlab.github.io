@@ -5,7 +5,7 @@
 <header class="main-header">
   <div class="top-bar">
     <div class="top-bar-container">
-      <a href="https://www.uni-hamburg.de/" target="_blank" rel="noopener noreferrer" class="top-bar-link">ZUR UNIVERSITÄT HAMBURG</a>
+      <a href="https://www.uni-hamburg.de/" target="_blank" rel="noopener noreferrer" class="top-bar-link">Universität Hamburg</a>
       
       <div class="top-bar-right">
         <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank" rel="noopener noreferrer" class="top-bar-link">Lehre-Navi</a>
@@ -43,31 +43,28 @@
     </div>
   </div>
 
-  <div class="partner-logo-header">
-    <div class="partner-logo-container-nav">
+  <nav class="navbar" role="navigation" aria-label="Main navigation">
+    <div class="nav-container">
+      
       <a href="https://www.uni-hamburg.de/" target="_blank" rel="noopener noreferrer" class="partner-logo-link">
         <img src="/images/logos-external/partner_uhh.svg" alt="Universität Hamburg Logo" class="partner-logo-nav">
       </a>
-    </div>
-  </div>
 
-  <nav class="navbar" role="navigation" aria-label="Main navigation">
-    <div class="nav-container">
-
-      <a class="logo" href="{{ .Site.Home.RelPermalink }}">
-        <img src="{{ .Site.Params.mainMenuLogo | relURL }}" alt="DDLitLab logo">
-        DDLitLab
-      </a>
-      
-      <input type="checkbox" id="nav-toggle" aria-hidden="true">
-      
-      <label for="nav-toggle" class="hamburger" aria-label="Toggle navigation menu">
-        <div></div>
-        <div></div>
-        <div></div>
-      </label>
-      
-      <ul class="nav-links" role="menubar" aria-label="Main navigation menu">
+      <div class="nav-right">
+        <a class="logo" href="{{ .Site.Home.RelPermalink }}">
+          <img src="{{ .Site.Params.mainMenuLogo | relURL }}" alt="DDLitLab logo">
+          DDLitLab
+        </a>
+        
+        <input type="checkbox" id="nav-toggle" aria-hidden="true">
+        
+        <label for="nav-toggle" class="hamburger" aria-label="Toggle navigation menu">
+          <div></div>
+          <div></div>
+          <div></div>
+        </label>
+        
+        <ul class="nav-links" role="menubar" aria-label="Main navigation menu">
         {{- $current := . -}}
         {{- $section := $current.Section -}}
         {{ range .Site.Menus.main -}}
@@ -87,6 +84,7 @@
         {{ end -}}
         {{ end -}}
       </ul>
+      </div>
     </div>
   </nav>
 </header>
