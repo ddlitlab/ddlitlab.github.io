@@ -9,6 +9,7 @@
       
       <div class="top-bar-right">
         <a href="https://www.uni-hamburg.de/lehre-navi/lehrende.html" target="_blank" rel="noopener noreferrer" class="top-bar-link">Lehre-Navi</a>
+        <a href="{{ "about" | relLangURL }}" class="top-bar-link">Über uns</a>
         
         {{ if hugo.IsMultilingual -}}
           {{ $currentLang := .Site.Language.Lang }}
@@ -70,7 +71,7 @@
         {{- $current := . -}}
         {{- $section := $current.Section -}}
         {{ range .Site.Menus.main -}}
-        {{- if ne .Name "Lehre-Navi" -}}
+        {{- if and (ne .Name "Lehre-Navi") (ne .Name "Über uns") -}}
         {{- $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) -}}
         {{- $active = or $active (eq .Name $current.LinkTitle) -}}
         {{- $active = or $active (and (eq .Name ($section | humanize)) (eq $current.Section $section)) -}}
